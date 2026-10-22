@@ -1,0 +1,54 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 232 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (St. Brennan Health B.V.  data-room extracts \(synthetic demo data\)) Tj T* () Tj T* (Each page reproduces one structured extract from this folder. All names and figures are) Tj T* (fictional.) Tj T* ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 2591 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (census.csv  Admissions and census by service line) Tj T* () Tj T* (month | service_line | admissions | patient_days | average_daily_census) Tj T* (2025-10 | Cardiology | 310 | 1271 | 42.4) Tj T* (2025-10 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2025-10 | Maternity | 190 | 456 | 15.2) Tj T* (2025-10 | General medicine | 520 | 1976 | 65.9) Tj T* (2025-11 | Cardiology | 310 | 1271 | 42.4) Tj T* (2025-11 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2025-11 | Maternity | 190 | 456 | 15.2) Tj T* (2025-11 | General medicine | 520 | 1976 | 65.9) Tj T* (2025-12 | Cardiology | 310 | 1271 | 42.4) Tj T* (2025-12 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2025-12 | Maternity | 190 | 456 | 15.2) Tj T* (2025-12 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-01 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-01 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-01 | Maternity | 190 | 456 | 15.2) Tj T* (2026-01 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-02 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-02 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-02 | Maternity | 190 | 456 | 15.2) Tj T* (2026-02 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-03 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-03 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-03 | Maternity | 190 | 456 | 15.2) Tj T* (2026-03 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-04 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-04 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-04 | Maternity | 190 | 456 | 15.2) Tj T* (2026-04 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-05 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-05 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-05 | Maternity | 190 | 456 | 15.2) Tj T* (2026-05 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-06 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-06 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-06 | Maternity | 190 | 456 | 15.2) Tj T* (2026-06 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-07 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-07 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-07 | Maternity | 190 | 456 | 15.2) Tj T* (2026-07 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-08 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-08 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-08 | Maternity | 190 | 456 | 15.2) Tj T* (2026-08 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-09 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-09 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-09 | Maternity | 190 | 456 | 15.2) Tj T* (2026-09 | General medicine | 520 | 1976 | 65.9) Tj T* ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 4955 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (payer-mix.csv  Gross charges and net revenue by payer) Tj T* () Tj T* (month | payer | gross_charges | net_revenue) Tj T* (2025-10 | Government programme A \(synthetic\) | 5119520.05 | 1765351.74) Tj T* (2025-10 | Commercial plan Keystone \(synthetic\) | 1717412.57 | 592211.23) Tj T* (2025-10 | Government programme B \(synthetic\) | 1167612.65 | 402625.05) Tj T* (2025-10 | Commercial plan Riverbend \(synthetic\) | 765708.58 | 264037.44) Tj T* (2025-10 | Self-pay and other \(synthetic\) | 337586.16 | 116409.02) Tj T* (2025-11 | Government programme A \(synthetic\) | 5040453.49 | 1738087.41) Tj T* (2025-11 | Commercial plan Keystone \(synthetic\) | 1714104.28 | 591070.44) Tj T* (2025-11 | Government programme B \(synthetic\) | 1142222.07 | 393869.68) Tj T* (2025-11 | Commercial plan Riverbend \(synthetic\) | 772665.94 | 266436.53) Tj T* (2025-11 | Self-pay and other \(synthetic\) | 327347.80 | 112878.55) Tj T* (2025-12 | Government programme A \(synthetic\) | 5226461.72 | 1802228.18) Tj T* (2025-12 | Commercial plan Keystone \(synthetic\) | 1720264.89 | 593194.79) Tj T* (2025-12 | Government programme B \(synthetic\) | 1159203.95 | 399725.50) Tj T* (2025-12 | Commercial plan Riverbend \(synthetic\) | 789473.99 | 272232.41) Tj T* (2025-12 | Self-pay and other \(synthetic\) | 336409.54 | 116003.29) Tj T* (2026-01 | Government programme A \(synthetic\) | 5076936.74 | 1750667.84) Tj T* (2026-01 | Commercial plan Keystone \(synthetic\) | 1721340.21 | 593565.59) Tj T* (2026-01 | Government programme B \(synthetic\) | 1168541.83 | 402945.46) Tj T* (2026-01 | Commercial plan Riverbend \(synthetic\) | 773558.30 | 266744.24) Tj T* (2026-01 | Self-pay and other \(synthetic\) | 339294.06 | 116997.95) Tj T* (2026-02 | Government programme A \(synthetic\) | 5226798.79 | 1802344.41) Tj T* (2026-02 | Commercial plan Keystone \(synthetic\) | 1727187.19 | 595581.79) Tj T* (2026-02 | Government programme B \(synthetic\) | 1182392.52 | 407721.56) Tj T* (2026-02 | Commercial plan Riverbend \(synthetic\) | 785597.04 | 270895.53) Tj T* (2026-02 | Self-pay and other \(synthetic\) | 341588.27 | 117789.06) Tj T* (2026-03 | Government programme A \(synthetic\) | 5200929.92 | 1793424.11) Tj T* (2026-03 | Commercial plan Keystone \(synthetic\) | 1683391.16 | 580479.71) Tj T* (2026-03 | Government programme B \(synthetic\) | 1171318.85 | 403903.05) Tj T* (2026-03 | Commercial plan Riverbend \(synthetic\) | 797072.22 | 274852.49) Tj T* (2026-03 | Self-pay and other \(synthetic\) | 333988.77 | 115168.54) Tj T* (2026-04 | Government programme A \(synthetic\) | 5293629.46 | 1825389.47) Tj T* (2026-04 | Commercial plan Keystone \(synthetic\) | 1689128.37 | 582458.06) Tj T* (2026-04 | Government programme B \(synthetic\) | 1169865.71 | 403401.97) Tj T* (2026-04 | Commercial plan Riverbend \(synthetic\) | 775495.29 | 267412.17) Tj T* (2026-04 | Self-pay and other \(synthetic\) | 343911.20 | 118590.07) Tj T* (2026-05 | Government programme A \(synthetic\) | 5275026.22 | 1818974.56) Tj T* (2026-05 | Commercial plan Keystone \(synthetic\) | 1725206.06 | 594898.64) Tj T* (2026-05 | Government programme B \(synthetic\) | 1193303.25 | 411483.88) Tj T* (2026-05 | Commercial plan Riverbend \(synthetic\) | 786994.95 | 271377.57) Tj T* (2026-05 | Self-pay and other \(synthetic\) | 332809.95 | 114762.05) Tj T* (2026-06 | Government programme A \(synthetic\) | 5211195.05 | 1796963.81) Tj T* (2026-06 | Commercial plan Keystone \(synthetic\) | 1700315.12 | 586315.56) Tj T* (2026-06 | Government programme B \(synthetic\) | 1200452.39 | 413949.10) Tj T* (2026-06 | Commercial plan Riverbend \(synthetic\) | 799984.34 | 275856.67) Tj T* (2026-06 | Self-pay and other \(synthetic\) | 338567.34 | 116747.36) Tj T* (2026-07 | Government programme A \(synthetic\) | 5237341.19 | 1805979.72) Tj T* (2026-07 | Commercial plan Keystone \(synthetic\) | 1763649.79 | 608155.10) Tj T* (2026-07 | Government programme B \(synthetic\) | 1192120.60 | 411076.07) Tj T* (2026-07 | Commercial plan Riverbend \(synthetic\) | 791246.70 | 272843.69) Tj T* (2026-07 | Self-pay and other \(synthetic\) | 339378.47 | 117027.06) Tj T* (2026-08 | Government programme A \(synthetic\) | 5190843.23 | 1789945.94) Tj T* (2026-08 | Commercial plan Keystone \(synthetic\) | 1763378.03 | 608061.39) Tj T* (2026-08 | Government programme B \(synthetic\) | 1193303.19 | 411483.86) Tj T* (2026-08 | Commercial plan Riverbend \(synthetic\) | 787875.34 | 271681.15) Tj T* (2026-08 | Self-pay and other \(synthetic\) | 340943.78 | 117566.82) Tj T* (2026-09 | Government programme A \(synthetic\) | 5360820.93 | 1848558.94) Tj T* (2026-09 | Commercial plan Keystone \(synthetic\) | 1773898.85 | 611689.26) Tj T* (2026-09 | Government programme B \(synthetic\) | 1209848.33 | 417189.08) Tj T* (2026-09 | Commercial plan Riverbend \(synthetic\) | 799522.72 | 275697.49) Tj T* (2026-09 | Self-pay and other \(synthetic\) | 342721.19 | 118179.72) Tj T* ET
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000323 00000 n 
+0000000606 00000 n 
+0000000732 00000 n 
+0000003375 00000 n 
+0000003501 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+8508
+%%EOF

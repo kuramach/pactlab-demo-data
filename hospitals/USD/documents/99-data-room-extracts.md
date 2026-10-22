@@ -1,0 +1,119 @@
+St. Brennan Health Inc. — data-room extracts (synthetic demo data)
+
+Each page reproduces one structured extract from this folder. All names and figures are fictional.
+---page---
+census.csv — Admissions and census by service line
+
+month | service_line | admissions | patient_days | average_daily_census
+2025-10 | Cardiology | 310 | 1271 | 42.4
+2025-10 | Orthopaedics | 260 | 832 | 27.7
+2025-10 | Maternity | 190 | 456 | 15.2
+2025-10 | General medicine | 520 | 1976 | 65.9
+2025-11 | Cardiology | 310 | 1271 | 42.4
+2025-11 | Orthopaedics | 260 | 832 | 27.7
+2025-11 | Maternity | 190 | 456 | 15.2
+2025-11 | General medicine | 520 | 1976 | 65.9
+2025-12 | Cardiology | 310 | 1271 | 42.4
+2025-12 | Orthopaedics | 260 | 832 | 27.7
+2025-12 | Maternity | 190 | 456 | 15.2
+2025-12 | General medicine | 520 | 1976 | 65.9
+2026-01 | Cardiology | 310 | 1271 | 42.4
+2026-01 | Orthopaedics | 260 | 832 | 27.7
+2026-01 | Maternity | 190 | 456 | 15.2
+2026-01 | General medicine | 520 | 1976 | 65.9
+2026-02 | Cardiology | 310 | 1271 | 42.4
+2026-02 | Orthopaedics | 260 | 832 | 27.7
+2026-02 | Maternity | 190 | 456 | 15.2
+2026-02 | General medicine | 520 | 1976 | 65.9
+2026-03 | Cardiology | 310 | 1271 | 42.4
+2026-03 | Orthopaedics | 260 | 832 | 27.7
+2026-03 | Maternity | 190 | 456 | 15.2
+2026-03 | General medicine | 520 | 1976 | 65.9
+2026-04 | Cardiology | 310 | 1271 | 42.4
+2026-04 | Orthopaedics | 260 | 832 | 27.7
+2026-04 | Maternity | 190 | 456 | 15.2
+2026-04 | General medicine | 520 | 1976 | 65.9
+2026-05 | Cardiology | 310 | 1271 | 42.4
+2026-05 | Orthopaedics | 260 | 832 | 27.7
+2026-05 | Maternity | 190 | 456 | 15.2
+2026-05 | General medicine | 520 | 1976 | 65.9
+2026-06 | Cardiology | 310 | 1271 | 42.4
+2026-06 | Orthopaedics | 260 | 832 | 27.7
+2026-06 | Maternity | 190 | 456 | 15.2
+2026-06 | General medicine | 520 | 1976 | 65.9
+2026-07 | Cardiology | 310 | 1271 | 42.4
+2026-07 | Orthopaedics | 260 | 832 | 27.7
+2026-07 | Maternity | 190 | 456 | 15.2
+2026-07 | General medicine | 520 | 1976 | 65.9
+2026-08 | Cardiology | 310 | 1271 | 42.4
+2026-08 | Orthopaedics | 260 | 832 | 27.7
+2026-08 | Maternity | 190 | 456 | 15.2
+2026-08 | General medicine | 520 | 1976 | 65.9
+2026-09 | Cardiology | 310 | 1271 | 42.4
+2026-09 | Orthopaedics | 260 | 832 | 27.7
+2026-09 | Maternity | 190 | 456 | 15.2
+2026-09 | General medicine | 520 | 1976 | 65.9
+---page---
+payer-mix.csv — Gross charges and net revenue by payer
+
+month | payer | gross_charges | net_revenue
+2025-10 | Government programme A (synthetic) | 5625870.66 | 1939955.40
+2025-10 | Commercial plan Keystone (synthetic) | 1800371.19 | 620817.65
+2025-10 | Government programme B (synthetic) | 1266619.02 | 436765.18
+2025-10 | Commercial plan Riverbend (synthetic) | 831955.25 | 286881.12
+2025-10 | Self-pay and other (synthetic) | 366147.85 | 126257.88
+2025-11 | Government programme A (synthetic) | 5554615.20 | 1915384.55
+2025-11 | Commercial plan Keystone (synthetic) | 1814600.70 | 625724.38
+2025-11 | Government programme B (synthetic) | 1254462.66 | 432573.33
+2025-11 | Commercial plan Riverbend (synthetic) | 853699.88 | 294379.27
+2025-11 | Self-pay and other (synthetic) | 360444.10 | 124291.07
+2025-12 | Government programme A (synthetic) | 5583587.56 | 1925375.02
+2025-12 | Commercial plan Keystone (synthetic) | 1830006.23 | 631036.63
+2025-12 | Government programme B (synthetic) | 1264576.87 | 436060.99
+2025-12 | Commercial plan Riverbend (synthetic) | 862696.50 | 297481.55
+2025-12 | Self-pay and other (synthetic) | 356662.50 | 122987.07
+2026-01 | Government programme A (synthetic) | 5565546.63 | 1919154.01
+2026-01 | Commercial plan Keystone (synthetic) | 1847338.16 | 637013.16
+2026-01 | Government programme B (synthetic) | 1265567.86 | 436402.71
+2026-01 | Commercial plan Riverbend (synthetic) | 843711.91 | 290935.14
+2026-01 | Self-pay and other (synthetic) | 363629.17 | 125389.37
+2026-02 | Government programme A (synthetic) | 5690308.49 | 1962175.34
+2026-02 | Commercial plan Keystone (synthetic) | 1836177.51 | 633164.66
+2026-02 | Government programme B (synthetic) | 1276775.81 | 440267.52
+2026-02 | Commercial plan Riverbend (synthetic) | 860384.01 | 296684.14
+2026-02 | Self-pay and other (synthetic) | 361726.37 | 124733.23
+2026-03 | Government programme A (synthetic) | 5638506.98 | 1944312.75
+2026-03 | Commercial plan Keystone (synthetic) | 1897156.28 | 654191.82
+2026-03 | Government programme B (synthetic) | 1272916.34 | 438936.67
+2026-03 | Commercial plan Riverbend (synthetic) | 867579.05 | 299165.19
+2026-03 | Self-pay and other (synthetic) | 362298.89 | 124930.65
+2026-04 | Government programme A (synthetic) | 5556899.90 | 1916172.38
+2026-04 | Commercial plan Keystone (synthetic) | 1902474.36 | 656025.64
+2026-04 | Government programme B (synthetic) | 1275963.81 | 439987.52
+2026-04 | Commercial plan Riverbend (synthetic) | 860583.56 | 296752.95
+2026-04 | Self-pay and other (synthetic) | 361182.12 | 124545.56
+2026-05 | Government programme A (synthetic) | 5737131.68 | 1978321.27
+2026-05 | Commercial plan Keystone (synthetic) | 1880467.27 | 648436.99
+2026-05 | Government programme B (synthetic) | 1288301.28 | 444241.82
+2026-05 | Commercial plan Riverbend (synthetic) | 872448.50 | 300844.31
+2026-05 | Self-pay and other (synthetic) | 363076.11 | 125198.66
+2026-06 | Government programme A (synthetic) | 5595987.55 | 1929650.88
+2026-06 | Commercial plan Keystone (synthetic) | 1904890.87 | 656858.92
+2026-06 | Government programme B (synthetic) | 1277423.70 | 440490.93
+2026-06 | Commercial plan Riverbend (synthetic) | 864720.23 | 298179.39
+2026-06 | Self-pay and other (synthetic) | 368451.38 | 127052.20
+2026-07 | Government programme A (synthetic) | 5740754.13 | 1979570.39
+2026-07 | Commercial plan Keystone (synthetic) | 1868030.42 | 644148.42
+2026-07 | Government programme B (synthetic) | 1282034.23 | 442080.77
+2026-07 | Commercial plan Riverbend (synthetic) | 878728.71 | 303009.90
+2026-07 | Self-pay and other (synthetic) | 377339.21 | 130116.97
+2026-08 | Government programme A (synthetic) | 5717863.10 | 1971676.93
+2026-08 | Commercial plan Keystone (synthetic) | 1894796.98 | 653378.27
+2026-08 | Government programme B (synthetic) | 1322827.92 | 456147.56
+2026-08 | Commercial plan Riverbend (synthetic) | 877548.70 | 302603.00
+2026-08 | Self-pay and other (synthetic) | 373416.01 | 128764.14
+2026-09 | Government programme A (synthetic) | 5807437.22 | 2002564.56
+2026-09 | Commercial plan Keystone (synthetic) | 1892142.61 | 652462.97
+2026-09 | Government programme B (synthetic) | 1310615.97 | 451936.54
+2026-09 | Commercial plan Riverbend (synthetic) | 862783.03 | 297511.39
+2026-09 | Self-pay and other (synthetic) | 368794.83 | 127170.63

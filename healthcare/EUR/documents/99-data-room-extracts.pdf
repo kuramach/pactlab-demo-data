@@ -1,0 +1,54 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 237 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (Riverside Care Partners B.V.  data-room extracts \(synthetic demo data\)) Tj T* () Tj T* (Each page reproduces one structured extract from this folder. All names and figures are) Tj T* (fictional.) Tj T* ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 5405 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (claims-summary.csv  Monthly claims billed, paid and denial rate by payer) Tj T* () Tj T* (month | payer | claims | billed | paid | denial_rate_pct) Tj T* (2025-10 | Government programme A \(synthetic\) | 1137 | 71762.54 | 52001.84 | 2) Tj T* (2025-10 | Government programme B \(synthetic\) | 1342 | 29075.55 | 21069.24 | 2) Tj T* (2025-10 | Commercial plan North \(synthetic\) | 474 | 23015.58 | 16677.96 | 4) Tj T* (2025-10 | Commercial plan Central \(synthetic\) | 306 | 15946.74 | 11555.61 | 8) Tj T* (2025-10 | Commercial plan Coast \(synthetic\) | 857 | 11151.70 | 8080.94 | 2) Tj T* (2025-10 | Self-pay and other \(synthetic\) | 1681 | 7016.87 | 5084.69 | 6) Tj T* (2025-11 | Government programme A \(synthetic\) | 1954 | 69838.29 | 50607.46 | 3) Tj T* (2025-11 | Government programme B \(synthetic\) | 1686 | 28385.48 | 20569.19 | 3) Tj T* (2025-11 | Commercial plan North \(synthetic\) | 1249 | 23160.68 | 16783.10 | 4) Tj T* (2025-11 | Commercial plan Central \(synthetic\) | 2073 | 16378.36 | 11868.38 | 2) Tj T* (2025-11 | Commercial plan Coast \(synthetic\) | 514 | 11024.30 | 7988.62 | 7) Tj T* (2025-11 | Self-pay and other \(synthetic\) | 2338 | 7015.75 | 5083.88 | 2) Tj T* (2025-12 | Government programme A \(synthetic\) | 1871 | 73767.68 | 53454.84 | 9) Tj T* (2025-12 | Government programme B \(synthetic\) | 1230 | 29077.62 | 21070.74 | 2) Tj T* (2025-12 | Commercial plan North \(synthetic\) | 425 | 23102.51 | 16740.95 | 9) Tj T* (2025-12 | Commercial plan Central \(synthetic\) | 2008 | 16188.38 | 11730.71 | 6) Tj T* (2025-12 | Commercial plan Coast \(synthetic\) | 473 | 11153.39 | 8082.17 | 2) Tj T* (2025-12 | Self-pay and other \(synthetic\) | 689 | 7032.99 | 5096.37 | 5) Tj T* (2026-01 | Government programme A \(synthetic\) | 1467 | 71827.11 | 52048.63 | 7) Tj T* (2026-01 | Government programme B \(synthetic\) | 902 | 28455.89 | 20620.21 | 5) Tj T* (2026-01 | Commercial plan North \(synthetic\) | 414 | 23913.99 | 17328.98 | 6) Tj T* (2026-01 | Commercial plan Central \(synthetic\) | 1668 | 16925.47 | 12264.83 | 9) Tj T* (2026-01 | Commercial plan Coast \(synthetic\) | 599 | 10893.66 | 7893.96 | 8) Tj T* (2026-01 | Self-pay and other \(synthetic\) | 2234 | 7058.52 | 5114.87 | 6) Tj T* (2026-02 | Government programme A \(synthetic\) | 2354 | 73740.15 | 53434.89 | 2) Tj T* (2026-02 | Government programme B \(synthetic\) | 723 | 29999.72 | 21738.93 | 2) Tj T* (2026-02 | Commercial plan North \(synthetic\) | 393 | 23230.93 | 16834.01 | 5) Tj T* (2026-02 | Commercial plan Central \(synthetic\) | 779 | 16353.04 | 11850.03 | 7) Tj T* (2026-02 | Commercial plan Coast \(synthetic\) | 2345 | 10875.20 | 7880.58 | 4) Tj T* (2026-02 | Self-pay and other \(synthetic\) | 1631 | 6799.09 | 4926.88 | 7) Tj T* (2026-03 | Government programme A \(synthetic\) | 842 | 74248.36 | 53803.16 | 6) Tj T* (2026-03 | Government programme B \(synthetic\) | 880 | 29559.89 | 21420.21 | 7) Tj T* (2026-03 | Commercial plan North \(synthetic\) | 1422 | 23255.64 | 16851.91 | 7) Tj T* (2026-03 | Commercial plan Central \(synthetic\) | 767 | 16982.45 | 12306.12 | 9) Tj T* (2026-03 | Commercial plan Coast \(synthetic\) | 327 | 11325.00 | 8206.52 | 2) Tj T* (2026-03 | Self-pay and other \(synthetic\) | 1468 | 6842.00 | 4957.97 | 5) Tj T* (2026-04 | Government programme A \(synthetic\) | 2131 | 72796.92 | 52751.39 | 8) Tj T* (2026-04 | Government programme B \(synthetic\) | 1497 | 30423.15 | 22045.76 | 3) Tj T* (2026-04 | Commercial plan North \(synthetic\) | 584 | 23330.27 | 16905.99 | 8) Tj T* (2026-04 | Commercial plan Central \(synthetic\) | 856 | 17155.59 | 12431.59 | 7) Tj T* (2026-04 | Commercial plan Coast \(synthetic\) | 894 | 11518.52 | 8346.75 | 4) Tj T* (2026-04 | Self-pay and other \(synthetic\) | 1648 | 7275.42 | 5272.04 | 3) Tj T* (2026-05 | Government programme A \(synthetic\) | 1130 | 75918.66 | 55013.52 | 7) Tj T* (2026-05 | Government programme B \(synthetic\) | 2305 | 29548.26 | 21411.78 | 3) Tj T* (2026-05 | Commercial plan North \(synthetic\) | 636 | 24188.43 | 17527.85 | 9) Tj T* (2026-05 | Commercial plan Central \(synthetic\) | 2304 | 16761.83 | 12146.25 | 4) Tj T* (2026-05 | Commercial plan Coast \(synthetic\) | 1158 | 11157.48 | 8085.13 | 7) Tj T* (2026-05 | Self-pay and other \(synthetic\) | 2179 | 6926.48 | 5019.19 | 9) Tj T* (2026-06 | Government programme A \(synthetic\) | 538 | 73405.22 | 53192.19 | 5) Tj T* (2026-06 | Government programme B \(synthetic\) | 682 | 30023.05 | 21755.83 | 5) Tj T* (2026-06 | Commercial plan North \(synthetic\) | 593 | 23997.86 | 17389.75 | 9) Tj T* (2026-06 | Commercial plan Central \(synthetic\) | 907 | 17104.51 | 12394.57 | 3) Tj T* (2026-06 | Commercial plan Coast \(synthetic\) | 998 | 11530.08 | 8355.13 | 3) Tj T* (2026-06 | Self-pay and other \(synthetic\) | 1865 | 7294.31 | 5285.73 | 6) Tj T* (2026-07 | Government programme A \(synthetic\) | 1394 | 73396.51 | 53185.88 | 8) Tj T* (2026-07 | Government programme B \(synthetic\) | 1349 | 30511.54 | 22109.81 | 4) Tj T* (2026-07 | Commercial plan North \(synthetic\) | 2068 | 24641.09 | 17855.86 | 9) Tj T* (2026-07 | Commercial plan Central \(synthetic\) | 754 | 17046.49 | 12352.53 | 7) Tj T* (2026-07 | Commercial plan Coast \(synthetic\) | 1526 | 11177.77 | 8099.83 | 9) Tj T* (2026-07 | Self-pay and other \(synthetic\) | 2195 | 7400.69 | 5362.82 | 5) Tj T* (& 12 more rows in claims-summary.csv) Tj T* ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 1125 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (provider-roster.csv  Provider roster, pseudonymous, with credential expiry dates) Tj T* () Tj T* (provider_ref | specialty | fte | credential_expiry) Tj T* (PR-01 | Physical therapy | 0.6 | 2027-01-01) Tj T* (PR-02 | Primary care | 1.0 | 2027-02-01) Tj T* (PR-03 | Occupational therapy | 1.0 | 2027-03-01) Tj T* (PR-04 | Physical therapy | 1.0 | 2026-12-15) Tj T* (PR-05 | Primary care | 0.6 | 2027-05-01) Tj T* (PR-06 | Occupational therapy | 1.0 | 2027-06-01) Tj T* (PR-07 | Physical therapy | 1.0 | 2027-07-01) Tj T* (PR-08 | Primary care | 1.0 | 2027-08-01) Tj T* (PR-09 | Occupational therapy | 0.6 | 2027-09-01) Tj T* (PR-10 | Physical therapy | 1.0 | 2027-10-01) Tj T* (PR-11 | Primary care | 1.0 | 2027-11-01) Tj T* (PR-12 | Occupational therapy | 1.0 | 2026-12-15) Tj T* (PR-13 | Physical therapy | 0.6 | 2027-01-01) Tj T* (PR-14 | Primary care | 1.0 | 2027-02-01) Tj T* (PR-15 | Occupational therapy | 1.0 | 2027-03-01) Tj T* (PR-16 | Physical therapy | 1.0 | 2027-04-01) Tj T* (PR-17 | Primary care | 0.6 | 2027-05-01) Tj T* (PR-18 | Occupational therapy | 1.0 | 2027-06-01) Tj T* ET
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000323 00000 n 
+0000000611 00000 n 
+0000000737 00000 n 
+0000006194 00000 n 
+0000006320 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+7497
+%%EOF

@@ -1,0 +1,54 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 229 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (Quayside Estates Ltd  data-room extracts \(synthetic demo data\)) Tj T* () Tj T* (Each page reproduces one structured extract from this folder. All names and figures are) Tj T* (fictional.) Tj T* ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 1450 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (rent-roll.csv  Commercial rent roll with expiries and market rents) Tj T* () Tj T* (tenant | suite | sqft | lease_start | lease_end | monthly_base_rent | monthly_market_rent) Tj T* (Corvane Logistics \(synthetic\) | Unit 1 | 165000 | 2021-07-01 | 2027-06-30 | 63200.00 |) Tj T* (67234.04) Tj T* (Pellham Engineering \(synthetic\) | Unit 2 | 41000 | 2021-07-01 | 2031-03-31 | 17380.00 |) Tj T* (17039.22) Tj T* (Brightwater Analytics \(synthetic\) | Unit 3 | 29000 | 2021-07-01 | 2029-12-31 | 12640.00 |) Tj T* (12640.00) Tj T* (Ashgrove Print \(synthetic\) | Unit 4 | 18000 | 2021-07-01 | 2026-12-31 | 7110.00 | 6583.33) Tj T* (Moorland Medical Supplies \(synthetic\) | Unit 5 | 24000 | 2021-07-01 | 2030-09-30 | 11060.00) Tj T* (| 11402.06) Tj T* (Teal Harbor Software \(synthetic\) | Unit 6 | 16000 | 2021-07-01 | 2028-05-31 | 8690.00 |) Tj T* (8690.00) Tj T* (Northlight Studios \(synthetic\) | Unit 7 | 12000 | 2021-07-01 | 2027-01-31 | 5530.00 |) Tj T* (5266.67) Tj T* (Fernbank Foods \(synthetic\) | Unit 8 | 21000 | 2021-07-01 | 2032-06-30 | 9875.00 | 9974.75) Tj T* (Cinder Path Fitness \(synthetic\) | Unit 9 | 9000 | 2021-07-01 | 2026-11-30 | 4740.00 |) Tj T* (4740.00) Tj T* (Haldon Insurance Brokers \(synthetic\) | Unit 10 | 11000 | 2021-07-01 | 2029-02-28 | 6320.00 |) Tj T* (6320.00) Tj T* (Gullwing Robotics \(synthetic\) | Unit 11 | 15000 | 2021-07-01 | 2033-10-31 | 7505.00 |) Tj T* (7505.00) Tj T* ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 336 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (cam-reconciliation.csv  Common-area-maintenance expenses against tenant recoveries) Tj T* () Tj T* (year | category | expenses | recoveries) Tj T* (2025 | Repairs and maintenance | 167480.00 | 135090.00) Tj T* (2025 | Insurance | 69520.00 | 69520.00) Tj T* (2025 | Security | 50560.00 | 32390.00) Tj T* ET
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000323 00000 n 
+0000000603 00000 n 
+0000000729 00000 n 
+0000002231 00000 n 
+0000002357 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+2744
+%%EOF

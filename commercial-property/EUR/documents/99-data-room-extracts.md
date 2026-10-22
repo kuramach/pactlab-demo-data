@@ -1,0 +1,25 @@
+Quayside Estates B.V. — data-room extracts (synthetic demo data)
+
+Each page reproduces one structured extract from this folder. All names and figures are fictional.
+---page---
+rent-roll.csv — Commercial rent roll with expiries and market rents
+
+tenant | suite | sqft | lease_start | lease_end | monthly_base_rent | monthly_market_rent
+Corvane Logistics (synthetic) | Unit 1 | 165000 | 2021-07-01 | 2027-06-30 | 73600.00 | 78297.87
+Pellham Engineering (synthetic) | Unit 2 | 41000 | 2021-07-01 | 2031-03-31 | 20240.00 | 19843.14
+Brightwater Analytics (synthetic) | Unit 3 | 29000 | 2021-07-01 | 2029-12-31 | 14720.00 | 14720.00
+Ashgrove Print (synthetic) | Unit 4 | 18000 | 2021-07-01 | 2026-12-31 | 8280.00 | 7666.67
+Moorland Medical Supplies (synthetic) | Unit 5 | 24000 | 2021-07-01 | 2030-09-30 | 12880.00 | 13278.35
+Teal Harbor Software (synthetic) | Unit 6 | 16000 | 2021-07-01 | 2028-05-31 | 10120.00 | 10120.00
+Northlight Studios (synthetic) | Unit 7 | 12000 | 2021-07-01 | 2027-01-31 | 6440.00 | 6133.33
+Fernbank Foods (synthetic) | Unit 8 | 21000 | 2021-07-01 | 2032-06-30 | 11500.00 | 11616.16
+Cinder Path Fitness (synthetic) | Unit 9 | 9000 | 2021-07-01 | 2026-11-30 | 5520.00 | 5520.00
+Haldon Insurance Brokers (synthetic) | Unit 10 | 11000 | 2021-07-01 | 2029-02-28 | 7360.00 | 7360.00
+Gullwing Robotics (synthetic) | Unit 11 | 15000 | 2021-07-01 | 2033-10-31 | 8740.00 | 8740.00
+---page---
+cam-reconciliation.csv — Common-area-maintenance expenses against tenant recoveries
+
+year | category | expenses | recoveries
+2025 | Repairs and maintenance | 195040.00 | 157320.00
+2025 | Insurance | 80960.00 | 80960.00
+2025 | Security | 58880.00 | 37720.00

@@ -1,0 +1,6 @@
+doc_id,title,file,data_class,as_of
+TM-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
+TM-002,Billed subscribers and ARPU by region and plan,subscribers-by-month.csv,Financial,2026-09-30
+TM-003,Management KPI pack with reported subscribers and churn,documents/01-kpi-pack-2026-09.pdf,Business,2026-09-30
+TM-004,Wholesale network access agreement,documents/02-wholesale-network-agreement.pdf,Business,2026-09-30
+TM-005,"The extracts above as one paged document, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

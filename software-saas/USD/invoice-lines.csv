@@ -1,0 +1,303 @@
+line_id,invoice_id,customer_id,customer_name,subscription_id,price_id,currency,amount,interval,interval_count,period_start,period_end,invoice_status,created
+il_ss_00001,in_ss_202410_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00002,in_ss_202410_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1200.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00003,in_ss_202410_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,5200.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00004,in_ss_202411_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00005,in_ss_202411_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00006,in_ss_202411_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1200.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00007,in_ss_202411_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00008,in_ss_202411_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,5200.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00009,in_ss_202411_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00010,in_ss_202412_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00011,in_ss_202412_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00012,in_ss_202412_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,6800.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00013,in_ss_202412_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1200.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00014,in_ss_202412_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00015,in_ss_202412_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00016,in_ss_202412_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,5200.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00017,in_ss_202412_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00018,in_ss_202501_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00019,in_ss_202501_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00020,in_ss_202501_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,6800.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00021,in_ss_202501_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00022,in_ss_202501_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1200.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00023,in_ss_202501_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00024,in_ss_202501_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00025,in_ss_202501_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00026,in_ss_202501_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,5200.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00027,in_ss_202501_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00028,in_ss_202502_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00029,in_ss_202502_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00030,in_ss_202502_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,6800.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00031,in_ss_202502_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00032,in_ss_202502_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00033,in_ss_202502_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1200.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00034,in_ss_202502_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00035,in_ss_202502_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00036,in_ss_202502_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00037,in_ss_202502_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00038,in_ss_202502_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,5200.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00039,in_ss_202502_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00040,in_ss_202503_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00041,in_ss_202503_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00042,in_ss_202503_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,6800.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00043,in_ss_202503_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00044,in_ss_202503_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00045,in_ss_202503_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00046,in_ss_202503_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1200.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00047,in_ss_202503_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00048,in_ss_202503_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00049,in_ss_202503_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00050,in_ss_202503_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00051,in_ss_202503_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00052,in_ss_202503_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,5200.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00053,in_ss_202503_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00054,in_ss_202504_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00055,in_ss_202504_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00056,in_ss_202504_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,6800.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00057,in_ss_202504_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00058,in_ss_202504_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00059,in_ss_202504_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00060,in_ss_202504_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1200.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00061,in_ss_202504_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00062,in_ss_202504_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00063,in_ss_202504_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00064,in_ss_202504_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00065,in_ss_202504_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00066,in_ss_202504_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,5200.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00067,in_ss_202504_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00068,in_ss_202505_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00069,in_ss_202505_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00070,in_ss_202505_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,6800.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00071,in_ss_202505_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00072,in_ss_202505_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00073,in_ss_202505_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00074,in_ss_202505_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1200.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00075,in_ss_202505_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00076,in_ss_202505_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00077,in_ss_202505_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00078,in_ss_202505_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00079,in_ss_202505_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00080,in_ss_202505_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,5200.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00081,in_ss_202505_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00082,in_ss_202506_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00083,in_ss_202506_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00084,in_ss_202506_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,6800.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00085,in_ss_202506_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00086,in_ss_202506_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00087,in_ss_202506_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00088,in_ss_202506_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1200.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00089,in_ss_202506_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00090,in_ss_202506_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00091,in_ss_202506_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00092,in_ss_202506_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00093,in_ss_202506_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00094,in_ss_202506_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,5200.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00095,in_ss_202506_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00096,in_ss_202507_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00097,in_ss_202507_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00098,in_ss_202507_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,6800.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00099,in_ss_202507_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00100,in_ss_202507_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00101,in_ss_202507_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00102,in_ss_202507_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1200.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00103,in_ss_202507_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00104,in_ss_202507_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00105,in_ss_202507_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00106,in_ss_202507_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00107,in_ss_202507_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00108,in_ss_202507_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,5200.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00109,in_ss_202507_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00110,in_ss_202508_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00111,in_ss_202508_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00112,in_ss_202508_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,6800.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00113,in_ss_202508_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00114,in_ss_202508_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00115,in_ss_202508_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00116,in_ss_202508_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1200.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00117,in_ss_202508_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00118,in_ss_202508_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00119,in_ss_202508_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00120,in_ss_202508_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00121,in_ss_202508_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00122,in_ss_202508_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,5200.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00123,in_ss_202508_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00124,in_ss_202509_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00125,in_ss_202509_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00126,in_ss_202509_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,6800.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00127,in_ss_202509_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00128,in_ss_202509_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00129,in_ss_202509_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00130,in_ss_202509_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1200.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00131,in_ss_202509_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00132,in_ss_202509_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00133,in_ss_202509_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00134,in_ss_202509_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00135,in_ss_202509_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00136,in_ss_202509_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,5200.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00137,in_ss_202509_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00138,in_ss_202510_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00139,in_ss_202510_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00140,in_ss_202510_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,8160.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00141,in_ss_202510_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00142,in_ss_202510_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00143,in_ss_202510_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00144,in_ss_202510_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1440.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00145,in_ss_202510_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00146,in_ss_202510_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00147,in_ss_202510_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00148,in_ss_202510_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00149,in_ss_202510_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00150,in_ss_202510_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,6240.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00151,in_ss_202510_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00152,in_ss_202511_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00153,in_ss_202511_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00154,in_ss_202511_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,8160.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00155,in_ss_202511_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00156,in_ss_202511_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00157,in_ss_202511_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00158,in_ss_202511_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1440.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00159,in_ss_202511_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00160,in_ss_202511_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00161,in_ss_202511_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00162,in_ss_202511_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00163,in_ss_202511_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00164,in_ss_202511_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,6240.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00165,in_ss_202511_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00166,in_ss_202512_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00167,in_ss_202512_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00168,in_ss_202512_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,8160.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00169,in_ss_202512_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00170,in_ss_202512_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00171,in_ss_202512_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00172,in_ss_202512_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1440.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00173,in_ss_202512_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00174,in_ss_202512_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00175,in_ss_202512_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00176,in_ss_202512_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00177,in_ss_202512_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00178,in_ss_202512_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,6240.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00179,in_ss_202512_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00180,in_ss_202601_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00181,in_ss_202601_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00182,in_ss_202601_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,8160.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00183,in_ss_202601_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00184,in_ss_202601_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00185,in_ss_202601_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00186,in_ss_202601_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1440.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00187,in_ss_202601_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00188,in_ss_202601_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00189,in_ss_202601_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00190,in_ss_202601_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00191,in_ss_202601_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00192,in_ss_202601_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,6240.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00193,in_ss_202601_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00194,in_ss_202602_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00195,in_ss_202602_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00196,in_ss_202602_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,8160.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00197,in_ss_202602_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00198,in_ss_202602_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00199,in_ss_202602_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00200,in_ss_202602_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1440.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00201,in_ss_202602_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00202,in_ss_202602_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00203,in_ss_202602_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00204,in_ss_202602_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00205,in_ss_202602_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00206,in_ss_202602_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,6240.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00207,in_ss_202602_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00208,in_ss_202603_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00209,in_ss_202603_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00210,in_ss_202603_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,8160.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00211,in_ss_202603_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00212,in_ss_202603_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00213,in_ss_202603_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00214,in_ss_202603_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1440.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00215,in_ss_202603_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00216,in_ss_202603_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00217,in_ss_202603_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,980.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00218,in_ss_202603_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00219,in_ss_202603_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00220,in_ss_202603_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,6240.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00221,in_ss_202603_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00222,in_ss_202604_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00223,in_ss_202604_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00224,in_ss_202604_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,8160.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00225,in_ss_202604_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00226,in_ss_202604_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00227,in_ss_202604_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00228,in_ss_202604_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1440.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00229,in_ss_202604_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00230,in_ss_202604_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00231,in_ss_202604_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,686.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00232,in_ss_202604_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00233,in_ss_202604_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00234,in_ss_202604_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,6240.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00235,in_ss_202604_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00236,in_ss_202605_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00237,in_ss_202605_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00238,in_ss_202605_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,8160.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00239,in_ss_202605_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00240,in_ss_202605_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00241,in_ss_202605_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00242,in_ss_202605_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1440.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00243,in_ss_202605_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00244,in_ss_202605_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00245,in_ss_202605_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,686.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00246,in_ss_202605_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00247,in_ss_202605_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00248,in_ss_202605_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,6240.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00249,in_ss_202605_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00250,in_ss_202606_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00251,in_ss_202606_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00252,in_ss_202606_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,8160.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00253,in_ss_202606_0004,ss-cus-0004,Quarry Lane Studios (synthetic),sub_ss-cus-0004,price_ss_subscription_m,USD,650.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00254,in_ss_202606_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00255,in_ss_202606_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00256,in_ss_202606_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1440.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00257,in_ss_202606_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00258,in_ss_202606_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00259,in_ss_202606_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,686.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00260,in_ss_202606_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00261,in_ss_202606_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00262,in_ss_202606_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,6240.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00263,in_ss_202606_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00264,in_ss_202607_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00265,in_ss_202607_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00266,in_ss_202607_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,8160.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00267,in_ss_202607_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00268,in_ss_202607_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00269,in_ss_202607_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1440.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00270,in_ss_202607_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00271,in_ss_202607_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00272,in_ss_202607_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,686.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00273,in_ss_202607_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00274,in_ss_202607_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00275,in_ss_202607_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,6240.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00276,in_ss_202607_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00277,in_ss_202608_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00278,in_ss_202608_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00279,in_ss_202608_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,8160.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00280,in_ss_202608_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00281,in_ss_202608_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00282,in_ss_202608_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1440.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00283,in_ss_202608_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00284,in_ss_202608_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00285,in_ss_202608_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,686.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00286,in_ss_202608_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00287,in_ss_202608_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00288,in_ss_202608_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,6240.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00289,in_ss_202608_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00290,in_ss_202609_0001,ss-cus-0001,Harborline Freight (synthetic),sub_ss-cus-0001,price_ss_subscription_m,USD,14500.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00291,in_ss_202609_0002,ss-cus-0002,Cobalt Ridge Dental (synthetic),sub_ss-cus-0002,price_ss_subscription_m,USD,2400.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00292,in_ss_202609_0003,ss-cus-0003,Northgate Logistics (synthetic),sub_ss-cus-0003,price_ss_subscription_m,USD,8160.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00293,in_ss_202609_0005,ss-cus-0005,Pinecrest Clinics (synthetic),sub_ss-cus-0005,price_ss_subscription_m,USD,1900.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00294,in_ss_202609_0006,ss-cus-0006,Ironbridge Engineering (synthetic),sub_ss-cus-0006,price_ss_subscription_m,USD,3100.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00295,in_ss_202609_0007,ss-cus-0007,Saltmarsh Foods (synthetic),sub_ss-cus-0007,price_ss_subscription_m,USD,1440.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00296,in_ss_202609_0008,ss-cus-0008,Copperfield Legal (synthetic),sub_ss-cus-0008,price_ss_subscription_m,USD,4200.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00297,in_ss_202609_0009,ss-cus-0009,Westbrook Schools (synthetic),sub_ss-cus-0009,price_ss_subscription_m,USD,2600.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00298,in_ss_202609_0010,ss-cus-0010,Amberline Hotels (synthetic),sub_ss-cus-0010,price_ss_subscription_m,USD,686.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00299,in_ss_202609_0011,ss-cus-0011,Tidewater Marine (synthetic),sub_ss-cus-0011,price_ss_subscription_m,USD,3600.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00300,in_ss_202609_0012,ss-cus-0012,Foxglove Retail (synthetic),sub_ss-cus-0012,price_ss_subscription_m,USD,1500.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00301,in_ss_202609_0013,ss-cus-0013,Granite Peak Energy (synthetic),sub_ss-cus-0013,price_ss_subscription_m,USD,6240.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00302,in_ss_202609_0014,ss-cus-0014,Silverleaf Insurance (synthetic),sub_ss-cus-0014,price_ss_subscription_m,USD,2200.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01

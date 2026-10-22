@@ -1,0 +1,97 @@
+line_id,invoice_id,customer_id,customer_name,subscription_id,price_id,currency,amount,interval,interval_count,period_start,period_end,invoice_status,created
+il_ed_00001,in_ed_202410_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,151640.80,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ed_00002,in_ed_202410_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,82049.20,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ed_00003,in_ed_202410_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,20508.60,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ed_00004,in_ed_202410_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,12720.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ed_00005,in_ed_202411_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,153695.34,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ed_00006,in_ed_202411_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,84807.68,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ed_00007,in_ed_202411_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,21528.15,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ed_00008,in_ed_202411_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,11523.70,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ed_00009,in_ed_202412_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,145449.12,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ed_00010,in_ed_202412_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,82242.91,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ed_00011,in_ed_202412_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,20265.31,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ed_00012,in_ed_202412_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,11594.86,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ed_00013,in_ed_202501_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,153216.47,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ed_00014,in_ed_202501_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,83521.56,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ed_00015,in_ed_202501_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,21831.05,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ed_00016,in_ed_202501_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,13031.25,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ed_00017,in_ed_202502_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,156781.56,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ed_00018,in_ed_202502_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,81796.89,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ed_00019,in_ed_202502_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,22219.81,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ed_00020,in_ed_202502_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,11925.32,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ed_00021,in_ed_202503_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,163109.19,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ed_00022,in_ed_202503_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,83493.92,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ed_00023,in_ed_202503_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,22587.68,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ed_00024,in_ed_202503_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,13126.70,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ed_00025,in_ed_202504_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,150223.78,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ed_00026,in_ed_202504_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,86835.75,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ed_00027,in_ed_202504_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,22532.68,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ed_00028,in_ed_202504_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,13105.10,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ed_00029,in_ed_202505_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,166578.10,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ed_00030,in_ed_202505_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,92979.01,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ed_00031,in_ed_202505_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,21407.11,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ed_00032,in_ed_202505_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,12834.75,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ed_00033,in_ed_202506_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,163532.15,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ed_00034,in_ed_202506_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,94015.35,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ed_00035,in_ed_202506_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,21675.76,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ed_00036,in_ed_202506_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,12994.28,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ed_00037,in_ed_202507_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,165944.43,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ed_00038,in_ed_202507_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,88498.39,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ed_00039,in_ed_202507_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,22305.93,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ed_00040,in_ed_202507_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,12620.25,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ed_00041,in_ed_202508_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,163680.26,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ed_00042,in_ed_202508_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,90579.01,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ed_00043,in_ed_202508_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,22807.35,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ed_00044,in_ed_202508_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,13772.43,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ed_00045,in_ed_202509_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,169676.20,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ed_00046,in_ed_202509_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,92088.60,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ed_00047,in_ed_202509_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,23007.31,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ed_00048,in_ed_202509_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,12841.79,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ed_00049,in_ed_202510_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,176576.19,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ed_00050,in_ed_202510_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,88574.31,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ed_00051,in_ed_202510_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,23010.22,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ed_00052,in_ed_202510_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,14106.05,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ed_00053,in_ed_202511_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,168639.93,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ed_00054,in_ed_202511_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,96907.28,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ed_00055,in_ed_202511_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,25118.86,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ed_00056,in_ed_202511_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,13181.85,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ed_00057,in_ed_202512_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,165426.81,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ed_00058,in_ed_202512_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,90920.19,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ed_00059,in_ed_202512_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,24385.18,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ed_00060,in_ed_202512_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,13487.47,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ed_00061,in_ed_202601_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,176875.01,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ed_00062,in_ed_202601_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,91600.91,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ed_00063,in_ed_202601_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,24321.84,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ed_00064,in_ed_202601_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,13555.47,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ed_00065,in_ed_202602_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,174999.39,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ed_00066,in_ed_202602_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,97824.48,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ed_00067,in_ed_202602_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,23826.33,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ed_00068,in_ed_202602_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,14197.58,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ed_00069,in_ed_202603_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,174961.56,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ed_00070,in_ed_202603_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,99210.60,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ed_00071,in_ed_202603_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,25571.74,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ed_00072,in_ed_202603_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,13776.78,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ed_00073,in_ed_202604_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,186589.44,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ed_00074,in_ed_202604_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,100614.66,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ed_00075,in_ed_202604_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,23702.38,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ed_00076,in_ed_202604_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,14887.73,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ed_00077,in_ed_202605_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,175689.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ed_00078,in_ed_202605_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,96687.38,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ed_00079,in_ed_202605_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,26816.39,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ed_00080,in_ed_202605_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,14245.05,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ed_00081,in_ed_202606_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,177012.48,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ed_00082,in_ed_202606_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,95012.78,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ed_00083,in_ed_202606_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,26746.32,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ed_00084,in_ed_202606_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,14484.14,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ed_00085,in_ed_202607_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,180861.90,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ed_00086,in_ed_202607_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,96266.08,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ed_00087,in_ed_202607_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,26159.74,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ed_00088,in_ed_202607_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,15117.01,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ed_00089,in_ed_202608_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,192728.82,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ed_00090,in_ed_202608_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,101760.50,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ed_00091,in_ed_202608_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,26029.25,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ed_00092,in_ed_202608_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,14183.79,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ed_00093,in_ed_202609_-001,ed-chn-001,Marketvale marketplace payouts (synthetic),sub_ed-chn-001,price_ed_channel_payout_m,USD,178692.15,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ed_00094,in_ed_202609_-002,ed-chn-002,Own web store (synthetic),sub_ed-chn-002,price_ed_channel_payout_m,USD,100489.57,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ed_00095,in_ed_202609_-003,ed-chn-003,Wholesale — Trailhead Stores (synthetic),sub_ed-chn-003,price_ed_channel_payout_m,USD,27049.87,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ed_00096,in_ed_202609_-004,ed-chn-004,Wholesale — Fjord & Pine (synthetic),sub_ed-chn-004,price_ed_channel_payout_m,USD,15357.50,month,1,2026-09-01,2026-10-01,paid,2026-09-01

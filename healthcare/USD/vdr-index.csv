@@ -1,0 +1,7 @@
+doc_id,title,file,data_class,as_of
+H-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
+H-002,"Monthly claims billed, paid and denial rate by payer",claims-summary.csv,Financial,2026-09-30
+H-003,"Provider roster, pseudonymous, with credential expiry dates",provider-roster.csv,Financial,2026-09-30
+H-004,Medical-director agreement and time records,documents/01-medical-director-agreement.pdf,Business,2026-09-30
+H-005,Most recent privacy and security risk assessment,documents/02-privacy-risk-assessment.pdf,Business,2026-09-30
+H-006,"The extracts above as one paged document, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

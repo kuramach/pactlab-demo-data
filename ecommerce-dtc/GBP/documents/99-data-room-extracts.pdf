@@ -1,0 +1,54 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 233 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (Ridgeline Outfitters Ltd  data-room extracts \(synthetic demo data\)) Tj T* () Tj T* (Each page reproduces one structured extract from this folder. All names and figures are) Tj T* (fictional.) Tj T* ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 2319 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (orders-by-cohort.csv  Repeat purchase by first-purchase cohort) Tj T* () Tj T* (first_purchase_month | month | months_since_first | active_customers) Tj T* (2024-10 | 2024-10 | 0 | 2400) Tj T* (2024-10 | 2024-11 | 1 | 937) Tj T* (2024-10 | 2024-12 | 2 | 871) Tj T* (2024-10 | 2025-01 | 3 | 810) Tj T* (2024-10 | 2025-02 | 4 | 754) Tj T* (2024-10 | 2025-03 | 5 | 701) Tj T* (2024-10 | 2025-04 | 6 | 652) Tj T* (2024-10 | 2025-05 | 7 | 606) Tj T* (2024-10 | 2025-06 | 8 | 564) Tj T* (2024-10 | 2025-07 | 9 | 524) Tj T* (2025-01 | 2025-01 | 0 | 2340) Tj T* (2025-01 | 2025-02 | 1 | 914) Tj T* (2025-01 | 2025-03 | 2 | 850) Tj T* (2025-01 | 2025-04 | 3 | 790) Tj T* (2025-01 | 2025-05 | 4 | 735) Tj T* (2025-01 | 2025-06 | 5 | 683) Tj T* (2025-01 | 2025-07 | 6 | 635) Tj T* (2025-01 | 2025-08 | 7 | 591) Tj T* (2025-01 | 2025-09 | 8 | 549) Tj T* (2025-01 | 2025-10 | 9 | 511) Tj T* (2025-04 | 2025-04 | 0 | 2280) Tj T* (2025-04 | 2025-05 | 1 | 890) Tj T* (2025-04 | 2025-06 | 2 | 828) Tj T* (2025-04 | 2025-07 | 3 | 770) Tj T* (2025-04 | 2025-08 | 4 | 716) Tj T* (2025-04 | 2025-09 | 5 | 666) Tj T* (2025-04 | 2025-10 | 6 | 619) Tj T* (2025-04 | 2025-11 | 7 | 576) Tj T* (2025-04 | 2025-12 | 8 | 535) Tj T* (2025-04 | 2026-01 | 9 | 498) Tj T* (2025-07 | 2025-07 | 0 | 2220) Tj T* (2025-07 | 2025-08 | 1 | 598) Tj T* (2025-07 | 2025-09 | 2 | 556) Tj T* (2025-07 | 2025-10 | 3 | 517) Tj T* (2025-07 | 2025-11 | 4 | 481) Tj T* (2025-07 | 2025-12 | 5 | 447) Tj T* (2025-07 | 2026-01 | 6 | 416) Tj T* (2025-07 | 2026-02 | 7 | 387) Tj T* (2025-07 | 2026-03 | 8 | 360) Tj T* (2025-07 | 2026-04 | 9 | 335) Tj T* (2025-10 | 2025-10 | 0 | 2160) Tj T* (2025-10 | 2025-11 | 1 | 582) Tj T* (2025-10 | 2025-12 | 2 | 541) Tj T* (2025-10 | 2026-01 | 3 | 503) Tj T* (2025-10 | 2026-02 | 4 | 468) Tj T* (2025-10 | 2026-03 | 5 | 435) Tj T* (2025-10 | 2026-04 | 6 | 405) Tj T* (2025-10 | 2026-05 | 7 | 376) Tj T* (2025-10 | 2026-06 | 8 | 350) Tj T* (2025-10 | 2026-07 | 9 | 325) Tj T* (2026-01 | 2026-01 | 0 | 2100) Tj T* (2026-01 | 2026-02 | 1 | 566) Tj T* (2026-01 | 2026-03 | 2 | 526) Tj T* (2026-01 | 2026-04 | 3 | 489) Tj T* (2026-01 | 2026-05 | 4 | 455) Tj T* (2026-01 | 2026-06 | 5 | 423) Tj T* (2026-01 | 2026-07 | 6 | 394) Tj T* (2026-01 | 2026-08 | 7 | 366) Tj T* (2026-01 | 2026-09 | 8 | 340) Tj T* ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 1226 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (ad-spend.csv  Advertising spend and new customers by channel) Tj T* () Tj T* (month | channel | spend | new_customers) Tj T* (2025-10 | paid social | 23700.00 | 820) Tj T* (2025-10 | search | 14220.00 | 610) Tj T* (2025-11 | paid social | 24411.00 | 795) Tj T* (2025-11 | search | 14220.00 | 610) Tj T* (2025-12 | paid social | 25122.00 | 770) Tj T* (2025-12 | search | 14220.00 | 610) Tj T* (2026-01 | paid social | 25833.00 | 745) Tj T* (2026-01 | search | 14220.00 | 610) Tj T* (2026-02 | paid social | 26544.00 | 720) Tj T* (2026-02 | search | 14220.00 | 610) Tj T* (2026-03 | paid social | 27255.00 | 695) Tj T* (2026-03 | search | 14220.00 | 610) Tj T* (2026-04 | paid social | 27966.00 | 670) Tj T* (2026-04 | search | 14220.00 | 610) Tj T* (2026-05 | paid social | 28677.00 | 645) Tj T* (2026-05 | search | 14220.00 | 610) Tj T* (2026-06 | paid social | 29388.00 | 620) Tj T* (2026-06 | search | 14220.00 | 610) Tj T* (2026-07 | paid social | 30099.00 | 595) Tj T* (2026-07 | search | 14220.00 | 610) Tj T* (2026-08 | paid social | 30810.00 | 570) Tj T* (2026-08 | search | 14220.00 | 610) Tj T* (2026-09 | paid social | 31521.00 | 545) Tj T* (2026-09 | search | 14220.00 | 610) Tj T* ET
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000323 00000 n 
+0000000607 00000 n 
+0000000733 00000 n 
+0000003104 00000 n 
+0000003230 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+4508
+%%EOF
