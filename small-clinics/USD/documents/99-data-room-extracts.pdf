@@ -1,0 +1,65 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 232 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (Clearbrook Clinics Inc.  data-room extracts \(synthetic demo data\)) Tj T* () Tj T* (Each page reproduces one structured extract from this folder. All names and figures are) Tj T* (fictional.) Tj T* ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 3097 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (patient-volume.csv  Visits and revenue by site and pseudonymous provider) Tj T* () Tj T* (month | site | provider_ref | visits | revenue) Tj T* (2025-10 | Site 1 | P01 | 147 | 15435.00) Tj T* (2025-10 | Site 1 | P02 | 150 | 15750.00) Tj T* (2025-10 | Site 1 | P03 | 196 | 20580.00) Tj T* (2025-10 | Site 1 | P04 | 168 | 17640.00) Tj T* (2025-10 | Site 2 | P05 | 195 | 20475.00) Tj T* (2025-10 | Site 2 | P06 | 136 | 14280.00) Tj T* (2025-10 | Site 2 | P07 | 183 | 19215.00) Tj T* (2025-10 | Site 2 | P08 | 184 | 19320.00) Tj T* (2025-10 | Site 3 | P07 | 240 | 25200.00) Tj T* (2025-10 | Site 3 | P08 | 85 | 8925.00) Tj T* (2025-10 | Site 4 | P13 | 149 | 15645.00) Tj T* (2025-10 | Site 4 | P14 | 192 | 20160.00) Tj T* (2025-10 | Site 4 | P15 | 194 | 20370.00) Tj T* (2025-10 | Site 4 | P16 | 140 | 14700.00) Tj T* (2025-10 | Site 5 | P17 | 142 | 14910.00) Tj T* (2025-10 | Site 5 | P18 | 172 | 18060.00) Tj T* (2025-10 | Site 5 | P19 | 120 | 12600.00) Tj T* (2025-10 | Site 5 | P20 | 156 | 16380.00) Tj T* (2025-10 | Site 6 | P21 | 193 | 20265.00) Tj T* (2025-10 | Site 6 | P22 | 196 | 20580.00) Tj T* (2025-10 | Site 6 | P23 | 131 | 13755.00) Tj T* (2025-10 | Site 6 | P24 | 180 | 18900.00) Tj T* (2025-11 | Site 1 | P01 | 173 | 18165.00) Tj T* (2025-11 | Site 1 | P02 | 145 | 15225.00) Tj T* (2025-11 | Site 1 | P03 | 148 | 15540.00) Tj T* (2025-11 | Site 1 | P04 | 160 | 16800.00) Tj T* (2025-11 | Site 2 | P05 | 180 | 18900.00) Tj T* (2025-11 | Site 2 | P06 | 177 | 18585.00) Tj T* (2025-11 | Site 2 | P07 | 165 | 17325.00) Tj T* (2025-11 | Site 2 | P08 | 149 | 15645.00) Tj T* (2025-11 | Site 3 | P07 | 240 | 25200.00) Tj T* (2025-11 | Site 3 | P08 | 85 | 8925.00) Tj T* (2025-11 | Site 4 | P13 | 182 | 19110.00) Tj T* (2025-11 | Site 4 | P14 | 197 | 20685.00) Tj T* (2025-11 | Site 4 | P15 | 197 | 20685.00) Tj T* (2025-11 | Site 4 | P16 | 149 | 15645.00) Tj T* (2025-11 | Site 5 | P17 | 142 | 14910.00) Tj T* (2025-11 | Site 5 | P18 | 185 | 19425.00) Tj T* (2025-11 | Site 5 | P19 | 132 | 13860.00) Tj T* (2025-11 | Site 5 | P20 | 128 | 13440.00) Tj T* (2025-11 | Site 6 | P21 | 144 | 15120.00) Tj T* (2025-11 | Site 6 | P22 | 130 | 13650.00) Tj T* (2025-11 | Site 6 | P23 | 141 | 14805.00) Tj T* (2025-11 | Site 6 | P24 | 129 | 13545.00) Tj T* (2025-12 | Site 1 | P01 | 176 | 18480.00) Tj T* (2025-12 | Site 1 | P02 | 198 | 20790.00) Tj T* (2025-12 | Site 1 | P03 | 169 | 17745.00) Tj T* (2025-12 | Site 1 | P04 | 197 | 20685.00) Tj T* (2025-12 | Site 2 | P05 | 180 | 18900.00) Tj T* (2025-12 | Site 2 | P06 | 199 | 20895.00) Tj T* (2025-12 | Site 2 | P07 | 164 | 17220.00) Tj T* (2025-12 | Site 2 | P08 | 187 | 19635.00) Tj T* (2025-12 | Site 3 | P07 | 240 | 25200.00) Tj T* (2025-12 | Site 3 | P08 | 85 | 8925.00) Tj T* (2025-12 | Site 4 | P13 | 132 | 13860.00) Tj T* (2025-12 | Site 4 | P14 | 188 | 19740.00) Tj T* (2025-12 | Site 4 | P15 | 165 | 17325.00) Tj T* (2025-12 | Site 4 | P16 | 151 | 15855.00) Tj T* (2025-12 | Site 5 | P17 | 184 | 19320.00) Tj T* (2025-12 | Site 5 | P18 | 198 | 20790.00) Tj T* (& 204 more rows in patient-volume.csv) Tj T* ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 460 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (equipment-schedule.csv  Equipment with acquisition dates and useful lives) Tj T* () Tj T* (asset | site | acquired | useful_life_years | status) Tj T* (Panoramic X-ray unit | Site 1 | 2014-05-01 | 10 | in service) Tj T* (Panoramic X-ray unit | Site 4 | 2015-02-01 | 10 | in service) Tj T* (Dental chairs \(6\) | Site 2 | 2021-09-01 | 12 | in service) Tj T* (Shockwave therapy unit | Site 5 | 2023-03-01 | 8 | in service) Tj T* ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 302 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (coding-summary.csv  Share of visits billed at the highest complexity code) Tj T* () Tj T* (quarter | high_complexity_share | policy_benchmark) Tj T* (2025-Q4 | 0.31 | 0.15) Tj T* (2026-Q1 | 0.33 | 0.15) Tj T* (2026-Q2 | 0.34 | 0.15) Tj T* (2026-Q3 | 0.36 | 0.15) Tj T* ET
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000134 00000 n 
+0000000204 00000 n 
+0000000330 00000 n 
+0000000613 00000 n 
+0000000739 00000 n 
+0000003888 00000 n 
+0000004014 00000 n 
+0000004525 00000 n 
+0000004653 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+5007
+%%EOF

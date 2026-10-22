@@ -1,0 +1,76 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 234 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (Larkfield Residential Ltd  data-room extracts \(synthetic demo data\)) Tj T* () Tj T* (Each page reproduces one structured extract from this folder. All names and figures are) Tj T* (fictional.) Tj T* ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 5721 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (rent-roll.csv  Rent roll at 30 September 2026) Tj T* () Tj T* (unit | building | type | sqft | status | lease_start | lease_end | in_place_rent |) Tj T* (market_rent | balance_due) Tj T* (A01 | A | 1BR | 690 | occupied | 2025-06-01 | 2026-06-01 | 1099.68 | 1145.50 | 0.00) Tj T* (A02 | A | 1BR | 690 | occupied | 2026-06-01 | 2027-06-01 | 1088.23 | 1145.50 | 0.00) Tj T* (A03 | A | 1BR | 690 | occupied | 2024-11-01 | 2025-11-01 | 1088.23 | 1145.50 | 1145.50) Tj T* (A04 | A | 2BR | 960 | occupied | 2025-04-01 | 2026-04-01 | 1307.77 | 1406.20 | 0.00) Tj T* (A05 | A | 3BR | 1180 | occupied | 2025-09-01 | 2026-09-01 | 1596.59 | 1698.50 | 0.00) Tj T* (A06 | A | 2BR | 960 | occupied | 2024-11-01 | 2025-11-01 | 1307.77 | 1406.20 | 0.00) Tj T* (A07 | A | 2BR | 960 | occupied | 2024-12-01 | 2025-12-01 | 1265.58 | 1406.20 | 0.00) Tj T* (A08 | A | 2BR | 960 | occupied | 2026-05-01 | 2027-05-01 | 1265.58 | 1406.20 | 0.00) Tj T* (A09 | A | 1BR | 690 | occupied | 2025-06-01 | 2026-06-01 | 1019.50 | 1145.50 | 0.00) Tj T* (A10 | A | 2BR | 960 | occupied | 2024-10-01 | 2025-10-01 | 1307.77 | 1406.20 | 0.00) Tj T* (A11 | A | 1BR | 690 | occupied | 2026-06-01 | 2027-06-01 | 1076.77 | 1145.50 | 0.00) Tj T* (A12 | A | 1BR | 690 | occupied | 2025-11-01 | 2026-11-01 | 1042.41 | 1145.50 | 0.00) Tj T* (A13 | A | 3BR | 1180 | vacant | | | 0.00 | 1698.50 | 0.00) Tj T* (A14 | A | 1BR | 690 | occupied | 2025-06-01 | 2026-06-01 | 1030.95 | 1145.50 | 0.00) Tj T* (A15 | A | 3BR | 1180 | occupied | 2026-03-01 | 2027-03-01 | 1596.59 | 1698.50 | 0.00) Tj T* (A16 | A | 2BR | 960 | occupied | 2025-06-01 | 2026-06-01 | 1279.64 | 1406.20 | 0.00) Tj T* (A17 | A | 1BR | 690 | occupied | 2025-05-01 | 2026-05-01 | 1053.86 | 1145.50 | 0.00) Tj T* (A18 | A | 3BR | 1180 | occupied | 2024-12-01 | 2025-12-01 | 1545.64 | 1698.50 | 0.00) Tj T* (A19 | A | 1BR | 690 | occupied | 2025-10-01 | 2026-10-01 | 1042.41 | 1145.50 | 0.00) Tj T* (A20 | A | 1BR | 690 | occupied | 2025-05-01 | 2026-05-01 | 1065.32 | 1145.50 | 0.00) Tj T* (A21 | A | 3BR | 1180 | occupied | 2025-07-01 | 2026-07-01 | 1562.62 | 1698.50 | 0.00) Tj T* (A22 | A | 1BR | 690 | occupied | 2025-02-01 | 2026-02-01 | 1111.14 | 1145.50 | 0.00) Tj T* (A23 | A | 2BR | 960 | occupied | 2025-01-01 | 2026-01-01 | 1293.70 | 1406.20 | 0.00) Tj T* (A24 | A | 3BR | 1180 | occupied | 2025-03-01 | 2026-03-01 | 1511.67 | 1698.50 | 0.00) Tj T* (A25 | A | 2BR | 960 | occupied | 2025-07-01 | 2026-07-01 | 1251.52 | 1406.20 | 0.00) Tj T* (A26 | A | 1BR | 690 | occupied | 2026-01-01 | 2027-01-01 | 1042.41 | 1145.50 | 0.00) Tj T* (A27 | A | 2BR | 960 | occupied | 2025-07-01 | 2026-07-01 | 1335.89 | 1406.20 | 0.00) Tj T* (A28 | A | 3BR | 1180 | occupied | 2026-03-01 | 2027-03-01 | 1630.56 | 1698.50 | 0.00) Tj T* (A29 | A | 3BR | 1180 | occupied | 2026-04-01 | 2027-04-01 | 1613.58 | 1698.50 | 0.00) Tj T* (A30 | A | 1BR | 690 | occupied | 2025-02-01 | 2026-02-01 | 1019.50 | 1145.50 | 0.00) Tj T* (A31 | A | 1BR | 690 | occupied | 2025-02-01 | 2026-02-01 | 1030.95 | 1145.50 | 0.00) Tj T* (A32 | A | 3BR | 1180 | occupied | 2025-01-01 | 2026-01-01 | 1613.58 | 1698.50 | 0.00) Tj T* (B01 | B | 2BR | 960 | occupied | 2025-11-01 | 2026-11-01 | 1349.95 | 1406.20 | 0.00) Tj T* (B02 | B | 1BR | 690 | occupied | 2025-05-01 | 2026-05-01 | 1030.95 | 1145.50 | 0.00) Tj T* (B03 | B | 2BR | 960 | occupied | 2025-12-01 | 2026-12-01 | 1251.52 | 1406.20 | 0.00) Tj T* (B04 | B | 1BR | 690 | occupied | 2025-04-01 | 2026-04-01 | 1111.14 | 1145.50 | 0.00) Tj T* (B05 | B | 3BR | 1180 | occupied | 2026-03-01 | 2027-03-01 | 1613.58 | 1698.50 | 0.00) Tj T* (B06 | B | 3BR | 1180 | occupied | 2025-12-01 | 2026-12-01 | 1579.60 | 1698.50 | 0.00) Tj T* (B07 | B | 2BR | 960 | occupied | 2025-11-01 | 2026-11-01 | 1307.77 | 1406.20 | 0.00) Tj T* (B08 | B | 3BR | 1180 | occupied | 2025-12-01 | 2026-12-01 | 1630.56 | 1698.50 | 0.00) Tj T* (B09 | B | 2BR | 960 | occupied | 2025-12-01 | 2026-12-01 | 1279.64 | 1406.20 | 0.00) Tj T* (B10 | B | 3BR | 1180 | occupied | 2025-06-01 | 2026-06-01 | 1596.59 | 1698.50 | 0.00) Tj T* (B11 | B | 1BR | 690 | occupied | 2026-04-01 | 2027-04-01 | 1065.32 | 1145.50 | 0.00) Tj T* (B12 | B | 3BR | 1180 | occupied | 2025-11-01 | 2026-11-01 | 1528.65 | 1698.50 | 0.00) Tj T* (B13 | B | 2BR | 960 | occupied | 2025-07-01 | 2026-07-01 | 1307.77 | 1406.20 | 0.00) Tj T* (B14 | B | 3BR | 1180 | occupied | 2026-02-01 | 2027-02-01 | 1511.67 | 1698.50 | 0.00) Tj T* (B15 | B | 3BR | 1180 | occupied | 2025-10-01 | 2026-10-01 | 1562.62 | 1698.50 | 0.00) Tj T* (B16 | B | 1BR | 690 | occupied | 2026-04-01 | 2027-04-01 | 1042.41 | 1145.50 | 0.00) Tj T* (B17 | B | 2BR | 960 | occupied | 2026-03-01 | 2027-03-01 | 1335.89 | 1406.20 | 0.00) Tj T* (B18 | B | 2BR | 960 | occupied | 2025-04-01 | 2026-04-01 | 1293.70 | 1406.20 | 0.00) Tj T* (B19 | B | 1BR | 690 | vacant | | | 0.00 | 1145.50 | 0.00) Tj T* (B20 | B | 2BR | 960 | occupied | 2024-11-01 | 2025-11-01 | 1293.70 | 1406.20 | 0.00) Tj T* (B21 | B | 3BR | 1180 | occupied | 2025-10-01 | 2026-10-01 | 1511.67 | 1698.50 | 0.00) Tj T* (B22 | B | 2BR | 960 | occupied | 2026-01-01 | 2027-01-01 | 1265.58 | 1406.20 | 0.00) Tj T* (B23 | B | 1BR | 690 | occupied | 2025-03-01 | 2026-03-01 | 1099.68 | 1145.50 | 0.00) Tj T* (B24 | B | 1BR | 690 | occupied | 2025-04-01 | 2026-04-01 | 1053.86 | 1145.50 | 0.00) Tj T* (B25 | B | 2BR | 960 | occupied | 2025-09-01 | 2026-09-01 | 1251.52 | 1406.20 | 0.00) Tj T* (B26 | B | 3BR | 1180 | vacant | | | 0.00 | 1698.50 | 0.00) Tj T* (B27 | B | 1BR | 690 | occupied | 2026-04-01 | 2027-04-01 | 1088.23 | 1145.50 | 0.00) Tj T* (B28 | B | 3BR | 1180 | occupied | 2025-03-01 | 2026-03-01 | 1528.65 | 1698.50 | 0.00) Tj T* (& 36 more rows in rent-roll.csv) Tj T* ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 378 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (delinquency.csv  Delinquent balances at 30 September 2026) Tj T* () Tj T* (unit | building | balance_due | days_past_due) Tj T* (A03 | A | 1145.50 | 30) Tj T* (C01 | C | 2291.00 | 60) Tj T* (C05 | C | 2291.00 | 60) Tj T* (C08 | C | 1145.50 | 30) Tj T* (C18 | C | 1145.50 | 30) Tj T* (C27 | C | 1145.50 | 30) Tj T* (C29 | C | 2291.00 | 60) Tj T* ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 2108 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (unit-inspections.csv  Unit-condition inspections with repair estimates) Tj T* () Tj T* (unit | building | condition | estimated_repair_cost) Tj T* (A01 | A | fair | 2212.00) Tj T* (A02 | A | good | 0.00) Tj T* (A03 | A | fair | 2212.00) Tj T* (A04 | A | good | 0.00) Tj T* (A05 | A | fair | 2212.00) Tj T* (A06 | A | good | 0.00) Tj T* (A07 | A | good | 0.00) Tj T* (A08 | A | fair | 2212.00) Tj T* (A09 | A | fair | 2212.00) Tj T* (A10 | A | fair | 2212.00) Tj T* (A11 | A | fair | 2212.00) Tj T* (A12 | A | fair | 2212.00) Tj T* (A13 | A | good | 0.00) Tj T* (A14 | A | good | 0.00) Tj T* (A15 | A | poor | 7505.00) Tj T* (A16 | A | fair | 2212.00) Tj T* (A17 | A | poor | 7505.00) Tj T* (A18 | A | fair | 2212.00) Tj T* (A19 | A | fair | 2212.00) Tj T* (A20 | A | good | 0.00) Tj T* (A21 | A | good | 0.00) Tj T* (A22 | A | fair | 2212.00) Tj T* (A23 | A | poor | 7505.00) Tj T* (A24 | A | good | 0.00) Tj T* (A25 | A | good | 0.00) Tj T* (A26 | A | good | 0.00) Tj T* (A27 | A | good | 0.00) Tj T* (A28 | A | good | 0.00) Tj T* (A29 | A | fair | 2212.00) Tj T* (A30 | A | good | 0.00) Tj T* (A31 | A | good | 0.00) Tj T* (A32 | A | good | 0.00) Tj T* (B01 | B | good | 0.00) Tj T* (B02 | B | fair | 2212.00) Tj T* (B03 | B | good | 0.00) Tj T* (B04 | B | good | 0.00) Tj T* (B05 | B | fair | 2212.00) Tj T* (B06 | B | good | 0.00) Tj T* (B07 | B | fair | 2212.00) Tj T* (B08 | B | good | 0.00) Tj T* (B09 | B | good | 0.00) Tj T* (B10 | B | fair | 2212.00) Tj T* (B11 | B | good | 0.00) Tj T* (B12 | B | fair | 2212.00) Tj T* (B13 | B | good | 0.00) Tj T* (B14 | B | fair | 2212.00) Tj T* (B15 | B | good | 0.00) Tj T* (B16 | B | good | 0.00) Tj T* (B17 | B | poor | 7505.00) Tj T* (B18 | B | poor | 7505.00) Tj T* (B19 | B | good | 0.00) Tj T* (B20 | B | poor | 7505.00) Tj T* (B21 | B | fair | 2212.00) Tj T* (B22 | B | fair | 2212.00) Tj T* (B23 | B | good | 0.00) Tj T* (B24 | B | good | 0.00) Tj T* (B25 | B | good | 0.00) Tj T* (B26 | B | good | 0.00) Tj T* (B27 | B | good | 0.00) Tj T* (B28 | B | good | 0.00) Tj T* (& 36 more rows in unit-inspections.csv) Tj T* ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 918 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (t12.csv  Trailing-twelve-month operating statement \(T-12\)) Tj T* () Tj T* (month | rental_income | other_income | operating_expenses | net_operating_income) Tj T* (2025-10 | 118951.09 | 3318.00 | 51148.97 | 71120.12) Tj T* (2025-11 | 118951.09 | 3318.00 | 51148.97 | 71120.12) Tj T* (2025-12 | 118951.09 | 3318.00 | 51148.97 | 71120.12) Tj T* (2026-01 | 118951.09 | 3318.00 | 51148.97 | 71120.12) Tj T* (2026-02 | 118951.09 | 3318.00 | 51148.97 | 71120.12) Tj T* (2026-03 | 118951.09 | 3318.00 | 51148.97 | 71120.12) Tj T* (2026-04 | 118951.09 | 3318.00 | 51148.97 | 71120.12) Tj T* (2026-05 | 118951.09 | 3318.00 | 51148.97 | 71120.12) Tj T* (2026-06 | 118951.09 | 3318.00 | 51148.97 | 71120.12) Tj T* (2026-07 | 118951.09 | 3318.00 | 51148.97 | 71120.12) Tj T* (2026-08 | 118951.09 | 3318.00 | 51148.97 | 71120.12) Tj T* (2026-09 | 118951.09 | 3318.00 | 51148.97 | 71120.12) Tj T* ET
+endstream
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000141 00000 n 
+0000000211 00000 n 
+0000000337 00000 n 
+0000000622 00000 n 
+0000000748 00000 n 
+0000006521 00000 n 
+0000006647 00000 n 
+0000007076 00000 n 
+0000007204 00000 n 
+0000009365 00000 n 
+0000009493 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+10463
+%%EOF

@@ -1,0 +1,8 @@
+doc_id,title,file,data_class,as_of
+H-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
+H-002,Admissions and census by service line,census.csv,Financial,2026-09-30
+H-003,Gross charges and net revenue by payer,payer-mix.csv,Financial,2026-09-30
+H-004,Accreditation record and transfer condition,documents/01-accreditation-record.pdf,Business,2026-09-30
+H-005,Cost report summary with committed regulatory capex,documents/02-medicare-cost-report-summary.pdf,Financial,2026-09-30
+H-006,Aggregate physician dependence by service line,documents/03-service-line-dependence.pdf,Business,2026-09-30
+H-007,"The extracts above as one paged document, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

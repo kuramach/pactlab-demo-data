@@ -1,0 +1,8 @@
+doc_id,title,file,data_class,as_of
+F-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
+F-002,Loan-level tape for merchant working-capital loans,loan-tape.csv,Financial,2026-09-30
+F-003,Transaction-monitoring alerts and whether review evidence exists,aml-alerts.csv,Financial,2026-09-30
+F-004,Balance sheet extract with the credit-loss allowance,documents/01-balance-sheet-2026-09-30.pdf,Financial,2026-09-30
+F-005,Written AML alert-handling procedure,documents/02-aml-procedure.pdf,Business,2026-09-30
+F-006,Partner-bank program agreement,documents/03-partner-bank-agreement.pdf,Business,2026-09-30
+F-007,"The extracts above as one paged document, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

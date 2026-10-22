@@ -1,0 +1,5 @@
+doc_id,title,file,data_class,as_of
+SS-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
+SS-002,Management KPI pack with reported ARR,documents/01-board-kpi-pack-2026-09.pdf,Business,2026-09-30
+SS-003,"Largest customer contract, with change-of-control clause",documents/02-master-services-agreement-northgate.pdf,Business,2026-09-30
+SS-004,Balance sheet with debt and debt-like items,documents/03-balance-sheet-2026-09-30.pdf,Financial,2026-09-30

@@ -1,0 +1,5 @@
+family,product,jurisdiction,type,expiry
+PF-01,Product A,US,composition of matter,2028-03-31
+PF-01,Product A,EP,composition of matter,2028-06-30
+PF-02,Product A,US,formulation,2033-11-30
+PF-03,Product B,US,method of use,2031-08-31

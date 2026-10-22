@@ -1,0 +1,25 @@
+month,role_family,starters,leavers,headcount
+2025-10,Delivery,2,1,118
+2025-10,Support functions,1,0,22
+2025-11,Delivery,3,1,119
+2025-11,Support functions,1,1,22
+2025-12,Delivery,2,1,120
+2025-12,Support functions,1,0,22
+2026-01,Delivery,3,2,118
+2026-01,Support functions,1,1,22
+2026-02,Delivery,2,2,119
+2026-02,Support functions,1,0,22
+2026-03,Delivery,3,2,120
+2026-03,Support functions,1,1,22
+2026-04,Delivery,2,3,118
+2026-04,Support functions,1,0,22
+2026-05,Delivery,3,3,119
+2026-05,Support functions,1,1,22
+2026-06,Delivery,2,3,120
+2026-06,Support functions,1,0,22
+2026-07,Delivery,3,4,118
+2026-07,Support functions,1,1,22
+2026-08,Delivery,2,4,119
+2026-08,Support functions,1,0,22
+2026-09,Delivery,3,4,120
+2026-09,Support functions,1,1,22

@@ -1,0 +1,7 @@
+doc_id,title,file,data_class,as_of
+PB-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
+PB-002,"Patent families, products and expiry dates",patent-schedule.csv,Financial,2026-09-30
+PB-003,Development pipeline and next milestones,pipeline.csv,Financial,2026-09-30
+PB-004,Management revenue forecast and its exclusivity assumption,documents/01-revenue-forecast.pdf,Business,2026-09-30
+PB-005,Contract manufacturer inspection summary,documents/02-supplier-inspection-report.pdf,Business,2026-09-30
+PB-006,"The extracts above as one paged document, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
