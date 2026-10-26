@@ -1,0 +1,54 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 222 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (Loopwise Inc.  data-room extracts \(synthetic demo data\)) Tj T* () Tj T* (Each page reproduces one structured extract from this folder. All names and figures are) Tj T* (fictional.) Tj T* ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 1081 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (cap-table.csv  Cap table, one row per security \(pseudonymous holders\)) Tj T* () Tj T* (security_id | holder_ref | holder_type | instrument | shares | principal | valuation_cap |) Tj T* (discount_pct | mfn | pro_rata | vesting | issued_on) Tj T* (CS-1 | F-1 | founder | common | 4500000 | | | | no | no | yes | 2023-02-01) Tj T* (CS-2 | F-2 | founder | common | 3500000 | | | | no | no | yes | 2023-02-01) Tj T* (CS-3 | A-1 | advisor | common | 250000 | | | | no | no | yes | 2024-01-15) Tj T* (CS-4 | E-01 | employee | common | 750000 | | | | no | no | yes | 2024-04-01) Tj T* (OP-1 | E-02 | employee | option | 600000 | | | | no | no | yes | 2025-02-01) Tj T* (POOL | POOL | pool | pool_unallocated | 900000 | | | | no | no | no | 2024-01-15) Tj T* (SAFE-1 | I-1 | investor | safe | | 250000.00 | 8000000.00 | | yes | yes | no | 2024-11-15) Tj T* (SAFE-2 | I-2 | investor | safe | | 300000.00 | 10000000.00 | | no | yes | no | 2025-03-10) Tj T* (SAFE-3 | I-3 | investor | safe | | 400000.00 | 6000000.00 | 20 | no | yes | no | 2025-09-01) Tj T* ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 637 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (monthly-financials.csv  Cash balance and net burn by month) Tj T* () Tj T* (month | cash_balance | net_burn) Tj T* (2025-10 | 2710000.00 | 92000.00) Tj T* (2025-11 | 2615000.00 | 95000.00) Tj T* (2025-12 | 2517000.00 | 98000.00) Tj T* (2026-01 | 2416000.00 | 101000.00) Tj T* (2026-02 | 2312000.00 | 104000.00) Tj T* (2026-03 | 2205000.00 | 107000.00) Tj T* (2026-04 | 2095000.00 | 110000.00) Tj T* (2026-05 | 1982000.00 | 113000.00) Tj T* (2026-06 | 1866000.00 | 116000.00) Tj T* (2026-07 | 1747000.00 | 119000.00) Tj T* (2026-08 | 1625000.00 | 122000.00) Tj T* (2026-09 | 1500000.00 | 125000.00) Tj T* ET
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000323 00000 n 
+0000000596 00000 n 
+0000000722 00000 n 
+0000001855 00000 n 
+0000001981 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+2669
+%%EOF

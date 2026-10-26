@@ -4,4 +4,4 @@ CP-002,Commercial rent roll with expiries and market rents,rent-roll.csv,Financi
 CP-003,Common-area-maintenance expenses against tenant recoveries,cam-reconciliation.csv,Financial,2026-09-30
 CP-004,Phase I environmental site assessment,documents/01-phase-i-environmental-site-assessment.pdf,Business,2026-09-30
 CP-005,Lease abstract for the anchor tenant,documents/02-lease-abstract-corvane.pdf,Business,2026-09-30
-CP-006,"The extracts above as one paged document, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+CP-006,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

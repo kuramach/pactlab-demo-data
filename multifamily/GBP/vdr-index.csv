@@ -5,4 +5,4 @@ M-003,Delinquent balances at 30 September 2026,delinquency.csv,Financial,2026-09
 M-004,Unit-condition inspections with repair estimates,unit-inspections.csv,Financial,2026-09-30
 M-005,Trailing-twelve-month operating statement (T-12),t12.csv,Financial,2026-09-30
 M-006,Offering memorandum with stated NOI and capital plan,documents/01-offering-memorandum.pdf,Business,2026-09-30
-M-007,"The extracts above as one paged document, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+M-007,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

@@ -4,4 +4,4 @@ PB-002,"Patent families, products and expiry dates",patent-schedule.csv,Financia
 PB-003,Development pipeline and next milestones,pipeline.csv,Financial,2026-09-30
 PB-004,Management revenue forecast and its exclusivity assumption,documents/01-revenue-forecast.pdf,Business,2026-09-30
 PB-005,Contract manufacturer inspection summary,documents/02-supplier-inspection-report.pdf,Business,2026-09-30
-PB-006,"The extracts above as one paged document, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+PB-006,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

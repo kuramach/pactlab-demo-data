@@ -5,4 +5,4 @@ F-003,Transaction-monitoring alerts and whether review evidence exists,aml-alert
 F-004,Balance sheet extract with the credit-loss allowance,documents/01-balance-sheet-2026-09-30.pdf,Financial,2026-09-30
 F-005,Written AML alert-handling procedure,documents/02-aml-procedure.pdf,Business,2026-09-30
 F-006,Partner-bank program agreement,documents/03-partner-bank-agreement.pdf,Business,2026-09-30
-F-007,"The extracts above as one paged document, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+F-007,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
