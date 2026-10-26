@@ -8,7 +8,7 @@ This is a synthetic data set for the various pactlab pack. You can use this to t
 
 ```text
 <pack>/<CURRENCY>/
-  README.md              the target, each file, how to load it, and the planted findings
+  README.md              click-by-click guide: what to upload, which button, what you should see
   invoice-lines.csv      revenue lines on the Pactlab standard billing template
   <extract>.csv          pack evidence: rent rolls, T-12s, loan tapes, census, STR, …
   documents/*.pdf, *.md  agreements, reports and a paged copy of the extracts
@@ -33,14 +33,13 @@ Each pack comes in **USD**, **EUR** and **GBP**: the same business model as a se
 | [Commercial property](commercial-property/) | Quayside Estates owns Quayside Business Park, a 210,000 sq ft mixed office and light-industrial park with eleven tenants. | [USD](commercial-property/USD/) · [EUR](commercial-property/EUR/) · [GBP](commercial-property/GBP/) |
 | [Hospitals](hospitals/) | St. Brennan Health operates St. Brennan Regional Medical Center, a 220-bed acute-care hospital with cardiology, orthopaedics and maternity service lines. | [USD](hospitals/USD/) · [EUR](hospitals/EUR/) · [GBP](hospitals/GBP/) |
 | [Small clinics](small-clinics/) | Clearbrook Clinics runs six dental and physiotherapy clinics with 22 providers, paid by insurers and patients. | [USD](small-clinics/USD/) · [EUR](small-clinics/EUR/) · [GBP](small-clinics/GBP/) |
+| [Venture Raise](venture-raise/) | Loopwise is a seed-stage SaaS startup (scheduling and invoicing for field-service teams) raising a seed round. Founder-side: you are the founder testing your raise before investors do. | [USD](venture-raise/USD/) · [EUR](venture-raise/EUR/) · [GBP](venture-raise/GBP/) |
 
 ## Using a pack
 
-1. Download one `<pack>/<CURRENCY>/` folder.
-2. In Pactlab, **Start a Pact** with that currency as the base currency.
-3. **Sources → Upload billing export → Pactlab standard template** → `invoice-lines.csv`.
-4. **Documents** → upload the PDFs in `documents/`.
-5. Work through the **planted findings** listed in that folder's README.
+1. Download the repository (**Code → Download ZIP**) and open one `<pack>/<CURRENCY>/` folder.
+2. Open that folder's `README.md` and follow its numbered steps. Each step names the exact button, file and value to enter, and says what you should see.
+3. Upload only the files the README names: the CSVs and the **PDFs**. The `.md` files in `documents/` are the text the PDFs are built from, and `vdr-index.csv` is a reference list; never upload either.
 
 To adapt a pack to real data, keep the column headers and file layout and replace the values. Never commit real customer, employee or patient data to this repository.
 

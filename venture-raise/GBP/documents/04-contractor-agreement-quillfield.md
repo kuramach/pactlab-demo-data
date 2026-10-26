@@ -1,0 +1,4 @@
+Independent contractor agreement — Loopwise Ltd and Quillfield Design (synthetic)
+---page---
+2. Services. Contractor will design the mobile app screens and deliver the design files.
+4. Payment. The Company pays monthly against invoices.

@@ -1,0 +1,12 @@
+doc_id,title,file,data_class,as_of
+VR-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
+VR-002,"Cap table, one row per security (pseudonymous holders)",cap-table.csv,Financial,2026-09-30
+VR-003,Cash balance and net burn by month,monthly-financials.csv,Financial,2026-09-30
+VR-004,Seed round investor deck with headline metrics,documents/01-investor-deck.pdf,Business,2026-09-30
+VR-005,Certificate of incorporation with issued shares,documents/02-certificate-of-incorporation.pdf,Business,2026-09-30
+VR-006,Contractor agreement with IP assignment,documents/03-contractor-agreement-northbeam.pdf,Business,2026-09-30
+VR-007,Contractor agreement for app design,documents/04-contractor-agreement-quillfield.pdf,Business,2026-09-30
+VR-008,Founders 83(b) election confirmations,documents/05-83b-confirmations.pdf,Business,2026-09-30
+VR-009,Seed term sheet received from a venture fund,documents/06-term-sheet-harborline.pdf,Business,2026-09-30
+VR-010,Register of SAFEs signed before this round,documents/07-safe-register.pdf,Business,2026-09-30
+VR-011,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

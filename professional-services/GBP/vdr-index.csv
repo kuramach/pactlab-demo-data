@@ -4,4 +4,4 @@ PS-002,Available and billable hours by team (aggregate),timesheets-summary.csv,F
 PS-003,"Starters, leavers and headcount by role family (aggregate)",headcount-movements.csv,Financial,2026-09-30
 PS-004,Management pack with reported utilization,documents/01-management-pack-2026-09.pdf,Business,2026-09-30
 PS-005,Master services agreement with the largest client,documents/02-msa-meridian.pdf,Business,2026-09-30
-PS-006,"The extracts above as one paged document, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+PS-006,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

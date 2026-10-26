@@ -4,4 +4,4 @@ SC-002,Visits and revenue by site and pseudonymous provider,patient-volume.csv,F
 SC-003,Equipment with acquisition dates and useful lives,equipment-schedule.csv,Financial,2026-09-30
 SC-004,Share of visits billed at the highest complexity code,coding-summary.csv,Financial,2026-09-30
 SC-005,Coding and billing policy,documents/01-coding-policy.pdf,Business,2026-09-30
-SC-006,"The extracts above as one paged document, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+SC-006,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

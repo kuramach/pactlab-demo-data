@@ -4,4 +4,4 @@ H-002,Monthly operating history from the property-management system,operating-hi
 H-003,STR-style benchmark against the competitive set,str-benchmark.csv,Financial,2026-09-30
 H-004,Franchise agreement with transfer and PIP clauses,documents/01-franchise-agreement.pdf,Business,2026-09-30
 H-005,Third-party management contract,documents/02-management-contract.pdf,Business,2026-09-30
-H-006,"The extracts above as one paged document, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+H-006,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

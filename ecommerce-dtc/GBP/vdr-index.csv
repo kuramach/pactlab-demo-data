@@ -3,4 +3,4 @@ ED-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-0
 ED-002,Repeat purchase by first-purchase cohort,orders-by-cohort.csv,Financial,2026-09-30
 ED-003,Advertising spend and new customers by channel,ad-spend.csv,Financial,2026-09-30
 ED-004,Marketplace seller terms,documents/01-marketplace-seller-terms.pdf,Business,2026-09-30
-ED-005,"The extracts above as one paged document, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+ED-005,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
