@@ -1,0 +1,97 @@
+line_id,invoice_id,customer_id,customer_name,subscription_id,price_id,currency,amount,interval,interval_count,period_start,period_end,invoice_status,created
+il_sc_00001,in_sc_202410_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,97324.80,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_sc_00002,in_sc_202410_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,55393.20,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_sc_00003,in_sc_202410_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,40840.10,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_sc_00004,in_sc_202410_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,38057.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_sc_00005,in_sc_202411_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,94627.58,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_sc_00006,in_sc_202411_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,54416.53,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_sc_00007,in_sc_202411_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,40438.59,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_sc_00008,in_sc_202411_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,37433.84,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_sc_00009,in_sc_202412_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,99114.97,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_sc_00010,in_sc_202412_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,53216.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_sc_00011,in_sc_202412_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,40541.39,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_sc_00012,in_sc_202412_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,37667.06,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_sc_00013,in_sc_202501_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,99201.26,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_sc_00014,in_sc_202501_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,56442.03,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_sc_00015,in_sc_202501_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,41855.30,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_sc_00016,in_sc_202501_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,39614.32,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_sc_00017,in_sc_202502_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,100431.78,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_sc_00018,in_sc_202502_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,54245.28,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_sc_00019,in_sc_202502_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,42930.38,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_sc_00020,in_sc_202502_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,39044.83,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_sc_00021,in_sc_202503_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,100254.81,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_sc_00022,in_sc_202503_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,56874.99,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_sc_00023,in_sc_202503_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,42854.99,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_sc_00024,in_sc_202503_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,39988.08,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_sc_00025,in_sc_202504_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,96631.28,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_sc_00026,in_sc_202504_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,56875.60,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_sc_00027,in_sc_202504_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,41776.55,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_sc_00028,in_sc_202504_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,38437.82,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_sc_00029,in_sc_202505_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,99709.05,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_sc_00030,in_sc_202505_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,56187.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_sc_00031,in_sc_202505_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,41921.75,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_sc_00032,in_sc_202505_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,38724.45,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_sc_00033,in_sc_202506_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,97210.36,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_sc_00034,in_sc_202506_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,54613.39,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_sc_00035,in_sc_202506_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,42246.57,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_sc_00036,in_sc_202506_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,38751.98,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_sc_00037,in_sc_202507_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,101672.55,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_sc_00038,in_sc_202507_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,56953.60,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_sc_00039,in_sc_202507_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,41698.78,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_sc_00040,in_sc_202507_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,40150.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_sc_00041,in_sc_202508_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,100697.54,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_sc_00042,in_sc_202508_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,55467.40,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_sc_00043,in_sc_202508_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,42398.58,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_sc_00044,in_sc_202508_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,39919.36,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_sc_00045,in_sc_202509_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,99284.31,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_sc_00046,in_sc_202509_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,56925.58,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_sc_00047,in_sc_202509_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,43559.11,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_sc_00048,in_sc_202509_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,40143.04,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_sc_00049,in_sc_202510_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,99841.88,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_sc_00050,in_sc_202510_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,58001.37,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_sc_00051,in_sc_202510_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,42314.34,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_sc_00052,in_sc_202510_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,40501.10,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_sc_00053,in_sc_202511_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,103229.63,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_sc_00054,in_sc_202511_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,59121.07,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_sc_00055,in_sc_202511_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,42434.04,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_sc_00056,in_sc_202511_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,39815.66,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_sc_00057,in_sc_202512_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,103375.19,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_sc_00058,in_sc_202512_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,56654.59,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_sc_00059,in_sc_202512_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,44519.13,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_sc_00060,in_sc_202512_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,41848.40,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_sc_00061,in_sc_202601_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,102557.46,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_sc_00062,in_sc_202601_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,56833.11,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_sc_00063,in_sc_202601_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,43787.33,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_sc_00064,in_sc_202601_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,40939.66,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_sc_00065,in_sc_202602_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,107000.50,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_sc_00066,in_sc_202602_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,58749.03,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_sc_00067,in_sc_202602_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,44059.55,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_sc_00068,in_sc_202602_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,42354.36,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_sc_00069,in_sc_202603_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,102801.89,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_sc_00070,in_sc_202603_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,57014.92,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_sc_00071,in_sc_202603_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,45685.63,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_sc_00072,in_sc_202603_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,41561.03,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_sc_00073,in_sc_202604_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,103567.94,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_sc_00074,in_sc_202604_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,59745.59,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_sc_00075,in_sc_202604_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,44299.42,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_sc_00076,in_sc_202604_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,41644.12,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_sc_00077,in_sc_202605_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,106492.14,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_sc_00078,in_sc_202605_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,60845.77,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_sc_00079,in_sc_202605_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,46251.81,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_sc_00080,in_sc_202605_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,40824.63,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_sc_00081,in_sc_202606_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,107533.74,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_sc_00082,in_sc_202606_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,59413.77,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_sc_00083,in_sc_202606_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,45124.05,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_sc_00084,in_sc_202606_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,42540.25,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_sc_00085,in_sc_202607_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,109446.55,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_sc_00086,in_sc_202607_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,60412.40,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_sc_00087,in_sc_202607_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,46278.42,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_sc_00088,in_sc_202607_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,41525.05,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_sc_00089,in_sc_202608_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,109254.57,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_sc_00090,in_sc_202608_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,60985.65,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_sc_00091,in_sc_202608_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,46249.01,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_sc_00092,in_sc_202608_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,42775.88,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_sc_00093,in_sc_202609_-001,sc-pay-001,Insurer Bluepoint (synthetic),sub_sc-pay-001,price_sc_clinic_revenue_m,USD,106053.96,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_sc_00094,in_sc_202609_-002,sc-pay-002,Insurer Harrowgate (synthetic),sub_sc-pay-002,price_sc_clinic_revenue_m,USD,62362.55,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_sc_00095,in_sc_202609_-003,sc-pay-003,Government scheme (synthetic),sub_sc-pay-003,price_sc_clinic_revenue_m,USD,45569.78,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_sc_00096,in_sc_202609_-004,sc-pay-004,Patients — self-pay (synthetic),sub_sc-pay-004,price_sc_clinic_revenue_m,USD,42503.91,month,1,2026-09-01,2026-10-01,paid,2026-09-01

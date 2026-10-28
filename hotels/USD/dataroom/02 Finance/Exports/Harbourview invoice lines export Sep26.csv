@@ -1,0 +1,121 @@
+line_id,invoice_id,customer_id,customer_name,subscription_id,price_id,currency,amount,interval,interval_count,period_start,period_end,invoice_status,created
+il_h_00001,in_h_202410_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,243857.24,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_h_00002,in_h_202410_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,160588.92,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_h_00003,in_h_202410_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,107059.28,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_h_00004,in_h_202410_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,53529.64,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_h_00005,in_h_202410_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,29738.69,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_h_00006,in_h_202411_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,202300.56,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_h_00007,in_h_202411_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,133222.32,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_h_00008,in_h_202411_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,88814.88,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_h_00009,in_h_202411_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,44407.44,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_h_00010,in_h_202411_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,24670.80,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_h_00011,in_h_202412_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,196877.78,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_h_00012,in_h_202412_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,129651.22,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_h_00013,in_h_202412_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,86434.15,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_h_00014,in_h_202412_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,43217.07,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_h_00015,in_h_202412_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,24009.49,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_h_00016,in_h_202501_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,180593.44,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_h_00017,in_h_202501_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,118927.39,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_h_00018,in_h_202501_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,79284.93,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_h_00019,in_h_202501_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,39642.46,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_h_00020,in_h_202501_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,22023.59,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_h_00021,in_h_202502_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,191406.50,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_h_00022,in_h_202502_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,126048.18,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_h_00023,in_h_202502_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,84032.12,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_h_00024,in_h_202502_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,42016.06,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_h_00025,in_h_202502_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,23342.26,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_h_00026,in_h_202503_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,213275.62,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_h_00027,in_h_202503_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,140449.80,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_h_00028,in_h_202503_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,93633.20,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_h_00029,in_h_202503_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,46816.60,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_h_00030,in_h_202503_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,26009.22,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_h_00031,in_h_202504_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,229855.32,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_h_00032,in_h_202504_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,151368.13,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_h_00033,in_h_202504_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,100912.09,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_h_00034,in_h_202504_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,50456.04,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_h_00035,in_h_202504_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,28031.14,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_h_00036,in_h_202505_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,257985.91,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_h_00037,in_h_202505_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,169893.16,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_h_00038,in_h_202505_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,113262.11,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_h_00039,in_h_202505_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,56631.05,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_h_00040,in_h_202505_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,31461.70,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_h_00041,in_h_202506_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,309726.91,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_h_00042,in_h_202506_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,203966.50,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_h_00043,in_h_202506_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,135977.67,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_h_00044,in_h_202506_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,67988.83,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_h_00045,in_h_202506_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,37771.57,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_h_00046,in_h_202507_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,351222.15,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_h_00047,in_h_202507_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,231292.64,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_h_00048,in_h_202507_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,154195.09,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_h_00049,in_h_202507_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,77097.55,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_h_00050,in_h_202507_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,42831.97,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_h_00051,in_h_202508_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,345202.45,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_h_00052,in_h_202508_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,227328.44,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_h_00053,in_h_202508_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,151552.30,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_h_00054,in_h_202508_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,75776.15,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_h_00055,in_h_202508_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,42097.86,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_h_00056,in_h_202509_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,280756.26,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_h_00057,in_h_202509_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,184888.27,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_h_00058,in_h_202509_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,123258.84,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_h_00059,in_h_202509_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,61629.42,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_h_00060,in_h_202509_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,34238.57,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_h_00061,in_h_202510_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,247515.10,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_h_00062,in_h_202510_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,162997.75,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_h_00063,in_h_202510_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,108665.17,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_h_00064,in_h_202510_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,54332.58,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_h_00065,in_h_202510_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,30184.77,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_h_00066,in_h_202511_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,205335.07,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_h_00067,in_h_202511_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,135220.65,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_h_00068,in_h_202511_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,90147.10,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_h_00069,in_h_202511_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,45073.55,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_h_00070,in_h_202511_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,25040.86,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_h_00071,in_h_202512_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,199830.94,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_h_00072,in_h_202512_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,131595.99,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_h_00073,in_h_202512_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,87730.66,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_h_00074,in_h_202512_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,43865.33,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_h_00075,in_h_202512_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,24369.63,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_h_00076,in_h_202601_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,183302.34,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_h_00077,in_h_202601_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,120711.30,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_h_00078,in_h_202601_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,80474.20,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_h_00079,in_h_202601_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,40237.10,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_h_00080,in_h_202601_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,22353.94,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_h_00081,in_h_202602_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,194277.60,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_h_00082,in_h_202602_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,127938.91,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_h_00083,in_h_202602_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,85292.60,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_h_00084,in_h_202602_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,42646.30,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_h_00085,in_h_202602_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,23692.39,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_h_00086,in_h_202603_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,216474.76,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_h_00087,in_h_202603_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,142556.55,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_h_00088,in_h_202603_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,95037.70,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_h_00089,in_h_202603_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,47518.85,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_h_00090,in_h_202603_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,26399.36,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_h_00091,in_h_202604_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,233303.14,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_h_00092,in_h_202604_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,153638.66,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_h_00093,in_h_202604_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,102425.77,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_h_00094,in_h_202604_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,51212.89,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_h_00095,in_h_202604_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,28451.60,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_h_00096,in_h_202605_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,261855.70,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_h_00097,in_h_202605_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,172441.56,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_h_00098,in_h_202605_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,114961.04,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_h_00099,in_h_202605_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,57480.52,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_h_00100,in_h_202605_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,31933.62,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_h_00101,in_h_202606_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,314372.81,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_h_00102,in_h_202606_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,207026.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_h_00103,in_h_202606_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,138017.33,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_h_00104,in_h_202606_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,69008.67,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_h_00105,in_h_202606_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,38338.15,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_h_00106,in_h_202607_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,356490.48,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_h_00107,in_h_202607_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,234762.02,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_h_00108,in_h_202607_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,156508.02,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_h_00109,in_h_202607_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,78254.01,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_h_00110,in_h_202607_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,43474.45,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_h_00111,in_h_202608_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,350380.49,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_h_00112,in_h_202608_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,230738.37,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_h_00113,in_h_202608_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,153825.58,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_h_00114,in_h_202608_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,76912.79,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_h_00115,in_h_202608_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,42729.33,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_h_00116,in_h_202609_-001,h-chn-001,BookNest online travel agency (synthetic),sub_h-chn-001,price_h_room_revenue_m,USD,284967.60,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_h_00117,in_h_202609_-002,h-chn-002,Direct web and phone (synthetic),sub_h-chn-002,price_h_room_revenue_m,USD,187661.59,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_h_00118,in_h_202609_-003,h-chn-003,Corporate accounts (synthetic),sub_h-chn-003,price_h_room_revenue_m,USD,125107.73,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_h_00119,in_h_202609_-004,h-chn-004,Groups and events (synthetic),sub_h-chn-004,price_h_room_revenue_m,USD,62553.86,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_h_00120,in_h_202609_-005,h-chn-005,Food and beverage (synthetic),sub_h-chn-005,price_h_room_revenue_m,USD,34752.15,month,1,2026-09-01,2026-10-01,paid,2026-09-01

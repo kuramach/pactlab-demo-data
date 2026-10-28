@@ -1,0 +1,289 @@
+line_id,invoice_id,customer_id,customer_name,subscription_id,price_id,currency,amount,interval,interval_count,period_start,period_end,invoice_status,created
+il_tm_00001,in_tm_202410_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,100734.48,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_tm_00002,in_tm_202410_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,83455.04,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_tm_00003,in_tm_202410_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,75805.24,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_tm_00004,in_tm_202410_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,60046.56,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_tm_00005,in_tm_202410_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,49731.52,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_tm_00006,in_tm_202410_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,45134.28,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_tm_00007,in_tm_202410_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,36785.28,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_tm_00008,in_tm_202410_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,30468.56,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_tm_00009,in_tm_202410_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,27691.08,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_tm_00010,in_tm_202410_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28091.28,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_tm_00011,in_tm_202410_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23264.96,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_tm_00012,in_tm_202410_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21077.20,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_tm_00013,in_tm_202411_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,101043.60,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_tm_00014,in_tm_202411_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,83721.84,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_tm_00015,in_tm_202411_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,76023.28,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_tm_00016,in_tm_202411_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,60239.76,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_tm_00017,in_tm_202411_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,49891.60,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_tm_00018,in_tm_202411_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,45279.64,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_tm_00019,in_tm_202411_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,36901.20,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_tm_00020,in_tm_202411_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,30575.28,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_tm_00021,in_tm_202411_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,27763.76,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_tm_00022,in_tm_202411_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28168.56,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_tm_00023,in_tm_202411_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23318.32,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_tm_00024,in_tm_202411_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21149.88,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_tm_00025,in_tm_202412_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,101352.72,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_tm_00026,in_tm_202412_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,83988.64,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_tm_00027,in_tm_202412_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,76241.32,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_tm_00028,in_tm_202412_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,60394.32,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_tm_00029,in_tm_202412_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,50051.68,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_tm_00030,in_tm_202412_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,45425.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_tm_00031,in_tm_202412_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37017.12,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_tm_00032,in_tm_202412_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,30682.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_tm_00033,in_tm_202412_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,27836.44,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_tm_00034,in_tm_202412_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28245.84,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_tm_00035,in_tm_202412_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23371.68,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_tm_00036,in_tm_202412_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21222.56,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_tm_00037,in_tm_202501_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,101661.84,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_tm_00038,in_tm_202501_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,84202.08,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_tm_00039,in_tm_202501_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,76459.36,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_tm_00040,in_tm_202501_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,60587.52,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_tm_00041,in_tm_202501_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,50211.76,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_tm_00042,in_tm_202501_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,45570.36,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_tm_00043,in_tm_202501_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37133.04,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_tm_00044,in_tm_202501_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,30735.36,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_tm_00045,in_tm_202501_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,27909.12,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_tm_00046,in_tm_202501_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28323.12,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_tm_00047,in_tm_202501_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23478.40,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_tm_00048,in_tm_202501_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21295.24,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_tm_00049,in_tm_202502_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,101970.96,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_tm_00050,in_tm_202502_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,84468.88,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_tm_00051,in_tm_202502_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,76677.40,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_tm_00052,in_tm_202502_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,60780.72,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_tm_00053,in_tm_202502_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,50371.84,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_tm_00054,in_tm_202502_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,45715.72,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_tm_00055,in_tm_202502_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37248.96,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_tm_00056,in_tm_202502_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,30842.08,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_tm_00057,in_tm_202502_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,27981.80,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_tm_00058,in_tm_202502_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28400.40,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_tm_00059,in_tm_202502_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23531.76,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_tm_00060,in_tm_202502_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21367.92,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_tm_00061,in_tm_202503_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,102280.08,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_tm_00062,in_tm_202503_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,84735.68,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_tm_00063,in_tm_202503_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,76895.44,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_tm_00064,in_tm_202503_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,60973.92,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_tm_00065,in_tm_202503_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,50478.56,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_tm_00066,in_tm_202503_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,45861.08,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_tm_00067,in_tm_202503_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37364.88,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_tm_00068,in_tm_202503_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,30948.80,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_tm_00069,in_tm_202503_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28054.48,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_tm_00070,in_tm_202503_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28516.32,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_tm_00071,in_tm_202503_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23585.12,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_tm_00072,in_tm_202503_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21440.60,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_tm_00073,in_tm_202504_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,102589.20,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_tm_00074,in_tm_202504_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,85002.48,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_tm_00075,in_tm_202504_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,77186.16,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_tm_00076,in_tm_202504_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,61128.48,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_tm_00077,in_tm_202504_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,50638.64,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_tm_00078,in_tm_202504_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,46006.44,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_tm_00079,in_tm_202504_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37480.80,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_tm_00080,in_tm_202504_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,31055.52,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_tm_00081,in_tm_202504_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28199.84,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_tm_00082,in_tm_202504_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28593.60,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_tm_00083,in_tm_202504_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23691.84,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_tm_00084,in_tm_202504_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21513.28,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_tm_00085,in_tm_202505_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,102898.32,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_tm_00086,in_tm_202505_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,85215.92,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_tm_00087,in_tm_202505_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,77404.20,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_tm_00088,in_tm_202505_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,61321.68,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_tm_00089,in_tm_202505_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,50798.72,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_tm_00090,in_tm_202505_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,46151.80,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_tm_00091,in_tm_202505_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37596.72,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_tm_00092,in_tm_202505_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,31108.88,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_tm_00093,in_tm_202505_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28272.52,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_tm_00094,in_tm_202505_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28670.88,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_tm_00095,in_tm_202505_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23745.20,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_tm_00096,in_tm_202505_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21585.96,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_tm_00097,in_tm_202506_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,103207.44,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_tm_00098,in_tm_202506_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,85482.72,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_tm_00099,in_tm_202506_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,77622.24,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_tm_00100,in_tm_202506_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,61514.88,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_tm_00101,in_tm_202506_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,50958.80,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_tm_00102,in_tm_202506_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,46224.48,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_tm_00103,in_tm_202506_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37674.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_tm_00104,in_tm_202506_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,31215.60,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_tm_00105,in_tm_202506_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28345.20,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_tm_00106,in_tm_202506_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28748.16,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_tm_00107,in_tm_202506_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23798.56,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_tm_00108,in_tm_202506_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21585.96,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_tm_00109,in_tm_202507_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,103516.56,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_tm_00110,in_tm_202507_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,85749.52,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_tm_00111,in_tm_202507_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,77840.28,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_tm_00112,in_tm_202507_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,61708.08,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_tm_00113,in_tm_202507_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,51118.88,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_tm_00114,in_tm_202507_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,46369.84,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_tm_00115,in_tm_202507_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37789.92,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_tm_00116,in_tm_202507_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,31322.32,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_tm_00117,in_tm_202507_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28417.88,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_tm_00118,in_tm_202507_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28864.08,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_tm_00119,in_tm_202507_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23905.28,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_tm_00120,in_tm_202507_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21658.64,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_tm_00121,in_tm_202508_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,103825.68,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_tm_00122,in_tm_202508_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,86016.32,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_tm_00123,in_tm_202508_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,78058.32,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_tm_00124,in_tm_202508_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,61862.64,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_tm_00125,in_tm_202508_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,51278.96,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_tm_00126,in_tm_202508_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,46515.20,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_tm_00127,in_tm_202508_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37905.84,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_tm_00128,in_tm_202508_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,31429.04,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_tm_00129,in_tm_202508_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28490.56,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_tm_00130,in_tm_202508_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28941.36,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_tm_00131,in_tm_202508_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23958.64,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_tm_00132,in_tm_202508_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21731.32,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_tm_00133,in_tm_202509_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,104134.80,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_tm_00134,in_tm_202509_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,86283.12,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_tm_00135,in_tm_202509_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,78349.04,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_tm_00136,in_tm_202509_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,62055.84,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_tm_00137,in_tm_202509_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,51439.04,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_tm_00138,in_tm_202509_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,46660.56,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_tm_00139,in_tm_202509_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,38021.76,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_tm_00140,in_tm_202509_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,31482.40,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_tm_00141,in_tm_202509_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28563.24,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_tm_00142,in_tm_202509_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,29018.64,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_tm_00143,in_tm_202509_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,24012.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_tm_00144,in_tm_202509_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21804.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_tm_00145,in_tm_202510_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,104443.92,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_tm_00146,in_tm_202510_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,86496.56,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_tm_00147,in_tm_202510_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,78567.08,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_tm_00148,in_tm_202510_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,62249.04,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_tm_00149,in_tm_202510_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,51545.76,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_tm_00150,in_tm_202510_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,46805.92,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_tm_00151,in_tm_202510_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,38137.68,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_tm_00152,in_tm_202510_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,31589.12,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_tm_00153,in_tm_202510_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28708.60,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_tm_00154,in_tm_202510_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,29095.92,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_tm_00155,in_tm_202510_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,24118.72,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_tm_00156,in_tm_202510_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21876.68,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_tm_00157,in_tm_202511_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,104753.04,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_tm_00158,in_tm_202511_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,86763.36,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_tm_00159,in_tm_202511_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,78785.12,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_tm_00160,in_tm_202511_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,62442.24,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_tm_00161,in_tm_202511_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,51705.84,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_tm_00162,in_tm_202511_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,46951.28,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_tm_00163,in_tm_202511_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,38253.60,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_tm_00164,in_tm_202511_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,31695.84,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_tm_00165,in_tm_202511_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28781.28,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_tm_00166,in_tm_202511_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,29211.84,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_tm_00167,in_tm_202511_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,24172.08,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_tm_00168,in_tm_202511_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21949.36,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_tm_00169,in_tm_202512_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,105062.16,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_tm_00170,in_tm_202512_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,87030.16,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_tm_00171,in_tm_202512_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,79003.16,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_tm_00172,in_tm_202512_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,62635.44,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_tm_00173,in_tm_202512_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,51865.92,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_tm_00174,in_tm_202512_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,47096.64,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_tm_00175,in_tm_202512_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,38369.52,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_tm_00176,in_tm_202512_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,31802.56,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_tm_00177,in_tm_202512_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28853.96,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_tm_00178,in_tm_202512_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,29289.12,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_tm_00179,in_tm_202512_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,24225.44,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_tm_00180,in_tm_202512_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,22022.04,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_tm_00181,in_tm_202601_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,104521.20,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_tm_00182,in_tm_202601_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,86603.28,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_tm_00183,in_tm_202601_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,78639.76,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_tm_00184,in_tm_202601_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,62326.32,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_tm_00185,in_tm_202601_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,51599.12,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_tm_00186,in_tm_202601_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,46878.60,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_tm_00187,in_tm_202601_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,38176.32,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_tm_00188,in_tm_202601_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,31642.48,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_tm_00189,in_tm_202601_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28708.60,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_tm_00190,in_tm_202601_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,29134.56,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_tm_00191,in_tm_202601_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,24118.72,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_tm_00192,in_tm_202601_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21876.68,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_tm_00193,in_tm_202602_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,104018.88,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_tm_00194,in_tm_202602_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,86176.40,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_tm_00195,in_tm_202602_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,78203.68,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_tm_00196,in_tm_202602_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,62017.20,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_tm_00197,in_tm_202602_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,51385.68,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_tm_00198,in_tm_202602_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,46660.56,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_tm_00199,in_tm_202602_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37983.12,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_tm_00200,in_tm_202602_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,31482.40,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_tm_00201,in_tm_202602_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28563.24,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_tm_00202,in_tm_202602_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28980.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_tm_00203,in_tm_202602_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,24012.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_tm_00204,in_tm_202602_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21804.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_tm_00205,in_tm_202603_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,103477.92,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_tm_00206,in_tm_202603_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,85749.52,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_tm_00207,in_tm_202603_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,77840.28,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_tm_00208,in_tm_202603_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,61708.08,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_tm_00209,in_tm_202603_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,51118.88,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_tm_00210,in_tm_202603_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,46369.84,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_tm_00211,in_tm_202603_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37789.92,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_tm_00212,in_tm_202603_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,31322.32,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_tm_00213,in_tm_202603_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28417.88,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_tm_00214,in_tm_202603_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28864.08,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_tm_00215,in_tm_202603_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23905.28,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_tm_00216,in_tm_202603_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21658.64,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_tm_00217,in_tm_202604_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,102975.60,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_tm_00218,in_tm_202604_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,85322.64,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_tm_00219,in_tm_202604_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,77476.88,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_tm_00220,in_tm_202604_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,61398.96,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_tm_00221,in_tm_202604_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,50852.08,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_tm_00222,in_tm_202604_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,46151.80,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_tm_00223,in_tm_202604_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37596.72,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_tm_00224,in_tm_202604_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,31162.24,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_tm_00225,in_tm_202604_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28272.52,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_tm_00226,in_tm_202604_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28709.52,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_tm_00227,in_tm_202604_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23745.20,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_tm_00228,in_tm_202604_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21585.96,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_tm_00229,in_tm_202605_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,102473.28,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_tm_00230,in_tm_202605_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,84895.76,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_tm_00231,in_tm_202605_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,77040.80,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_tm_00232,in_tm_202605_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,61089.84,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_tm_00233,in_tm_202605_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,50585.28,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_tm_00234,in_tm_202605_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,45933.76,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_tm_00235,in_tm_202605_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37442.16,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_tm_00236,in_tm_202605_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,31002.16,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_tm_00237,in_tm_202605_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,28127.16,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_tm_00238,in_tm_202605_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28554.96,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_tm_00239,in_tm_202605_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23638.48,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_tm_00240,in_tm_202605_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21440.60,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_tm_00241,in_tm_202606_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,101932.32,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_tm_00242,in_tm_202606_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,84468.88,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_tm_00243,in_tm_202606_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,76677.40,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_tm_00244,in_tm_202606_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,60780.72,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_tm_00245,in_tm_202606_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,50318.48,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_tm_00246,in_tm_202606_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,45715.72,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_tm_00247,in_tm_202606_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37248.96,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_tm_00248,in_tm_202606_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,30842.08,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_tm_00249,in_tm_202606_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,27981.80,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_tm_00250,in_tm_202606_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28400.40,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_tm_00251,in_tm_202606_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23531.76,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_tm_00252,in_tm_202606_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21367.92,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_tm_00253,in_tm_202607_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,101430.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_tm_00254,in_tm_202607_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,84042.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_tm_00255,in_tm_202607_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,76314.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_tm_00256,in_tm_202607_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,60471.60,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_tm_00257,in_tm_202607_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,50105.04,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_tm_00258,in_tm_202607_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,45497.68,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_tm_00259,in_tm_202607_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,37055.76,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_tm_00260,in_tm_202607_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,30682.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_tm_00261,in_tm_202607_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,27836.44,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_tm_00262,in_tm_202607_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28284.48,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_tm_00263,in_tm_202607_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23425.04,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_tm_00264,in_tm_202607_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21222.56,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_tm_00265,in_tm_202608_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,100927.68,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_tm_00266,in_tm_202608_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,83615.12,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_tm_00267,in_tm_202608_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,75950.60,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_tm_00268,in_tm_202608_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,60162.48,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_tm_00269,in_tm_202608_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,49838.24,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_tm_00270,in_tm_202608_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,45279.64,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_tm_00271,in_tm_202608_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,36862.56,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_tm_00272,in_tm_202608_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,30521.92,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_tm_00273,in_tm_202608_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,27691.08,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_tm_00274,in_tm_202608_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,28129.92,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_tm_00275,in_tm_202608_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23318.32,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_tm_00276,in_tm_202608_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21149.88,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_tm_00277,in_tm_202609_or-1,tm-nor-1,North region — Fibre 500 subscribers (synthetic),sub_tm-nor-1,price_tm_subscriber_plan_m,EUR,100425.36,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_tm_00278,in_tm_202609_or-2,tm-nor-2,North region — Fibre 1000 subscribers (synthetic),sub_tm-nor-2,price_tm_subscriber_plan_m,EUR,83188.24,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_tm_00279,in_tm_202609_or-3,tm-nor-3,North region — Fibre + TV subscribers (synthetic),sub_tm-nor-3,price_tm_subscriber_plan_m,EUR,75514.52,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_tm_00280,in_tm_202609_en-1,tm-cen-1,Central region — Fibre 500 subscribers (synthetic),sub_tm-cen-1,price_tm_subscriber_plan_m,EUR,59853.36,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_tm_00281,in_tm_202609_en-2,tm-cen-2,Central region — Fibre 1000 subscribers (synthetic),sub_tm-cen-2,price_tm_subscriber_plan_m,EUR,49571.44,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_tm_00282,in_tm_202609_en-3,tm-cen-3,Central region — Fibre + TV subscribers (synthetic),sub_tm-cen-3,price_tm_subscriber_plan_m,EUR,44988.92,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_tm_00283,in_tm_202609_ak-1,tm-lak-1,Lakes region — Fibre 500 subscribers (synthetic),sub_tm-lak-1,price_tm_subscriber_plan_m,EUR,36669.36,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_tm_00284,in_tm_202609_ak-2,tm-lak-2,Lakes region — Fibre 1000 subscribers (synthetic),sub_tm-lak-2,price_tm_subscriber_plan_m,EUR,30361.84,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_tm_00285,in_tm_202609_ak-3,tm-lak-3,Lakes region — Fibre + TV subscribers (synthetic),sub_tm-lak-3,price_tm_subscriber_plan_m,EUR,27545.72,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_tm_00286,in_tm_202609_al-1,tm-val-1,Valley region — Fibre 500 subscribers (synthetic),sub_tm-val-1,price_tm_subscriber_plan_m,EUR,27975.36,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_tm_00287,in_tm_202609_al-2,tm-val-2,Valley region — Fibre 1000 subscribers (synthetic),sub_tm-val-2,price_tm_subscriber_plan_m,EUR,23158.24,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_tm_00288,in_tm_202609_al-3,tm-val-3,Valley region — Fibre + TV subscribers (synthetic),sub_tm-val-3,price_tm_subscriber_plan_m,EUR,21004.52,month,1,2026-09-01,2026-10-01,paid,2026-09-01

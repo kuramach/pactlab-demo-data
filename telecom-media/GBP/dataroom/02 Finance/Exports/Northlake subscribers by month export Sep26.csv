@@ -1,0 +1,145 @@
+month,region,plan,billed_subscribers,arpu
+2025-10,North,Fibre 500,2703,33.18
+2025-11,North,Fibre 500,2711,33.18
+2025-12,North,Fibre 500,2719,33.18
+2026-01,North,Fibre 500,2705,33.18
+2026-02,North,Fibre 500,2692,33.18
+2026-03,North,Fibre 500,2678,33.18
+2026-04,North,Fibre 500,2665,33.18
+2026-05,North,Fibre 500,2652,33.18
+2026-06,North,Fibre 500,2638,33.18
+2026-07,North,Fibre 500,2625,33.18
+2026-08,North,Fibre 500,2612,33.18
+2026-09,North,Fibre 500,2599,33.18
+2025-10,North,Fibre 1000,1621,45.82
+2025-11,North,Fibre 1000,1626,45.82
+2025-12,North,Fibre 1000,1631,45.82
+2026-01,North,Fibre 1000,1623,45.82
+2026-02,North,Fibre 1000,1615,45.82
+2026-03,North,Fibre 1000,1607,45.82
+2026-04,North,Fibre 1000,1599,45.82
+2026-05,North,Fibre 1000,1591,45.82
+2026-06,North,Fibre 1000,1583,45.82
+2026-07,North,Fibre 1000,1575,45.82
+2026-08,North,Fibre 1000,1567,45.82
+2026-09,North,Fibre 1000,1559,45.82
+2025-10,North,Fibre + TV,1081,62.41
+2025-11,North,Fibre + TV,1084,62.41
+2025-12,North,Fibre + TV,1087,62.41
+2026-01,North,Fibre + TV,1082,62.41
+2026-02,North,Fibre + TV,1076,62.41
+2026-03,North,Fibre + TV,1071,62.41
+2026-04,North,Fibre + TV,1066,62.41
+2026-05,North,Fibre + TV,1060,62.41
+2026-06,North,Fibre + TV,1055,62.41
+2026-07,North,Fibre + TV,1050,62.41
+2026-08,North,Fibre + TV,1045,62.41
+2026-09,North,Fibre + TV,1039,62.41
+2025-10,Central,Fibre 500,1611,33.18
+2025-11,Central,Fibre 500,1616,33.18
+2025-12,Central,Fibre 500,1621,33.18
+2026-01,Central,Fibre 500,1613,33.18
+2026-02,Central,Fibre 500,1605,33.18
+2026-03,Central,Fibre 500,1597,33.18
+2026-04,Central,Fibre 500,1589,33.18
+2026-05,Central,Fibre 500,1581,33.18
+2026-06,Central,Fibre 500,1573,33.18
+2026-07,Central,Fibre 500,1565,33.18
+2026-08,Central,Fibre 500,1557,33.18
+2026-09,Central,Fibre 500,1549,33.18
+2025-10,Central,Fibre 1000,966,45.82
+2025-11,Central,Fibre 1000,969,45.82
+2025-12,Central,Fibre 1000,972,45.82
+2026-01,Central,Fibre 1000,967,45.82
+2026-02,Central,Fibre 1000,963,45.82
+2026-03,Central,Fibre 1000,958,45.82
+2026-04,Central,Fibre 1000,953,45.82
+2026-05,Central,Fibre 1000,948,45.82
+2026-06,Central,Fibre 1000,943,45.82
+2026-07,Central,Fibre 1000,939,45.82
+2026-08,Central,Fibre 1000,934,45.82
+2026-09,Central,Fibre 1000,929,45.82
+2025-10,Central,Fibre + TV,644,62.41
+2025-11,Central,Fibre + TV,646,62.41
+2025-12,Central,Fibre + TV,648,62.41
+2026-01,Central,Fibre + TV,645,62.41
+2026-02,Central,Fibre + TV,642,62.41
+2026-03,Central,Fibre + TV,638,62.41
+2026-04,Central,Fibre + TV,635,62.41
+2026-05,Central,Fibre + TV,632,62.41
+2026-06,Central,Fibre + TV,629,62.41
+2026-07,Central,Fibre + TV,626,62.41
+2026-08,Central,Fibre + TV,623,62.41
+2026-09,Central,Fibre + TV,619,62.41
+2025-10,Lakes,Fibre 500,987,33.18
+2025-11,Lakes,Fibre 500,990,33.18
+2025-12,Lakes,Fibre 500,993,33.18
+2026-01,Lakes,Fibre 500,988,33.18
+2026-02,Lakes,Fibre 500,983,33.18
+2026-03,Lakes,Fibre 500,978,33.18
+2026-04,Lakes,Fibre 500,973,33.18
+2026-05,Lakes,Fibre 500,969,33.18
+2026-06,Lakes,Fibre 500,964,33.18
+2026-07,Lakes,Fibre 500,959,33.18
+2026-08,Lakes,Fibre 500,954,33.18
+2026-09,Lakes,Fibre 500,949,33.18
+2025-10,Lakes,Fibre 1000,592,45.82
+2025-11,Lakes,Fibre 1000,594,45.82
+2025-12,Lakes,Fibre 1000,596,45.82
+2026-01,Lakes,Fibre 1000,593,45.82
+2026-02,Lakes,Fibre 1000,590,45.82
+2026-03,Lakes,Fibre 1000,587,45.82
+2026-04,Lakes,Fibre 1000,584,45.82
+2026-05,Lakes,Fibre 1000,581,45.82
+2026-06,Lakes,Fibre 1000,578,45.82
+2026-07,Lakes,Fibre 1000,575,45.82
+2026-08,Lakes,Fibre 1000,572,45.82
+2026-09,Lakes,Fibre 1000,569,45.82
+2025-10,Lakes,Fibre + TV,395,62.41
+2025-11,Lakes,Fibre + TV,396,62.41
+2025-12,Lakes,Fibre + TV,397,62.41
+2026-01,Lakes,Fibre + TV,395,62.41
+2026-02,Lakes,Fibre + TV,393,62.41
+2026-03,Lakes,Fibre + TV,391,62.41
+2026-04,Lakes,Fibre + TV,389,62.41
+2026-05,Lakes,Fibre + TV,387,62.41
+2026-06,Lakes,Fibre + TV,385,62.41
+2026-07,Lakes,Fibre + TV,383,62.41
+2026-08,Lakes,Fibre + TV,381,62.41
+2026-09,Lakes,Fibre + TV,379,62.41
+2025-10,Valley,Fibre 500,753,33.18
+2025-11,Valley,Fibre 500,756,33.18
+2025-12,Valley,Fibre 500,758,33.18
+2026-01,Valley,Fibre 500,754,33.18
+2026-02,Valley,Fibre 500,750,33.18
+2026-03,Valley,Fibre 500,747,33.18
+2026-04,Valley,Fibre 500,743,33.18
+2026-05,Valley,Fibre 500,739,33.18
+2026-06,Valley,Fibre 500,735,33.18
+2026-07,Valley,Fibre 500,732,33.18
+2026-08,Valley,Fibre 500,728,33.18
+2026-09,Valley,Fibre 500,724,33.18
+2025-10,Valley,Fibre 1000,452,45.82
+2025-11,Valley,Fibre 1000,453,45.82
+2025-12,Valley,Fibre 1000,454,45.82
+2026-01,Valley,Fibre 1000,452,45.82
+2026-02,Valley,Fibre 1000,450,45.82
+2026-03,Valley,Fibre 1000,448,45.82
+2026-04,Valley,Fibre 1000,445,45.82
+2026-05,Valley,Fibre 1000,443,45.82
+2026-06,Valley,Fibre 1000,441,45.82
+2026-07,Valley,Fibre 1000,439,45.82
+2026-08,Valley,Fibre 1000,437,45.82
+2026-09,Valley,Fibre 1000,434,45.82
+2025-10,Valley,Fibre + TV,301,62.41
+2025-11,Valley,Fibre + TV,302,62.41
+2025-12,Valley,Fibre + TV,303,62.41
+2026-01,Valley,Fibre + TV,301,62.41
+2026-02,Valley,Fibre + TV,300,62.41
+2026-03,Valley,Fibre + TV,298,62.41
+2026-04,Valley,Fibre + TV,297,62.41
+2026-05,Valley,Fibre + TV,295,62.41
+2026-06,Valley,Fibre + TV,294,62.41
+2026-07,Valley,Fibre + TV,292,62.41
+2026-08,Valley,Fibre + TV,291,62.41
+2026-09,Valley,Fibre + TV,289,62.41

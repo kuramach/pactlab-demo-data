@@ -57,7 +57,20 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 
 **You should see:** all 3 documents listed on the **Documents** tab.
 
-## Step 4 — Run the checks and review the findings
+## Step 4 — Connect the code and delivery data (Engineering)
+
+Code and delivery data come through their APIs, never as files. Local and dev Pactlab include a synthetic Brightwave repository and Jira site for this:
+
+1. Open the **Sources** tab → **Connect synthetic code and Jira data**.
+2. Repository: **brightwave/platform** · Jira site: **brightwave.atlassian.net (BW)** → **Connect and sync**.
+3. Pactlab opens **Engineering** when the sync finishes (a few seconds).
+
+**You should see** on **Engineering**: the Brightwave team (six engineers and a product manager who files work but never commits), `billing/` maintained by one person, one engineer marked departed, and delivery slipping in the last two sprints. On **Findings**, two engineering drafts:
+
+- **Single-contributor concentration in billing/** — one engineer wrote every billing change.
+- **Commits attributed to unmatched or departed identities** — commits still arrive under an engineer who left in May.
+
+## Step 5 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run software & saas checks**.
 2. **You should see exactly these 4 findings** (running the checks again adds nothing):
@@ -69,7 +82,7 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
-## Step 5 — Test the price
+## Step 6 — Test the price
 
 1. Open the **Valuation** tab → **New scenario**.
 2. Fill in the valuation method's fields — the hint under each field says where its number comes from (usually the **Finances** tab) — and save.
@@ -90,4 +103,30 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 
 ## Notes
 
-- Code and delivery data (GitHub, Jira) connect through their APIs, not files: in a local or dev Pactlab, use **Sources → Connect synthetic code and Jira data**.
+- Code and delivery data (GitHub, Jira) connect through their APIs, never files. The synthetic Brightwave repository and Jira site in the Engineering step are built into local and dev Pactlab; production connects the real ones.
+
+## Intake test — hand over the whole data room
+
+`dataroom/` is the same material arranged the way a seller hands it over, and `dataroom.zip` is that folder zipped.
+Use it to check that Pactlab sorts files on its own and asks only when unsure.
+
+1. Open the pact's **Diligence** tab, then **Documents**.
+2. Drop `dataroom.zip` on the upload box and click **Upload**. In local and dev Pactlab you can instead connect the synthetic **Brightwave Software** data room under **Data room**, then **Sync now**.
+3. Watch each file get its own row. Clear files are filed with no click from you.
+4. Answer the one question under **Pactlab needs you**.
+
+**You should see** each file filed as:
+
+| File in the data room | Pactlab should file it as | Note |
+|---|---|---|
+| `02 Finance/Board kpi pack 2026 09.pdf` | Other |  |
+| `02 Finance/Brightwave FY26 summary.md` | Pactlab asks: income statement or cash flow statement? | Mixes profit and cash flow lines. |
+| `02 Finance/Exports/Brightwave invoice lines export Sep26.csv` | Invoice lines |  |
+| `02 Finance/Mgmt accounts FY26 - Brightwave.md` | Income statement (P&L) | Revenue matches the invoice lines for Oct 2025 – Sep 2026. |
+| `03 Commercial/Customers/Master services agreement northgate (signed copy).pdf` | Duplicate — shown once | Same bytes as the agreement above. |
+| `03 Commercial/Customers/Master services agreement northgate.pdf` | Customer contract |  |
+| `04 Legal/Balance sheet 2026 09 30.pdf` | Balance sheet | In the Legal folder, but it is a balance sheet: the content decides. |
+
+**And on the Intake checklist**, these should show as missing: **Cash flow statement**.
+Once billing is imported, **Customer contract** shows **Some missing** and names the largest billed customers with no contract in the room.
+Click **Ask the seller** (or **Copy request for missing items**) to send the list.

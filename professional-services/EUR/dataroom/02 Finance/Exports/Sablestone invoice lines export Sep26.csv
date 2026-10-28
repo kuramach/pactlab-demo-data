@@ -1,0 +1,193 @@
+line_id,invoice_id,customer_id,customer_name,subscription_id,price_id,currency,amount,interval,interval_count,period_start,period_end,invoice_status,created
+il_ps_00001,in_ps_202410_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,106128.26,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00002,in_ps_202410_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,49390.02,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00003,in_ps_202410_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,35673.18,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00004,in_ps_202410_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,28964.91,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00005,in_ps_202410_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24417.54,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00006,in_ps_202410_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,16911.07,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00007,in_ps_202410_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,12720.29,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00008,in_ps_202410_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10257.63,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00009,in_ps_202411_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,112874.43,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00010,in_ps_202411_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,48626.95,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00011,in_ps_202411_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,33695.85,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00012,in_ps_202411_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,27866.69,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00013,in_ps_202411_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24111.74,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00014,in_ps_202411_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,16386.82,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00015,in_ps_202411_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,12507.37,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00016,in_ps_202411_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10266.15,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00017,in_ps_202412_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,109955.48,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00018,in_ps_202412_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,49612.32,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00019,in_ps_202412_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,35254.34,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00020,in_ps_202412_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,27748.16,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00021,in_ps_202412_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24034.59,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00022,in_ps_202412_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,16759.52,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00023,in_ps_202412_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,12515.85,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00024,in_ps_202412_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10278.65,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00025,in_ps_202501_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,105780.85,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00026,in_ps_202501_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,47273.75,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00027,in_ps_202501_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,35041.54,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00028,in_ps_202501_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,29717.97,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00029,in_ps_202501_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24624.57,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00030,in_ps_202501_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,16397.51,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00031,in_ps_202501_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,12649.34,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00032,in_ps_202501_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10504.12,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00033,in_ps_202502_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,110572.15,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00034,in_ps_202502_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,49154.48,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00035,in_ps_202502_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,34158.65,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00036,in_ps_202502_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,29999.13,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00037,in_ps_202502_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24130.03,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00038,in_ps_202502_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,17324.62,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00039,in_ps_202502_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,13417.12,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00040,in_ps_202502_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10019.65,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00041,in_ps_202503_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,108312.17,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00042,in_ps_202503_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,48706.88,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00043,in_ps_202503_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,35265.37,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00044,in_ps_202503_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,29025.15,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00045,in_ps_202503_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24099.65,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00046,in_ps_202503_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,17022.25,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00047,in_ps_202503_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,12924.18,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00048,in_ps_202503_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10121.67,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00049,in_ps_202504_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,115416.92,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00050,in_ps_202504_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,48862.50,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00051,in_ps_202504_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,34403.82,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00052,in_ps_202504_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,29421.68,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00053,in_ps_202504_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24911.45,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00054,in_ps_202504_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,16866.45,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00055,in_ps_202504_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,12875.61,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00056,in_ps_202504_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10655.55,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00057,in_ps_202505_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,112216.91,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00058,in_ps_202505_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,48172.43,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00059,in_ps_202505_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,35548.06,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00060,in_ps_202505_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,30102.47,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00061,in_ps_202505_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24843.83,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00062,in_ps_202505_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,17117.83,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00063,in_ps_202505_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,12731.09,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00064,in_ps_202505_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10098.74,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00065,in_ps_202506_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,109348.12,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00066,in_ps_202506_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,51368.18,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00067,in_ps_202506_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,37466.10,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00068,in_ps_202506_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,30057.99,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00069,in_ps_202506_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,25456.89,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00070,in_ps_202506_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,16974.30,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00071,in_ps_202506_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,13819.26,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00072,in_ps_202506_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10628.12,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00073,in_ps_202507_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,114376.79,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00074,in_ps_202507_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,49768.58,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00075,in_ps_202507_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,35398.14,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00076,in_ps_202507_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,28901.08,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00077,in_ps_202507_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24487.57,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00078,in_ps_202507_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,17083.39,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00079,in_ps_202507_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,13538.08,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00080,in_ps_202507_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10788.13,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00081,in_ps_202508_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,115557.38,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00082,in_ps_202508_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,51082.91,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00083,in_ps_202508_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,35539.74,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00084,in_ps_202508_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,30845.07,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00085,in_ps_202508_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24017.93,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00086,in_ps_202508_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,16662.27,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00087,in_ps_202508_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,13227.63,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00088,in_ps_202508_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10890.26,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00089,in_ps_202509_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,115157.52,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00090,in_ps_202509_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,50747.38,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00091,in_ps_202509_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,35360.44,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00092,in_ps_202509_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,29907.56,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00093,in_ps_202509_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,25933.55,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00094,in_ps_202509_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,16673.55,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00095,in_ps_202509_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,13781.19,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00096,in_ps_202509_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10333.20,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00097,in_ps_202510_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,110880.44,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00098,in_ps_202510_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,50247.74,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00099,in_ps_202510_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,35384.52,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00100,in_ps_202510_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,30721.32,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00101,in_ps_202510_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24862.90,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00102,in_ps_202510_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,17671.41,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00103,in_ps_202510_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,14009.27,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00104,in_ps_202510_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10824.68,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00105,in_ps_202511_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,112010.02,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00106,in_ps_202511_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,48836.31,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00107,in_ps_202511_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,36719.09,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00108,in_ps_202511_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,28969.77,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00109,in_ps_202511_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24619.71,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00110,in_ps_202511_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,17637.44,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00111,in_ps_202511_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,13544.37,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00112,in_ps_202511_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10603.63,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00113,in_ps_202512_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,112779.50,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00114,in_ps_202512_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,52451.53,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00115,in_ps_202512_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,38196.87,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00116,in_ps_202512_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,31305.37,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00117,in_ps_202512_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24991.37,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00118,in_ps_202512_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,17133.61,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00119,in_ps_202512_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,13576.75,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00120,in_ps_202512_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10676.01,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00121,in_ps_202601_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,112815.69,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00122,in_ps_202601_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,52803.55,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00123,in_ps_202601_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,37236.14,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00124,in_ps_202601_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,29892.37,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00125,in_ps_202601_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,26279.87,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00126,in_ps_202601_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,17103.68,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00127,in_ps_202601_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,13291.92,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00128,in_ps_202601_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10985.18,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00129,in_ps_202602_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,114192.71,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00130,in_ps_202602_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,51484.91,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00131,in_ps_202602_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,36624.86,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00132,in_ps_202602_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,29391.76,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00133,in_ps_202602_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,25650.66,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00134,in_ps_202602_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,17221.52,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00135,in_ps_202602_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,13954.68,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00136,in_ps_202602_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,11046.38,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00137,in_ps_202603_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,119808.01,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00138,in_ps_202603_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,49786.23,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00139,in_ps_202603_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,38327.82,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00140,in_ps_202603_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,29887.81,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00141,in_ps_202603_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24872.64,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00142,in_ps_202603_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,17935.52,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00143,in_ps_202603_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,13244.09,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00144,in_ps_202603_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10943.27,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00145,in_ps_202604_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,120613.86,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00146,in_ps_202604_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,50417.17,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00147,in_ps_202604_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,37128.81,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00148,in_ps_202604_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,30828.64,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00149,in_ps_202604_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,26586.22,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00150,in_ps_202604_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,17914.73,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00151,in_ps_202604_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,13850.64,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00152,in_ps_202604_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,11230.62,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00153,in_ps_202605_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,116318.04,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00154,in_ps_202605_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,49607.29,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00155,in_ps_202605_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,37262.24,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00156,in_ps_202605_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,30755.04,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00157,in_ps_202605_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,25856.48,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00158,in_ps_202605_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,17350.40,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00159,in_ps_202605_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,13444.74,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00160,in_ps_202605_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10969.85,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00161,in_ps_202606_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,119134.97,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00162,in_ps_202606_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,53743.75,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00163,in_ps_202606_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,39289.42,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00164,in_ps_202606_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,29654.80,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00165,in_ps_202606_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,24975.40,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00166,in_ps_202606_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,18316.62,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00167,in_ps_202606_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,13950.51,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00168,in_ps_202606_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10882.20,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00169,in_ps_202607_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,122208.68,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00170,in_ps_202607_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,53625.77,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00171,in_ps_202607_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,36724.55,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00172,in_ps_202607_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,30182.80,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00173,in_ps_202607_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,26729.65,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00174,in_ps_202607_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,18375.48,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00175,in_ps_202607_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,14308.85,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00176,in_ps_202607_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,10599.98,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00177,in_ps_202608_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,115159.30,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00178,in_ps_202608_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,51980.83,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00179,in_ps_202608_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,37237.88,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00180,in_ps_202608_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,30428.09,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00181,in_ps_202608_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,26627.64,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00182,in_ps_202608_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,18557.47,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00183,in_ps_202608_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,13651.72,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00184,in_ps_202608_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,11336.25,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00185,in_ps_202609_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,EUR,121569.92,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00186,in_ps_202609_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,EUR,52356.56,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00187,in_ps_202609_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,EUR,39808.77,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00188,in_ps_202609_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,EUR,30624.83,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00189,in_ps_202609_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,EUR,25423.14,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00190,in_ps_202609_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,EUR,18312.21,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00191,in_ps_202609_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,EUR,14192.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00192,in_ps_202609_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,EUR,11359.41,month,1,2026-09-01,2026-10-01,paid,2026-09-01
