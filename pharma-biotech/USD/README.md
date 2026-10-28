@@ -14,6 +14,14 @@ Based in Columbus, Ohio, United States; reports in USD. Data runs October 2024 t
 - `vdr-index.csv` is for reference only (how a data room would list these files). Do not upload it.
 - Text in **bold** below is a button, tab or option exactly as Pactlab shows it.
 
+## Two ways to test this company
+
+- **Part A — Buyer side** (Steps 1 onwards): you are a buyer doing diligence on Calvera Pharmaceuticals Inc..
+- **Part B — Seller side** ([below](#part-b--seller-side-run-a-bid-process)): you are Calvera Pharmaceuticals Inc., inviting several buyers — they ask questions, then offer or pass, and you choose one. Uses `bidders.csv`.
+- Each part starts its own Pact, so you can do either one, or both.
+
+# Part A — Buyer side
+
 ## Step 1 — Start the Pact
 
 1. Click **Start a Pact** (top right).
@@ -87,6 +95,95 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 
 **You should see:** **Asking vs Sextant** — the asking price against the value the evidence supports, before and after the findings you accepted.
 
+# Part B — Seller side: run a bid process
+
+Here you are Calvera Pharmaceuticals Inc. You invite three bidders from `bidders.csv`, share a little, answer their questions and choose one.
+Each bidder sees only their own bid — never another bidder's questions, offers or whether they passed. Part B checks that too.
+
+**Addresses.** This folder holds no email addresses. Invite **an address you can read for each firm**: your own address with `+` and the firm's tag from `bidders.csv` added before the @ (for tag `harbor`: *yourname+harbor* at your email domain — Gmail, Outlook and most providers deliver it to you). On your own computer (`pnpm dev`) any made-up address works: every email Pactlab sends, invitations and sign-in codes, is written to `apps/api/.data/mail/`.
+
+## Step B1 — Start the Pact as the seller
+
+1. Click **Start a Pact** (top right).
+2. Under *Who are you in this deal?* choose **We are selling (or raising)**. Pact name: `Project Calvera Sale` · Base currency: **USD** → **Next**. (There is no buying-entity step.)
+3. **Selling entity** — Legal or trading name: `Calvera Pharmaceuticals Inc.` · **Private** · What kind of company is it?: **Pharma & biotech** → **Next**.
+4. **Asking price** — enter the same asking price as Part A, Step 1 (`38000000`) → **Next**.
+5. **Review and start** — the Buyer box says *Bid process — you invite buyers once the pact starts* → **Start Pact**.
+
+**You should see:** the **Bidders** page, with no bidders yet.
+
+## Step B2 — Decide what bidders see
+
+On **Bidders**, under **What bidders see**:
+
+| Field | Enter |
+|---|---|
+| Shared summary | `Calvera Pharmaceuticals Inc. is a specialty-pharma company earning royalties and supply revenue on two marketed products, with one late-stage programme.` |
+| Your data room (link) | `https://dataroom.example/pharma-biotech` (Pactlab is not the data room; this is where you would grant access) |
+| NDA | `Mutual NDA (synthetic): everything shared about Calvera Pharmaceuticals Inc. stays confidential.` |
+| Offer deadline (UTC) | a date a week from today |
+
+→ **Save**.
+
+Then open the **Documents** tab and upload `documents/01-revenue-forecast.pdf` with **Share with bidders** ticked (it is chosen at upload and cannot be changed later). Upload nothing else as shared — the rest stays with you.
+
+**You should see:** "Saved. Bidders see the shared view once they accept the NDA." On Documents, `01-revenue-forecast.pdf` is listed.
+
+## Step B3 — Add the three bidders and invite them
+
+On **Bidders**, for each row of `bidders.csv`:
+
+| Bidding firm | Then invite | Tag |
+|---|---|---|
+| `Harbor Capital Partners (synthetic)` → **Add bidder** | your address with `+harbor` in *Invite someone from Harbor Capital Partners (synthetic)* → **Invite** | `harbor` |
+| `Northline Strategic (synthetic)` → **Add bidder** | your address with `+northline` in *Invite someone from Northline Strategic (synthetic)* → **Invite** | `northline` |
+| `Atlas Growth Equity (synthetic)` → **Add bidder** | your address with `+atlas` in *Invite someone from Atlas Growth Equity (synthetic)* → **Invite** | `atlas` |
+
+**You should see:** three firms marked **Invited**, each listing the address you invited.
+
+## Step B4 — Be each bidder (a private window per bidder)
+
+For each bidder: open the invitation link (from the email, or the newest file in `apps/api/.data/mail/`) in a **private window**, create the account with the firm's name, sign in with the code, then **Accept and open the pact**.
+
+1. You land on **Your bid** and see only the NDA. Click **I accept the NDA** — the shared summary, the data-room link and the shared document appear.
+2. **Harbor Capital Partners (synthetic)**: ask `Can any customer or supplier contract be ended on a change of control?` → **Ask**. Then offer:
+
+   | Field | Enter |
+   |---|---|
+   | Price | `35000000` (USD 35,000,000) |
+   | Currency | `USD` |
+   | Structure (cash, shares, earn-out…) | `Cash at close for 100% of the shares` |
+   | Conditions | `Subject to confirmatory diligence and committed financing` |
+
+   → **Submit offer**.
+3. **Northline Strategic (synthetic)**: ask `Can you share the last three years of audited accounts?` → **Ask**. Then offer **Price** `32000000` (USD 32,000,000), **Structure** `80% cash at close, 20% earn-out over 24 months`, **Conditions** `Key-person retention for the founders` → **Submit offer**.
+4. **Atlas Growth Equity (synthetic)**: accept the NDA, then type `Outside our sector focus this year.` as the reason → **Pass on this pact**.
+
+**You should see**, as Northline Strategic (synthetic): your own question and offer only — nothing of Harbor Capital Partners (synthetic)'s question or offer, and no sign that Atlas Growth Equity (synthetic) passed. There are no deal tabs; trying `/deals/<id>/bidders` shows nothing of the seller's side.
+
+## Step B5 — Answer the questions
+
+Back as the seller (your normal window), on **Bidders** under **Questions from bidders**:
+
+- Harbor Capital Partners (synthetic)'s question → answer `One customer contract has a change-of-control clause; it is in the shared documents.` → choose **All bidders (without naming who asked)** → **Answer**.
+- Northline Strategic (synthetic)'s question → answer `FY2024 and FY2025 are audited; FY2026 closes in December. We will add them to the data room.` → keep **Only Northline Strategic (synthetic)** → **Answer**.
+
+**You should see**, as Northline Strategic (synthetic) (refresh **Your bid**): your private answer, and under *Answered to all bidders* the change-of-control question — without the name of who asked it. Harbor Capital Partners (synthetic) sees the answer to all, but not Northline Strategic (synthetic)'s private one.
+
+## Step B6 — Compare the offers
+
+On **Bidders**, **Offers side by side** sets the two offers next to each other — price, structure, conditions, version. Pactlab does not rank them or recommend one.
+
+**You should see:** Harbor Capital Partners (synthetic) at USD 35,000,000 and Northline Strategic (synthetic) at USD 32,000,000; Atlas Growth Equity (synthetic) marked **Passed** with its reason.
+
+## Step B7 — Shortlist, run round 2 and choose
+
+1. Click **Shortlist** on Harbor Capital Partners (synthetic) and on Northline Strategic (synthetic), then **Start round 2 with 2 shortlisted**.
+2. As each bidder, submit a revised offer on **Your bid**: Harbor Capital Partners (synthetic) `37000000`, Northline Strategic (synthetic) `33000000` → **Submit revised offer**. Every version stays listed.
+3. As the seller, click **Award to Harbor Capital Partners (synthetic)**.
+
+**You should see:** "Awarded. Every other bidder has been declined and their access ended." Harbor Capital Partners (synthetic)'s **Your bid** says **Selected by the seller**; Northline Strategic (synthetic) can no longer open the pact. The **Team** tab and the audit log record every step.
+
 ## Every file in this folder
 
 | File | What it is | Upload it? |
@@ -97,6 +194,7 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 | `documents/01-revenue-forecast.pdf` | Management revenue forecast and its exclusivity assumption | **Yes** — documents step |
 | `documents/02-supplier-inspection-report.pdf` | Contract manufacturer inspection summary | **Yes** — documents step |
 | `documents/99-data-room-extracts.pdf` | Every CSV extract in this folder as one paged PDF, so findings can cite a page | **Yes** — documents step |
+| `bidders.csv` | The three bidding firms for Part B: who to invite, what each asks and offers | **No** — read it while you follow Part B |
 | `documents/*.md` | The text each PDF is built from | **No** — never |
 | `vdr-index.csv` | Index of every file, as a data room would list it | **No** — reference only |
 
