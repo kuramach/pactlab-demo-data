@@ -1,0 +1,265 @@
+line_id,invoice_id,customer_id,customer_name,subscription_id,price_id,currency,amount,interval,interval_count,period_start,period_end,invoice_status,created
+il_cp_00001,in_cp_202410_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_cp_00002,in_cp_202410_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_cp_00003,in_cp_202410_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_cp_00004,in_cp_202410_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_cp_00005,in_cp_202410_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_cp_00006,in_cp_202410_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_cp_00007,in_cp_202410_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_cp_00008,in_cp_202410_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_cp_00009,in_cp_202410_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_cp_00010,in_cp_202410_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_cp_00011,in_cp_202410_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_cp_00012,in_cp_202411_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_cp_00013,in_cp_202411_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_cp_00014,in_cp_202411_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_cp_00015,in_cp_202411_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_cp_00016,in_cp_202411_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_cp_00017,in_cp_202411_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_cp_00018,in_cp_202411_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_cp_00019,in_cp_202411_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_cp_00020,in_cp_202411_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_cp_00021,in_cp_202411_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_cp_00022,in_cp_202411_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_cp_00023,in_cp_202412_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_cp_00024,in_cp_202412_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_cp_00025,in_cp_202412_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_cp_00026,in_cp_202412_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_cp_00027,in_cp_202412_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_cp_00028,in_cp_202412_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_cp_00029,in_cp_202412_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_cp_00030,in_cp_202412_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_cp_00031,in_cp_202412_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_cp_00032,in_cp_202412_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_cp_00033,in_cp_202412_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_cp_00034,in_cp_202501_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_cp_00035,in_cp_202501_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_cp_00036,in_cp_202501_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_cp_00037,in_cp_202501_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_cp_00038,in_cp_202501_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_cp_00039,in_cp_202501_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_cp_00040,in_cp_202501_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_cp_00041,in_cp_202501_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_cp_00042,in_cp_202501_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_cp_00043,in_cp_202501_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_cp_00044,in_cp_202501_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_cp_00045,in_cp_202502_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_cp_00046,in_cp_202502_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_cp_00047,in_cp_202502_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_cp_00048,in_cp_202502_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_cp_00049,in_cp_202502_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_cp_00050,in_cp_202502_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_cp_00051,in_cp_202502_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_cp_00052,in_cp_202502_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_cp_00053,in_cp_202502_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_cp_00054,in_cp_202502_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_cp_00055,in_cp_202502_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_cp_00056,in_cp_202503_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_cp_00057,in_cp_202503_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_cp_00058,in_cp_202503_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_cp_00059,in_cp_202503_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_cp_00060,in_cp_202503_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_cp_00061,in_cp_202503_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_cp_00062,in_cp_202503_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_cp_00063,in_cp_202503_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_cp_00064,in_cp_202503_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_cp_00065,in_cp_202503_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_cp_00066,in_cp_202503_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_cp_00067,in_cp_202504_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_cp_00068,in_cp_202504_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_cp_00069,in_cp_202504_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_cp_00070,in_cp_202504_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_cp_00071,in_cp_202504_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_cp_00072,in_cp_202504_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_cp_00073,in_cp_202504_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_cp_00074,in_cp_202504_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_cp_00075,in_cp_202504_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_cp_00076,in_cp_202504_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_cp_00077,in_cp_202504_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_cp_00078,in_cp_202505_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_cp_00079,in_cp_202505_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_cp_00080,in_cp_202505_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_cp_00081,in_cp_202505_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_cp_00082,in_cp_202505_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_cp_00083,in_cp_202505_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_cp_00084,in_cp_202505_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_cp_00085,in_cp_202505_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_cp_00086,in_cp_202505_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_cp_00087,in_cp_202505_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_cp_00088,in_cp_202505_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_cp_00089,in_cp_202506_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_cp_00090,in_cp_202506_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_cp_00091,in_cp_202506_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_cp_00092,in_cp_202506_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_cp_00093,in_cp_202506_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_cp_00094,in_cp_202506_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_cp_00095,in_cp_202506_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_cp_00096,in_cp_202506_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_cp_00097,in_cp_202506_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_cp_00098,in_cp_202506_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_cp_00099,in_cp_202506_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_cp_00100,in_cp_202507_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_cp_00101,in_cp_202507_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_cp_00102,in_cp_202507_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_cp_00103,in_cp_202507_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_cp_00104,in_cp_202507_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_cp_00105,in_cp_202507_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_cp_00106,in_cp_202507_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_cp_00107,in_cp_202507_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_cp_00108,in_cp_202507_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_cp_00109,in_cp_202507_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_cp_00110,in_cp_202507_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_cp_00111,in_cp_202508_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_cp_00112,in_cp_202508_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_cp_00113,in_cp_202508_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_cp_00114,in_cp_202508_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_cp_00115,in_cp_202508_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_cp_00116,in_cp_202508_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_cp_00117,in_cp_202508_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_cp_00118,in_cp_202508_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_cp_00119,in_cp_202508_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_cp_00120,in_cp_202508_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_cp_00121,in_cp_202508_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_cp_00122,in_cp_202509_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_cp_00123,in_cp_202509_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_cp_00124,in_cp_202509_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_cp_00125,in_cp_202509_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_cp_00126,in_cp_202509_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_cp_00127,in_cp_202509_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_cp_00128,in_cp_202509_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_cp_00129,in_cp_202509_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_cp_00130,in_cp_202509_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_cp_00131,in_cp_202509_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_cp_00132,in_cp_202509_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_cp_00133,in_cp_202510_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_cp_00134,in_cp_202510_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_cp_00135,in_cp_202510_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_cp_00136,in_cp_202510_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_cp_00137,in_cp_202510_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_cp_00138,in_cp_202510_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_cp_00139,in_cp_202510_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_cp_00140,in_cp_202510_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_cp_00141,in_cp_202510_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_cp_00142,in_cp_202510_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_cp_00143,in_cp_202510_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_cp_00144,in_cp_202511_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_cp_00145,in_cp_202511_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_cp_00146,in_cp_202511_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_cp_00147,in_cp_202511_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_cp_00148,in_cp_202511_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_cp_00149,in_cp_202511_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_cp_00150,in_cp_202511_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_cp_00151,in_cp_202511_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_cp_00152,in_cp_202511_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_cp_00153,in_cp_202511_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_cp_00154,in_cp_202511_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_cp_00155,in_cp_202512_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_cp_00156,in_cp_202512_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_cp_00157,in_cp_202512_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_cp_00158,in_cp_202512_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_cp_00159,in_cp_202512_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_cp_00160,in_cp_202512_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_cp_00161,in_cp_202512_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_cp_00162,in_cp_202512_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_cp_00163,in_cp_202512_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_cp_00164,in_cp_202512_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_cp_00165,in_cp_202512_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_cp_00166,in_cp_202601_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_cp_00167,in_cp_202601_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_cp_00168,in_cp_202601_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_cp_00169,in_cp_202601_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_cp_00170,in_cp_202601_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_cp_00171,in_cp_202601_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_cp_00172,in_cp_202601_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_cp_00173,in_cp_202601_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_cp_00174,in_cp_202601_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_cp_00175,in_cp_202601_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_cp_00176,in_cp_202601_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_cp_00177,in_cp_202602_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_cp_00178,in_cp_202602_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_cp_00179,in_cp_202602_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_cp_00180,in_cp_202602_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_cp_00181,in_cp_202602_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_cp_00182,in_cp_202602_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_cp_00183,in_cp_202602_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_cp_00184,in_cp_202602_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_cp_00185,in_cp_202602_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_cp_00186,in_cp_202602_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_cp_00187,in_cp_202602_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_cp_00188,in_cp_202603_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_cp_00189,in_cp_202603_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_cp_00190,in_cp_202603_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_cp_00191,in_cp_202603_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_cp_00192,in_cp_202603_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_cp_00193,in_cp_202603_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_cp_00194,in_cp_202603_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_cp_00195,in_cp_202603_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_cp_00196,in_cp_202603_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_cp_00197,in_cp_202603_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_cp_00198,in_cp_202603_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_cp_00199,in_cp_202604_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_cp_00200,in_cp_202604_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_cp_00201,in_cp_202604_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_cp_00202,in_cp_202604_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_cp_00203,in_cp_202604_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_cp_00204,in_cp_202604_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_cp_00205,in_cp_202604_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_cp_00206,in_cp_202604_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_cp_00207,in_cp_202604_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_cp_00208,in_cp_202604_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_cp_00209,in_cp_202604_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_cp_00210,in_cp_202605_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_cp_00211,in_cp_202605_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_cp_00212,in_cp_202605_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_cp_00213,in_cp_202605_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_cp_00214,in_cp_202605_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_cp_00215,in_cp_202605_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_cp_00216,in_cp_202605_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_cp_00217,in_cp_202605_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_cp_00218,in_cp_202605_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_cp_00219,in_cp_202605_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_cp_00220,in_cp_202605_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_cp_00221,in_cp_202606_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_cp_00222,in_cp_202606_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_cp_00223,in_cp_202606_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_cp_00224,in_cp_202606_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_cp_00225,in_cp_202606_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_cp_00226,in_cp_202606_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_cp_00227,in_cp_202606_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_cp_00228,in_cp_202606_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_cp_00229,in_cp_202606_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_cp_00230,in_cp_202606_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_cp_00231,in_cp_202606_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_cp_00232,in_cp_202607_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_cp_00233,in_cp_202607_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_cp_00234,in_cp_202607_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_cp_00235,in_cp_202607_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_cp_00236,in_cp_202607_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_cp_00237,in_cp_202607_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_cp_00238,in_cp_202607_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_cp_00239,in_cp_202607_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_cp_00240,in_cp_202607_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_cp_00241,in_cp_202607_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_cp_00242,in_cp_202607_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_cp_00243,in_cp_202608_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_cp_00244,in_cp_202608_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_cp_00245,in_cp_202608_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_cp_00246,in_cp_202608_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_cp_00247,in_cp_202608_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_cp_00248,in_cp_202608_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_cp_00249,in_cp_202608_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_cp_00250,in_cp_202608_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_cp_00251,in_cp_202608_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_cp_00252,in_cp_202608_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_cp_00253,in_cp_202608_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_cp_00254,in_cp_202609_-001,cp-ten-001,Corvane Logistics (synthetic),sub_cp-ten-001,price_cp_base_rent_m,GBP,63200.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_cp_00255,in_cp_202609_-002,cp-ten-002,Pellham Engineering (synthetic),sub_cp-ten-002,price_cp_base_rent_m,GBP,17380.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_cp_00256,in_cp_202609_-003,cp-ten-003,Brightwater Analytics (synthetic),sub_cp-ten-003,price_cp_base_rent_m,GBP,12640.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_cp_00257,in_cp_202609_-004,cp-ten-004,Ashgrove Print (synthetic),sub_cp-ten-004,price_cp_base_rent_m,GBP,7110.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_cp_00258,in_cp_202609_-005,cp-ten-005,Moorland Medical Supplies (synthetic),sub_cp-ten-005,price_cp_base_rent_m,GBP,11060.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_cp_00259,in_cp_202609_-006,cp-ten-006,Teal Harbor Software (synthetic),sub_cp-ten-006,price_cp_base_rent_m,GBP,8690.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_cp_00260,in_cp_202609_-007,cp-ten-007,Northlight Studios (synthetic),sub_cp-ten-007,price_cp_base_rent_m,GBP,5530.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_cp_00261,in_cp_202609_-008,cp-ten-008,Fernbank Foods (synthetic),sub_cp-ten-008,price_cp_base_rent_m,GBP,9875.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_cp_00262,in_cp_202609_-009,cp-ten-009,Cinder Path Fitness (synthetic),sub_cp-ten-009,price_cp_base_rent_m,GBP,4740.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_cp_00263,in_cp_202609_-010,cp-ten-010,Haldon Insurance Brokers (synthetic),sub_cp-ten-010,price_cp_base_rent_m,GBP,6320.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_cp_00264,in_cp_202609_-011,cp-ten-011,Gullwing Robotics (synthetic),sub_cp-ten-011,price_cp_base_rent_m,GBP,7505.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01

@@ -1,0 +1,43 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 305 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (Brightwave Software B.V.  board KPI pack, September 2026 \(synthetic demo data\)) Tj T* () Tj T* (Annual recurring revenue \(ARR\) at 30 September 2026: EUR 603,623) Tj T* (Logo count: 14 active customers) Tj T* (Net revenue retention, trailing twelve months: 118%) Tj T* ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 256 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (ARR bridge \(management view\)) Tj T* (Opening ARR, 1 October 2025, and growth from expansion and new logos are shown in the) Tj T* (appendix.) Tj T* (ARR includes contracted renewals for customers in notice periods.) Tj T* ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+0000000673 00000 n 
+0000000799 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1106
+%%EOF

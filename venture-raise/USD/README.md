@@ -132,3 +132,33 @@ Open the **Raise** tab again. **Offers side by side** now reflects the cap table
 
 - Founder-side pack: the founder is the Pactlab user and investors are the counterparty. Drags are what an investor will find; cushions stay confidential until the founder shares them.
 - Holders in the cap table are pseudonymous references (F-1, E-02, I-3); no names.
+
+## Intake test — hand over the whole data room
+
+`dataroom/` is the same material arranged the way a seller hands it over, and `dataroom.zip` is that folder zipped.
+Use it to check that Pactlab sorts files on its own and asks only when unsure.
+
+1. Open the pact's **Diligence** tab, then **Documents**.
+2. Drop `dataroom.zip` on the upload box and click **Upload**.
+3. Watch each file get its own row. Clear files are filed with no click from you.
+4. Answer the one question under **Pactlab needs you**.
+
+**You should see** each file filed as:
+
+| File in the data room | Pactlab should file it as | Note |
+|---|---|---|
+| `01 Corporate/83b confirmations.pdf` | Corporate record |  |
+| `01 Corporate/Certificate of incorporation.pdf` | Corporate record |  |
+| `01 Corporate/Safe register.pdf` | Corporate record |  |
+| `01 Corporate/Term sheet harborline.pdf` | Corporate record |  |
+| `02 Finance/Exports/Loopwise cap table export Sep26.csv` | Cap table |  |
+| `02 Finance/Exports/Loopwise invoice lines export Sep26.csv` | Invoice lines |  |
+| `02 Finance/Investor deck.pdf` | Other |  |
+| `02 Finance/Loopwise FY26 summary.md` | Pactlab asks: income statement or cash flow statement? | Mixes profit and cash flow lines. |
+| `02 Finance/Mgmt accounts FY26 - Loopwise.md` | Income statement (P&L) | Revenue matches the invoice lines for Oct 2025 – Sep 2026. |
+| `03 Commercial/Suppliers/Contractor agreement northbeam.pdf` | Supplier contract |  |
+| `03 Commercial/Suppliers/Contractor agreement quillfield.pdf` | Supplier contract |  |
+
+**And on the Intake checklist**, these should show as missing: **Cash flow statement**, **Monthly financials**.
+Once billing is imported, **Customer contract** shows **Some missing** and names the largest billed customers with no contract in the room.
+Click **Ask the seller** (or **Copy request for missing items**) to send the list.

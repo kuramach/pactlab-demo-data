@@ -104,3 +104,29 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 ## Notes
 
 - Provider data is pseudonymous and aggregate by design; Pactlab never sends people data to a model.
+
+## Intake test — hand over the whole data room
+
+`dataroom/` is the same material arranged the way a seller hands it over, and `dataroom.zip` is that folder zipped.
+Use it to check that Pactlab sorts files on its own and asks only when unsure.
+
+1. Open the pact's **Diligence** tab, then **Documents**.
+2. Drop `dataroom.zip` on the upload box and click **Upload**.
+3. Watch each file get its own row. Clear files are filed with no click from you.
+4. Answer the one question under **Pactlab needs you**.
+
+**You should see** each file filed as:
+
+| File in the data room | Pactlab should file it as | Note |
+|---|---|---|
+| `02 Finance/Exports/Riverside claims summary export Sep26.csv` | Claims summary |  |
+| `02 Finance/Exports/Riverside invoice lines export Sep26.csv` | Invoice lines |  |
+| `02 Finance/Mgmt accounts FY26 - Riverside.md` | Income statement (P&L) | Revenue matches the invoice lines for Oct 2025 – Sep 2026. |
+| `02 Finance/Riverside FY26 summary.md` | Pactlab asks: income statement or cash flow statement? | Mixes profit and cash flow lines. |
+| `03 Commercial/Customers/Medical director agreement (signed copy).pdf` | Duplicate — shown once | Same bytes as the agreement above. |
+| `03 Commercial/Customers/Medical director agreement.pdf` | Customer contract |  |
+| `05 Policies/Privacy risk assessment.pdf` | Policy |  |
+
+**And on the Intake checklist**, these should show as missing: **Cash flow statement**, **Provider roster**.
+Once billing is imported, **Customer contract** shows **Some missing** and names the largest billed customers with no contract in the room.
+Click **Ask the seller** (or **Copy request for missing items**) to send the list.

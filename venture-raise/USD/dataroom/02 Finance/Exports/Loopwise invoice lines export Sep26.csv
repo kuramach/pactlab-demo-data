@@ -1,0 +1,337 @@
+line_id,invoice_id,customer_id,customer_name,subscription_id,price_id,currency,amount,interval,interval_count,period_start,period_end,invoice_status,created
+il_vr_00001,in_vr_202410_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,13375.80,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_vr_00002,in_vr_202410_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,11778.76,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_vr_00003,in_vr_202410_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,10333.44,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_vr_00004,in_vr_202410_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,9027.04,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_vr_00005,in_vr_202410_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,7973.64,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_vr_00006,in_vr_202410_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,7297.08,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_vr_00007,in_vr_202410_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,6501.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_vr_00008,in_vr_202410_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,6088.80,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_vr_00009,in_vr_202410_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,5435.64,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_vr_00010,in_vr_202410_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,4826.50,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_vr_00011,in_vr_202410_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,4572.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_vr_00012,in_vr_202410_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4216.80,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_vr_00013,in_vr_202410_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4115.58,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_vr_00014,in_vr_202410_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,3990.40,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_vr_00015,in_vr_202411_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,13451.61,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_vr_00016,in_vr_202411_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,11975.04,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_vr_00017,in_vr_202411_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,10667.94,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_vr_00018,in_vr_202411_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,9247.09,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_vr_00019,in_vr_202411_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,8185.72,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_vr_00020,in_vr_202411_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,7387.60,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_vr_00021,in_vr_202411_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,6632.45,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_vr_00022,in_vr_202411_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,6135.15,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_vr_00023,in_vr_202411_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,5403.59,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_vr_00024,in_vr_202411_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5016.32,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_vr_00025,in_vr_202411_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,4473.85,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_vr_00026,in_vr_202411_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4264.00,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_vr_00027,in_vr_202411_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4232.18,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_vr_00028,in_vr_202411_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4071.48,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_vr_00029,in_vr_202412_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,13917.20,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_vr_00030,in_vr_202412_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,11918.13,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_vr_00031,in_vr_202412_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,10574.41,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_vr_00032,in_vr_202412_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,9237.45,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_vr_00033,in_vr_202412_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,8132.97,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_vr_00034,in_vr_202412_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,7329.72,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_vr_00035,in_vr_202412_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,6886.43,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_vr_00036,in_vr_202412_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,6095.71,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_vr_00037,in_vr_202412_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,5577.94,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_vr_00038,in_vr_202412_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5110.64,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_vr_00039,in_vr_202412_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,4553.34,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_vr_00040,in_vr_202412_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4366.79,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_vr_00041,in_vr_202412_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4263.65,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_vr_00042,in_vr_202412_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4027.75,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_vr_00043,in_vr_202501_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,14232.52,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_vr_00044,in_vr_202501_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,12222.58,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_vr_00045,in_vr_202501_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,10822.03,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_vr_00046,in_vr_202501_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,9598.12,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_vr_00047,in_vr_202501_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,8267.51,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_vr_00048,in_vr_202501_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,7615.90,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_vr_00049,in_vr_202501_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,6895.19,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_vr_00050,in_vr_202501_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,6155.17,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_vr_00051,in_vr_202501_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,5629.20,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_vr_00052,in_vr_202501_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5124.23,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_vr_00053,in_vr_202501_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,4746.04,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_vr_00054,in_vr_202501_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4386.98,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_vr_00055,in_vr_202501_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4296.97,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_vr_00056,in_vr_202501_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4183.88,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_vr_00057,in_vr_202502_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,14128.61,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_vr_00058,in_vr_202502_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,12567.28,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_vr_00059,in_vr_202502_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,10951.89,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_vr_00060,in_vr_202502_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,9595.57,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_vr_00061,in_vr_202502_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,8657.28,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_vr_00062,in_vr_202502_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,7603.16,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_vr_00063,in_vr_202502_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,7023.62,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_vr_00064,in_vr_202502_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,6308.33,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_vr_00065,in_vr_202502_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,5560.82,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_vr_00066,in_vr_202502_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5200.11,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_vr_00067,in_vr_202502_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,4635.90,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_vr_00068,in_vr_202502_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4455.48,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_vr_00069,in_vr_202502_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4278.01,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_vr_00070,in_vr_202502_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4145.98,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_vr_00071,in_vr_202503_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,14584.74,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_vr_00072,in_vr_202503_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,12698.04,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_vr_00073,in_vr_202503_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,11105.39,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_vr_00074,in_vr_202503_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,9870.87,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_vr_00075,in_vr_202503_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,8731.93,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_vr_00076,in_vr_202503_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,7751.74,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_vr_00077,in_vr_202503_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,7093.89,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_vr_00078,in_vr_202503_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,6380.21,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_vr_00079,in_vr_202503_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,5659.65,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_vr_00080,in_vr_202503_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5224.03,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_vr_00081,in_vr_202503_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,4735.48,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_vr_00082,in_vr_202503_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4393.03,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_vr_00083,in_vr_202503_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4403.33,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_vr_00084,in_vr_202503_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4329.90,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_vr_00085,in_vr_202504_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,14345.01,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_vr_00086,in_vr_202504_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,12794.65,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_vr_00087,in_vr_202504_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,11048.74,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_vr_00088,in_vr_202504_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,9928.05,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_vr_00089,in_vr_202504_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,8707.94,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_vr_00090,in_vr_202504_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,7714.59,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_vr_00091,in_vr_202504_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,7007.45,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_vr_00092,in_vr_202504_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,6402.63,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_vr_00093,in_vr_202504_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,5869.10,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_vr_00094,in_vr_202504_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5205.66,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_vr_00095,in_vr_202504_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,4891.88,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_vr_00096,in_vr_202504_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4559.44,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_vr_00097,in_vr_202504_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4431.51,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_vr_00098,in_vr_202504_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4275.30,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_vr_00099,in_vr_202505_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,14696.20,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_vr_00100,in_vr_202505_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,12940.49,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_vr_00101,in_vr_202505_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,11197.15,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_vr_00102,in_vr_202505_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,9903.17,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_vr_00103,in_vr_202505_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,8944.52,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_vr_00104,in_vr_202505_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,7799.23,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_vr_00105,in_vr_202505_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,7301.04,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_vr_00106,in_vr_202505_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,6522.51,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_vr_00107,in_vr_202505_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,5953.62,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_vr_00108,in_vr_202505_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5273.45,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_vr_00109,in_vr_202505_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,4808.72,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_vr_00110,in_vr_202505_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4614.15,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_vr_00111,in_vr_202505_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4501.62,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_vr_00112,in_vr_202505_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4386.61,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_vr_00113,in_vr_202506_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,14715.12,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_vr_00114,in_vr_202506_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,12734.89,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_vr_00115,in_vr_202506_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,11601.53,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_vr_00116,in_vr_202506_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,10084.76,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_vr_00117,in_vr_202506_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,8887.89,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_vr_00118,in_vr_202506_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,7976.34,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_vr_00119,in_vr_202506_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,7287.00,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_vr_00120,in_vr_202506_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,6590.22,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_vr_00121,in_vr_202506_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,5875.36,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_vr_00122,in_vr_202506_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5290.37,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_vr_00123,in_vr_202506_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5013.95,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_vr_00124,in_vr_202506_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4608.53,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_vr_00125,in_vr_202506_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4588.12,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_vr_00126,in_vr_202506_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4340.67,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_vr_00127,in_vr_202507_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,15216.35,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_vr_00128,in_vr_202507_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,12945.51,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_vr_00129,in_vr_202507_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,11520.76,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_vr_00130,in_vr_202507_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,10127.93,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_vr_00131,in_vr_202507_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,8940.43,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_vr_00132,in_vr_202507_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,8024.92,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_vr_00133,in_vr_202507_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,7281.86,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_vr_00134,in_vr_202507_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,6679.99,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_vr_00135,in_vr_202507_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,6110.59,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_vr_00136,in_vr_202507_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5494.60,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_vr_00137,in_vr_202507_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5020.01,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_vr_00138,in_vr_202507_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4712.47,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_vr_00139,in_vr_202507_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4494.36,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_vr_00140,in_vr_202507_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4483.61,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_vr_00141,in_vr_202508_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,15508.46,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_vr_00142,in_vr_202508_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,13523.64,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_vr_00143,in_vr_202508_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,11923.82,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_vr_00144,in_vr_202508_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,10489.95,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_vr_00145,in_vr_202508_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,9159.06,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_vr_00146,in_vr_202508_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,8144.25,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_vr_00147,in_vr_202508_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,7323.14,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_vr_00148,in_vr_202508_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,6829.10,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_vr_00149,in_vr_202508_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,6078.05,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_vr_00150,in_vr_202508_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5476.62,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_vr_00151,in_vr_202508_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5029.55,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_vr_00152,in_vr_202508_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4741.57,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_vr_00153,in_vr_202508_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4683.18,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_vr_00154,in_vr_202508_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4479.73,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_vr_00155,in_vr_202509_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,15679.17,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_vr_00156,in_vr_202509_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,13513.70,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_vr_00157,in_vr_202509_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,11737.25,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_vr_00158,in_vr_202509_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,10330.50,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_vr_00159,in_vr_202509_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,9111.96,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_vr_00160,in_vr_202509_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,8190.37,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_vr_00161,in_vr_202509_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,7374.89,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_vr_00162,in_vr_202509_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,6767.39,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_vr_00163,in_vr_202509_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,6050.01,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_vr_00164,in_vr_202509_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5527.82,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_vr_00165,in_vr_202509_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5107.35,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_vr_00166,in_vr_202509_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4786.98,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_vr_00167,in_vr_202509_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4740.32,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_vr_00168,in_vr_202509_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4603.72,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_vr_00169,in_vr_202510_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,15343.91,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_vr_00170,in_vr_202510_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,13349.08,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_vr_00171,in_vr_202510_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,12005.30,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_vr_00172,in_vr_202510_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,10520.29,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_vr_00173,in_vr_202510_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,9406.36,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_vr_00174,in_vr_202510_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,8511.03,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_vr_00175,in_vr_202510_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,7720.80,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_vr_00176,in_vr_202510_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,7053.53,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_vr_00177,in_vr_202510_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,6158.75,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_vr_00178,in_vr_202510_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5708.36,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_vr_00179,in_vr_202510_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5131.25,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_vr_00180,in_vr_202510_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4782.39,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_vr_00181,in_vr_202510_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4769.76,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_vr_00182,in_vr_202510_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4651.58,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_vr_00183,in_vr_202511_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,16048.27,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_vr_00184,in_vr_202511_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,14043.91,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_vr_00185,in_vr_202511_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,12348.54,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_vr_00186,in_vr_202511_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,10661.57,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_vr_00187,in_vr_202511_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,9587.34,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_vr_00188,in_vr_202511_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,8577.36,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_vr_00189,in_vr_202511_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,7801.12,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_vr_00190,in_vr_202511_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,7010.65,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_vr_00191,in_vr_202511_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,6208.69,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_vr_00192,in_vr_202511_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5751.69,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_vr_00193,in_vr_202511_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5230.66,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_vr_00194,in_vr_202511_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4914.32,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_vr_00195,in_vr_202511_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4871.05,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_vr_00196,in_vr_202511_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4731.69,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_vr_00197,in_vr_202512_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,16205.75,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_vr_00198,in_vr_202512_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,13796.89,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_vr_00199,in_vr_202512_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,12184.55,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_vr_00200,in_vr_202512_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,10889.53,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_vr_00201,in_vr_202512_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,9566.47,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_vr_00202,in_vr_202512_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,8697.55,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_vr_00203,in_vr_202512_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,7740.30,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_vr_00204,in_vr_202512_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,6969.99,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_vr_00205,in_vr_202512_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,6335.53,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_vr_00206,in_vr_202512_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5738.48,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_vr_00207,in_vr_202512_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5382.77,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_vr_00208,in_vr_202512_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,4950.46,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_vr_00209,in_vr_202512_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4836.47,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_vr_00210,in_vr_202512_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4701.49,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_vr_00211,in_vr_202601_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,15967.53,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_vr_00212,in_vr_202601_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,13925.76,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_vr_00213,in_vr_202601_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,12432.75,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_vr_00214,in_vr_202601_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,10956.39,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_vr_00215,in_vr_202601_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,9721.95,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_vr_00216,in_vr_202601_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,8721.60,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_vr_00217,in_vr_202601_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,7905.80,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_vr_00218,in_vr_202601_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,7060.80,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_vr_00219,in_vr_202601_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,6523.92,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_vr_00220,in_vr_202601_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5897.59,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_vr_00221,in_vr_202601_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5405.39,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_vr_00222,in_vr_202601_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,5029.96,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_vr_00223,in_vr_202601_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4900.39,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_vr_00224,in_vr_202601_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4769.39,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_vr_00225,in_vr_202602_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,16574.15,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_vr_00226,in_vr_202602_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,14404.20,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_vr_00227,in_vr_202602_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,12710.33,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_vr_00228,in_vr_202602_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,11350.65,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_vr_00229,in_vr_202602_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,9801.36,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_vr_00230,in_vr_202602_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,8939.35,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_vr_00231,in_vr_202602_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,7962.33,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_vr_00232,in_vr_202602_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,7234.12,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_vr_00233,in_vr_202602_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,6417.91,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_vr_00234,in_vr_202602_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,5836.70,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_vr_00235,in_vr_202602_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5404.90,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_vr_00236,in_vr_202602_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,5043.55,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_vr_00237,in_vr_202602_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,5038.59,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_vr_00238,in_vr_202602_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4806.29,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_vr_00239,in_vr_202603_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,16829.26,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_vr_00240,in_vr_202603_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,14198.39,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_vr_00241,in_vr_202603_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,12529.12,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_vr_00242,in_vr_202603_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,11322.34,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_vr_00243,in_vr_202603_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,9849.53,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_vr_00244,in_vr_202603_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,9089.54,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_vr_00245,in_vr_202603_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,8057.88,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_vr_00246,in_vr_202603_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,7407.65,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_vr_00247,in_vr_202603_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,6514.76,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_vr_00248,in_vr_202603_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,6032.78,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_vr_00249,in_vr_202603_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5446.61,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_vr_00250,in_vr_202603_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,5148.32,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_vr_00251,in_vr_202603_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4996.61,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_vr_00252,in_vr_202603_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,4989.39,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_vr_00253,in_vr_202604_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,16837.10,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_vr_00254,in_vr_202604_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,14479.93,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_vr_00255,in_vr_202604_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,12885.72,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_vr_00256,in_vr_202604_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,11601.89,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_vr_00257,in_vr_202604_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,10108.28,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_vr_00258,in_vr_202604_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,9077.36,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_vr_00259,in_vr_202604_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,8342.73,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_vr_00260,in_vr_202604_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,7374.57,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_vr_00261,in_vr_202604_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,6655.86,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_vr_00262,in_vr_202604_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,6122.18,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_vr_00263,in_vr_202604_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5658.10,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_vr_00264,in_vr_202604_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,5309.01,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_vr_00265,in_vr_202604_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,4992.54,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_vr_00266,in_vr_202604_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,5000.67,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_vr_00267,in_vr_202605_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,16656.43,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_vr_00268,in_vr_202605_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,14872.75,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_vr_00269,in_vr_202605_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,12787.27,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_vr_00270,in_vr_202605_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,11385.67,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_vr_00271,in_vr_202605_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,10347.45,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_vr_00272,in_vr_202605_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,8977.51,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_vr_00273,in_vr_202605_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,8419.66,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_vr_00274,in_vr_202605_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,7657.25,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_vr_00275,in_vr_202605_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,6739.79,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_vr_00276,in_vr_202605_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,6182.12,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_vr_00277,in_vr_202605_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5618.75,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_vr_00278,in_vr_202605_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,5171.46,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_vr_00279,in_vr_202605_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,5054.51,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_vr_00280,in_vr_202605_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,5095.80,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_vr_00281,in_vr_202606_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,17024.26,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_vr_00282,in_vr_202606_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,14979.33,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_vr_00283,in_vr_202606_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,13027.85,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_vr_00284,in_vr_202606_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,11788.58,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_vr_00285,in_vr_202606_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,10132.30,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_vr_00286,in_vr_202606_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,9376.22,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_vr_00287,in_vr_202606_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,8503.94,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_vr_00288,in_vr_202606_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,7669.92,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_vr_00289,in_vr_202606_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,6868.66,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_vr_00290,in_vr_202606_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,6253.82,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_vr_00291,in_vr_202606_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5802.71,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_vr_00292,in_vr_202606_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,5382.81,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_vr_00293,in_vr_202606_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,5148.47,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_vr_00294,in_vr_202606_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,5095.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_vr_00295,in_vr_202607_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,17377.70,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_vr_00296,in_vr_202607_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,15322.80,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_vr_00297,in_vr_202607_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,13315.12,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_vr_00298,in_vr_202607_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,11653.48,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_vr_00299,in_vr_202607_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,10584.79,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_vr_00300,in_vr_202607_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,9218.65,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_vr_00301,in_vr_202607_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,8619.55,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_vr_00302,in_vr_202607_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,7621.68,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_vr_00303,in_vr_202607_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,6909.46,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_vr_00304,in_vr_202607_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,6187.86,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_vr_00305,in_vr_202607_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5771.75,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_vr_00306,in_vr_202607_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,5366.47,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_vr_00307,in_vr_202607_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,5296.63,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_vr_00308,in_vr_202607_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,5038.98,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_vr_00309,in_vr_202608_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,17526.56,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_vr_00310,in_vr_202608_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,15212.12,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_vr_00311,in_vr_202608_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,13629.04,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_vr_00312,in_vr_202608_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,12077.98,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_vr_00313,in_vr_202608_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,10336.91,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_vr_00314,in_vr_202608_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,9433.67,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_vr_00315,in_vr_202608_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,8697.25,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_vr_00316,in_vr_202608_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,7759.94,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_vr_00317,in_vr_202608_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,7148.22,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_vr_00318,in_vr_202608_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,6248.10,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_vr_00319,in_vr_202608_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5795.38,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_vr_00320,in_vr_202608_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,5501.85,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_vr_00321,in_vr_202608_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,5283.44,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_vr_00322,in_vr_202608_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,5118.17,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_vr_00323,in_vr_202609_-001,vr-cus-001,Brightline Plumbing (synthetic),sub_vr-cus-001,price_vr_subscription_m,USD,17598.33,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_vr_00324,in_vr_202609_-002,vr-cus-002,Copperfield Electric (synthetic),sub_vr-cus-002,price_vr_subscription_m,USD,15441.24,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_vr_00325,in_vr_202609_-003,vr-cus-003,Northgate HVAC (synthetic),sub_vr-cus-003,price_vr_subscription_m,USD,13488.82,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_vr_00326,in_vr_202609_-004,vr-cus-004,Tidewater Roofing (synthetic),sub_vr-cus-004,price_vr_subscription_m,USD,11995.36,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_vr_00327,in_vr_202609_-005,vr-cus-005,Juniper Landscapes (synthetic),sub_vr-cus-005,price_vr_subscription_m,USD,10859.53,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_vr_00328,in_vr_202609_-006,vr-cus-006,Ashby Pest Control (synthetic),sub_vr-cus-006,price_vr_subscription_m,USD,9644.84,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_vr_00329,in_vr_202609_-007,vr-cus-007,Marlow Cleaning Co (synthetic),sub_vr-cus-007,price_vr_subscription_m,USD,8598.42,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_vr_00330,in_vr_202609_-008,vr-cus-008,Fernhill Glazing (synthetic),sub_vr-cus-008,price_vr_subscription_m,USD,7755.17,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_vr_00331,in_vr_202609_-009,vr-cus-009,Oriel Locksmiths (synthetic),sub_vr-cus-009,price_vr_subscription_m,USD,7070.59,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_vr_00332,in_vr_202609_-010,vr-cus-010,Kestrel Pools (synthetic),sub_vr-cus-010,price_vr_subscription_m,USD,6547.43,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_vr_00333,in_vr_202609_-011,vr-cus-011,Wrenfield Joinery (synthetic),sub_vr-cus-011,price_vr_subscription_m,USD,5944.26,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_vr_00334,in_vr_202609_-012,vr-cus-012,Halden Solar (synthetic),sub_vr-cus-012,price_vr_subscription_m,USD,5564.56,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_vr_00335,in_vr_202609_-013,vr-cus-013,Pembury Paving (synthetic),sub_vr-cus-013,price_vr_subscription_m,USD,5495.72,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_vr_00336,in_vr_202609_-014,vr-cus-014,Quarry Lane Movers (synthetic),sub_vr-cus-014,price_vr_subscription_m,USD,5299.58,month,1,2026-09-01,2026-10-01,paid,2026-09-01

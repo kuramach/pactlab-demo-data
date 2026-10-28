@@ -1,0 +1,97 @@
+line_id,invoice_id,customer_id,customer_name,subscription_id,price_id,currency,amount,interval,interval_count,period_start,period_end,invoice_status,created
+il_pb_00001,in_pb_202410_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,320175.15,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_pb_00002,in_pb_202410_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,129117.60,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_pb_00003,in_pb_202410_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,73924.25,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_pb_00004,in_pb_202410_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,30525.60,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_pb_00005,in_pb_202411_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,340818.92,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_pb_00006,in_pb_202411_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,130271.32,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_pb_00007,in_pb_202411_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,72709.94,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_pb_00008,in_pb_202411_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,32647.22,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_pb_00009,in_pb_202412_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,335325.77,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_pb_00010,in_pb_202412_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,125177.65,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_pb_00011,in_pb_202412_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,76143.49,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_pb_00012,in_pb_202412_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,30911.41,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_pb_00013,in_pb_202501_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,338810.71,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_pb_00014,in_pb_202501_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,128241.34,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_pb_00015,in_pb_202501_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,74314.94,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_pb_00016,in_pb_202501_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,33600.00,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_pb_00017,in_pb_202502_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,342982.96,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_pb_00018,in_pb_202502_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,134491.75,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_pb_00019,in_pb_202502_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,78476.35,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_pb_00020,in_pb_202502_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,33091.03,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_pb_00021,in_pb_202503_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,339052.54,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_pb_00022,in_pb_202503_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,127453.49,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_pb_00023,in_pb_202503_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,76329.55,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_pb_00024,in_pb_202503_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,33191.69,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_pb_00025,in_pb_202504_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,342750.24,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_pb_00026,in_pb_202504_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,132063.07,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_pb_00027,in_pb_202504_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,78219.13,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_pb_00028,in_pb_202504_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,33992.57,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_pb_00029,in_pb_202505_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,342786.95,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_pb_00030,in_pb_202505_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,136977.34,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_pb_00031,in_pb_202505_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,74063.81,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_pb_00032,in_pb_202505_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,31119.32,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_pb_00033,in_pb_202506_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,329163.51,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_pb_00034,in_pb_202506_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,137925.32,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_pb_00035,in_pb_202506_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,81658.84,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_pb_00036,in_pb_202506_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,33659.17,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_pb_00037,in_pb_202507_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,344868.30,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_pb_00038,in_pb_202507_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,136433.60,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_pb_00039,in_pb_202507_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,80418.73,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_pb_00040,in_pb_202507_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,31662.64,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_pb_00041,in_pb_202508_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,349146.13,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_pb_00042,in_pb_202508_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,128479.60,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_pb_00043,in_pb_202508_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,78335.85,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_pb_00044,in_pb_202508_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,32535.10,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_pb_00045,in_pb_202509_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,336178.69,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_pb_00046,in_pb_202509_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,139270.16,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_pb_00047,in_pb_202509_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,75794.08,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_pb_00048,in_pb_202509_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,34650.63,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_pb_00049,in_pb_202510_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,341642.24,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_pb_00050,in_pb_202510_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,129365.02,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_pb_00051,in_pb_202510_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,77447.91,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_pb_00052,in_pb_202510_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,35226.47,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_pb_00053,in_pb_202511_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,354755.15,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_pb_00054,in_pb_202511_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,129337.51,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_pb_00055,in_pb_202511_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,80517.74,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_pb_00056,in_pb_202511_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,34896.85,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_pb_00057,in_pb_202512_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,346630.17,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_pb_00058,in_pb_202512_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,141301.90,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_pb_00059,in_pb_202512_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,81000.81,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_pb_00060,in_pb_202512_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,34969.68,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_pb_00061,in_pb_202601_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,354122.83,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_pb_00062,in_pb_202601_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,129408.14,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_pb_00063,in_pb_202601_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,83832.21,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_pb_00064,in_pb_202601_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,34855.06,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_pb_00065,in_pb_202602_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,361681.76,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_pb_00066,in_pb_202602_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,130328.98,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_pb_00067,in_pb_202602_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,79008.52,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_pb_00068,in_pb_202602_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,33010.06,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_pb_00069,in_pb_202603_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,363313.88,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_pb_00070,in_pb_202603_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,140749.14,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_pb_00071,in_pb_202603_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,80588.09,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_pb_00072,in_pb_202603_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,35651.63,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_pb_00073,in_pb_202604_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,340682.13,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_pb_00074,in_pb_202604_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,144564.02,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_pb_00075,in_pb_202604_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,79759.53,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_pb_00076,in_pb_202604_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,36002.73,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_pb_00077,in_pb_202605_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,368558.53,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_pb_00078,in_pb_202605_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,140978.96,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_pb_00079,in_pb_202605_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,83293.71,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_pb_00080,in_pb_202605_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,34393.59,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_pb_00081,in_pb_202606_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,372548.58,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_pb_00082,in_pb_202606_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,139309.65,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_pb_00083,in_pb_202606_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,86902.69,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_pb_00084,in_pb_202606_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,35089.27,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_pb_00085,in_pb_202607_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,372613.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_pb_00086,in_pb_202607_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,146532.81,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_pb_00087,in_pb_202607_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,85337.11,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_pb_00088,in_pb_202607_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,34913.83,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_pb_00089,in_pb_202608_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,355860.70,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_pb_00090,in_pb_202608_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,135980.76,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_pb_00091,in_pb_202608_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,81199.22,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_pb_00092,in_pb_202608_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,34153.88,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_pb_00093,in_pb_202609_-001,pb-par-001,Aldermoor Therapeutics — royalties on Product A (synthetic),sub_pb-par-001,price_pb_royalty_m,GBP,361999.25,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_pb_00094,in_pb_202609_-002,pb-par-002,Aldermoor Therapeutics — supply of Product A (synthetic),sub_pb-par-002,price_pb_royalty_m,GBP,138290.95,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_pb_00095,in_pb_202609_-003,pb-par-003,Kingsway Health — royalties on Product B (synthetic),sub_pb-par-003,price_pb_royalty_m,GBP,87034.34,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_pb_00096,in_pb_202609_-004,pb-par-004,Tessaly Pharma — licence fee (synthetic),sub_pb-par-004,price_pb_royalty_m,GBP,35760.01,month,1,2026-09-01,2026-10-01,paid,2026-09-01
