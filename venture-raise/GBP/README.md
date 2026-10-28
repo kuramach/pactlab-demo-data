@@ -14,6 +14,14 @@ Based in Leeds, the United Kingdom; reports in GBP. Data runs October 2024 to Se
 - `vdr-index.csv` is for reference only (how a data room would list these files). Do not upload it.
 - Text in **bold** below is a button, tab or option exactly as Pactlab shows it.
 
+## Two ways to test this company
+
+- **Part A — Buyer side** (Steps 1 onwards): you are the founder, diligencing your own startup before investors do.
+- **Part B — Seller side** ([below](#part-b--seller-side-run-a-round)): you are the founder, inviting several investors — they ask questions, then offer or pass, and you choose one. Uses `bidders.csv`.
+- Each part starts its own Pact, so you can do either one, or both.
+
+# Part A — Buyer side
+
 ## Step 1 — Start the Pact
 
 1. Click **Start a Pact** (top right).
@@ -110,6 +118,98 @@ Open the **Raise** tab.
 
 Open the **Raise** tab again. **Offers side by side** now reflects the cap table: SAFE-1 converts on SAFE-3's terms (most-favoured-nation). Under **Ready for diligence?**, see what an investor will still ask for. The investor view shares only what is safe to share.
 
+# Part B — Seller side: run a round
+
+Here you are Loopwise Ltd raising a round. You invite three investors from `bidders.csv`, share a little, answer their questions and choose one.
+Each investor sees only their own bid — never another investor's questions, offers or whether they passed. Part B checks that too.
+
+**Addresses.** This folder holds no email addresses. Invite **an address you can read for each firm**: your own address with `+` and the firm's tag from `bidders.csv` added before the @ (for tag `harbor`: *yourname+harbor* at your email domain — Gmail, Outlook and most providers deliver it to you). On your own computer (`pnpm dev`) any made-up address works: every email Pactlab sends, invitations and sign-in codes, is written to `apps/api/.data/mail/`.
+
+## Step B1 — Start the Pact as the seller
+
+1. Click **Start a Pact** (top right).
+2. Under *Who are you in this deal?* choose **We are selling (or raising)**. Pact name: `Project Loopwise Sale` · Base currency: **GBP** → **Next**. (There is no buying-entity step.)
+3. **Selling entity** — Legal or trading name: `Loopwise Ltd` · **Private** · What kind of company is it?: **Venture Raise** → **Next**.
+4. **Asking price** — choose **Not known yet** → **Next**.
+5. **Review and start** — the Buyer box says *Bid process — you invite buyers once the pact starts* → **Start Pact**.
+
+**You should see:** the **Bidders** page, with no bidders yet.
+
+## Step B2 — Decide what investors see
+
+On **Bidders**, under **What bidders see**:
+
+| Field | Enter |
+|---|---|
+| Shared summary | `Loopwise Ltd is a seed-stage SaaS startup: scheduling and invoicing for field-service teams, raising a seed round from angels, an accelerator and venture funds.` |
+| Your data room (link) | `https://dataroom.example/venture-raise` (Pactlab is not the data room; this is where you would grant access) |
+| NDA | `Mutual NDA (synthetic): everything shared about Loopwise Ltd stays confidential.` |
+| Offer deadline (UTC) | a date a week from today |
+
+→ **Save**.
+
+Then open the **Documents** tab and upload `documents/01-investor-deck.pdf` with **Share with bidders** ticked (it is chosen at upload and cannot be changed later). Upload nothing else as shared — the rest stays with you.
+
+**You should see:** "Saved. Bidders see the shared view once they accept the NDA." On Documents, `01-investor-deck.pdf` is listed.
+
+## Step B3 — Add the three investors and invite them
+
+On **Bidders**, for each row of `bidders.csv`:
+
+| Bidding firm | Then invite | Tag |
+|---|---|---|
+| `Harborline Ventures (synthetic)` → **Add bidder** | your address with `+harborline` in *Invite someone from Harborline Ventures (synthetic)* → **Invite** | `harborline` |
+| `Kestrel Seed Fund (synthetic)` → **Add bidder** | your address with `+kestrel` in *Invite someone from Kestrel Seed Fund (synthetic)* → **Invite** | `kestrel` |
+| `Atlas Angels (synthetic)` → **Add bidder** | your address with `+atlas` in *Invite someone from Atlas Angels (synthetic)* → **Invite** | `atlas` |
+
+**You should see:** three firms marked **Invited**, each listing the address you invited.
+
+## Step B4 — Be each investor (a private window per investor)
+
+For each investor: open the invitation link (from the email, or the newest file in `apps/api/.data/mail/`) in a **private window**, create the account with the firm's name, sign in with the code, then **Accept and open the pact**.
+
+1. You land on **Your bid** and see only the NDA. Click **I accept the NDA** — the shared summary, the data-room link and the shared document appear.
+2. **Harborline Ventures (synthetic)**: ask `How many months of runway do you have after this round?` → **Ask**. Then offer:
+
+   | Field | Enter |
+   |---|---|
+   | Price | `1580000` (GBP 1,580,000) — the amount invested |
+   | Currency | `GBP` |
+   | Pre-money valuation (investment rounds only) | `7900000` (GBP 7,900,000) |
+   | Structure (cash, shares, earn-out…) | `Series Seed preferred, 1x non-participating` |
+   | Conditions | `One investor board seat; pro-rata rights` |
+
+   → **Submit offer**.
+3. **Kestrel Seed Fund (synthetic)**: ask `Can you share the founders' vesting schedules?` → **Ask**. Then offer **Price** `1185000` (GBP 1,185,000), **Pre-money** `7110000`, **Structure** `SAFE, valuation cap as the pre-money, 15% discount`, **Conditions** `Most-favoured-nation clause` → **Submit offer**.
+4. **Atlas Angels (synthetic)**: accept the NDA, then type `Too early for our fund this year.` as the reason → **Pass on this pact**.
+
+**You should see**, as Kestrel Seed Fund (synthetic): your own question and offer only — nothing of Harborline Ventures (synthetic)'s question or offer, and no sign that Atlas Angels (synthetic) passed. There are no deal tabs; trying `/deals/<id>/bidders` shows nothing of the seller's side.
+
+## Step B5 — Answer the questions
+
+Back as the seller (your normal window), on **Bidders** under **Questions from bidders**:
+
+- Harborline Ventures (synthetic)'s question → answer `About 20 months at the current burn, by our own estimate.` → choose **All bidders (without naming who asked)** → **Answer**.
+- Kestrel Seed Fund (synthetic)'s question → answer `Four years with a one-year cliff, from February 2023; the schedules are in the data room.` → keep **Only Kestrel Seed Fund (synthetic)** → **Answer**.
+
+**You should see**, as Kestrel Seed Fund (synthetic) (refresh **Your bid**): your private answer, and under *Answered to all bidders* the runway question — without the name of who asked it. Harborline Ventures (synthetic) sees the answer to all, but not Kestrel Seed Fund (synthetic)'s private one.
+
+## Step B6 — Compare the offers
+
+On **Bidders**, **Offers side by side** sets the two offers next to each other — price, pre-money, structure, conditions, version. Pactlab does not rank them or recommend one.
+
+**You should see:** Harborline Ventures (synthetic) at GBP 1,580,000 and Kestrel Seed Fund (synthetic) at GBP 1,185,000; Atlas Angels (synthetic) marked **Passed** with its reason.
+
+For each investor, click **Add to round comparison**. Open the **Raise** tab: both appear under **Offers**. To see what the founders own after each, import `cap-table.csv` on **Sources** first, as in Part A.
+
+## Step B7 — Shortlist, run round 2 and choose
+
+1. Click **Shortlist** on Harborline Ventures (synthetic) and on Kestrel Seed Fund (synthetic), then **Start round 2 with 2 shortlisted**.
+2. As each investor, submit a revised offer on **Your bid**: Harborline Ventures (synthetic) `1580000` (pre-money `8690000`), Kestrel Seed Fund (synthetic) `1185000` (pre-money `7505000`) → **Submit revised offer**. Every version stays listed.
+3. As the seller, click **Award to Harborline Ventures (synthetic)**.
+
+**You should see:** "Awarded. Every other bidder has been declined and their access ended." Harborline Ventures (synthetic)'s **Your bid** says **Selected by the seller**; Kestrel Seed Fund (synthetic) can no longer open the pact. The **Team** tab and the audit log record every step.
+
 ## Every file in this folder
 
 | File | What it is | Upload it? |
@@ -125,6 +225,7 @@ Open the **Raise** tab again. **Offers side by side** now reflects the cap table
 | `documents/06-term-sheet-harborline.pdf` | Seed term sheet received from a venture fund | **Yes** — documents step |
 | `documents/07-safe-register.pdf` | Register of SAFEs signed before this round | **Yes** — documents step |
 | `documents/99-data-room-extracts.pdf` | Every CSV extract in this folder as one paged PDF, so findings can cite a page | **Yes** — documents step |
+| `bidders.csv` | The three bidding firms for Part B: who to invite, what each asks and offers | **No** — read it while you follow Part B |
 | `documents/*.md` | The text each PDF is built from | **No** — never |
 | `vdr-index.csv` | Index of every file, as a data room would list it | **No** — reference only |
 

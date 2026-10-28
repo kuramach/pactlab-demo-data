@@ -1,0 +1,4 @@
+firm,invite_tag,kind,question,answer_to,answer,offer_round_1,offer_round_2,pre_money_round_1,pre_money_round_2,currency,structure,conditions,outcome
+Harborline Ventures (synthetic),harborline,Venture fund,How many months of runway do you have after this round?,all bidders,"About 20 months at the current burn, by our own estimate.",2000000,2000000,10000000,11000000,USD,"Series Seed preferred, 1x non-participating",One investor board seat; pro-rata rights,Awarded in round 2
+Kestrel Seed Fund (synthetic),kestrel,Seed fund,Can you share the founders' vesting schedules?,only this bidder,"Four years with a one-year cliff, from February 2023; the schedules are in the data room.",1500000,1500000,9000000,9500000,USD,"SAFE, valuation cap as the pre-money, 15% discount",Most-favoured-nation clause,"Shortlisted, then declined at the award"
+Atlas Angels (synthetic),atlas,Angel group,,,,,,,,,,,"Passes: ""Too early for our fund this year."""
