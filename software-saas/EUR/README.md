@@ -60,7 +60,7 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 | # | File | Data class | What it is |
 |---|---|---|---|
 | 1 | `documents/01-board-kpi-pack-2026-09.pdf` | **business information** | Management KPI pack with reported ARR |
-| 2 | `documents/02-master-services-agreement-northgate.pdf` | **business information** | Largest customer contract, with change-of-control clause |
+| 2 | `documents/02-master-services-agreement-northgate.pdf` | **business information** | Northgate Logistics contract, with a change-of-control clause |
 | 3 | `documents/03-balance-sheet-2026-09-30.pdf` | **financial information** | Balance sheet with debt and debt-like items |
 
 **You should see:** all 3 documents listed on the **Documents** tab.
@@ -85,8 +85,8 @@ Code and delivery data come through their APIs, never as files. Local and dev Pa
 
    1. **Management ARR exceeds billed ARR** — the KPI pack reports EUR 603,623; `invoice-lines.csv` supports EUR 579,887 at September 2026 — a gap of EUR 23,736. The KPI pack still counts Quarry Lane Studios, whose last invoice was June 2026.
    2. **Revenue concentration** — Harborline Freight (synthetic) is 27.6% of September 2026 billed revenue.
-   3. **Largest customer can leave on a sale** — `documents/02-master-services-agreement-northgate.pdf` page 2, clause 14 — termination on change of control.
-   4. **Contraction hidden in the logo count** — Amberline Hotels drops by 30% from April 2026; the KPI pack reports 14 active customers, the ledger has 13.
+   3. **Customer can terminate on change of control** — `documents/02-master-services-agreement-northgate.pdf` page 2, clause 14 — Northgate Logistics (15.5% of September 2026 billed revenue) may leave if the company is sold.
+   4. **Contraction hidden in the logo count** — Amberline Hotels (synthetic) pays 30.0% less from April 2026; the KPI pack reports 14 active customers, billing has 13 in September 2026.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
@@ -193,7 +193,7 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 |---|---|---|
 | `invoice-lines.csv` | 302 revenue lines, one per customer subscription per month | **Yes** — billing export step |
 | `documents/01-board-kpi-pack-2026-09.pdf` | Management KPI pack with reported ARR | **Yes** — documents step |
-| `documents/02-master-services-agreement-northgate.pdf` | Largest customer contract, with change-of-control clause | **Yes** — documents step |
+| `documents/02-master-services-agreement-northgate.pdf` | Northgate Logistics contract, with a change-of-control clause | **Yes** — documents step |
 | `documents/03-balance-sheet-2026-09-30.pdf` | Balance sheet with debt and debt-like items | **Yes** — documents step |
 | `bidders.csv` | The three bidding firms for Part B: who to invite, what each asks and offers | **No** — read it while you follow Part B |
 | `documents/*.md` | The text each PDF is built from | **No** — never |
