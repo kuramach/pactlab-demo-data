@@ -2,7 +2,9 @@
 
 This is a synthetic data set for the various pactlab pack. You can use this to test a specific pack, or download it and modify it to use real data to do deal analysis or simply point it to claude or any AI tools and learn the format and ask it to produce same format files for ur actual data to be fed into Pactlab for analysis.
 
-> **All data here is fictional.** Every company, person, address, account number and figure is invented for demonstrations. Nothing is copied from a real business. Customers are marked “(synthetic)”; people appear only as roles, unit numbers or pseudonymous references (P07, PR-04).
+> **All pack data here is fictional.** Every company, person, address, account number and figure in the packs is invented for demonstrations. Nothing is copied from a real business. Customers are marked “(synthetic)”; people appear only as roles, unit numbers or pseudonymous references (P07, PR-04).
+>
+> **The one exception is `<pack>/case-studies/`:** public-record case studies of real deals, built only from cited public sources (filings, regulator decisions), with no internal documents and no invented figures. See [Case studies](#case-studies).
 
 ## Layout
 
@@ -35,6 +37,14 @@ Each pack comes in **USD**, **EUR** and **GBP**: the same business model as a se
 | [Small clinics](small-clinics/) | Clearbrook Clinics runs six dental and physiotherapy clinics with 22 providers, paid by insurers and patients. | [USD](small-clinics/USD/) · [EUR](small-clinics/EUR/) · [GBP](small-clinics/GBP/) |
 | [Venture Raise](venture-raise/) | Loopwise is a seed-stage SaaS startup (scheduling and invoicing for field-service teams) raising a seed round. Founder-side: you are the founder testing your raise before investors do. | [USD](venture-raise/USD/) · [EUR](venture-raise/EUR/) · [GBP](venture-raise/GBP/) |
 
+## Case studies
+
+What Pactlab learns from good and bad pact outcomes, and how it can protect future pacts. Each study is public record only, with every fact cited in its `sources.csv`.
+
+| Pack | Case study |
+|---|---|
+| Software and SaaS | [Adobe and Figma (2022–2023)](software-saas/case-studies/adobe-figma/): a USD 20 billion pact terminated after UK and EU regulators objected; Adobe paid a USD 1 billion termination fee |
+
 ## Using a pack
 
 1. Download the repository (**Code → Download ZIP**) and open one `<pack>/<CURRENCY>/` folder.
@@ -45,4 +55,4 @@ To adapt a pack to real data, keep the column headers and file layout and replac
 
 ## Licence
 
-[CC0 1.0 Universal](LICENSE) — public-domain dedication. Use, change and share the data freely.
+[CC0 1.0 Universal](LICENSE) — public-domain dedication. Use, change and share the data freely. Case studies link to their public sources, which keep their own terms; see each study's licence note.
