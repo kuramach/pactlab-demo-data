@@ -1,0 +1,12 @@
+doc_id,title,file,data_class,as_of
+MS-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
+MS-002,Rent roll at 30 September 2026,rent-roll.csv,Financial,2026-09-30
+MS-003,Delinquent balances at 30 September 2026,delinquency.csv,Financial,2026-09-30
+MS-004,Unit-condition inspections with repair estimates,unit-inspections.csv,Financial,2026-09-30
+MS-005,Trailing-twelve-month operating statement (T-12),t12.csv,Financial,2026-09-30
+MS-006,"Sponsor's track record: prior deals, projected and actual",track-record.csv,Financial,2026-09-30
+MS-007,Seller's offering memorandum with stated NOI and capital plan,documents/01-offering-memorandum.pdf,Business,2026-09-30
+MS-008,"Private placement memorandum: the offering, fee summary, distributions and projected returns",documents/02-private-placement-memorandum.pdf,Business,2026-09-30
+MS-009,"Operating agreement: fees, preferred return and promote",documents/03-operating-agreement.pdf,Business,2026-09-30
+MS-010,Sponsor's investor deck with its track record,documents/04-investor-deck.pdf,Business,2026-09-30
+MS-011,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
