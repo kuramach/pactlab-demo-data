@@ -36,6 +36,7 @@ Each pack comes in **USD**, **EUR** and **GBP**: the same business model as a se
 | [Hospitals](hospitals/) | St. Brennan Health operates St. Brennan Regional Medical Center, a 220-bed acute-care hospital with cardiology, orthopaedics and maternity service lines. | [USD](hospitals/USD/) · [EUR](hospitals/EUR/) · [GBP](hospitals/GBP/) |
 | [Small clinics](small-clinics/) | Clearbrook Clinics runs six dental and physiotherapy clinics with 22 providers, paid by insurers and patients. | [USD](small-clinics/USD/) · [EUR](small-clinics/EUR/) · [GBP](small-clinics/GBP/) |
 | [Venture Raise](venture-raise/) | Loopwise is a seed-stage SaaS startup (scheduling and invoicing for field-service teams) raising a seed round. Founder-side: you are the founder testing your raise before investors do. | [USD](venture-raise/USD/) · [EUR](venture-raise/EUR/) · [GBP](venture-raise/GBP/) |
+| [Multifamily syndication](multifamily-syndication/) | Ashgrove Residential is a multifamily sponsor buying Briarwood Commons, a 204-unit garden-style community, and raising the equity from accredited investors. Sponsor-side: you are the sponsor testing the property and the offering. | [USD](multifamily-syndication/USD/) · [EUR](multifamily-syndication/EUR/) · [GBP](multifamily-syndication/GBP/) |
 
 ## Case studies
 

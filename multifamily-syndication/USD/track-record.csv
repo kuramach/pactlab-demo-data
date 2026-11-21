@@ -1,0 +1,6 @@
+deal,units,acquired_on,exited_on,status,projected_irr_pct,actual_irr_pct,projected_multiple,actual_multiple
+Cedar Hollow Apartments (synthetic),148,2017-03-15,2022-06-30,realized,16.0,21.0,1.80,2.05
+Maple Run Townhomes (synthetic),96,2018-05-01,2023-09-15,realized,15.0,17.6,1.75,1.92
+Harlow Court (synthetic),120,2019-02-01,2024-04-30,realized,15.5,15.2,1.80,1.78
+Stonebridge Flats (synthetic),176,2019-08-01,2024-11-30,realized,17.0,,1.90,
+Willow Park (synthetic),210,2022-04-01,,held,16.5,,1.85,
