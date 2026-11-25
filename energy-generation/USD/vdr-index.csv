@@ -1,0 +1,15 @@
+doc_id,title,file,data_class,as_of
+EG-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
+EG-002,"Plant register: capacity, fuel, age, capacity factor and PPA",plant-register.csv,Financial,2026-09-30
+EG-003,"Interest register: mineral, royalty and working interests with the division-order decimal",interest-register.csv,Financial,2026-09-30
+EG-004,"Lease schedule: net acres, royalty chain, primary term and whether production holds each lease",lease-schedule.csv,Financial,2026-09-30
+EG-005,"Production history: plant generation and revenue by contract type, and well volumes and gross revenue",production-history.csv,Financial,2026-09-30
+EG-006,The seller's liability schedule: environmental and retirement obligations as booked,liability-schedule.csv,Financial,2026-09-30
+EG-007,The seller's sale summary,documents/01-sale-summary.pdf,Business,2026-09-30
+EG-008,Division-order title opinion over the interests,documents/02-title-opinion.pdf,Business,2026-09-30
+EG-009,The operator's division order for one well,documents/03-division-order-og007.pdf,Business,2026-09-30
+EG-010,The plant's power purchase agreement,documents/04-power-purchase-agreement.pdf,Business,2026-09-30
+EG-011,"Third-party reserve report: reserves by category, values and the decline assumed",documents/05-reserve-report.pdf,Business,2026-09-30
+EG-012,Closure and remediation plan for the plant's coal ash pond,documents/06-ash-pond-closure-plan.pdf,Business,2026-09-30
+EG-013,Decommissioning study for the plant,documents/07-decommissioning-study.pdf,Business,2026-09-30
+EG-014,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
