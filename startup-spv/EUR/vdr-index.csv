@@ -1,0 +1,11 @@
+doc_id,title,file,data_class,as_of
+SS-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
+SS-002,"The startup's cap table before the round, one row per security (pseudonymous holders)",cap-table.csv,Financial,2026-09-30
+SS-003,The startup's cash balance and net burn by month,monthly-financials.csv,Financial,2026-09-30
+SS-004,"The startup's round summary: size, price, valuation and its headline claims",documents/01-round-summary.pdf,Business,2026-09-30
+SS-005,The signed SAFE from the startup's earlier round,documents/02-safe-1.pdf,Business,2026-09-30
+SS-006,"The vehicle's operating agreement: fee, carry, expenses and the offering exemption",documents/03-spv-operating-agreement.pdf,Business,2026-09-30
+SS-007,The summary of terms given to investors,documents/04-spv-investor-summary.pdf,Business,2026-09-30
+SS-008,A side letter with one investor,documents/05-side-letter-inv-03.pdf,Business,2026-09-30
+SS-009,The vehicle's Form D filing confirmation,documents/06-form-d.pdf,Business,2026-09-30
+SS-010,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
