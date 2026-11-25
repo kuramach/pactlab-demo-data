@@ -1,0 +1,121 @@
+work_id,title,work_type,iswc,isrc,pro,publisher,release_year,us_work
+W-0001,Distant Lights,composition,T-900000001-1,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1986,yes
+W-0002,Harbour Streets,composition,T-900000002-2,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1993,yes
+W-0003,Velvet Hearts,composition,T-900000003-3,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2000,yes
+W-0004,Glass Shores,composition,T-900000004-4,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2007,yes
+W-0005,Wild Streets,composition,T-900000005-5,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2014,yes
+W-0006,Northern Hours,composition,T-900000006-6,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2021,no
+W-0007,Midnight Streets,composition,T-900000007-7,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1982,yes
+W-0008,River Echoes,composition,T-900000008-8,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1989,yes
+W-0009,Paper Fields,composition,T-900000009-9,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1996,yes
+W-0010,Harbour Skies,composition,T-900000010-0,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2003,yes
+W-0011,Neon Fields,composition,T-900000011-1,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2010,yes
+W-0012,Golden Shores,composition,T-900000012-2,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2017,no
+W-0013,Amber Skies,composition,T-900000013-3,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2024,yes
+W-0014,River Shores,composition,T-900000014-4,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1985,yes
+W-0015,Midnight Shores,composition,T-900000015-5,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1992,yes
+W-0016,Open Shores,composition,T-900000016-6,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1999,yes
+W-0017,Northern Waves,composition,T-900000017-7,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2006,yes
+W-0018,Golden Engines,composition,T-900000018-8,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2016,no
+W-0019,Summer Shores,composition,T-900000019-9,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2020,yes
+W-0020,Hollow Hearts,composition,T-900000020-0,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1981,yes
+W-0021,Copper Lines,composition,T-900000021-1,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1988,yes
+W-0022,River Roads,composition,T-900000022-2,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1995,yes
+W-0023,Copper Streets,composition,T-900000023-3,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2002,yes
+W-0024,Lantern Gardens,composition,T-900000024-4,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2009,no
+W-0025,Harbour Letters,composition,T-900000025-5,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2016,yes
+W-0026,Static Lines,composition,T-900000026-6,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2023,yes
+W-0027,Quiet Engines,composition,T-900000027-7,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1984,yes
+W-0028,Glass Hearts,composition,T-900000028-8,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1991,yes
+W-0029,Silver Skies,composition,T-900000029-9,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1998,yes
+W-0030,Lantern Skies,composition,T-900000030-0,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2005,no
+W-0031,Neon Echoes,composition,T-900000031-1,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2012,yes
+W-0032,Midnight Signals,composition,T-900000032-2,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2019,yes
+W-0033,Harbour Hearts,composition,T-900000033-3,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1980,yes
+W-0034,Hollow Skies,composition,T-900000034-4,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1987,yes
+W-0035,Static Shores,composition,T-900000035-5,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1994,yes
+W-0036,Neon Skies,composition,T-900000036-6,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2001,no
+W-0037,Lantern Hearts,composition,T-900000037-7,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2008,yes
+W-0038,Silver Lines,composition,T-900000038-8,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2015,yes
+W-0039,Wild Gardens,composition,T-900000039-9,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2022,yes
+W-0040,Static Gardens,composition,T-900000040-0,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1983,yes
+W-0041,Silver Gardens,composition,T-900000041-1,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1990,yes
+W-0042,Harbour Lights,composition,T-900000042-2,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2012,yes
+W-0043,Quiet Rooms,composition,T-900000043-3,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2004,yes
+W-0044,Hollow Gardens,composition,T-900000044-4,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2011,yes
+W-0045,Open Skies,composition,T-900000045-5,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2018,yes
+W-0046,Distant Echoes,composition,T-900000046-6,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1979,yes
+W-0047,Silver Roads,composition,T-900000047-7,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1986,yes
+W-0048,Copper Hearts,composition,T-900000048-8,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1993,no
+W-0049,Neon Hearts,composition,T-900000049-9,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2000,yes
+W-0050,Amber Letters,composition,T-900000050-0,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2007,yes
+W-0051,Quiet Echoes,composition,T-900000051-1,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2014,yes
+W-0052,Harbour Signals,composition,T-900000052-2,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2021,yes
+W-0053,Hollow Lights,composition,T-900000053-3,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1982,yes
+W-0054,Neon Waves,composition,T-900000054-4,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1989,no
+W-0055,Open Lines,composition,T-900000055-5,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1996,yes
+W-0056,Static Letters,composition,T-900000056-6,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2003,yes
+W-0057,Hollow Rooms,composition,T-900000057-7,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2010,yes
+W-0058,Velvet Rooms,composition,T-900000058-8,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2017,yes
+W-0059,Glass Fields,composition,T-900000059-9,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2024,yes
+W-0060,Hollow Echoes,composition,T-900000060-0,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1985,no
+W-0061,Quiet Roads,composition,T-900000061-1,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1992,yes
+W-0062,Golden Lights,composition,T-900000062-2,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1999,yes
+W-0063,Northern Engines,composition,T-900000063-3,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2016,yes
+W-0064,Glass Echoes,composition,T-900000064-4,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2013,yes
+W-0065,Neon Streets,composition,T-900000065-5,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2020,yes
+W-0066,Copper Shores,composition,T-900000066-6,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1981,no
+W-0067,Amber Lights,composition,T-900000067-7,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1988,yes
+W-0068,Hollow Waves,composition,T-900000068-8,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1995,yes
+W-0069,Neon Engines,composition,T-900000069-9,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2002,yes
+W-0070,Paper Streets,composition,T-900000070-0,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2009,yes
+W-0071,Silver Echoes,composition,T-900000071-1,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2016,yes
+W-0072,Copper Hours,composition,T-900000072-2,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2023,no
+W-0073,Neon Hours,composition,T-900000073-3,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1984,yes
+W-0074,Northern Signals,composition,T-900000074-4,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1991,yes
+W-0075,Wild Lines,composition,T-900000075-5,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1998,yes
+W-0076,Copper Skies,composition,T-900000076-6,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2005,yes
+W-0077,Wild Hours,composition,T-900000077-7,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2012,yes
+W-0078,River Lines,composition,T-900000078-8,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2019,no
+W-0079,Velvet Gardens,composition,T-900000079-9,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1980,yes
+W-0080,Open Hearts,composition,T-900000080-0,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1987,yes
+W-0081,Copper Gardens,composition,T-900000081-1,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1994,yes
+W-0082,Northern Fields,composition,T-900000082-2,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2001,yes
+W-0083,Harbour Shores,composition,T-900000083-3,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2008,yes
+W-0084,Northern Shores,composition,T-900000084-4,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2015,no
+W-0085,Lantern Engines,composition,T-900000085-5,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2022,yes
+W-0086,Velvet Waves,composition,T-900000086-6,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1983,yes
+W-0087,Quiet Signals,composition,T-900000087-7,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1990,yes
+W-0088,Velvet Streets,composition,T-900000088-8,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1997,yes
+W-0089,Quiet Shores,composition,T-900000089-9,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2004,yes
+W-0090,Static Skies,composition,T-900000090-0,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2011,no
+W-0091,Neon Gardens,composition,T-900000091-1,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2018,yes
+W-0092,Silver Streets,composition,T-900000092-2,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1979,yes
+W-0093,Glass Engines,composition,T-900000093-3,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1986,yes
+W-0094,Silver Signals,composition,T-900000094-4,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1993,yes
+W-0095,River Fields,composition,T-900000095-5,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2000,yes
+W-0096,Silver Letters,composition,T-900000096-6,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2007,no
+W-0097,Harbour Hours,composition,T-900000097-7,,Northbeam Rights (synthetic),Fairlight Songs Ltd,2014,yes
+W-0098,Distant Lines,composition,T-900000098-8,,Cardinal PRS (synthetic),Fairlight Songs Ltd,2021,yes
+W-0099,Distant Signals,composition,T-900000099-9,,Northbeam Rights (synthetic),Fairlight Songs Ltd,1982,yes
+W-0100,Amber Fields,composition,T-900000100-0,,Cardinal PRS (synthetic),Fairlight Songs Ltd,1989,yes
+W-0101,Paper Roads,recording,,QZ-K7S-96-00101,,Fairlight Songs Ltd,1996,yes
+W-0102,Lantern Rooms,recording,,QZ-K7S-03-00102,,Fairlight Songs Ltd,2003,no
+W-0103,River Rooms,recording,,QZ-K7S-10-00103,,Fairlight Songs Ltd,2010,yes
+W-0104,Golden Echoes,recording,,QZ-K7S-17-00104,,Fairlight Songs Ltd,2017,yes
+W-0105,Static Hearts,recording,,QZ-K7S-24-00105,,Fairlight Songs Ltd,2024,yes
+W-0106,Northern Gardens,recording,,QZ-K7S-85-00106,,Fairlight Songs Ltd,1985,yes
+W-0107,Lantern Fields,recording,,QZ-K7S-92-00107,,Fairlight Songs Ltd,1992,yes
+W-0108,Open Signals,recording,,QZ-K7S-99-00108,,Fairlight Songs Ltd,1999,no
+W-0109,Hollow Fields,recording,,QZ-K7S-06-00109,,Fairlight Songs Ltd,2006,yes
+W-0110,Hollow Hours,recording,,QZ-K7S-13-00110,,Fairlight Songs Ltd,2013,yes
+W-0111,Lantern Shores,recording,,QZ-K7S-20-00111,,Fairlight Songs Ltd,2020,yes
+W-0112,Glass Lines,recording,,QZ-K7S-81-00112,,Fairlight Songs Ltd,1981,yes
+W-0113,Neon Lines,recording,,QZ-K7S-88-00113,,Fairlight Songs Ltd,1988,yes
+W-0114,Summer Fields,recording,,QZ-K7S-95-00114,,Fairlight Songs Ltd,1995,no
+W-0115,Northern Streets,recording,,QZ-K7S-02-00115,,Fairlight Songs Ltd,2002,yes
+W-0116,Paper Letters,recording,,QZ-K7S-09-00116,,Fairlight Songs Ltd,2009,yes
+W-0117,Amber Hearts,recording,,QZ-K7S-16-00117,,Fairlight Songs Ltd,2016,yes
+W-0118,Amber Engines,recording,,QZ-K7S-23-00118,,Fairlight Songs Ltd,2023,yes
+W-0119,Static Echoes,recording,,QZ-K7S-84-00119,,Fairlight Songs Ltd,1984,yes
+W-0120,Golden Roads,recording,,QZ-K7S-91-00120,,Fairlight Songs Ltd,1991,no

@@ -1,0 +1,9 @@
+line_id,invoice_id,customer_id,customer_name,subscription_id,price_id,currency,amount,interval,interval_count,period_start,period_end,invoice_status,created
+il_mr_00001,in_mr_202412_-003,mr-lic-003,Orchard Lane Advertising (synthetic),sub_mr-lic-003,price_mr_sync_licence_m,EUR,8740.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_mr_00002,in_mr_202502_-001,mr-lic-001,Brightlane Films (synthetic),sub_mr-lic-001,price_mr_sync_licence_m,EUR,5980.00,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_mr_00003,in_mr_202508_-002,mr-lic-002,Pixelcourt Games (synthetic),sub_mr-lic-002,price_mr_sync_licence_m,EUR,7360.00,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_mr_00004,in_mr_202509_-003,mr-lic-003,Orchard Lane Advertising (synthetic),sub_mr-lic-003,price_mr_sync_licence_m,EUR,8740.00,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_mr_00005,in_mr_202511_-001,mr-lic-001,Brightlane Films (synthetic),sub_mr-lic-001,price_mr_sync_licence_m,EUR,5980.00,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_mr_00006,in_mr_202603_-002,mr-lic-002,Pixelcourt Games (synthetic),sub_mr-lic-002,price_mr_sync_licence_m,EUR,7360.00,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_mr_00007,in_mr_202605_-001,mr-lic-001,Brightlane Films (synthetic),sub_mr-lic-001,price_mr_sync_licence_m,EUR,5980.00,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_mr_00008,in_mr_202607_-003,mr-lic-003,Orchard Lane Advertising (synthetic),sub_mr-lic-003,price_mr_sync_licence_m,EUR,8740.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01

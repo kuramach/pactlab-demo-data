@@ -1,0 +1,263 @@
+Fairlight Songs Inc. — data-room extracts (synthetic demo data)
+
+Each page reproduces one structured extract from this folder. All names and figures are fictional.
+---page---
+works-register.csv — Works and rights register: one row per composition or master
+
+work_id | title | work_type | iswc | isrc | pro | publisher | release_year | us_work
+W-0001 | Lantern Lines | composition | T-900000001-1 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 1986 | yes
+W-0002 | Neon Hearts | composition | T-900000002-2 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 1993 | yes
+W-0003 | River Hours | composition | T-900000003-3 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2000 | yes
+W-0004 | Glass Hearts | composition | T-900000004-4 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2007 | yes
+W-0005 | Lantern Hearts | composition | T-900000005-5 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2014 | yes
+W-0006 | Amber Roads | composition | T-900000006-6 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2021 | no
+W-0007 | Copper Shores | composition | T-900000007-7 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 1982 | yes
+W-0008 | Neon Signals | composition | T-900000008-8 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 1989 | yes
+W-0009 | Copper Engines | composition | T-900000009-9 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 1996 | yes
+W-0010 | Hollow Skies | composition | T-900000010-0 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2003 | yes
+W-0011 | Midnight Hearts | composition | T-900000011-1 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2010 | yes
+W-0012 | Lantern Echoes | composition | T-900000012-2 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2017 | no
+W-0013 | Distant Hearts | composition | T-900000013-3 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2024 | yes
+W-0014 | Harbour Rooms | composition | T-900000014-4 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 1985 | yes
+W-0015 | Hollow Letters | composition | T-900000015-5 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 1992 | yes
+W-0016 | Neon Streets | composition | T-900000016-6 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 1999 | yes
+W-0017 | Wild Echoes | composition | T-900000017-7 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2006 | yes
+W-0018 | Golden Rooms | composition | T-900000018-8 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2016 | no
+W-0019 | Golden Lines | composition | T-900000019-9 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2020 | yes
+W-0020 | Velvet Gardens | composition | T-900000020-0 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 1981 | yes
+W-0021 | Distant Engines | composition | T-900000021-1 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 1988 | yes
+W-0022 | Quiet Waves | composition | T-900000022-2 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 1995 | yes
+W-0023 | Copper Waves | composition | T-900000023-3 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2002 | yes
+W-0024 | Harbour Hearts | composition | T-900000024-4 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2009 | no
+W-0025 | Glass Streets | composition | T-900000025-5 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2016 | yes
+W-0026 | Lantern Skies | composition | T-900000026-6 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2023 | yes
+W-0027 | Northern Streets | composition | T-900000027-7 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 1984 | yes
+W-0028 | Amber Streets | composition | T-900000028-8 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 1991 | yes
+W-0029 | Static Fields | composition | T-900000029-9 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 1998 | yes
+W-0030 | Northern Signals | composition | T-900000030-0 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2005 | no
+W-0031 | Harbour Waves | composition | T-900000031-1 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2012 | yes
+W-0032 | Static Lights | composition | T-900000032-2 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2019 | yes
+W-0033 | Lantern Hours | composition | T-900000033-3 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 1980 | yes
+W-0034 | Quiet Engines | composition | T-900000034-4 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 1987 | yes
+W-0035 | Quiet Shores | composition | T-900000035-5 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 1994 | yes
+W-0036 | Summer Roads | composition | T-900000036-6 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2001 | no
+W-0037 | Summer Letters | composition | T-900000037-7 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2008 | yes
+W-0038 | Summer Streets | composition | T-900000038-8 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2015 | yes
+W-0039 | Midnight Letters | composition | T-900000039-9 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2022 | yes
+W-0040 | Velvet Hearts | composition | T-900000040-0 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 1983 | yes
+W-0041 | Harbour Shores | composition | T-900000041-1 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 1990 | yes
+W-0042 | Harbour Lights | composition | T-900000042-2 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2012 | yes
+W-0043 | Hollow Hours | composition | T-900000043-3 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2004 | yes
+W-0044 | River Fields | composition | T-900000044-4 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2011 | yes
+W-0045 | Hollow Waves | composition | T-900000045-5 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2018 | yes
+W-0046 | Quiet Hours | composition | T-900000046-6 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 1979 | yes
+W-0047 | Open Signals | composition | T-900000047-7 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 1986 | yes
+W-0048 | Velvet Roads | composition | T-900000048-8 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 1993 | no
+W-0049 | Copper Echoes | composition | T-900000049-9 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2000 | yes
+W-0050 | Northern Roads | composition | T-900000050-0 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2007 | yes
+W-0051 | Wild Hours | composition | T-900000051-1 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2014 | yes
+W-0052 | Static Roads | composition | T-900000052-2 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2021 | yes
+W-0053 | Glass Gardens | composition | T-900000053-3 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 1982 | yes
+W-0054 | Open Hours | composition | T-900000054-4 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 1989 | no
+W-0055 | Distant Streets | composition | T-900000055-5 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 1996 | yes
+W-0056 | Glass Echoes | composition | T-900000056-6 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2003 | yes
+W-0057 | Velvet Hours | composition | T-900000057-7 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2010 | yes
+W-0058 | Summer Skies | composition | T-900000058-8 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 2017 | yes
+W-0059 | Wild Skies | composition | T-900000059-9 |  | Northbeam Rights (synthetic) | Fairlight Songs Inc. | 2024 | yes
+W-0060 | Golden Skies | composition | T-900000060-0 |  | Cardinal PRS (synthetic) | Fairlight Songs Inc. | 1985 | no
+… 60 more rows in works-register.csv
+---page---
+writer-splits.csv — Writer splits from the split sheets, and as statements pay them (pseudonymous writer references)
+
+split_id | work_id | writer_ref | share_pct | source
+S-0001-1 | W-0001 | WR-004 | 50 | split_sheet
+S-0001-2 | W-0001 | WR-011 | 50 | split_sheet
+S-0002-1 | W-0002 | WR-007 | 40 | split_sheet
+S-0002-2 | W-0002 | WR-014 | 30 | split_sheet
+S-0002-3 | W-0002 | WR-021 | 30 | split_sheet
+S-0003-1 | W-0003 | WR-010 | 100 | split_sheet
+S-0003-1P | W-0003 | WR-010 | 100 | statement
+S-0004-1 | W-0004 | WR-013 | 50 | split_sheet
+S-0004-2 | W-0004 | WR-020 | 50 | split_sheet
+S-0005-1 | W-0005 | WR-016 | 40 | split_sheet
+S-0005-2 | W-0005 | WR-023 | 30 | split_sheet
+S-0005-3 | W-0005 | WR-030 | 30 | split_sheet
+S-0006-1 | W-0006 | WR-019 | 100 | split_sheet
+S-0007-1 | W-0007 | WR-022 | 50 | split_sheet
+S-0007-2 | W-0007 | WR-029 | 50 | split_sheet
+S-0008-1 | W-0008 | WR-025 | 40 | split_sheet
+S-0008-2 | W-0008 | WR-002 | 30 | split_sheet
+S-0008-3 | W-0008 | WR-009 | 30 | split_sheet
+S-0009-1 | W-0009 | WR-028 | 100 | split_sheet
+S-0010-1 | W-0010 | WR-001 | 50 | split_sheet
+S-0010-2 | W-0010 | WR-008 | 50 | split_sheet
+S-0011-1 | W-0011 | WR-004 | 40 | split_sheet
+S-0011-2 | W-0011 | WR-011 | 30 | split_sheet
+S-0011-3 | W-0011 | WR-018 | 30 | split_sheet
+S-0012-1 | W-0012 | WR-007 | 100 | split_sheet
+S-0013-1 | W-0013 | WR-010 | 50 | split_sheet
+S-0013-1P | W-0013 | WR-010 | 50 | statement
+S-0013-2 | W-0013 | WR-017 | 50 | split_sheet
+S-0013-2P | W-0013 | WR-017 | 50 | statement
+S-0014-1 | W-0014 | WR-013 | 40 | split_sheet
+S-0014-2 | W-0014 | WR-020 | 30 | split_sheet
+S-0014-3 | W-0014 | WR-027 | 30 | split_sheet
+S-0015-1 | W-0015 | WR-016 | 100 | split_sheet
+S-0016-1 | W-0016 | WR-019 | 50 | split_sheet
+S-0016-2 | W-0016 | WR-026 | 50 | split_sheet
+S-0017-1 | W-0017 | WR-022 | 40 | split_sheet
+S-0017-2 | W-0017 | WR-029 | 30 | split_sheet
+S-0017-3 | W-0017 | WR-006 | 30 | split_sheet
+S-0018-1 | W-0018 | WR-025 | 100 | split_sheet
+S-0019-1 | W-0019 | WR-028 | 50 | split_sheet
+S-0019-2 | W-0019 | WR-005 | 50 | split_sheet
+S-0020-1 | W-0020 | WR-001 | 40 | split_sheet
+S-0020-2 | W-0020 | WR-008 | 30 | split_sheet
+S-0020-3 | W-0020 | WR-015 | 30 | split_sheet
+S-0021-1 | W-0021 | WR-004 | 100 | split_sheet
+S-0022-1 | W-0022 | WR-007 | 50 | split_sheet
+S-0022-2 | W-0022 | WR-014 | 50 | split_sheet
+S-0023-1 | W-0023 | WR-010 | 40 | split_sheet
+S-0023-1P | W-0023 | WR-010 | 40 | statement
+S-0023-2 | W-0023 | WR-017 | 30 | split_sheet
+S-0023-2P | W-0023 | WR-017 | 30 | statement
+S-0023-3 | W-0023 | WR-024 | 30 | split_sheet
+S-0023-3P | W-0023 | WR-024 | 30 | statement
+S-0024-1 | W-0024 | WR-013 | 100 | split_sheet
+S-0025-1 | W-0025 | WR-016 | 50 | split_sheet
+S-0025-2 | W-0025 | WR-023 | 50 | split_sheet
+S-0026-1 | W-0026 | WR-019 | 40 | split_sheet
+S-0026-2 | W-0026 | WR-026 | 30 | split_sheet
+S-0026-3 | W-0026 | WR-003 | 30 | split_sheet
+S-0027-1 | W-0027 | WR-022 | 100 | split_sheet
+… 159 more rows in writer-splits.csv
+---page---
+chain-of-title.csv — Chain of title: registrations, assignments, administration and work-for-hire agreements
+
+grant_id | work_id | grant_type | executed_on | publication_date | copyright_secured_on | grantor_ref | reference
+G-0001-R | W-0001 | registration | 1986-03-01 |  |  |  | PA0001000037
+G-0001-A1 | W-0001 | assignment | 1986-02-01 |  |  | WR-004 | Assignment W-0001/1
+G-0001-A2 | W-0001 | assignment | 1986-02-01 |  |  | WR-011 | Assignment W-0001/2
+G-0001-M | W-0001 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+G-0002-R | W-0002 | registration | 1993-03-01 |  |  |  | PA0001000074
+G-0002-A1 | W-0002 | assignment | 1993-02-01 |  |  | WR-007 | Assignment W-0002/1
+G-0002-A2 | W-0002 | assignment | 1993-02-01 |  |  | WR-014 | Assignment W-0002/2
+G-0002-A3 | W-0002 | assignment | 1993-02-01 |  |  | WR-021 | Assignment W-0002/3
+G-0002-M | W-0002 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+G-0003-R | W-0003 | registration | 2000-03-01 |  |  |  | PA0001000111
+G-0003-A1 | W-0003 | assignment | 2000-02-01 |  |  | WR-010 | Assignment W-0003/1
+G-0003-M | W-0003 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+G-0004-R | W-0004 | registration | 2007-03-01 |  |  |  | PA0001000148
+G-0004-A1 | W-0004 | assignment | 2007-02-01 |  |  | WR-013 | Assignment W-0004/1
+G-0004-A2 | W-0004 | assignment | 2007-02-01 |  |  | WR-020 | Assignment W-0004/2
+G-0004-M | W-0004 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+G-0005-R | W-0005 | registration | 2014-03-01 |  |  |  | PA0001000185
+G-0005-A1 | W-0005 | assignment | 2014-02-01 |  |  | WR-016 | Assignment W-0005/1
+G-0005-A2 | W-0005 | assignment | 2014-02-01 |  |  | WR-023 | Assignment W-0005/2
+G-0005-A3 | W-0005 | assignment | 2014-02-01 |  |  | WR-030 | Assignment W-0005/3
+G-0005-M | W-0005 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+G-0006-R | W-0006 | registration | 2021-03-01 |  |  |  | PA0001000222
+G-0006-A1 | W-0006 | assignment | 2021-02-01 |  |  | WR-019 | Assignment W-0006/1
+G-0006-M | W-0006 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+G-0007-R | W-0007 | registration | 1982-03-01 |  |  |  | PA0001000259
+G-0007-A1 | W-0007 | assignment | 1982-02-01 |  |  | WR-022 | Assignment W-0007/1
+G-0007-A2 | W-0007 | assignment | 1982-02-01 |  |  | WR-029 | Assignment W-0007/2
+G-0007-M | W-0007 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+G-0008-R | W-0008 | registration | 1989-03-01 |  |  |  | PA0001000296
+G-0008-A1 | W-0008 | assignment | 1989-02-01 |  |  | WR-025 | Assignment W-0008/1
+G-0008-A2 | W-0008 | assignment | 1989-02-01 |  |  | WR-002 | Assignment W-0008/2
+G-0008-A3 | W-0008 | assignment | 1989-02-01 |  |  | WR-009 | Assignment W-0008/3
+G-0008-M | W-0008 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+G-0009-R | W-0009 | registration | 1996-03-01 |  |  |  | PA0001000333
+G-0009-A1 | W-0009 | assignment | 1996-02-01 |  |  | WR-028 | Assignment W-0009/1
+G-0009-M | W-0009 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+G-0010-R | W-0010 | registration | 2003-03-01 |  |  |  | PA0001000370
+G-0010-A1 | W-0010 | assignment | 2003-02-01 |  |  | WR-001 | Assignment W-0010/1
+G-0010-A2 | W-0010 | assignment | 2003-02-01 |  |  | WR-008 | Assignment W-0010/2
+G-0010-M | W-0010 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+G-0011-R | W-0011 | registration | 2010-03-01 |  |  |  | PA0001000407
+G-0011-A1 | W-0011 | assignment | 2010-02-01 |  |  | WR-004 | Assignment W-0011/1
+G-0011-A2 | W-0011 | assignment | 2010-02-01 |  |  | WR-011 | Assignment W-0011/2
+G-0011-A3 | W-0011 | assignment | 2010-02-01 |  |  | WR-018 | Assignment W-0011/3
+G-0011-M | W-0011 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+G-0012-R | W-0012 | registration | 2017-03-01 |  |  |  | PA0001000444
+G-0012-A1 | W-0012 | assignment | 2017-02-01 |  |  | WR-007 | Assignment W-0012/1
+G-0012-M | W-0012 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+G-0013-R | W-0013 | registration | 2024-03-01 |  |  |  | PA0001000481
+G-0013-A1 | W-0013 | assignment | 2024-02-01 |  |  | WR-010 | Assignment W-0013/1
+G-0013-A2 | W-0013 | assignment | 2024-02-01 |  |  | WR-017 | Assignment W-0013/2
+G-0013-M | W-0013 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+G-0014-R | W-0014 | registration | 1985-03-01 |  |  |  | PA0001000518
+G-0014-A1 | W-0014 | assignment | 1985-02-01 |  |  | WR-013 | Assignment W-0014/1
+G-0014-A2 | W-0014 | assignment | 1985-02-01 |  |  | WR-020 | Assignment W-0014/2
+G-0014-A3 | W-0014 | assignment | 1985-02-01 |  |  | WR-027 | Assignment W-0014/3
+G-0014-M | W-0014 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+G-0015-R | W-0015 | registration | 1992-03-01 |  |  |  | PA0001000555
+G-0015-A1 | W-0015 | assignment | 1992-02-01 |  |  | WR-016 | Assignment W-0015/1
+G-0015-M | W-0015 | administration | 2019-07-01 |  |  |  | Administration agreement AA-2019
+… 398 more rows in chain-of-title.csv
+---page---
+royalty-statements.csv — Royalty statement lines by work, period and income source, net to the catalog owner
+
+line_id | period_end | work_id | income_source | payer | amount
+L-W-0001-2024-12-31-pf | 2024-12-31 | W-0001 | performance | Northbeam Rights (synthetic) | 839.30
+L-W-0001-2024-12-31-mc | 2024-12-31 | W-0001 | mechanical | Keystone Mechanical Agency (synthetic) | 686.70
+L-W-0001-2025-06-30-pf | 2025-06-30 | W-0001 | performance | Northbeam Rights (synthetic) | 826.71
+L-W-0001-2025-06-30-mc | 2025-06-30 | W-0001 | mechanical | Keystone Mechanical Agency (synthetic) | 676.40
+L-W-0001-2025-12-31-pf | 2025-12-31 | W-0001 | performance | Northbeam Rights (synthetic) | 814.31
+L-W-0001-2025-12-31-mc | 2025-12-31 | W-0001 | mechanical | Keystone Mechanical Agency (synthetic) | 666.25
+L-W-0001-2026-06-30-pf | 2026-06-30 | W-0001 | performance | Northbeam Rights (synthetic) | 802.10
+L-W-0001-2026-06-30-mc | 2026-06-30 | W-0001 | mechanical | Keystone Mechanical Agency (synthetic) | 656.26
+L-W-0002-2024-12-31-pf | 2024-12-31 | W-0002 | performance | Cardinal PRS (synthetic) | 1138.87
+L-W-0002-2024-12-31-mc | 2024-12-31 | W-0002 | mechanical | Keystone Mechanical Agency (synthetic) | 931.80
+L-W-0002-2025-06-30-pf | 2025-06-30 | W-0002 | performance | Cardinal PRS (synthetic) | 1121.79
+L-W-0002-2025-06-30-mc | 2025-06-30 | W-0002 | mechanical | Keystone Mechanical Agency (synthetic) | 917.82
+L-W-0002-2025-12-31-pf | 2025-12-31 | W-0002 | performance | Cardinal PRS (synthetic) | 1104.96
+L-W-0002-2025-12-31-mc | 2025-12-31 | W-0002 | mechanical | Keystone Mechanical Agency (synthetic) | 904.06
+L-W-0002-2026-06-30-pf | 2026-06-30 | W-0002 | performance | Cardinal PRS (synthetic) | 1088.38
+L-W-0002-2026-06-30-mc | 2026-06-30 | W-0002 | mechanical | Keystone Mechanical Agency (synthetic) | 890.50
+L-W-0003-2024-12-31-pf | 2024-12-31 | W-0003 | performance | Northbeam Rights (synthetic) | 1960.81
+L-W-0003-2024-12-31-mc | 2024-12-31 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1604.30
+L-W-0003-2025-06-30-pf | 2025-06-30 | W-0003 | performance | Northbeam Rights (synthetic) | 1931.39
+L-W-0003-2025-06-30-mc | 2025-06-30 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1580.23
+L-W-0003-2025-12-31-pf | 2025-12-31 | W-0003 | performance | Northbeam Rights (synthetic) | 1902.42
+L-W-0003-2025-12-31-mc | 2025-12-31 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1556.53
+L-W-0003-2026-06-30-pf | 2026-06-30 | W-0003 | performance | Northbeam Rights (synthetic) | 1873.89
+L-W-0003-2026-06-30-mc | 2026-06-30 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1533.18
+L-W-0004-2024-12-31-pf | 2024-12-31 | W-0004 | performance | Cardinal PRS (synthetic) | 990.00
+L-W-0004-2024-12-31-mc | 2024-12-31 | W-0004 | mechanical | Keystone Mechanical Agency (synthetic) | 810.00
+L-W-0004-2025-06-30-pf | 2025-06-30 | W-0004 | performance | Cardinal PRS (synthetic) | 975.15
+L-W-0004-2025-06-30-mc | 2025-06-30 | W-0004 | mechanical | Keystone Mechanical Agency (synthetic) | 797.85
+L-W-0004-2025-12-31-pf | 2025-12-31 | W-0004 | performance | Cardinal PRS (synthetic) | 960.52
+L-W-0004-2025-12-31-mc | 2025-12-31 | W-0004 | mechanical | Keystone Mechanical Agency (synthetic) | 785.88
+L-W-0004-2026-06-30-pf | 2026-06-30 | W-0004 | performance | Cardinal PRS (synthetic) | 946.11
+L-W-0004-2026-06-30-mc | 2026-06-30 | W-0004 | mechanical | Keystone Mechanical Agency (synthetic) | 774.09
+L-W-0005-2024-12-31-pf | 2024-12-31 | W-0005 | performance | Northbeam Rights (synthetic) | 1408.55
+L-W-0005-2024-12-31-mc | 2024-12-31 | W-0005 | mechanical | Keystone Mechanical Agency (synthetic) | 1152.45
+L-W-0005-2025-06-30-pf | 2025-06-30 | W-0005 | performance | Northbeam Rights (synthetic) | 1387.42
+L-W-0005-2025-06-30-mc | 2025-06-30 | W-0005 | mechanical | Keystone Mechanical Agency (synthetic) | 1135.16
+L-W-0005-2025-12-31-pf | 2025-12-31 | W-0005 | performance | Northbeam Rights (synthetic) | 1366.61
+L-W-0005-2025-12-31-mc | 2025-12-31 | W-0005 | mechanical | Keystone Mechanical Agency (synthetic) | 1118.14
+L-W-0005-2026-06-30-pf | 2026-06-30 | W-0005 | performance | Northbeam Rights (synthetic) | 1346.11
+L-W-0005-2026-06-30-mc | 2026-06-30 | W-0005 | mechanical | Keystone Mechanical Agency (synthetic) | 1101.36
+L-W-0006-2024-12-31-pf | 2024-12-31 | W-0006 | performance | Cardinal PRS (synthetic) | 1906.08
+L-W-0006-2024-12-31-mc | 2024-12-31 | W-0006 | mechanical | Keystone Mechanical Agency (synthetic) | 1559.52
+L-W-0006-2025-06-30-pf | 2025-06-30 | W-0006 | performance | Cardinal PRS (synthetic) | 1791.72
+L-W-0006-2025-06-30-mc | 2025-06-30 | W-0006 | mechanical | Keystone Mechanical Agency (synthetic) | 1465.95
+L-W-0006-2025-12-31-pf | 2025-12-31 | W-0006 | performance | Cardinal PRS (synthetic) | 1684.21
+L-W-0006-2025-12-31-mc | 2025-12-31 | W-0006 | mechanical | Keystone Mechanical Agency (synthetic) | 1377.99
+L-W-0006-2026-06-30-pf | 2026-06-30 | W-0006 | performance | Cardinal PRS (synthetic) | 1583.16
+L-W-0006-2026-06-30-mc | 2026-06-30 | W-0006 | mechanical | Keystone Mechanical Agency (synthetic) | 1295.31
+L-W-0007-2024-12-31-pf | 2024-12-31 | W-0007 | performance | Northbeam Rights (synthetic) | 667.15
+L-W-0007-2024-12-31-mc | 2024-12-31 | W-0007 | mechanical | Keystone Mechanical Agency (synthetic) | 545.85
+L-W-0007-2025-06-30-pf | 2025-06-30 | W-0007 | performance | Northbeam Rights (synthetic) | 657.14
+L-W-0007-2025-06-30-mc | 2025-06-30 | W-0007 | mechanical | Keystone Mechanical Agency (synthetic) | 537.66
+L-W-0007-2025-12-31-pf | 2025-12-31 | W-0007 | performance | Northbeam Rights (synthetic) | 647.29
+L-W-0007-2025-12-31-mc | 2025-12-31 | W-0007 | mechanical | Keystone Mechanical Agency (synthetic) | 529.60
+L-W-0007-2026-06-30-pf | 2026-06-30 | W-0007 | performance | Northbeam Rights (synthetic) | 637.58
+L-W-0007-2026-06-30-mc | 2026-06-30 | W-0007 | mechanical | Keystone Mechanical Agency (synthetic) | 521.65
+L-W-0008-2024-12-31-pf | 2024-12-31 | W-0008 | performance | Cardinal PRS (synthetic) | 2032.78
+L-W-0008-2024-12-31-mc | 2024-12-31 | W-0008 | mechanical | Keystone Mechanical Agency (synthetic) | 1663.19
+L-W-0008-2025-06-30-pf | 2025-06-30 | W-0008 | performance | Cardinal PRS (synthetic) | 2002.29
+L-W-0008-2025-06-30-mc | 2025-06-30 | W-0008 | mechanical | Keystone Mechanical Agency (synthetic) | 1638.24
+… 896 more rows in royalty-statements.csv
