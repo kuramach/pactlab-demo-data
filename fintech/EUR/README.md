@@ -9,7 +9,7 @@ Based in Utrecht, the Netherlands; reports in EUR. Data runs October 2024 to Sep
 
 - Download this whole folder (on GitHub: **Code → Download ZIP** at the top of the repository, then unzip).
 - Sign in to Pactlab. The steps take about 15 minutes.
-- You upload **3 CSV files** and **4 PDFs**. Nothing else.
+- You upload **5 CSV files** and **8 PDFs**. Nothing else.
 - **Never upload the `.md` files** in `documents/`. They are the text each PDF is built from; Pactlab reads the PDFs.
 - `vdr-index.csv` is for reference only (how a data room would list these files). Do not upload it.
 - Text in **bold** below is a button, tab or option exactly as Pactlab shows it.
@@ -61,6 +61,8 @@ Open the **Sources** tab and scroll to **Industry data**. Upload these files one
 |---|---|---|---|---|
 | 1 | **Upload loan tape** | `loan-tape.csv` | **Upload and map columns** → **Check every row** | **Import 120 rows** |
 | 2 | **Upload aml alerts** | `aml-alerts.csv` | **Upload and map columns** → **Check every row** | **Import 80 rows** |
+| 3 | **Upload processor volume** | `processor-volume.csv` | **Upload and map columns** → **Check every row** | **Import 48 rows** |
+| 4 | **Upload licence and sponsor register** | `licence-register.csv` | **Upload and map columns** → **Check every row** | **Import 7 rows** |
 
 **You should see** after each import: "… imported … Industry checks ran on them". Some findings may already appear as drafts; that is expected.
 
@@ -72,23 +74,45 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 |---|---|---|---|
 | 1 | `documents/01-balance-sheet-2026-09-30.pdf` | **financial information** | Balance sheet extract with the credit-loss allowance |
 | 2 | `documents/02-aml-procedure.pdf` | **business information** | Written AML alert-handling procedure |
-| 3 | `documents/03-partner-bank-agreement.pdf` | **business information** | Partner-bank program agreement |
-| 4 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
+| 3 | `documents/03-partner-bank-agreement.pdf` | **business information** | Partner-bank program agreement, with its monitoring thresholds and term |
+| 4 | `documents/04-investor-presentation.pdf` | **business information** | Investor presentation with TPV, growth, take-rate and retention claims |
+| 5 | `documents/05-licence-belgium.pdf` | **business information** | Belgium licence certificate, with its expiry date |
+| 6 | `documents/06-pci-attestation.pdf` | **business information** | PCI DSS attestation of compliance |
+| 7 | `documents/07-report-of-examination.pdf` | **business information** | Regulatory report of examination |
+| 8 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
 
-**You should see:** all 4 documents listed on the **Documents** tab.
+**You should see:** all 8 documents listed on the **Documents** tab.
 
-## Step 5 — Run the checks and review the findings
+## Step 5 — Upload the P&L by year
+
+Open the **Sources** tab, scroll to **Industry data** and click **Upload profit and loss (p&l)**.
+
+1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the three years across the columns (FY2023, FY2024, FY2025).
+2. Say what each line is: the three lines ending in *revenue* are **Revenue**, `Cost of processing (processor platform fees)` is **Cost of revenue**, and the rest are **Operating expenses**.
+3. **Check every row**, then **Import 30 rows**.
+
+**You should see:** the import succeed. The **Payments** tab now shows the P&L year by year, and the checks in the next step read every year.
+
+## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run fintech checks**.
-2. **You should see exactly these 3 findings** (running the checks again adds nothing):
+2. **You should see exactly these 11 findings** (running the checks again adds nothing):
 
    1. **Allowance below observed loss experience** — the balance sheet carries a 2.0% allowance (EUR 17,822); `loan-tape.csv` shows charge-offs of 7.9% of originated principal.
    2. **Alerts closed without review evidence** — 24 of 80 closed alerts in `aml-alerts.csv` have `review_evidence = no`, against the procedure in `documents/02-aml-procedure.pdf`.
    3. **Partner bank can terminate on change of control** — `documents/03-partner-bank-agreement.pdf` page 2, clause 22.3 — consent needed before closing.
+   4. **Claim contradicted: Total payment volume** — the investor presentation states EUR 244,504,141 for the twelve months to September 2026; `processor-volume.csv` gives EUR 232,493,580 — the gap is Northpass Processing (synthetic)'s March 2026 volume (EUR 12,010,561), counted twice.
+   5. **Claim verified: TPV growth** — 32% year on year, recomputed from the exports.
+   6. **Claim verified: Take rate** — 0.85%: net revenue ÷ processed volume, twelve months to September 2026.
+   7. **Claim not verified: Retention** — net revenue retention of 116%: the processor exports carry no merchant identities to recompute it from.
+   8. **Lapsed: Belgium payment-institution licence (PI-BE-30981)** — `documents/05-licence-belgium.pdf` — it expired on 31 May 2026, four months before the latest processor month; `licence-register.csv` still records it as active.
+   9. **Chargeback rate breaches the stated threshold, 2026-Q3** — 0.94% of settled transactions in July–September 2026, against the 0.90% in clause 8.2 of `documents/03-partner-bank-agreement.pdf` (page 3).
+   10. **P&L trend, 2023–2025** — every imported year side by side: revenue, growth, margins and the fraud, credit-loss and processing ratios.
+   11. **Fraud losses growing faster than revenue, 2023–2025** — `pnl.csv` — fraud losses rise from 0.6% of revenue in FY2023 to 1.7% in FY2025 (EUR 9,861 to EUR 53,588); FY2025 alone looks small.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
-## Step 6 — Test the price
+## Step 7 — Test the price
 
 1. Open the **Valuation** tab → **New scenario**.
 2. Fill in the valuation method's fields — the hint under each field says where its number comes from (usually the **Finances** tab) — and save.
@@ -192,13 +216,24 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 | `invoice-lines.csv` | 328 revenue lines, one per merchant platform fee per month | **Yes** — billing export step |
 | `loan-tape.csv` | Loan-level tape for merchant working-capital loans (120 rows) | **Yes** — industry data step |
 | `aml-alerts.csv` | Transaction-monitoring alerts and whether review evidence exists (80 rows) | **Yes** — industry data step |
+| `processor-volume.csv` | Processor settlement exports by month: volume, transactions, net revenue, chargebacks and fraud losses (48 rows) | **Yes** — industry data step |
+| `licence-register.csv` | Licence and sponsor-bank register as the company keeps it (7 rows) | **Yes** — industry data step |
+| `pnl.csv` | Profit and loss by fiscal year, FY2023 to FY2025 (10 lines) | **Yes** — P&L step |
 | `documents/01-balance-sheet-2026-09-30.pdf` | Balance sheet extract with the credit-loss allowance | **Yes** — documents step |
 | `documents/02-aml-procedure.pdf` | Written AML alert-handling procedure | **Yes** — documents step |
-| `documents/03-partner-bank-agreement.pdf` | Partner-bank program agreement | **Yes** — documents step |
+| `documents/03-partner-bank-agreement.pdf` | Partner-bank program agreement, with its monitoring thresholds and term | **Yes** — documents step |
+| `documents/04-investor-presentation.pdf` | Investor presentation with TPV, growth, take-rate and retention claims | **Yes** — documents step |
+| `documents/05-licence-belgium.pdf` | Belgium licence certificate, with its expiry date | **Yes** — documents step |
+| `documents/06-pci-attestation.pdf` | PCI DSS attestation of compliance | **Yes** — documents step |
+| `documents/07-report-of-examination.pdf` | Regulatory report of examination | **Yes** — documents step |
 | `documents/99-data-room-extracts.pdf` | Every CSV extract in this folder as one paged PDF, so findings can cite a page | **Yes** — documents step |
 | `bidders.csv` | The three bidding firms for Part B: who to invite, what each asks and offers | **No** — read it while you follow Part B |
 | `documents/*.md` | The text each PDF is built from | **No** — never |
 | `vdr-index.csv` | Index of every file, as a data room would list it | **No** — reference only |
+
+## Notes
+
+- The P&L (`pnl.csv`) imports through Sources like any extract; the multi-year checks read every year it holds. A single year still imports: the trend then reports that year alone.
 
 ## Intake test — hand over the whole data room
 
@@ -217,7 +252,11 @@ Use it to check that Pactlab sorts files on its own and asks only when unsure.
 | `02 Finance/Aml procedure.pdf` | Other |  |
 | `02 Finance/Exports/Tallyport aml alerts export Sep26.csv` | AML alerts |  |
 | `02 Finance/Exports/Tallyport invoice lines export Sep26.csv` | Invoice lines |  |
+| `02 Finance/Investor presentation.pdf` | Other |  |
+| `02 Finance/Licence belgium.pdf` | Other |  |
 | `02 Finance/Mgmt accounts FY26 - Tallyport.md` | Income statement (P&L) | Revenue matches the invoice lines for Oct 2025 – Sep 2026. |
+| `02 Finance/Pci attestation.pdf` | Other |  |
+| `02 Finance/Report of examination.pdf` | Other |  |
 | `02 Finance/Tallyport FY26 summary.md` | Pactlab asks: income statement or cash flow statement? | Mixes profit and cash flow lines. |
 | `03 Commercial/Suppliers/Partner bank agreement.pdf` | Supplier contract |  |
 | `04 Legal/Balance sheet 2026 09 30.pdf` | Balance sheet | In the Legal folder, but it is a balance sheet: the content decides. |

@@ -1,0 +1,8 @@
+licence_id,kind,jurisdiction,authority,status,issued_on,expires_on
+MT-OH-20431,money_transmitter,Ohio,Ohio Division of Financial Institutions,active,2021-07-01,2027-06-30
+MT-IL-30981,money_transmitter,Illinois,Illinois Department of Financial and Professional Regulation,active,2021-06-01,2026-05-31
+MT-TX-11872,money_transmitter,Texas,Texas Department of Banking,active,2022-01-15,2027-12-31
+MT-FL-50214,money_transmitter,Florida,Florida Office of Financial Regulation,active,2022-04-30,2028-04-30
+CFL-CA-60778,lending,California,California Department of Financial Protection and Innovation,active,2023-02-01,2027-12-31
+SML-OH-70345,lending,Ohio,Ohio Division of Financial Institutions,active,2023-03-01,2028-02-28
+SBA-2023-0412,sponsor_bank,United States,Lakeshore Commercial Bank (synthetic),active,2023-04-01,2028-03-31

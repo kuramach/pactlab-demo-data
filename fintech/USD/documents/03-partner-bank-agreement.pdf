@@ -3,7 +3,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -26,18 +26,29 @@ stream
 BT /F1 11 Tf 72 740 Td 14 TL (22.3 The Bank may terminate this agreement on ninety days' notice if the Program Manager) Tj T* (undergoes a change of control without the Bank's prior written consent.) Tj T* ET
 endstream
 endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 388 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (8.2 The Program Manager shall keep the chargeback ratio, measured each calendar quarter as) Tj T* (chargebacks divided by settled transactions by count, below 0.90%.) Tj T* (8.3 Fraud losses shall not exceed 0.15% of processed volume in any calendar quarter.) Tj T* (This agreement, reference SBA-2023-0412, expires on 31 March 2028 unless renewed.) Tj T* ET
+endstream
+endobj
 xref
-0 8
+0 10
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000121 00000 n 
-0000000191 00000 n 
-0000000317 00000 n 
-0000000501 00000 n 
-0000000627 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000323 00000 n 
+0000000507 00000 n 
+0000000633 00000 n 
+0000000892 00000 n 
+0000001018 00000 n 
 trailer
-<< /Size 8 /Root 1 0 R >>
+<< /Size 10 /Root 1 0 R >>
 startxref
-886
+1457
 %%EOF
