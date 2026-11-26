@@ -9,7 +9,7 @@ Based in Utrecht, the Netherlands; reports in EUR. Data runs October 2024 to Sep
 
 - Download this whole folder (on GitHub: **Code → Download ZIP** at the top of the repository, then unzip).
 - Sign in to Pactlab. The steps take about 15 minutes.
-- You upload **3 CSV files** and **4 PDFs**. Nothing else.
+- You upload **6 CSV files** and **10 PDFs**. Nothing else.
 - **Never upload the `.md` files** in `documents/`. They are the text each PDF is built from; Pactlab reads the PDFs.
 - `vdr-index.csv` is for reference only (how a data room would list these files). Do not upload it.
 - Text in **bold** below is a button, tab or option exactly as Pactlab shows it.
@@ -61,35 +61,70 @@ Open the **Sources** tab and scroll to **Industry data**. Upload these files one
 |---|---|---|---|---|
 | 1 | **Upload census** | `census.csv` | **Upload and map columns** → **Check every row** | **Import 48 rows** |
 | 2 | **Upload payer mix** | `payer-mix.csv` | **Upload and map columns** → **Check every row** | **Import 60 rows** |
+| 3 | **Upload medical-staff roster** | `medical-staff.csv` | **Upload and map columns** → **Check every row** | **Import 56 rows** |
+| 4 | **Upload capital spend history** | `capex-history.csv` | **Upload and map columns** → **Check every row** | **Import 9 rows** |
 
 **You should see** after each import: "… imported … Industry checks ran on them". Some findings may already appear as drafts; that is expected.
 
-## Step 4 — Upload the documents
+## Step 4 — Upload the P&L, by year
+
+`pnl.csv` holds the profit and loss for fiscal years 2024, 2025, 2026, one column per year. Pactlab reads every year, so the trend across them shows.
+
+1. On **Sources**, under **Industry data**, click **Upload profit and loss (p&l)** → `pnl.csv` → **Upload and map columns**.
+2. The line names and the years are read from the file. Under **What each line is**, choose:
+
+   | Line | What it is |
+   |---|---|
+   | `Net patient service revenue` | **Revenue** |
+   | `Other operating revenue` | **Revenue** |
+   | `Salaries and benefits` | **Operating expense** |
+   | `Contract labour` | **Operating expense** |
+   | `Medical supplies and drugs` | **Cost of revenue** |
+   | `Purchased services` | **Operating expense** |
+   | `Utilities and occupancy` | **Operating expense** |
+   | `Other operating expenses` | **Operating expense** |
+
+3. Click **Check every row**, then **Import 24 rows**.
+
+**You should see:** the statement for each year, adding up. **Quality of earnings** and **Valuation** read every imported year.
+
+## Step 5 — Upload the documents
 
 Open the **Documents** tab. Under **Upload a document**, upload each PDF from the `documents/` folder, one at a time — choose the file, set **Data class**, leave **Keep away from AI** unticked, click **Upload**.
 
 | # | File | Data class | What it is |
 |---|---|---|---|
 | 1 | `documents/01-accreditation-record.pdf` | **business information** | Accreditation record and transfer condition |
-| 2 | `documents/02-medicare-cost-report-summary.pdf` | **financial information** | Cost report summary with committed regulatory capex |
+| 2 | `documents/02-medicare-cost-report-summary.pdf` | **financial information** | Filed cost report summary: days, costs and committed regulatory capex |
 | 3 | `documents/03-service-line-dependence.pdf` | **business information** | Aggregate physician dependence by service line |
-| 4 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
+| 4 | `documents/04-management-presentation.pdf` | **business information** | The seller's management presentation (the deck) |
+| 5 | `documents/05-quality-reporting-summary.pdf` | **business information** | Published quality-reporting summary |
+| 6 | `documents/06-property-condition-assessment.pdf` | **business information** | Property condition assessment of the hospital plant |
+| 7 | `documents/07-payer-agreement-keystone.pdf` | **business information** | Payer agreement: Commercial plan Keystone |
+| 8 | `documents/08-payer-agreement-riverbend.pdf` | **business information** | Payer agreement: Commercial plan Riverbend |
+| 9 | `documents/09-transaction-timetable.pdf` | **business information** | Transaction timetable |
+| 10 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
 
-**You should see:** all 4 documents listed on the **Documents** tab.
+**You should see:** all 10 documents listed on the **Documents** tab.
 
-## Step 5 — Run the checks and review the findings
+## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run hospitals checks**.
-2. **You should see exactly these 4 findings** (running the checks again adds nothing):
+2. **You should see exactly these 9 findings** (running the checks again adds nothing):
 
    1. **Earnings concentrated in one payer** — Government programme A (synthetic) is 56.5% of September 2026 net revenue.
    2. **Accreditation does not transfer automatically** — `documents/01-accreditation-record.pdf` page 2 — make it a closing condition.
    3. **Key-physician dependence in cardiology** — `documents/03-service-line-dependence.pdf` — two physicians perform about 80% of cardiology procedures (aggregate data only).
    4. **Committed regulatory capex** — `documents/02-medicare-cost-report-summary.pdf` — EUR 3,772,000 committed. Price as remediation.
+   5. **Largest payer contract expires 7 months after closing** — `documents/07-payer-agreement-keystone.pdf` ends 31 August 2027, seven months after the target closing date in `documents/09-transaction-timetable.pdf`; Keystone is 18.7% of net revenue in `payer-mix.csv`.
+   6. **Cost-report occupancy contradicts the deck** — `documents/02-medicare-cost-report-summary.pdf` gives 54,020 inpatient days of 80,300 available (67.3%); `documents/04-management-presentation.pdf` claims 82%.
+   7. **Capex falling against a modern-plant claim** — `capex-history.csv` over `pnl.csv` revenue: 7.0%, 4.9%, 2.8% of revenue over 2024–2026, while the deck claims a modern plant and `documents/06-property-condition-assessment.pdf` lists EUR 6,256,000 of deferred maintenance. Any one year looks ordinary.
+   8. **Orthopaedics privileges lapsed together on 2026-08-31** — `medical-staff.csv` — six of the seven orthopaedic surgeons share one privilege-renewal date, already passed when the data ends (2026-09-30). A closing condition.
+   9. **Published star rating verified** — the deck's 4-star claim matches `documents/05-quality-reporting-summary.pdf` (confirmed value, never a price increase).
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
-## Step 6 — Test the price
+## Step 7 — Test the price
 
 1. Open the **Valuation** tab → **New scenario**.
 2. Fill in the valuation method's fields — the hint under each field says where its number comes from (usually the **Finances** tab) — and save.
@@ -193,9 +228,19 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 | `invoice-lines.csv` | 120 revenue lines, one per payer net-revenue settlement per month | **Yes** — billing export step |
 | `census.csv` | Admissions and census by service line (48 rows) | **Yes** — industry data step |
 | `payer-mix.csv` | Gross charges and net revenue by payer (60 rows) | **Yes** — industry data step |
+| `medical-staff.csv` | Medical-staff roster: pseudonymous physicians, licence and privilege dates (56 rows) | **Yes** — industry data step |
+| `capex-history.csv` | Capital spend by fiscal year and category (9 rows) | **Yes** — industry data step |
+| `pnl.csv` | Profit and loss by fiscal year (8 lines × 3 years) | **Yes** — P&L step |
+| `pnl-line-kinds.csv` | What each P&L line is, as you choose it on screen | **No** — the P&L step lists the same |
 | `documents/01-accreditation-record.pdf` | Accreditation record and transfer condition | **Yes** — documents step |
-| `documents/02-medicare-cost-report-summary.pdf` | Cost report summary with committed regulatory capex | **Yes** — documents step |
+| `documents/02-medicare-cost-report-summary.pdf` | Filed cost report summary: days, costs and committed regulatory capex | **Yes** — documents step |
 | `documents/03-service-line-dependence.pdf` | Aggregate physician dependence by service line | **Yes** — documents step |
+| `documents/04-management-presentation.pdf` | The seller's management presentation (the deck) | **Yes** — documents step |
+| `documents/05-quality-reporting-summary.pdf` | Published quality-reporting summary | **Yes** — documents step |
+| `documents/06-property-condition-assessment.pdf` | Property condition assessment of the hospital plant | **Yes** — documents step |
+| `documents/07-payer-agreement-keystone.pdf` | Payer agreement: Commercial plan Keystone | **Yes** — documents step |
+| `documents/08-payer-agreement-riverbend.pdf` | Payer agreement: Commercial plan Riverbend | **Yes** — documents step |
+| `documents/09-transaction-timetable.pdf` | Transaction timetable | **Yes** — documents step |
 | `documents/99-data-room-extracts.pdf` | Every CSV extract in this folder as one paged PDF, so findings can cite a page | **Yes** — documents step |
 | `bidders.csv` | The three bidding firms for Part B: who to invite, what each asks and offers | **No** — read it while you follow Part B |
 | `documents/*.md` | The text each PDF is built from | **No** — never |
@@ -203,7 +248,8 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 
 ## Notes
 
-- Physician data is aggregate only; Pactlab never sends people data to a model.
+- Physician data is aggregate or pseudonymous (MS-001, MS-002, …); Pactlab never sends people data to a model.
+- The checks reconcile documents, figures and dates; they make no clinical, survey or legal judgment.
 
 ## Intake test — hand over the whole data room
 
@@ -219,12 +265,21 @@ Use it to check that Pactlab sorts files on its own and asks only when unsure.
 
 | File in the data room | Pactlab should file it as | Note |
 |---|---|---|
+| `02 Finance/Exports/St. capital spend history export Sep26.csv` | Capital spend history |  |
 | `02 Finance/Exports/St. census export Sep26.csv` | Census |  |
 | `02 Finance/Exports/St. invoice lines export Sep26.csv` | Invoice lines |  |
+| `02 Finance/Exports/St. medical-staff roster export Sep26.csv` | Medical-staff roster |  |
+| `02 Finance/Management presentation.pdf` | Other |  |
 | `02 Finance/Medicare cost report summary.pdf` | Other |  |
 | `02 Finance/Mgmt accounts FY26 - St..md` | Income statement (P&L) | Revenue matches the invoice lines for Oct 2025 – Sep 2026. |
+| `02 Finance/Property condition assessment.pdf` | Other |  |
+| `02 Finance/Quality reporting summary.pdf` | Other |  |
 | `02 Finance/Service line dependence.pdf` | Other |  |
 | `02 Finance/St. FY26 summary.md` | Pactlab asks: income statement or cash flow statement? | Mixes profit and cash flow lines. |
+| `02 Finance/Transaction timetable.pdf` | Other |  |
+| `03 Commercial/Customers/Payer agreement keystone (signed copy).pdf` | Duplicate — shown once | Same bytes as the agreement above. |
+| `03 Commercial/Customers/Payer agreement keystone.pdf` | Customer contract |  |
+| `03 Commercial/Customers/Payer agreement riverbend.pdf` | Customer contract |  |
 | `04 Legal/Accreditation record.pdf` | Loan agreement |  |
 
 **And on the Intake checklist**, these should show as missing: **Cash flow statement**, **Payer mix**.

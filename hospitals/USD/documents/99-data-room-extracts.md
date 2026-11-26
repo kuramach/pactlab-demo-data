@@ -117,3 +117,76 @@ month | payer | gross_charges | net_revenue
 2026-09 | Government programme B (synthetic) | 1310615.97 | 451936.54
 2026-09 | Commercial plan Riverbend (synthetic) | 862783.03 | 297511.39
 2026-09 | Self-pay and other (synthetic) | 368794.83 | 127170.63
+---page---
+medical-staff.csv — Medical-staff roster: pseudonymous physicians, licence and privilege dates
+
+provider_ref | department | specialty | licence_expiry | privilege_status | privilege_expiry
+MS-001 | Cardiology | Interventional cardiology | 2028-02-10 | active | 2027-01-25
+MS-002 | Cardiology | Interventional cardiology | 2028-02-19 | active | 2027-02-07
+MS-003 | Cardiology | Interventional cardiology | 2028-02-28 | active | 2027-02-20
+MS-004 | Cardiology | Interventional cardiology | 2028-03-08 | active | 2027-03-05
+MS-005 | Cardiology | Interventional cardiology | 2028-03-17 | active | 2027-03-18
+MS-006 | Cardiology | Interventional cardiology | 2028-03-26 | active | 2027-03-31
+MS-007 | Cardiology | Interventional cardiology | 2028-04-04 | active | 2027-04-13
+MS-008 | Cardiology | Interventional cardiology | 2028-04-13 | active | 2027-04-26
+MS-009 | Orthopaedics | Joint replacement | 2028-04-22 | active | 2026-08-31
+MS-010 | Orthopaedics | Joint replacement | 2028-05-01 | active | 2026-08-31
+MS-011 | Orthopaedics | Joint replacement | 2028-05-10 | active | 2026-08-31
+MS-012 | Orthopaedics | Joint replacement | 2028-05-19 | active | 2026-08-31
+MS-013 | Orthopaedics | Joint replacement | 2028-05-28 | active | 2026-08-31
+MS-014 | Orthopaedics | Joint replacement | 2028-06-06 | active | 2026-08-31
+MS-015 | Orthopaedics | Joint replacement | 2028-06-15 | active | 2027-07-26
+MS-016 | Maternity | Obstetrics | 2028-06-24 | active | 2027-08-08
+MS-017 | Maternity | Obstetrics | 2028-07-03 | active | 2027-08-21
+MS-018 | Maternity | Obstetrics | 2028-07-12 | active | 2027-09-03
+MS-019 | Maternity | Obstetrics | 2028-07-21 | active | 2027-09-16
+MS-020 | Maternity | Obstetrics | 2028-07-30 | active | 2027-09-29
+MS-021 | Maternity | Obstetrics | 2028-08-08 | active | 2027-10-12
+MS-022 | General medicine | Hospital medicine | 2028-08-17 | active | 2027-10-25
+MS-023 | General medicine | Hospital medicine | 2028-08-26 | active | 2027-11-07
+MS-024 | General medicine | Hospital medicine | 2028-09-04 | active | 2027-11-20
+MS-025 | General medicine | Hospital medicine | 2028-09-13 | active | 2027-12-03
+MS-026 | General medicine | Hospital medicine | 2028-09-22 | active | 2027-12-16
+MS-027 | General medicine | Hospital medicine | 2028-10-01 | active | 2027-12-29
+MS-028 | General medicine | Hospital medicine | 2028-10-10 | active | 2028-01-11
+MS-029 | General medicine | Hospital medicine | 2028-10-19 | active | 2028-01-24
+MS-030 | General medicine | Hospital medicine | 2028-10-28 | active | 2028-02-06
+MS-031 | General medicine | Hospital medicine | 2028-11-06 | active | 2028-02-19
+MS-032 | General medicine | Hospital medicine | 2028-11-15 | active | 2028-03-03
+MS-033 | General medicine | Hospital medicine | 2028-11-24 | active | 2028-03-16
+MS-034 | General medicine | Hospital medicine | 2028-12-03 | active | 2028-03-29
+MS-035 | General medicine | Hospital medicine | 2028-12-12 | active | 2028-04-11
+MS-036 | Emergency | Emergency medicine | 2028-12-21 | active | 2028-04-24
+MS-037 | Emergency | Emergency medicine | 2028-12-30 | active | 2028-05-07
+MS-038 | Emergency | Emergency medicine | 2029-01-08 | active | 2028-05-20
+MS-039 | Emergency | Emergency medicine | 2029-01-17 | active | 2028-06-02
+MS-040 | Emergency | Emergency medicine | 2029-01-26 | active | 2028-06-15
+MS-041 | Emergency | Emergency medicine | 2029-02-04 | active | 2028-06-28
+MS-042 | Emergency | Emergency medicine | 2029-02-13 | active | 2028-07-11
+MS-043 | Emergency | Emergency medicine | 2029-02-22 | active | 2028-07-24
+MS-044 | Emergency | Emergency medicine | 2029-03-03 | active | 2028-08-06
+MS-045 | Emergency | Emergency medicine | 2029-03-12 | active | 2028-08-19
+MS-046 | Anaesthesia | Anaesthesiology | 2029-03-21 | active | 2028-09-01
+MS-047 | Anaesthesia | Anaesthesiology | 2029-03-30 | active | 2028-09-14
+MS-048 | Anaesthesia | Anaesthesiology | 2029-04-08 | active | 2028-09-27
+MS-049 | Anaesthesia | Anaesthesiology | 2029-04-17 | active | 2028-10-10
+MS-050 | Anaesthesia | Anaesthesiology | 2029-04-26 | active | 2028-10-23
+MS-051 | Anaesthesia | Anaesthesiology | 2029-05-05 | active | 2028-11-05
+MS-052 | Radiology | Diagnostic radiology | 2029-05-14 | active | 2028-11-18
+MS-053 | Radiology | Diagnostic radiology | 2029-05-23 | active | 2028-12-01
+MS-054 | Radiology | Diagnostic radiology | 2029-06-01 | active | 2028-12-14
+MS-055 | Radiology | Diagnostic radiology | 2029-06-10 | active | 2028-12-27
+MS-056 | Radiology | Diagnostic radiology | 2029-06-19 | active | 2029-01-09
+---page---
+capex-history.csv — Capital spend by fiscal year and category
+
+fiscal_year | category | amount
+2024 | Building and plant | 1400000.00
+2024 | Medical equipment | 900000.00
+2024 | IT | 400000.00
+2025 | Building and plant | 900000.00
+2025 | Medical equipment | 750000.00
+2025 | IT | 300000.00
+2026 | Building and plant | 450000.00
+2026 | Medical equipment | 500000.00
+2026 | IT | 200000.00

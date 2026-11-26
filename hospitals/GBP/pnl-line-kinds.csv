@@ -1,0 +1,9 @@
+line,kind
+Net patient service revenue,REVENUE
+Other operating revenue,REVENUE
+Salaries and benefits,OPEX
+Contract labour,OPEX
+Medical supplies and drugs,COGS
+Purchased services,OPEX
+Utilities and occupancy,OPEX
+Other operating expenses,OPEX

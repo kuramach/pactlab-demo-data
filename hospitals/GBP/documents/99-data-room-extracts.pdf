@@ -3,7 +3,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R] /Count 5 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -35,20 +35,42 @@ stream
 BT /F1 11 Tf 72 740 Td 14 TL (payer-mix.csv  Gross charges and net revenue by payer) Tj T* () Tj T* (month | payer | gross_charges | net_revenue) Tj T* (2025-10 | Government programme A \(synthetic\) | 4462890.42 | 1538927.73) Tj T* (2025-10 | Commercial plan Keystone \(synthetic\) | 1440836.09 | 496840.03) Tj T* (2025-10 | Government programme B \(synthetic\) | 1011800.34 | 348896.67) Tj T* (2025-10 | Commercial plan Riverbend \(synthetic\) | 667219.01 | 230075.52) Tj T* (2025-10 | Self-pay and other \(synthetic\) | 286976.95 | 98957.57) Tj T* (2025-11 | Government programme A \(synthetic\) | 4485092.38 | 1546583.58) Tj T* (2025-11 | Commercial plan Keystone \(synthetic\) | 1481483.71 | 510856.45) Tj T* (2025-11 | Government programme B \(synthetic\) | 987023.79 | 340353.03) Tj T* (2025-11 | Commercial plan Riverbend \(synthetic\) | 658549.43 | 227086.01) Tj T* (2025-11 | Self-pay and other \(synthetic\) | 281720.96 | 97145.16) Tj T* (2025-12 | Government programme A \(synthetic\) | 4352691.84 | 1500928.22) Tj T* (2025-12 | Commercial plan Keystone \(synthetic\) | 1439001.05 | 496207.26) Tj T* (2025-12 | Government programme B \(synthetic\) | 998614.36 | 344349.78) Tj T* (2025-12 | Commercial plan Riverbend \(synthetic\) | 680459.89 | 234641.34) Tj T* (2025-12 | Self-pay and other \(synthetic\) | 285089.02 | 98306.56) Tj T* (2026-01 | Government programme A \(synthetic\) | 4430473.64 | 1527749.53) Tj T* (2026-01 | Commercial plan Keystone \(synthetic\) | 1473722.15 | 508180.05) Tj T* (2026-01 | Government programme B \(synthetic\) | 995370.28 | 343231.13) Tj T* (2026-01 | Commercial plan Riverbend \(synthetic\) | 657675.72 | 226784.73) Tj T* (2026-01 | Self-pay and other \(synthetic\) | 285081.63 | 98304.01) Tj T* (2026-02 | Government programme A \(synthetic\) | 4438429.35 | 1530492.88) Tj T* (2026-02 | Commercial plan Keystone \(synthetic\) | 1458790.51 | 503031.21) Tj T* (2026-02 | Government programme B \(synthetic\) | 1020766.42 | 351988.42) Tj T* (2026-02 | Commercial plan Riverbend \(synthetic\) | 682126.08 | 235215.89) Tj T* (2026-02 | Self-pay and other \(synthetic\) | 289628.63 | 99871.94) Tj T* (2026-03 | Government programme A \(synthetic\) | 4499018.24 | 1551385.60) Tj T* (2026-03 | Commercial plan Keystone \(synthetic\) | 1448167.61 | 499368.14) Tj T* (2026-03 | Government programme B \(synthetic\) | 1032536.10 | 356046.93) Tj T* (2026-03 | Commercial plan Riverbend \(synthetic\) | 676477.55 | 233268.12) Tj T* (2026-03 | Self-pay and other \(synthetic\) | 287546.83 | 99154.08) Tj T* (2026-04 | Government programme A \(synthetic\) | 4406948.90 | 1519637.55) Tj T* (2026-04 | Commercial plan Keystone \(synthetic\) | 1451922.12 | 500662.80) Tj T* (2026-04 | Government programme B \(synthetic\) | 1001512.04 | 345348.98) Tj T* (2026-04 | Commercial plan Riverbend \(synthetic\) | 682975.29 | 235508.72) Tj T* (2026-04 | Self-pay and other \(synthetic\) | 291078.86 | 100372.02) Tj T* (2026-05 | Government programme A \(synthetic\) | 4491057.57 | 1548640.54) Tj T* (2026-05 | Commercial plan Keystone \(synthetic\) | 1484681.54 | 511959.15) Tj T* (2026-05 | Government programme B \(synthetic\) | 999831.14 | 344769.36) Tj T* (2026-05 | Commercial plan Riverbend \(synthetic\) | 690864.04 | 238228.98) Tj T* (2026-05 | Self-pay and other \(synthetic\) | 294862.29 | 101676.65) Tj T* (2026-06 | Government programme A \(synthetic\) | 4572931.21 | 1576872.83) Tj T* (2026-06 | Commercial plan Keystone \(synthetic\) | 1473704.11 | 508173.83) Tj T* (2026-06 | Government programme B \(synthetic\) | 1025715.12 | 353694.87) Tj T* (2026-06 | Commercial plan Riverbend \(synthetic\) | 683537.63 | 235702.63) Tj T* (2026-06 | Self-pay and other \(synthetic\) | 287106.82 | 99002.35) Tj T* (2026-07 | Government programme A \(synthetic\) | 4439508.91 | 1530865.14) Tj T* (2026-07 | Commercial plan Keystone \(synthetic\) | 1478422.87 | 509800.99) Tj T* (2026-07 | Government programme B \(synthetic\) | 1017930.51 | 351010.52) Tj T* (2026-07 | Commercial plan Riverbend \(synthetic\) | 675204.68 | 232829.20) Tj T* (2026-07 | Self-pay and other \(synthetic\) | 293999.19 | 101379.03) Tj T* (2026-08 | Government programme A \(synthetic\) | 4605842.44 | 1588221.53) Tj T* (2026-08 | Commercial plan Keystone \(synthetic\) | 1465841.25 | 505462.50) Tj T* (2026-08 | Government programme B \(synthetic\) | 1016667.67 | 350575.06) Tj T* (2026-08 | Commercial plan Riverbend \(synthetic\) | 688467.22 | 237402.49) Tj T* (2026-08 | Self-pay and other \(synthetic\) | 297641.50 | 102635.00) Tj T* (2026-09 | Government programme A \(synthetic\) | 4489797.31 | 1548205.97) Tj T* (2026-09 | Commercial plan Keystone \(synthetic\) | 1468741.60 | 506462.62) Tj T* (2026-09 | Government programme B \(synthetic\) | 1022810.22 | 352693.18) Tj T* (2026-09 | Commercial plan Riverbend \(synthetic\) | 699604.12 | 241242.80) Tj T* (2026-09 | Self-pay and other \(synthetic\) | 289993.07 | 99997.61) Tj T* ET
 endstream
 endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 5018 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (medical-staff.csv  Medical-staff roster: pseudonymous physicians, licence and privilege) Tj T* (dates) Tj T* () Tj T* (provider_ref | department | specialty | licence_expiry | privilege_status | privilege_expiry) Tj T* (MS-001 | Cardiology | Interventional cardiology | 2028-02-10 | active | 2027-01-25) Tj T* (MS-002 | Cardiology | Interventional cardiology | 2028-02-19 | active | 2027-02-07) Tj T* (MS-003 | Cardiology | Interventional cardiology | 2028-02-28 | active | 2027-02-20) Tj T* (MS-004 | Cardiology | Interventional cardiology | 2028-03-08 | active | 2027-03-05) Tj T* (MS-005 | Cardiology | Interventional cardiology | 2028-03-17 | active | 2027-03-18) Tj T* (MS-006 | Cardiology | Interventional cardiology | 2028-03-26 | active | 2027-03-31) Tj T* (MS-007 | Cardiology | Interventional cardiology | 2028-04-04 | active | 2027-04-13) Tj T* (MS-008 | Cardiology | Interventional cardiology | 2028-04-13 | active | 2027-04-26) Tj T* (MS-009 | Orthopaedics | Joint replacement | 2028-04-22 | active | 2026-08-31) Tj T* (MS-010 | Orthopaedics | Joint replacement | 2028-05-01 | active | 2026-08-31) Tj T* (MS-011 | Orthopaedics | Joint replacement | 2028-05-10 | active | 2026-08-31) Tj T* (MS-012 | Orthopaedics | Joint replacement | 2028-05-19 | active | 2026-08-31) Tj T* (MS-013 | Orthopaedics | Joint replacement | 2028-05-28 | active | 2026-08-31) Tj T* (MS-014 | Orthopaedics | Joint replacement | 2028-06-06 | active | 2026-08-31) Tj T* (MS-015 | Orthopaedics | Joint replacement | 2028-06-15 | active | 2027-07-26) Tj T* (MS-016 | Maternity | Obstetrics | 2028-06-24 | active | 2027-08-08) Tj T* (MS-017 | Maternity | Obstetrics | 2028-07-03 | active | 2027-08-21) Tj T* (MS-018 | Maternity | Obstetrics | 2028-07-12 | active | 2027-09-03) Tj T* (MS-019 | Maternity | Obstetrics | 2028-07-21 | active | 2027-09-16) Tj T* (MS-020 | Maternity | Obstetrics | 2028-07-30 | active | 2027-09-29) Tj T* (MS-021 | Maternity | Obstetrics | 2028-08-08 | active | 2027-10-12) Tj T* (MS-022 | General medicine | Hospital medicine | 2028-08-17 | active | 2027-10-25) Tj T* (MS-023 | General medicine | Hospital medicine | 2028-08-26 | active | 2027-11-07) Tj T* (MS-024 | General medicine | Hospital medicine | 2028-09-04 | active | 2027-11-20) Tj T* (MS-025 | General medicine | Hospital medicine | 2028-09-13 | active | 2027-12-03) Tj T* (MS-026 | General medicine | Hospital medicine | 2028-09-22 | active | 2027-12-16) Tj T* (MS-027 | General medicine | Hospital medicine | 2028-10-01 | active | 2027-12-29) Tj T* (MS-028 | General medicine | Hospital medicine | 2028-10-10 | active | 2028-01-11) Tj T* (MS-029 | General medicine | Hospital medicine | 2028-10-19 | active | 2028-01-24) Tj T* (MS-030 | General medicine | Hospital medicine | 2028-10-28 | active | 2028-02-06) Tj T* (MS-031 | General medicine | Hospital medicine | 2028-11-06 | active | 2028-02-19) Tj T* (MS-032 | General medicine | Hospital medicine | 2028-11-15 | active | 2028-03-03) Tj T* (MS-033 | General medicine | Hospital medicine | 2028-11-24 | active | 2028-03-16) Tj T* (MS-034 | General medicine | Hospital medicine | 2028-12-03 | active | 2028-03-29) Tj T* (MS-035 | General medicine | Hospital medicine | 2028-12-12 | active | 2028-04-11) Tj T* (MS-036 | Emergency | Emergency medicine | 2028-12-21 | active | 2028-04-24) Tj T* (MS-037 | Emergency | Emergency medicine | 2028-12-30 | active | 2028-05-07) Tj T* (MS-038 | Emergency | Emergency medicine | 2029-01-08 | active | 2028-05-20) Tj T* (MS-039 | Emergency | Emergency medicine | 2029-01-17 | active | 2028-06-02) Tj T* (MS-040 | Emergency | Emergency medicine | 2029-01-26 | active | 2028-06-15) Tj T* (MS-041 | Emergency | Emergency medicine | 2029-02-04 | active | 2028-06-28) Tj T* (MS-042 | Emergency | Emergency medicine | 2029-02-13 | active | 2028-07-11) Tj T* (MS-043 | Emergency | Emergency medicine | 2029-02-22 | active | 2028-07-24) Tj T* (MS-044 | Emergency | Emergency medicine | 2029-03-03 | active | 2028-08-06) Tj T* (MS-045 | Emergency | Emergency medicine | 2029-03-12 | active | 2028-08-19) Tj T* (MS-046 | Anaesthesia | Anaesthesiology | 2029-03-21 | active | 2028-09-01) Tj T* (MS-047 | Anaesthesia | Anaesthesiology | 2029-03-30 | active | 2028-09-14) Tj T* (MS-048 | Anaesthesia | Anaesthesiology | 2029-04-08 | active | 2028-09-27) Tj T* (MS-049 | Anaesthesia | Anaesthesiology | 2029-04-17 | active | 2028-10-10) Tj T* (MS-050 | Anaesthesia | Anaesthesiology | 2029-04-26 | active | 2028-10-23) Tj T* (MS-051 | Anaesthesia | Anaesthesiology | 2029-05-05 | active | 2028-11-05) Tj T* (MS-052 | Radiology | Diagnostic radiology | 2029-05-14 | active | 2028-11-18) Tj T* (MS-053 | Radiology | Diagnostic radiology | 2029-05-23 | active | 2028-12-01) Tj T* (MS-054 | Radiology | Diagnostic radiology | 2029-06-01 | active | 2028-12-14) Tj T* (MS-055 | Radiology | Diagnostic radiology | 2029-06-10 | active | 2028-12-27) Tj T* (MS-056 | Radiology | Diagnostic radiology | 2029-06-19 | active | 2029-01-09) Tj T* ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 514 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (capex-history.csv  Capital spend by fiscal year and category) Tj T* () Tj T* (fiscal_year | category | amount) Tj T* (2024 | Building and plant | 1106000.00) Tj T* (2024 | Medical equipment | 711000.00) Tj T* (2024 | IT | 316000.00) Tj T* (2025 | Building and plant | 711000.00) Tj T* (2025 | Medical equipment | 592500.00) Tj T* (2025 | IT | 237000.00) Tj T* (2026 | Building and plant | 355500.00) Tj T* (2026 | Medical equipment | 395000.00) Tj T* (2026 | IT | 158000.00) Tj T* ET
+endstream
+endobj
 xref
-0 10
+0 14
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000127 00000 n 
-0000000197 00000 n 
-0000000323 00000 n 
-0000000605 00000 n 
-0000000731 00000 n 
-0000003374 00000 n 
-0000003500 00000 n 
+0000000141 00000 n 
+0000000211 00000 n 
+0000000337 00000 n 
+0000000619 00000 n 
+0000000745 00000 n 
+0000003388 00000 n 
+0000003514 00000 n 
+0000008509 00000 n 
+0000008637 00000 n 
+0000013708 00000 n 
+0000013836 00000 n 
 trailer
-<< /Size 10 /Root 1 0 R >>
+<< /Size 14 /Root 1 0 R >>
 startxref
-8495
+14402
 %%EOF
