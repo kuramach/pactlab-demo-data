@@ -1,6 +1,6 @@
 # Calvera Pharmaceuticals Ltd — Pharma and biotech (GBP)
 
-**Fictional target.** Calvera Pharmaceuticals Ltd is a specialty-pharma company earning royalties and supply revenue on two marketed products, with three development programmes led by PX-410.
+**Fictional target.** Calvera Pharmaceuticals Ltd is a specialty-pharma company earning royalties and supply revenue on two marketed products, with two development programmes led by PX-410.
 Based in Leeds, the United Kingdom; reports in GBP. Data runs October 2024 to September 2026.
 
 > Synthetic demo data. Every company, person, address, account and figure here is invented.
@@ -60,8 +60,8 @@ Open the **Sources** tab and scroll to **Industry data**. Upload these files one
 | # | Click | Choose the file | Then | Button should read |
 |---|---|---|---|---|
 | 1 | **Upload patent schedule** | `patent-schedule.csv` | **Upload and map columns** → **Check every row** | **Import 4 rows** |
-| 2 | **Upload trial registry records** | `trial-registry.csv` | **Upload and map columns** → **Check every row** | **Import 3 rows** |
-| 3 | **Upload pipeline** | `pipeline.csv` | **Upload and map columns** → **Check every row** | **Import 3 rows** |
+| 2 | **Upload trial registry records** | `trial-registry.csv` | **Upload and map columns** → **Check every row** | **Import 2 rows** |
+| 3 | **Upload pipeline** | `pipeline.csv` | **Upload and map columns** → **Check every row** | **Import 2 rows** |
 | 4 | **Upload payment obligations model** | `obligations-model.csv` | **Upload and map columns** → **Check every row** | **Import 3 rows** |
 | 5 | **Upload r&d roster** | `rd-roster.csv` | **Upload and map columns** → **Check every row** | **Import 4 rows** |
 
@@ -97,22 +97,20 @@ Open the **Sources** tab, scroll to **Industry data** and click **Upload profit 
 ## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run pharma & biotech checks**.
-2. **You should see exactly these 14 findings** (running the checks again adds nothing):
+2. **You should see exactly these 12 findings** (running the checks again adds nothing):
 
    1. **Key patent expires earlier than the forecast assumes** — the forecast assumes exclusivity through 2031; `patent-schedule.csv` shows the Product A composition-of-matter patents expiring in 2028.
    2. **Open manufacturing observations at the supplier** — `documents/02-supplier-inspection-report.pdf` page 2 — three open observations.
    3. **Partner concentration** — Aldermoor Therapeutics accounts for both of the two largest revenue lines; the royalty line alone is 58.1% of September 2026 revenue.
    4. **Claim contradicted: PX-410 phase** — the pipeline schedule says Phase 2; `trial-registry.csv` files CTR-2025-04101 as Phase 1, and the FDA minutes (`documents/04-fda-meeting-minutes.pdf`) describe an ongoing Phase 1 study.
    5. **Claim not verified: PX-410 timeline** — no Phase 2 trial is registered for PX-410, so no registered date bears on the 2027-Q4 interim data.
-   6. **Claim verified: PX-210 phase** — CTR-2023-02103 is registered as Phase 3.
-   7. **Claim verified: PX-210 timeline** — the registered primary completion, 2027-05-31, falls within 2027-Q2.
-   8. **Claim verified: PX-330 phase** — CTR-2024-03301 is registered as Phase 1 (completed).
-   9. **Key patent expires 18 months after closing: Product A** — PF-01 (US) expires on 31 March 2028 (`documents/05-patent-record.pdf`), 18 months after the 30 September 2026 closing and inside the 5-year hold; priced on Product A's GBP 5,940,556 of trailing revenue.
-   10. **Milestone payment omitted from the seller's model: Brennick Biologics (synthetic)** — clause 7.1 of `documents/06-licence-agreement-brennick.pdf` — GBP 9,480,000 on the first Phase 2 dosing of PX-330, which the pipeline expects in 2027-Q3; `obligations-model.csv` has no such line.
-   11. **Single-source manufacturing: Product A** — `documents/07-supply-agreement-halvorsen.pdf` — one manufacturer, no second source qualified.
-   12. **Key-scientist concentration: S-01** — `rd-roster.csv` — S-01 leads 2 of the 3 programmes and is an inventor on all 3 patent families; no retention agreement is on file.
-   13. **R&D spend flat while the timeline is brought forward, 2023–2025** — `pnl.csv` — R&D of GBP 17,380,000, GBP 17,617,000 and GBP 17,459,000 across FY2023–FY2025, while the investor presentation brings the PX-410 readout forward a year; FY2025 alone shows nothing.
-   14. **P&L trend, 2023–2025** — every imported year side by side: revenue, growth, margins and the R&D, supply and royalties-paid ratios.
+   6. **Claim verified: PX-330 phase** — CTR-2024-03301 is registered as Phase 1 (completed).
+   7. **Key patent expires 18 months after closing: Product A** — PF-01 (US) expires on 31 March 2028 (`documents/05-patent-record.pdf`), 18 months after the 30 September 2026 closing and inside the 5-year hold; priced on Product A's GBP 5,940,556 of trailing revenue.
+   8. **Milestone payment omitted from the seller's model: Brennick Biologics (synthetic)** — clause 7.1 of `documents/06-licence-agreement-brennick.pdf` — GBP 9,480,000 on the first Phase 2 dosing of PX-330, which the pipeline expects in 2027-Q3; `obligations-model.csv` has no such line.
+   9. **Single-source manufacturing: Product A** — `documents/07-supply-agreement-halvorsen.pdf` — one manufacturer, no second source qualified.
+   10. **Key-scientist concentration: S-01** — `rd-roster.csv` — S-01 leads both programmes and is an inventor on all 3 patent families; no retention agreement is on file.
+   11. **R&D spend flat while the timeline is brought forward, 2023–2025** — `pnl.csv` — R&D of GBP 17,380,000, GBP 17,617,000 and GBP 17,459,000 across FY2023–FY2025, while the investor presentation brings the PX-410 readout forward a year; FY2025 alone shows nothing.
+   12. **P&L trend, 2023–2025** — every imported year side by side: revenue, growth, margins and the R&D, supply and royalties-paid ratios.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
@@ -147,7 +145,7 @@ On **Bidders**, under **What bidders see**:
 
 | Field | Enter |
 |---|---|
-| Shared summary | `Calvera Pharmaceuticals Ltd is a specialty-pharma company earning royalties and supply revenue on two marketed products, with three development programmes led by PX-410.` |
+| Shared summary | `Calvera Pharmaceuticals Ltd is a specialty-pharma company earning royalties and supply revenue on two marketed products, with two development programmes led by PX-410.` |
 | Your data room (link) | `https://dataroom.example/pharma-biotech` (Pactlab is not the data room; this is where you would grant access) |
 | NDA | `Mutual NDA (synthetic): everything shared about Calvera Pharmaceuticals Ltd stays confidential.` |
 | Offer deadline (UTC) | a date a week from today |
@@ -219,8 +217,8 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 |---|---|---|
 | `invoice-lines.csv` | 96 revenue lines, one per partner royalty and supply payment per month | **Yes** — billing export step |
 | `patent-schedule.csv` | Patent families, products and expiry dates (4 rows) | **Yes** — industry data step |
-| `pipeline.csv` | Development pipeline: each programme's claimed phase and next milestone (3 rows) | **Yes** — industry data step |
-| `trial-registry.csv` | Trial-registry records for the pipeline programmes, as filed (3 rows) | **Yes** — industry data step |
+| `pipeline.csv` | Development pipeline: each programme's claimed phase and next milestone (2 rows) | **Yes** — industry data step |
+| `trial-registry.csv` | Trial-registry records for the pipeline programmes, as filed (2 rows) | **Yes** — industry data step |
 | `obligations-model.csv` | The seller's model of milestones, royalties and licence fees owed (3 rows) | **Yes** — industry data step |
 | `rd-roster.csv` | R&D roster by pseudonymous reference: programmes led and patent families as inventor (4 rows) | **Yes** — industry data step |
 | `pnl.csv` | Profit and loss by fiscal year, FY2023 to FY2025 (7 lines) | **Yes** — P&L step |

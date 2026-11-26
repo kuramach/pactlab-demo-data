@@ -14,14 +14,12 @@ pipeline.csv — Development pipeline: each programme's claimed phase and next m
 
 programme | indication | phase | next_milestone | expected
 PX-410 | Idiopathic pulmonary fibrosis | Phase 2 | Phase 2 interim data | 2027-Q4
-PX-210 | Chronic cough | Phase 3 | Top-line data | 2027-Q2
 PX-330 | Dry eye | Phase 1 | Phase 2 start | 2027-Q3
 ---page---
 trial-registry.csv — Trial-registry records for the pipeline programmes, as filed
 
 registry_id | programme | phase | status | start_date | primary_completion
 CTR-2025-04101 | PX-410 | Phase 1 | recruiting | 2025-03-10 | 2027-02-28
-CTR-2023-02103 | PX-210 | Phase 3 | active not recruiting | 2023-11-01 | 2027-05-31
 CTR-2024-03301 | PX-330 | Phase 1 | completed | 2024-02-01 | 2026-06-30
 ---page---
 obligations-model.csv — The seller's model of milestones, royalties and licence fees owed
@@ -35,7 +33,7 @@ rd-roster.csv — R&D roster by pseudonymous reference: programmes led and paten
 
 scientist_ref | function | programmes_led | patent_families
 S-01 | Discovery chemistry | 2 | 3
-S-02 | Clinical development | 1 | 0
+S-02 | Clinical development | 0 | 0
 S-03 | Formulation | 0 | 1
 S-04 | Translational biology | 0 | 0
 ---page---
