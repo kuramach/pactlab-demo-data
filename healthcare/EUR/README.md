@@ -9,7 +9,7 @@ Based in Utrecht, the Netherlands; reports in EUR. Data runs October 2024 to Sep
 
 - Download this whole folder (on GitHub: **Code → Download ZIP** at the top of the repository, then unzip).
 - Sign in to Pactlab. The steps take about 15 minutes.
-- You upload **3 CSV files** and **3 PDFs**. Nothing else.
+- You upload **7 CSV files** and **8 PDFs**. Nothing else.
 - **Never upload the `.md` files** in `documents/`. They are the text each PDF is built from; Pactlab reads the PDFs.
 - `vdr-index.csv` is for reference only (how a data room would list these files). Do not upload it.
 - Text in **bold** below is a button, tab or option exactly as Pactlab shows it.
@@ -61,6 +61,10 @@ Open the **Sources** tab and scroll to **Industry data**. Upload these files one
 |---|---|---|---|---|
 | 1 | **Upload claims summary** | `claims-summary.csv` | **Upload and map columns** → **Check every row** | **Import 72 rows** |
 | 2 | **Upload provider roster** | `provider-roster.csv` | **Upload and map columns** → **Check every row** | **Import 18 rows** |
+| 3 | **Upload remittances by payer** | `remittances.csv` | **Upload and map columns** → **Check every row** | **Import 270 rows** |
+| 4 | **Upload collections by clinician** | `clinician-collections.csv` | **Upload and map columns** → **Check every row** | **Import 216 rows** |
+| 5 | **Upload credentialing register** | `credentialing-register.csv` | **Upload and map columns** → **Check every row** | **Import 24 rows** |
+| 6 | **Upload payer contract register** | `payer-contracts.csv` | **Upload and map columns** → **Check every row** | **Import 5 rows** |
 
 **You should see** after each import: "… imported … Industry checks ran on them". Some findings may already appear as drafts; that is expected.
 
@@ -72,23 +76,49 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 |---|---|---|---|
 | 1 | `documents/01-medical-director-agreement.pdf` | **business information** | Medical-director agreement and time records |
 | 2 | `documents/02-privacy-risk-assessment.pdf` | **business information** | Most recent privacy and security risk assessment |
-| 3 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
+| 3 | `documents/03-management-presentation.pdf` | **business information** | Management presentation with denial-rate, payer-mix and days-in-AR claims |
+| 4 | `documents/04-licence-verification.pdf` | **business information** | Primary-source verification of every clinician's licence, by pseudonymous reference |
+| 5 | `documents/05-restrictive-covenants-schedule.pdf` | **business information** | Disclosure schedule of the clinicians bound by a non-compete or retention agreement |
+| 6 | `documents/06-coding-and-billing-audit.pdf` | **business information** | External coding and billing audit report |
+| 7 | `documents/07-payer-contract-commercial-north.pdf` | **business information** | Provider agreement with Commercial plan North |
+| 8 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
 
-**You should see:** all 3 documents listed on the **Documents** tab.
+**You should see:** all 8 documents listed on the **Documents** tab.
 
-## Step 5 — Run the checks and review the findings
+## Step 5 — Upload the P&L by year
+
+Open the **Sources** tab, scroll to **Industry data** and click **Upload profit and loss (p&l)**.
+
+1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the three years across the columns (FY2023, FY2024, FY2025).
+2. Say what each line is: the two lines ending in *revenue* are **Revenue**, the two `Cost of care` lines are **Cost of revenue**, and the rest are **Operating expenses**.
+3. **Check every row**, then **Import 24 rows**.
+
+**You should see:** the import succeed. The **Practice** tab now shows the P&L year by year next to collections, and the checks in the next step read every year.
+
+## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run healthcare & health tech checks**.
-2. **You should see exactly these 4 findings** (running the checks again adds nothing):
+2. **You should see exactly these 15 findings** (running the checks again adds nothing):
 
    1. **Revenue concentrated in government programmes** — government programmes A and B are 64.2% of September 2026 revenue in `invoice-lines.csv`.
    2. **Medical-director fee above documented duties** — `documents/01-medical-director-agreement.pdf` — a fixed fee for four hours a month, against 1.5 documented hours (page 2).
    3. **Privacy risk assessment out of date** — `documents/02-privacy-risk-assessment.pdf` — last assessed March 2023, review overdue since March 2024.
    4. **Provider credentials expiring** — two providers in `provider-roster.csv` have credentials expiring before the end of 2026.
+   5. **Claim contradicted: Denial rate** — the management presentation says the denial rate fell from 8.4% to 6.1%; `remittances.csv` shows it rose: 6.2% in 2023, 8.1% in 2024, 9.9% in 2025.
+   6. **Denial rate rising, 2023–2025** — denied ÷ adjudicated claims in `remittances.csv`, up every year from 6.2% to 9.9%; one year alone looks like one figure.
+   7. **Claim contradicted: Commercial payer share** — the presentation says 41% of FY2025 collections came from commercial payers; `remittances.csv` gives 32.0%.
+   8. **Payer mix shifted toward Medicaid, the lowest-paying payer class, 2023–2025** — Government programme B (Medicaid) went from 19.1% of claims in 2023 to 28.6% in 2025, and pays least per claim.
+   9. **Claim verified: Days in accounts receivable** — 43 days at 31 December 2025, recomputed from the receivables and charges in `remittances.csv` (42.9).
+   10. **Practising on an expired licence: PR-07** — `documents/04-licence-verification.pdf` (page 2) — the licence expired on 30 April 2026; the register still says active to April 2027, and `clinician-collections.csv` records EUR 29,781 collected on PR-07's claims since.
+   11. **Practising on an expired licence: PR-15** — the licence expired on 30 June 2026; EUR 16,522 collected since.
+   12. **31.0% of collections from one clinician, no non-compete on file: PR-03** — PR-03 collected EUR 437,894 of EUR 1,412,563 in the twelve months to September 2026; `documents/05-restrictive-covenants-schedule.pdf` does not list PR-03.
+   13. **Payer contract ends within a year: Commercial plan North (synthetic)** — `payer-contracts.csv` — PA-NORTH-2024 ends on 31 March 2027 with no automatic renewal; the payer is 14.6% of trailing collections.
+   14. **P&L trend, 2023–2025** — every imported year side by side: revenue, growth, margins and the denial write-off, clinical staff, supplies and billing ratios.
+   15. **Denial write-offs and bad debt growing faster than revenue, 2023–2025** — `pnl.csv` — from 1.8% of revenue in FY2023 to 3.9% in FY2025 (EUR 20,823 to EUR 52,750); FY2025 alone looks small.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
-## Step 6 — Test the price
+## Step 7 — Test the price
 
 1. Open the **Valuation** tab → **New scenario**.
 2. Fill in the valuation method's fields — the hint under each field says where its number comes from (usually the **Finances** tab) — and save.
@@ -190,10 +220,20 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 | File | What it is | Upload it? |
 |---|---|---|
 | `invoice-lines.csv` | 144 revenue lines, one per payer remittance per month | **Yes** — billing export step |
+| `remittances.csv` | Remittances by month and payer: claims, denials, charges billed, cash collected and receivables at month end (270 rows) | **Yes** — industry data step |
 | `claims-summary.csv` | Monthly claims billed, paid and denial rate by payer (72 rows) | **Yes** — industry data step |
 | `provider-roster.csv` | Provider roster, pseudonymous, with credential expiry dates (18 rows) | **Yes** — industry data step |
+| `clinician-collections.csv` | Collections by clinician and month, pseudonymous, from the practice-management system (216 rows) | **Yes** — industry data step |
+| `credentialing-register.csv` | Credentialing register as the practice keeps it: licences and registrations by pseudonymous clinician (24 rows) | **Yes** — industry data step |
+| `payer-contracts.csv` | Payer contract and enrolment register (5 rows) | **Yes** — industry data step |
+| `pnl.csv` | Profit and loss by fiscal year, FY2023 to FY2025 (8 lines) | **Yes** — P&L step |
 | `documents/01-medical-director-agreement.pdf` | Medical-director agreement and time records | **Yes** — documents step |
 | `documents/02-privacy-risk-assessment.pdf` | Most recent privacy and security risk assessment | **Yes** — documents step |
+| `documents/03-management-presentation.pdf` | Management presentation with denial-rate, payer-mix and days-in-AR claims | **Yes** — documents step |
+| `documents/04-licence-verification.pdf` | Primary-source verification of every clinician's licence, by pseudonymous reference | **Yes** — documents step |
+| `documents/05-restrictive-covenants-schedule.pdf` | Disclosure schedule of the clinicians bound by a non-compete or retention agreement | **Yes** — documents step |
+| `documents/06-coding-and-billing-audit.pdf` | External coding and billing audit report | **Yes** — documents step |
+| `documents/07-payer-contract-commercial-north.pdf` | Provider agreement with Commercial plan North | **Yes** — documents step |
 | `documents/99-data-room-extracts.pdf` | Every CSV extract in this folder as one paged PDF, so findings can cite a page | **Yes** — documents step |
 | `bidders.csv` | The three bidding firms for Part B: who to invite, what each asks and offers | **No** — read it while you follow Part B |
 | `documents/*.md` | The text each PDF is built from | **No** — never |
@@ -202,6 +242,8 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 ## Notes
 
 - Provider data is pseudonymous and aggregate by design; Pactlab never sends people data to a model.
+- The P&L (`pnl.csv`) imports through Sources like any extract; the multi-year checks read every year it holds. A single year still imports: the trend then reports that year alone.
+- Diligence support only: the pack checks documents, dates and arithmetic. It does not assess the quality of care or whether billing, referrals or the expired licences are lawful.
 
 ## Intake test — hand over the whole data room
 
@@ -217,12 +259,17 @@ Use it to check that Pactlab sorts files on its own and asks only when unsure.
 
 | File in the data room | Pactlab should file it as | Note |
 |---|---|---|
+| `02 Finance/Coding and billing audit.pdf` | Other |  |
 | `02 Finance/Exports/Riverside claims summary export Sep26.csv` | Claims summary |  |
 | `02 Finance/Exports/Riverside invoice lines export Sep26.csv` | Invoice lines |  |
+| `02 Finance/Licence verification.pdf` | Other |  |
+| `02 Finance/Management presentation.pdf` | Other |  |
 | `02 Finance/Mgmt accounts FY26 - Riverside.md` | Income statement (P&L) | Revenue matches the invoice lines for Oct 2025 – Sep 2026. |
+| `02 Finance/Restrictive covenants schedule.pdf` | Other |  |
 | `02 Finance/Riverside FY26 summary.md` | Pactlab asks: income statement or cash flow statement? | Mixes profit and cash flow lines. |
 | `03 Commercial/Customers/Medical director agreement (signed copy).pdf` | Duplicate — shown once | Same bytes as the agreement above. |
 | `03 Commercial/Customers/Medical director agreement.pdf` | Customer contract |  |
+| `03 Commercial/Customers/Payer contract commercial north.pdf` | Customer contract |  |
 | `05 Policies/Privacy risk assessment.pdf` | Policy |  |
 
 **And on the Intake checklist**, these should show as missing: **Cash flow statement**, **Provider roster**.

@@ -1,0 +1,217 @@
+month,provider_ref,site,visits,collected
+2025-10,PR-01,Northgate practice (synthetic),33,3241.63
+2025-10,PR-02,Riverside practice (synthetic),57,5664.98
+2025-10,PR-03,Eastfield practice (synthetic),357,35485.79
+2025-10,PR-04,Millbrook practice (synthetic),48,4720.82
+2025-10,PR-05,Westcourt practice (synthetic),29,2832.49
+2025-10,PR-06,Harbour Road practice (synthetic),55,5455.16
+2025-10,PR-07,Elmstead practice (synthetic),57,5664.98
+2025-10,PR-08,Fairview practice (synthetic),53,5297.80
+2025-10,PR-09,Southpark practice (synthetic),34,3367.52
+2025-10,PR-10,Northgate practice (synthetic),56,5612.53
+2025-10,PR-11,Riverside practice (synthetic),49,4878.18
+2025-10,PR-12,Eastfield practice (synthetic),49,4825.72
+2025-10,PR-13,Millbrook practice (synthetic),32,3178.68
+2025-10,PR-14,Westcourt practice (synthetic),55,5455.16
+2025-10,PR-15,Harbour Road practice (synthetic),52,5192.90
+2025-10,PR-16,Elmstead practice (synthetic),55,5507.62
+2025-10,PR-17,Fairview practice (synthetic),29,2895.43
+2025-10,PR-18,Southpark practice (synthetic),52,5192.89
+2025-11,PR-01,Northgate practice (synthetic),32,3197.18
+2025-11,PR-02,Riverside practice (synthetic),56,5587.30
+2025-11,PR-03,Eastfield practice (synthetic),352,34999.20
+2025-11,PR-04,Millbrook practice (synthetic),47,4656.08
+2025-11,PR-05,Westcourt practice (synthetic),28,2793.65
+2025-11,PR-06,Harbour Road practice (synthetic),54,5380.36
+2025-11,PR-07,Elmstead practice (synthetic),56,5587.30
+2025-11,PR-08,Fairview practice (synthetic),53,5225.16
+2025-11,PR-09,Southpark practice (synthetic),33,3321.34
+2025-11,PR-10,Northgate practice (synthetic),56,5535.56
+2025-11,PR-11,Riverside practice (synthetic),48,4811.29
+2025-11,PR-12,Eastfield practice (synthetic),48,4759.55
+2025-11,PR-13,Millbrook practice (synthetic),32,3135.10
+2025-11,PR-14,Westcourt practice (synthetic),54,5380.36
+2025-11,PR-15,Harbour Road practice (synthetic),52,5121.69
+2025-11,PR-16,Elmstead practice (synthetic),55,5432.10
+2025-11,PR-17,Fairview practice (synthetic),29,2855.73
+2025-11,PR-18,Southpark practice (synthetic),52,5121.68
+2025-12,PR-01,Northgate practice (synthetic),33,3289.92
+2025-12,PR-02,Riverside practice (synthetic),58,5749.38
+2025-12,PR-03,Eastfield practice (synthetic),362,36014.49
+2025-12,PR-04,Millbrook practice (synthetic),48,4791.15
+2025-12,PR-05,Westcourt practice (synthetic),29,2874.69
+2025-12,PR-06,Harbour Road practice (synthetic),56,5536.44
+2025-12,PR-07,Elmstead practice (synthetic),58,5749.38
+2025-12,PR-08,Fairview practice (synthetic),54,5376.74
+2025-12,PR-09,Southpark practice (synthetic),34,3417.69
+2025-12,PR-10,Northgate practice (synthetic),57,5696.15
+2025-12,PR-11,Riverside practice (synthetic),50,4950.86
+2025-12,PR-12,Eastfield practice (synthetic),49,4897.62
+2025-12,PR-13,Millbrook practice (synthetic),32,3226.04
+2025-12,PR-14,Westcourt practice (synthetic),56,5536.44
+2025-12,PR-15,Harbour Road practice (synthetic),53,5270.27
+2025-12,PR-16,Elmstead practice (synthetic),56,5589.68
+2025-12,PR-17,Fairview practice (synthetic),30,2938.57
+2025-12,PR-18,Southpark practice (synthetic),53,5270.27
+2026-01,PR-01,Northgate practice (synthetic),33,3264.32
+2026-01,PR-02,Riverside practice (synthetic),57,5704.63
+2026-01,PR-03,Eastfield practice (synthetic),360,35734.16
+2026-01,PR-04,Millbrook practice (synthetic),48,4753.86
+2026-01,PR-05,Westcourt practice (synthetic),29,2852.31
+2026-01,PR-06,Harbour Road practice (synthetic),55,5493.35
+2026-01,PR-07,Elmstead practice (synthetic),57,5704.63
+2026-01,PR-08,Fairview practice (synthetic),54,5334.88
+2026-01,PR-09,Southpark practice (synthetic),34,3391.09
+2026-01,PR-10,Northgate practice (synthetic),57,5651.81
+2026-01,PR-11,Riverside practice (synthetic),49,4912.32
+2026-01,PR-12,Eastfield practice (synthetic),49,4859.50
+2026-01,PR-13,Millbrook practice (synthetic),32,3200.93
+2026-01,PR-14,Westcourt practice (synthetic),55,5493.35
+2026-01,PR-15,Harbour Road practice (synthetic),53,5229.24
+2026-01,PR-16,Elmstead practice (synthetic),56,5546.17
+2026-01,PR-17,Fairview practice (synthetic),29,2915.70
+2026-01,PR-18,Southpark practice (synthetic),53,5229.23
+2026-02,PR-01,Northgate practice (synthetic),33,3303.79
+2026-02,PR-02,Riverside practice (synthetic),58,5773.61
+2026-02,PR-03,Eastfield practice (synthetic),364,36166.25
+2026-02,PR-04,Millbrook practice (synthetic),48,4811.34
+2026-02,PR-05,Westcourt practice (synthetic),29,2886.80
+2026-02,PR-06,Harbour Road practice (synthetic),56,5559.77
+2026-02,PR-07,Elmstead practice (synthetic),58,5773.61
+2026-02,PR-08,Fairview practice (synthetic),54,5399.39
+2026-02,PR-09,Southpark practice (synthetic),35,3432.09
+2026-02,PR-10,Northgate practice (synthetic),58,5720.15
+2026-02,PR-11,Riverside practice (synthetic),50,4971.72
+2026-02,PR-12,Eastfield practice (synthetic),49,4918.26
+2026-02,PR-13,Millbrook practice (synthetic),33,3239.64
+2026-02,PR-14,Westcourt practice (synthetic),56,5559.77
+2026-02,PR-15,Harbour Road practice (synthetic),53,5292.47
+2026-02,PR-16,Elmstead practice (synthetic),56,5613.23
+2026-02,PR-17,Fairview practice (synthetic),30,2950.96
+2026-02,PR-18,Southpark practice (synthetic),53,5292.47
+2026-03,PR-01,Northgate practice (synthetic),34,3328.72
+2026-03,PR-02,Riverside practice (synthetic),59,5817.19
+2026-03,PR-03,Eastfield practice (synthetic),367,36439.23
+2026-03,PR-04,Millbrook practice (synthetic),49,4847.66
+2026-03,PR-05,Westcourt practice (synthetic),29,2908.59
+2026-03,PR-06,Harbour Road practice (synthetic),56,5601.74
+2026-03,PR-07,Elmstead practice (synthetic),59,5817.19
+2026-03,PR-08,Fairview practice (synthetic),55,5440.15
+2026-03,PR-09,Southpark practice (synthetic),35,3457.99
+2026-03,PR-10,Northgate practice (synthetic),58,5763.32
+2026-03,PR-11,Riverside practice (synthetic),50,5009.24
+2026-03,PR-12,Eastfield practice (synthetic),50,4955.38
+2026-03,PR-13,Millbrook practice (synthetic),33,3264.09
+2026-03,PR-14,Westcourt practice (synthetic),56,5601.74
+2026-03,PR-15,Harbour Road practice (synthetic),54,5332.42
+2026-03,PR-16,Elmstead practice (synthetic),57,5655.60
+2026-03,PR-17,Fairview practice (synthetic),30,2973.23
+2026-03,PR-18,Southpark practice (synthetic),54,5332.41
+2026-04,PR-01,Northgate practice (synthetic),34,3334.60
+2026-04,PR-02,Riverside practice (synthetic),59,5827.46
+2026-04,PR-03,Eastfield practice (synthetic),367,36503.59
+2026-04,PR-04,Millbrook practice (synthetic),49,4856.22
+2026-04,PR-05,Westcourt practice (synthetic),29,2913.73
+2026-04,PR-06,Harbour Road practice (synthetic),56,5611.63
+2026-04,PR-07,Elmstead practice (synthetic),59,5827.46
+2026-04,PR-08,Fairview practice (synthetic),55,5449.76
+2026-04,PR-09,Southpark practice (synthetic),35,3464.10
+2026-04,PR-10,Northgate practice (synthetic),58,5773.50
+2026-04,PR-11,Riverside practice (synthetic),51,5018.09
+2026-04,PR-12,Eastfield practice (synthetic),50,4964.13
+2026-04,PR-13,Millbrook practice (synthetic),33,3269.85
+2026-04,PR-14,Westcourt practice (synthetic),56,5611.63
+2026-04,PR-15,Harbour Road practice (synthetic),54,5341.84
+2026-04,PR-16,Elmstead practice (synthetic),57,5665.59
+2026-04,PR-17,Fairview practice (synthetic),30,2978.48
+2026-04,PR-18,Southpark practice (synthetic),54,5341.86
+2026-05,PR-01,Northgate practice (synthetic),34,3375.67
+2026-05,PR-02,Riverside practice (synthetic),59,5899.23
+2026-05,PR-03,Eastfield practice (synthetic),372,36953.15
+2026-05,PR-04,Millbrook practice (synthetic),49,4916.03
+2026-05,PR-05,Westcourt practice (synthetic),30,2949.62
+2026-05,PR-06,Harbour Road practice (synthetic),57,5680.74
+2026-05,PR-07,Elmstead practice (synthetic),59,5899.23
+2026-05,PR-08,Fairview practice (synthetic),56,5516.87
+2026-05,PR-09,Southpark practice (synthetic),35,3506.76
+2026-05,PR-10,Northgate practice (synthetic),59,5844.61
+2026-05,PR-11,Riverside practice (synthetic),51,5079.89
+2026-05,PR-12,Eastfield practice (synthetic),51,5025.27
+2026-05,PR-13,Millbrook practice (synthetic),33,3310.12
+2026-05,PR-14,Westcourt practice (synthetic),57,5680.74
+2026-05,PR-15,Harbour Road practice (synthetic),54,5407.63
+2026-05,PR-16,Elmstead practice (synthetic),58,5735.36
+2026-05,PR-17,Fairview practice (synthetic),30,3015.16
+2026-05,PR-18,Southpark practice (synthetic),54,5407.64
+2026-06,PR-01,Northgate practice (synthetic),34,3352.15
+2026-06,PR-02,Riverside practice (synthetic),59,5858.13
+2026-06,PR-03,Eastfield practice (synthetic),369,36695.69
+2026-06,PR-04,Millbrook practice (synthetic),49,4881.77
+2026-06,PR-05,Westcourt practice (synthetic),29,2929.06
+2026-06,PR-06,Harbour Road practice (synthetic),57,5641.16
+2026-06,PR-07,Elmstead practice (synthetic),59,5858.13
+2026-06,PR-08,Fairview practice (synthetic),55,5478.44
+2026-06,PR-09,Southpark practice (synthetic),35,3482.33
+2026-06,PR-10,Northgate practice (synthetic),58,5803.89
+2026-06,PR-11,Riverside practice (synthetic),51,5044.50
+2026-06,PR-12,Eastfield practice (synthetic),50,4990.26
+2026-06,PR-13,Millbrook practice (synthetic),33,3287.06
+2026-06,PR-14,Westcourt practice (synthetic),57,5641.16
+2026-06,PR-15,Harbour Road practice (synthetic),54,5369.95
+2026-06,PR-16,Elmstead practice (synthetic),57,5695.40
+2026-06,PR-17,Fairview practice (synthetic),30,2994.15
+2026-06,PR-18,Southpark practice (synthetic),54,5369.97
+2026-07,PR-01,Northgate practice (synthetic),34,3368.96
+2026-07,PR-02,Riverside practice (synthetic),59,5887.50
+2026-07,PR-03,Eastfield practice (synthetic),371,36879.69
+2026-07,PR-04,Millbrook practice (synthetic),49,4906.25
+2026-07,PR-05,Westcourt practice (synthetic),30,2943.75
+2026-07,PR-06,Harbour Road practice (synthetic),57,5669.45
+2026-07,PR-07,Elmstead practice (synthetic),59,5887.50
+2026-07,PR-08,Fairview practice (synthetic),55,5505.90
+2026-07,PR-09,Southpark practice (synthetic),35,3499.79
+2026-07,PR-10,Northgate practice (synthetic),59,5832.99
+2026-07,PR-11,Riverside practice (synthetic),51,5069.79
+2026-07,PR-12,Eastfield practice (synthetic),50,5015.28
+2026-07,PR-13,Millbrook practice (synthetic),33,3303.54
+2026-07,PR-14,Westcourt practice (synthetic),57,5669.45
+2026-07,PR-15,Harbour Road practice (synthetic),54,5396.88
+2026-07,PR-16,Elmstead practice (synthetic),58,5723.96
+2026-07,PR-17,Fairview practice (synthetic),30,3009.17
+2026-07,PR-18,Southpark practice (synthetic),54,5396.88
+2026-08,PR-01,Northgate practice (synthetic),35,3472.10
+2026-08,PR-02,Riverside practice (synthetic),61,6067.75
+2026-08,PR-03,Eastfield practice (synthetic),383,38008.79
+2026-08,PR-04,Millbrook practice (synthetic),51,5056.46
+2026-08,PR-05,Westcourt practice (synthetic),31,3033.88
+2026-08,PR-06,Harbour Road practice (synthetic),59,5843.02
+2026-08,PR-07,Elmstead practice (synthetic),61,6067.75
+2026-08,PR-08,Fairview practice (synthetic),57,5674.47
+2026-08,PR-09,Southpark practice (synthetic),36,3606.94
+2026-08,PR-10,Northgate practice (synthetic),61,6011.57
+2026-08,PR-11,Riverside practice (synthetic),53,5225.01
+2026-08,PR-12,Eastfield practice (synthetic),52,5168.83
+2026-08,PR-13,Millbrook practice (synthetic),34,3404.68
+2026-08,PR-14,Westcourt practice (synthetic),59,5843.02
+2026-08,PR-15,Harbour Road practice (synthetic),56,5562.11
+2026-08,PR-16,Elmstead practice (synthetic),59,5899.20
+2026-08,PR-17,Fairview practice (synthetic),31,3101.30
+2026-08,PR-18,Southpark practice (synthetic),56,5562.11
+2026-09,PR-01,Northgate practice (synthetic),35,3472.61
+2026-09,PR-02,Riverside practice (synthetic),61,6068.64
+2026-09,PR-03,Eastfield practice (synthetic),383,38014.36
+2026-09,PR-04,Millbrook practice (synthetic),51,5057.20
+2026-09,PR-05,Westcourt practice (synthetic),31,3034.32
+2026-09,PR-06,Harbour Road practice (synthetic),59,5843.88
+2026-09,PR-07,Elmstead practice (synthetic),61,6068.64
+2026-09,PR-08,Fairview practice (synthetic),57,5675.31
+2026-09,PR-09,Southpark practice (synthetic),36,3607.47
+2026-09,PR-10,Northgate practice (synthetic),61,6012.45
+2026-09,PR-11,Riverside practice (synthetic),53,5225.78
+2026-09,PR-12,Eastfield practice (synthetic),52,5169.58
+2026-09,PR-13,Millbrook practice (synthetic),34,3405.18
+2026-09,PR-14,Westcourt practice (synthetic),59,5843.88
+2026-09,PR-15,Harbour Road practice (synthetic),56,5562.92
+2026-09,PR-16,Elmstead practice (synthetic),59,5900.07
+2026-09,PR-17,Fairview practice (synthetic),31,3101.75
+2026-09,PR-18,Southpark practice (synthetic),56,5562.94
