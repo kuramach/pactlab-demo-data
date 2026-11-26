@@ -1,6 +1,6 @@
 # Calvera Pharmaceuticals Inc. — Pharma and biotech (USD)
 
-**Fictional target.** Calvera Pharmaceuticals Inc. is a specialty-pharma company earning royalties and supply revenue on two marketed products, with one late-stage programme.
+**Fictional target.** Calvera Pharmaceuticals Inc. is a specialty-pharma company earning royalties and supply revenue on two marketed products, with three development programmes led by PX-410.
 Based in Columbus, Ohio, United States; reports in USD. Data runs October 2024 to September 2026.
 
 > Synthetic demo data. Every company, person, address, account and figure here is invented.
@@ -9,7 +9,7 @@ Based in Columbus, Ohio, United States; reports in USD. Data runs October 2024 t
 
 - Download this whole folder (on GitHub: **Code → Download ZIP** at the top of the repository, then unzip).
 - Sign in to Pactlab. The steps take about 15 minutes.
-- You upload **3 CSV files** and **3 PDFs**. Nothing else.
+- You upload **6 CSV files** and **8 PDFs**. Nothing else.
 - **Never upload the `.md` files** in `documents/`. They are the text each PDF is built from; Pactlab reads the PDFs.
 - `vdr-index.csv` is for reference only (how a data room would list these files). Do not upload it.
 - Text in **bold** below is a button, tab or option exactly as Pactlab shows it.
@@ -60,7 +60,10 @@ Open the **Sources** tab and scroll to **Industry data**. Upload these files one
 | # | Click | Choose the file | Then | Button should read |
 |---|---|---|---|---|
 | 1 | **Upload patent schedule** | `patent-schedule.csv` | **Upload and map columns** → **Check every row** | **Import 4 rows** |
-| 2 | **Upload pipeline** | `pipeline.csv` | **Upload and map columns** → **Check every row** | **Import 2 rows** |
+| 2 | **Upload trial registry records** | `trial-registry.csv` | **Upload and map columns** → **Check every row** | **Import 3 rows** |
+| 3 | **Upload pipeline** | `pipeline.csv` | **Upload and map columns** → **Check every row** | **Import 3 rows** |
+| 4 | **Upload payment obligations model** | `obligations-model.csv` | **Upload and map columns** → **Check every row** | **Import 3 rows** |
+| 5 | **Upload r&d roster** | `rd-roster.csv` | **Upload and map columns** → **Check every row** | **Import 4 rows** |
 
 **You should see** after each import: "… imported … Industry checks ran on them". Some findings may already appear as drafts; that is expected.
 
@@ -72,22 +75,48 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 |---|---|---|---|
 | 1 | `documents/01-revenue-forecast.pdf` | **business information** | Management revenue forecast and its exclusivity assumption |
 | 2 | `documents/02-supplier-inspection-report.pdf` | **business information** | Contract manufacturer inspection summary |
-| 3 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
+| 3 | `documents/03-investor-presentation.pdf` | **business information** | Investor presentation: pipeline claims, the accelerated readout, the closing date and the hold |
+| 4 | `documents/04-fda-meeting-minutes.pdf` | **business information** | Regulatory correspondence: minutes of the FDA meeting on PX-410 |
+| 5 | `documents/05-patent-record.pdf` | **business information** | Patent record extract with each family's expiry |
+| 6 | `documents/06-licence-agreement-brennick.pdf` | **business information** | In-licence of PX-330: milestones, royalty and annual fee |
+| 7 | `documents/07-supply-agreement-halvorsen.pdf` | **business information** | Manufacturing and supply agreement for Product A |
+| 8 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
 
-**You should see:** all 3 documents listed on the **Documents** tab.
+**You should see:** all 8 documents listed on the **Documents** tab.
 
-## Step 5 — Run the checks and review the findings
+## Step 5 — Upload the P&L by year
+
+Open the **Sources** tab, scroll to **Industry data** and click **Upload profit and loss (p&l)**.
+
+1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the three years across the columns (FY2023, FY2024, FY2025).
+2. Say what each line is: the three lines ending in *revenue* are **Revenue**, `Cost of product supply` is **Cost of revenue**, and the rest are **Operating expenses**.
+3. **Check every row**, then **Import 21 rows**.
+
+**You should see:** the import succeed. The **Pipeline** tab shows R&D year by year, and the checks in the next step read every year.
+
+## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run pharma & biotech checks**.
-2. **You should see exactly these 3 findings** (running the checks again adds nothing):
+2. **You should see exactly these 14 findings** (running the checks again adds nothing):
 
    1. **Key patent expires earlier than the forecast assumes** — the forecast assumes exclusivity through 2031; `patent-schedule.csv` shows the Product A composition-of-matter patents expiring in 2028.
    2. **Open manufacturing observations at the supplier** — `documents/02-supplier-inspection-report.pdf` page 2 — three open observations.
    3. **Partner concentration** — Aldermoor Therapeutics accounts for both of the two largest revenue lines; the royalty line alone is 58.2% of September 2026 revenue.
+   4. **Claim contradicted: PX-410 phase** — the pipeline schedule says Phase 2; `trial-registry.csv` files CTR-2025-04101 as Phase 1, and the FDA minutes (`documents/04-fda-meeting-minutes.pdf`) describe an ongoing Phase 1 study.
+   5. **Claim not verified: PX-410 timeline** — no Phase 2 trial is registered for PX-410, so no registered date bears on the 2027-Q4 interim data.
+   6. **Claim verified: PX-210 phase** — CTR-2023-02103 is registered as Phase 3.
+   7. **Claim verified: PX-210 timeline** — the registered primary completion, 2027-05-31, falls within 2027-Q2.
+   8. **Claim verified: PX-330 phase** — CTR-2024-03301 is registered as Phase 1 (completed).
+   9. **Key patent expires 18 months after closing: Product A** — PF-01 (US) expires on 31 March 2028 (`documents/05-patent-record.pdf`), 18 months after the 30 September 2026 closing and inside the 5-year hold; priced on Product A's USD 7,433,939 of trailing revenue.
+   10. **Milestone payment omitted from the seller's model: Brennick Biologics (synthetic)** — clause 7.1 of `documents/06-licence-agreement-brennick.pdf` — USD 12,000,000 on the first Phase 2 dosing of PX-330, which the pipeline expects in 2027-Q3; `obligations-model.csv` has no such line.
+   11. **Single-source manufacturing: Product A** — `documents/07-supply-agreement-halvorsen.pdf` — one manufacturer, no second source qualified.
+   12. **Key-scientist concentration: S-01** — `rd-roster.csv` — S-01 leads 2 of the 3 programmes and is an inventor on all 3 patent families; no retention agreement is on file.
+   13. **R&D spend flat while the timeline is brought forward, 2023–2025** — `pnl.csv` — R&D of USD 22,000,000, USD 22,300,000 and USD 22,100,000 across FY2023–FY2025, while the investor presentation brings the PX-410 readout forward a year; FY2025 alone shows nothing.
+   14. **P&L trend, 2023–2025** — every imported year side by side: revenue, growth, margins and the R&D, supply and royalties-paid ratios.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
-## Step 6 — Test the price
+## Step 7 — Test the price
 
 1. Open the **Valuation** tab → **New scenario**.
 2. Fill in the valuation method's fields — the hint under each field says where its number comes from (usually the **Finances** tab) — and save.
@@ -118,7 +147,7 @@ On **Bidders**, under **What bidders see**:
 
 | Field | Enter |
 |---|---|
-| Shared summary | `Calvera Pharmaceuticals Inc. is a specialty-pharma company earning royalties and supply revenue on two marketed products, with one late-stage programme.` |
+| Shared summary | `Calvera Pharmaceuticals Inc. is a specialty-pharma company earning royalties and supply revenue on two marketed products, with three development programmes led by PX-410.` |
 | Your data room (link) | `https://dataroom.example/pharma-biotech` (Pactlab is not the data room; this is where you would grant access) |
 | NDA | `Mutual NDA (synthetic): everything shared about Calvera Pharmaceuticals Inc. stays confidential.` |
 | Offer deadline (UTC) | a date a week from today |
@@ -190,13 +219,27 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 |---|---|---|
 | `invoice-lines.csv` | 96 revenue lines, one per partner royalty and supply payment per month | **Yes** — billing export step |
 | `patent-schedule.csv` | Patent families, products and expiry dates (4 rows) | **Yes** — industry data step |
-| `pipeline.csv` | Development pipeline and next milestones (2 rows) | **Yes** — industry data step |
+| `pipeline.csv` | Development pipeline: each programme's claimed phase and next milestone (3 rows) | **Yes** — industry data step |
+| `trial-registry.csv` | Trial-registry records for the pipeline programmes, as filed (3 rows) | **Yes** — industry data step |
+| `obligations-model.csv` | The seller's model of milestones, royalties and licence fees owed (3 rows) | **Yes** — industry data step |
+| `rd-roster.csv` | R&D roster by pseudonymous reference: programmes led and patent families as inventor (4 rows) | **Yes** — industry data step |
+| `pnl.csv` | Profit and loss by fiscal year, FY2023 to FY2025 (7 lines) | **Yes** — P&L step |
 | `documents/01-revenue-forecast.pdf` | Management revenue forecast and its exclusivity assumption | **Yes** — documents step |
 | `documents/02-supplier-inspection-report.pdf` | Contract manufacturer inspection summary | **Yes** — documents step |
+| `documents/03-investor-presentation.pdf` | Investor presentation: pipeline claims, the accelerated readout, the closing date and the hold | **Yes** — documents step |
+| `documents/04-fda-meeting-minutes.pdf` | Regulatory correspondence: minutes of the FDA meeting on PX-410 | **Yes** — documents step |
+| `documents/05-patent-record.pdf` | Patent record extract with each family's expiry | **Yes** — documents step |
+| `documents/06-licence-agreement-brennick.pdf` | In-licence of PX-330: milestones, royalty and annual fee | **Yes** — documents step |
+| `documents/07-supply-agreement-halvorsen.pdf` | Manufacturing and supply agreement for Product A | **Yes** — documents step |
 | `documents/99-data-room-extracts.pdf` | Every CSV extract in this folder as one paged PDF, so findings can cite a page | **Yes** — documents step |
 | `bidders.csv` | The three bidding firms for Part B: who to invite, what each asks and offers | **No** — read it while you follow Part B |
 | `documents/*.md` | The text each PDF is built from | **No** — never |
 | `vdr-index.csv` | Index of every file, as a data room would list it | **No** — reference only |
+
+## Notes
+
+- The P&L (`pnl.csv`) imports through Sources like any extract; the multi-year checks read every year it holds. A single year still imports: the trend then reports that year alone.
+- Pactlab checks documents, dates and consistency only: it never opines on efficacy, approvability or trial design.
 
 ## Intake test — hand over the whole data room
 
@@ -212,11 +255,17 @@ Use it to check that Pactlab sorts files on its own and asks only when unsure.
 
 | File in the data room | Pactlab should file it as | Note |
 |---|---|---|
+| `01 Corporate/Fda meeting minutes.pdf` | Corporate record |  |
 | `02 Finance/Calvera FY26 summary.md` | Pactlab asks: income statement or cash flow statement? | Mixes profit and cash flow lines. |
 | `02 Finance/Exports/Calvera invoice lines export Sep26.csv` | Invoice lines |  |
 | `02 Finance/Exports/Calvera patent schedule export Sep26.csv` | Patent schedule |  |
+| `02 Finance/Investor presentation.pdf` | Other |  |
 | `02 Finance/Mgmt accounts FY26 - Calvera.md` | Income statement (P&L) | Revenue matches the invoice lines for Oct 2025 – Sep 2026. |
+| `02 Finance/Patent record.pdf` | Other |  |
 | `02 Finance/Revenue forecast.pdf` | Other |  |
+| `03 Commercial/Customers/Licence agreement brennick (signed copy).pdf` | Duplicate — shown once | Same bytes as the agreement above. |
+| `03 Commercial/Customers/Licence agreement brennick.pdf` | Customer contract |  |
+| `03 Commercial/Customers/Supply agreement halvorsen.pdf` | Customer contract |  |
 | `03 Commercial/Suppliers/Supplier inspection report.pdf` | Supplier contract |  |
 
 **And on the Intake checklist**, these should show as missing: **Cash flow statement**, **Pipeline**.

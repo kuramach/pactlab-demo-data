@@ -1,7 +1,16 @@
 doc_id,title,file,data_class,as_of
 PB-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
 PB-002,"Patent families, products and expiry dates",patent-schedule.csv,Financial,2026-09-30
-PB-003,Development pipeline and next milestones,pipeline.csv,Financial,2026-09-30
-PB-004,Management revenue forecast and its exclusivity assumption,documents/01-revenue-forecast.pdf,Business,2026-09-30
-PB-005,Contract manufacturer inspection summary,documents/02-supplier-inspection-report.pdf,Business,2026-09-30
-PB-006,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+PB-003,Development pipeline: each programme's claimed phase and next milestone,pipeline.csv,Financial,2026-09-30
+PB-004,"Trial-registry records for the pipeline programmes, as filed",trial-registry.csv,Financial,2026-09-30
+PB-005,"The seller's model of milestones, royalties and licence fees owed",obligations-model.csv,Financial,2026-09-30
+PB-006,R&D roster by pseudonymous reference: programmes led and patent families as inventor,rd-roster.csv,Financial,2026-09-30
+PB-007,"Profit and loss by fiscal year, FY2023 to FY2025",pnl.csv,Financial,2026-09-30
+PB-008,Management revenue forecast and its exclusivity assumption,documents/01-revenue-forecast.pdf,Business,2026-09-30
+PB-009,Contract manufacturer inspection summary,documents/02-supplier-inspection-report.pdf,Business,2026-09-30
+PB-010,"Investor presentation: pipeline claims, the accelerated readout, the closing date and the hold",documents/03-investor-presentation.pdf,Business,2026-09-30
+PB-011,Regulatory correspondence: minutes of the FDA meeting on PX-410,documents/04-fda-meeting-minutes.pdf,Business,2026-09-30
+PB-012,Patent record extract with each family's expiry,documents/05-patent-record.pdf,Business,2026-09-30
+PB-013,"In-licence of PX-330: milestones, royalty and annual fee",documents/06-licence-agreement-brennick.pdf,Business,2026-09-30
+PB-014,Manufacturing and supply agreement for Product A,documents/07-supply-agreement-halvorsen.pdf,Business,2026-09-30
+PB-015,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
