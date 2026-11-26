@@ -1,0 +1,7 @@
+security_id,holder_ref,holder_type,instrument,shares,principal,valuation_cap,discount_pct,mfn,pro_rata,vesting,issued_on
+CS-1,F-1,founder,common,3500000,,,,no,no,yes,2023-03-01
+CS-2,F-2,founder,common,2500000,,,,no,no,yes,2023-03-01
+CS-3,E-01,employee,common,400000,,,,no,no,yes,2024-05-01
+OP-1,E-02,employee,option,600000,,,,no,no,yes,2025-01-15
+POOL,POOL,pool,pool_unallocated,1000000,,,,no,no,no,2024-05-01
+SAFE-1,I-1,investor,safe,,276000.00,5520000.00,20,no,yes,no,2025-06-01
