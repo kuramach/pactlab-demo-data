@@ -1,0 +1,385 @@
+month,service_line,provider_ref,provider_role,referral_source,visits,collections
+2025-10,Implants,P01,owner,Harbourside Orthodontic Group (synthetic),29,32074.00
+2025-10,Implants,P01,owner,Self-referred,11,12166.00
+2025-10,Implants,P01,owner,Insurer Bluepoint network (synthetic),6,6636.00
+2025-10,Implants,P01,owner,Other local practices,4,4424.00
+2025-10,General dentistry,P01,owner,Harbourside Orthodontic Group (synthetic),58,8247.60
+2025-10,General dentistry,P01,owner,Self-referred,22,3128.40
+2025-10,General dentistry,P01,owner,Insurer Bluepoint network (synthetic),12,1706.40
+2025-10,General dentistry,P01,owner,Other local practices,8,1137.60
+2025-10,General dentistry,P02,associate,Harbourside Orthodontic Group (synthetic),87,12371.40
+2025-10,General dentistry,P02,associate,Self-referred,33,4692.60
+2025-10,General dentistry,P02,associate,Insurer Bluepoint network (synthetic),18,2559.60
+2025-10,General dentistry,P02,associate,Other local practices,12,1706.40
+2025-10,General dentistry,P03,associate,Harbourside Orthodontic Group (synthetic),58,8247.60
+2025-10,General dentistry,P03,associate,Self-referred,22,3128.40
+2025-10,General dentistry,P03,associate,Insurer Bluepoint network (synthetic),12,1706.40
+2025-10,General dentistry,P03,associate,Other local practices,8,1137.60
+2025-10,Hygiene,P04,associate,Harbourside Orthodontic Group (synthetic),116,10080.40
+2025-10,Hygiene,P04,associate,Self-referred,44,3823.60
+2025-10,Hygiene,P04,associate,Insurer Bluepoint network (synthetic),24,2085.60
+2025-10,Hygiene,P04,associate,Other local practices,16,1390.40
+2025-10,Hygiene,P05,associate,Harbourside Orthodontic Group (synthetic),58,5040.20
+2025-10,Hygiene,P05,associate,Self-referred,22,1911.80
+2025-10,Hygiene,P05,associate,Insurer Bluepoint network (synthetic),12,1042.80
+2025-10,Hygiene,P05,associate,Other local practices,8,695.20
+2025-10,Physiotherapy,P06,associate,Harbourside Orthodontic Group (synthetic),87,6529.35
+2025-10,Physiotherapy,P06,associate,Self-referred,33,2476.65
+2025-10,Physiotherapy,P06,associate,Insurer Bluepoint network (synthetic),18,1350.90
+2025-10,Physiotherapy,P06,associate,Other local practices,12,900.60
+2025-10,Physiotherapy,P13,contractor,Harbourside Orthodontic Group (synthetic),58,4352.90
+2025-10,Physiotherapy,P13,contractor,Self-referred,22,1651.10
+2025-10,Physiotherapy,P13,contractor,Insurer Bluepoint network (synthetic),12,900.60
+2025-10,Physiotherapy,P13,contractor,Other local practices,8,600.40
+2025-11,Implants,P01,owner,Harbourside Orthodontic Group (synthetic),29,32074.00
+2025-11,Implants,P01,owner,Self-referred,11,12166.00
+2025-11,Implants,P01,owner,Insurer Bluepoint network (synthetic),6,6636.00
+2025-11,Implants,P01,owner,Other local practices,4,4424.00
+2025-11,General dentistry,P01,owner,Harbourside Orthodontic Group (synthetic),58,8247.60
+2025-11,General dentistry,P01,owner,Self-referred,22,3128.40
+2025-11,General dentistry,P01,owner,Insurer Bluepoint network (synthetic),12,1706.40
+2025-11,General dentistry,P01,owner,Other local practices,8,1137.60
+2025-11,General dentistry,P02,associate,Harbourside Orthodontic Group (synthetic),87,12371.40
+2025-11,General dentistry,P02,associate,Self-referred,33,4692.60
+2025-11,General dentistry,P02,associate,Insurer Bluepoint network (synthetic),18,2559.60
+2025-11,General dentistry,P02,associate,Other local practices,12,1706.40
+2025-11,General dentistry,P03,associate,Harbourside Orthodontic Group (synthetic),58,8247.60
+2025-11,General dentistry,P03,associate,Self-referred,22,3128.40
+2025-11,General dentistry,P03,associate,Insurer Bluepoint network (synthetic),12,1706.40
+2025-11,General dentistry,P03,associate,Other local practices,8,1137.60
+2025-11,Hygiene,P04,associate,Harbourside Orthodontic Group (synthetic),116,10080.40
+2025-11,Hygiene,P04,associate,Self-referred,44,3823.60
+2025-11,Hygiene,P04,associate,Insurer Bluepoint network (synthetic),24,2085.60
+2025-11,Hygiene,P04,associate,Other local practices,16,1390.40
+2025-11,Hygiene,P05,associate,Harbourside Orthodontic Group (synthetic),58,5040.20
+2025-11,Hygiene,P05,associate,Self-referred,22,1911.80
+2025-11,Hygiene,P05,associate,Insurer Bluepoint network (synthetic),12,1042.80
+2025-11,Hygiene,P05,associate,Other local practices,8,695.20
+2025-11,Physiotherapy,P06,associate,Harbourside Orthodontic Group (synthetic),87,6529.35
+2025-11,Physiotherapy,P06,associate,Self-referred,33,2476.65
+2025-11,Physiotherapy,P06,associate,Insurer Bluepoint network (synthetic),18,1350.90
+2025-11,Physiotherapy,P06,associate,Other local practices,12,900.60
+2025-11,Physiotherapy,P13,contractor,Harbourside Orthodontic Group (synthetic),58,4352.90
+2025-11,Physiotherapy,P13,contractor,Self-referred,22,1651.10
+2025-11,Physiotherapy,P13,contractor,Insurer Bluepoint network (synthetic),12,900.60
+2025-11,Physiotherapy,P13,contractor,Other local practices,8,600.40
+2025-12,Implants,P01,owner,Harbourside Orthodontic Group (synthetic),29,32074.00
+2025-12,Implants,P01,owner,Self-referred,11,12166.00
+2025-12,Implants,P01,owner,Insurer Bluepoint network (synthetic),6,6636.00
+2025-12,Implants,P01,owner,Other local practices,4,4424.00
+2025-12,General dentistry,P01,owner,Harbourside Orthodontic Group (synthetic),58,8247.60
+2025-12,General dentistry,P01,owner,Self-referred,22,3128.40
+2025-12,General dentistry,P01,owner,Insurer Bluepoint network (synthetic),12,1706.40
+2025-12,General dentistry,P01,owner,Other local practices,8,1137.60
+2025-12,General dentistry,P02,associate,Harbourside Orthodontic Group (synthetic),87,12371.40
+2025-12,General dentistry,P02,associate,Self-referred,33,4692.60
+2025-12,General dentistry,P02,associate,Insurer Bluepoint network (synthetic),18,2559.60
+2025-12,General dentistry,P02,associate,Other local practices,12,1706.40
+2025-12,General dentistry,P03,associate,Harbourside Orthodontic Group (synthetic),58,8247.60
+2025-12,General dentistry,P03,associate,Self-referred,22,3128.40
+2025-12,General dentistry,P03,associate,Insurer Bluepoint network (synthetic),12,1706.40
+2025-12,General dentistry,P03,associate,Other local practices,8,1137.60
+2025-12,Hygiene,P04,associate,Harbourside Orthodontic Group (synthetic),116,10080.40
+2025-12,Hygiene,P04,associate,Self-referred,44,3823.60
+2025-12,Hygiene,P04,associate,Insurer Bluepoint network (synthetic),24,2085.60
+2025-12,Hygiene,P04,associate,Other local practices,16,1390.40
+2025-12,Hygiene,P05,associate,Harbourside Orthodontic Group (synthetic),58,5040.20
+2025-12,Hygiene,P05,associate,Self-referred,22,1911.80
+2025-12,Hygiene,P05,associate,Insurer Bluepoint network (synthetic),12,1042.80
+2025-12,Hygiene,P05,associate,Other local practices,8,695.20
+2025-12,Physiotherapy,P06,associate,Harbourside Orthodontic Group (synthetic),87,6529.35
+2025-12,Physiotherapy,P06,associate,Self-referred,33,2476.65
+2025-12,Physiotherapy,P06,associate,Insurer Bluepoint network (synthetic),18,1350.90
+2025-12,Physiotherapy,P06,associate,Other local practices,12,900.60
+2025-12,Physiotherapy,P13,contractor,Harbourside Orthodontic Group (synthetic),58,4352.90
+2025-12,Physiotherapy,P13,contractor,Self-referred,22,1651.10
+2025-12,Physiotherapy,P13,contractor,Insurer Bluepoint network (synthetic),12,900.60
+2025-12,Physiotherapy,P13,contractor,Other local practices,8,600.40
+2026-01,Implants,P01,owner,Harbourside Orthodontic Group (synthetic),29,32074.00
+2026-01,Implants,P01,owner,Self-referred,11,12166.00
+2026-01,Implants,P01,owner,Insurer Bluepoint network (synthetic),6,6636.00
+2026-01,Implants,P01,owner,Other local practices,4,4424.00
+2026-01,General dentistry,P01,owner,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-01,General dentistry,P01,owner,Self-referred,22,3128.40
+2026-01,General dentistry,P01,owner,Insurer Bluepoint network (synthetic),12,1706.40
+2026-01,General dentistry,P01,owner,Other local practices,8,1137.60
+2026-01,General dentistry,P02,associate,Harbourside Orthodontic Group (synthetic),87,12371.40
+2026-01,General dentistry,P02,associate,Self-referred,33,4692.60
+2026-01,General dentistry,P02,associate,Insurer Bluepoint network (synthetic),18,2559.60
+2026-01,General dentistry,P02,associate,Other local practices,12,1706.40
+2026-01,General dentistry,P03,associate,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-01,General dentistry,P03,associate,Self-referred,22,3128.40
+2026-01,General dentistry,P03,associate,Insurer Bluepoint network (synthetic),12,1706.40
+2026-01,General dentistry,P03,associate,Other local practices,8,1137.60
+2026-01,Hygiene,P04,associate,Harbourside Orthodontic Group (synthetic),116,10080.40
+2026-01,Hygiene,P04,associate,Self-referred,44,3823.60
+2026-01,Hygiene,P04,associate,Insurer Bluepoint network (synthetic),24,2085.60
+2026-01,Hygiene,P04,associate,Other local practices,16,1390.40
+2026-01,Hygiene,P05,associate,Harbourside Orthodontic Group (synthetic),58,5040.20
+2026-01,Hygiene,P05,associate,Self-referred,22,1911.80
+2026-01,Hygiene,P05,associate,Insurer Bluepoint network (synthetic),12,1042.80
+2026-01,Hygiene,P05,associate,Other local practices,8,695.20
+2026-01,Physiotherapy,P06,associate,Harbourside Orthodontic Group (synthetic),87,6529.35
+2026-01,Physiotherapy,P06,associate,Self-referred,33,2476.65
+2026-01,Physiotherapy,P06,associate,Insurer Bluepoint network (synthetic),18,1350.90
+2026-01,Physiotherapy,P06,associate,Other local practices,12,900.60
+2026-01,Physiotherapy,P13,contractor,Harbourside Orthodontic Group (synthetic),58,4352.90
+2026-01,Physiotherapy,P13,contractor,Self-referred,22,1651.10
+2026-01,Physiotherapy,P13,contractor,Insurer Bluepoint network (synthetic),12,900.60
+2026-01,Physiotherapy,P13,contractor,Other local practices,8,600.40
+2026-02,Implants,P01,owner,Harbourside Orthodontic Group (synthetic),29,32074.00
+2026-02,Implants,P01,owner,Self-referred,11,12166.00
+2026-02,Implants,P01,owner,Insurer Bluepoint network (synthetic),6,6636.00
+2026-02,Implants,P01,owner,Other local practices,4,4424.00
+2026-02,General dentistry,P01,owner,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-02,General dentistry,P01,owner,Self-referred,22,3128.40
+2026-02,General dentistry,P01,owner,Insurer Bluepoint network (synthetic),12,1706.40
+2026-02,General dentistry,P01,owner,Other local practices,8,1137.60
+2026-02,General dentistry,P02,associate,Harbourside Orthodontic Group (synthetic),87,12371.40
+2026-02,General dentistry,P02,associate,Self-referred,33,4692.60
+2026-02,General dentistry,P02,associate,Insurer Bluepoint network (synthetic),18,2559.60
+2026-02,General dentistry,P02,associate,Other local practices,12,1706.40
+2026-02,General dentistry,P03,associate,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-02,General dentistry,P03,associate,Self-referred,22,3128.40
+2026-02,General dentistry,P03,associate,Insurer Bluepoint network (synthetic),12,1706.40
+2026-02,General dentistry,P03,associate,Other local practices,8,1137.60
+2026-02,Hygiene,P04,associate,Harbourside Orthodontic Group (synthetic),116,10080.40
+2026-02,Hygiene,P04,associate,Self-referred,44,3823.60
+2026-02,Hygiene,P04,associate,Insurer Bluepoint network (synthetic),24,2085.60
+2026-02,Hygiene,P04,associate,Other local practices,16,1390.40
+2026-02,Hygiene,P05,associate,Harbourside Orthodontic Group (synthetic),58,5040.20
+2026-02,Hygiene,P05,associate,Self-referred,22,1911.80
+2026-02,Hygiene,P05,associate,Insurer Bluepoint network (synthetic),12,1042.80
+2026-02,Hygiene,P05,associate,Other local practices,8,695.20
+2026-02,Physiotherapy,P06,associate,Harbourside Orthodontic Group (synthetic),87,6529.35
+2026-02,Physiotherapy,P06,associate,Self-referred,33,2476.65
+2026-02,Physiotherapy,P06,associate,Insurer Bluepoint network (synthetic),18,1350.90
+2026-02,Physiotherapy,P06,associate,Other local practices,12,900.60
+2026-02,Physiotherapy,P13,contractor,Harbourside Orthodontic Group (synthetic),58,4352.90
+2026-02,Physiotherapy,P13,contractor,Self-referred,22,1651.10
+2026-02,Physiotherapy,P13,contractor,Insurer Bluepoint network (synthetic),12,900.60
+2026-02,Physiotherapy,P13,contractor,Other local practices,8,600.40
+2026-03,Implants,P01,owner,Harbourside Orthodontic Group (synthetic),29,32074.00
+2026-03,Implants,P01,owner,Self-referred,11,12166.00
+2026-03,Implants,P01,owner,Insurer Bluepoint network (synthetic),6,6636.00
+2026-03,Implants,P01,owner,Other local practices,4,4424.00
+2026-03,General dentistry,P01,owner,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-03,General dentistry,P01,owner,Self-referred,22,3128.40
+2026-03,General dentistry,P01,owner,Insurer Bluepoint network (synthetic),12,1706.40
+2026-03,General dentistry,P01,owner,Other local practices,8,1137.60
+2026-03,General dentistry,P02,associate,Harbourside Orthodontic Group (synthetic),87,12371.40
+2026-03,General dentistry,P02,associate,Self-referred,33,4692.60
+2026-03,General dentistry,P02,associate,Insurer Bluepoint network (synthetic),18,2559.60
+2026-03,General dentistry,P02,associate,Other local practices,12,1706.40
+2026-03,General dentistry,P03,associate,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-03,General dentistry,P03,associate,Self-referred,22,3128.40
+2026-03,General dentistry,P03,associate,Insurer Bluepoint network (synthetic),12,1706.40
+2026-03,General dentistry,P03,associate,Other local practices,8,1137.60
+2026-03,Hygiene,P04,associate,Harbourside Orthodontic Group (synthetic),116,10080.40
+2026-03,Hygiene,P04,associate,Self-referred,44,3823.60
+2026-03,Hygiene,P04,associate,Insurer Bluepoint network (synthetic),24,2085.60
+2026-03,Hygiene,P04,associate,Other local practices,16,1390.40
+2026-03,Hygiene,P05,associate,Harbourside Orthodontic Group (synthetic),58,5040.20
+2026-03,Hygiene,P05,associate,Self-referred,22,1911.80
+2026-03,Hygiene,P05,associate,Insurer Bluepoint network (synthetic),12,1042.80
+2026-03,Hygiene,P05,associate,Other local practices,8,695.20
+2026-03,Physiotherapy,P06,associate,Harbourside Orthodontic Group (synthetic),87,6529.35
+2026-03,Physiotherapy,P06,associate,Self-referred,33,2476.65
+2026-03,Physiotherapy,P06,associate,Insurer Bluepoint network (synthetic),18,1350.90
+2026-03,Physiotherapy,P06,associate,Other local practices,12,900.60
+2026-03,Physiotherapy,P13,contractor,Harbourside Orthodontic Group (synthetic),58,4352.90
+2026-03,Physiotherapy,P13,contractor,Self-referred,22,1651.10
+2026-03,Physiotherapy,P13,contractor,Insurer Bluepoint network (synthetic),12,900.60
+2026-03,Physiotherapy,P13,contractor,Other local practices,8,600.40
+2026-04,Implants,P01,owner,Harbourside Orthodontic Group (synthetic),29,32074.00
+2026-04,Implants,P01,owner,Self-referred,11,12166.00
+2026-04,Implants,P01,owner,Insurer Bluepoint network (synthetic),6,6636.00
+2026-04,Implants,P01,owner,Other local practices,4,4424.00
+2026-04,General dentistry,P01,owner,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-04,General dentistry,P01,owner,Self-referred,22,3128.40
+2026-04,General dentistry,P01,owner,Insurer Bluepoint network (synthetic),12,1706.40
+2026-04,General dentistry,P01,owner,Other local practices,8,1137.60
+2026-04,General dentistry,P02,associate,Harbourside Orthodontic Group (synthetic),87,12371.40
+2026-04,General dentistry,P02,associate,Self-referred,33,4692.60
+2026-04,General dentistry,P02,associate,Insurer Bluepoint network (synthetic),18,2559.60
+2026-04,General dentistry,P02,associate,Other local practices,12,1706.40
+2026-04,General dentistry,P03,associate,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-04,General dentistry,P03,associate,Self-referred,22,3128.40
+2026-04,General dentistry,P03,associate,Insurer Bluepoint network (synthetic),12,1706.40
+2026-04,General dentistry,P03,associate,Other local practices,8,1137.60
+2026-04,Hygiene,P04,associate,Harbourside Orthodontic Group (synthetic),116,10080.40
+2026-04,Hygiene,P04,associate,Self-referred,44,3823.60
+2026-04,Hygiene,P04,associate,Insurer Bluepoint network (synthetic),24,2085.60
+2026-04,Hygiene,P04,associate,Other local practices,16,1390.40
+2026-04,Hygiene,P05,associate,Harbourside Orthodontic Group (synthetic),58,5040.20
+2026-04,Hygiene,P05,associate,Self-referred,22,1911.80
+2026-04,Hygiene,P05,associate,Insurer Bluepoint network (synthetic),12,1042.80
+2026-04,Hygiene,P05,associate,Other local practices,8,695.20
+2026-04,Physiotherapy,P06,associate,Harbourside Orthodontic Group (synthetic),87,6529.35
+2026-04,Physiotherapy,P06,associate,Self-referred,33,2476.65
+2026-04,Physiotherapy,P06,associate,Insurer Bluepoint network (synthetic),18,1350.90
+2026-04,Physiotherapy,P06,associate,Other local practices,12,900.60
+2026-04,Physiotherapy,P13,contractor,Harbourside Orthodontic Group (synthetic),58,4352.90
+2026-04,Physiotherapy,P13,contractor,Self-referred,22,1651.10
+2026-04,Physiotherapy,P13,contractor,Insurer Bluepoint network (synthetic),12,900.60
+2026-04,Physiotherapy,P13,contractor,Other local practices,8,600.40
+2026-05,Implants,P01,owner,Harbourside Orthodontic Group (synthetic),29,32074.00
+2026-05,Implants,P01,owner,Self-referred,11,12166.00
+2026-05,Implants,P01,owner,Insurer Bluepoint network (synthetic),6,6636.00
+2026-05,Implants,P01,owner,Other local practices,4,4424.00
+2026-05,General dentistry,P01,owner,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-05,General dentistry,P01,owner,Self-referred,22,3128.40
+2026-05,General dentistry,P01,owner,Insurer Bluepoint network (synthetic),12,1706.40
+2026-05,General dentistry,P01,owner,Other local practices,8,1137.60
+2026-05,General dentistry,P02,associate,Harbourside Orthodontic Group (synthetic),87,12371.40
+2026-05,General dentistry,P02,associate,Self-referred,33,4692.60
+2026-05,General dentistry,P02,associate,Insurer Bluepoint network (synthetic),18,2559.60
+2026-05,General dentistry,P02,associate,Other local practices,12,1706.40
+2026-05,General dentistry,P03,associate,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-05,General dentistry,P03,associate,Self-referred,22,3128.40
+2026-05,General dentistry,P03,associate,Insurer Bluepoint network (synthetic),12,1706.40
+2026-05,General dentistry,P03,associate,Other local practices,8,1137.60
+2026-05,Hygiene,P04,associate,Harbourside Orthodontic Group (synthetic),116,10080.40
+2026-05,Hygiene,P04,associate,Self-referred,44,3823.60
+2026-05,Hygiene,P04,associate,Insurer Bluepoint network (synthetic),24,2085.60
+2026-05,Hygiene,P04,associate,Other local practices,16,1390.40
+2026-05,Hygiene,P05,associate,Harbourside Orthodontic Group (synthetic),58,5040.20
+2026-05,Hygiene,P05,associate,Self-referred,22,1911.80
+2026-05,Hygiene,P05,associate,Insurer Bluepoint network (synthetic),12,1042.80
+2026-05,Hygiene,P05,associate,Other local practices,8,695.20
+2026-05,Physiotherapy,P06,associate,Harbourside Orthodontic Group (synthetic),87,6529.35
+2026-05,Physiotherapy,P06,associate,Self-referred,33,2476.65
+2026-05,Physiotherapy,P06,associate,Insurer Bluepoint network (synthetic),18,1350.90
+2026-05,Physiotherapy,P06,associate,Other local practices,12,900.60
+2026-05,Physiotherapy,P13,contractor,Harbourside Orthodontic Group (synthetic),58,4352.90
+2026-05,Physiotherapy,P13,contractor,Self-referred,22,1651.10
+2026-05,Physiotherapy,P13,contractor,Insurer Bluepoint network (synthetic),12,900.60
+2026-05,Physiotherapy,P13,contractor,Other local practices,8,600.40
+2026-06,Implants,P01,owner,Harbourside Orthodontic Group (synthetic),29,32074.00
+2026-06,Implants,P01,owner,Self-referred,11,12166.00
+2026-06,Implants,P01,owner,Insurer Bluepoint network (synthetic),6,6636.00
+2026-06,Implants,P01,owner,Other local practices,4,4424.00
+2026-06,General dentistry,P01,owner,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-06,General dentistry,P01,owner,Self-referred,22,3128.40
+2026-06,General dentistry,P01,owner,Insurer Bluepoint network (synthetic),12,1706.40
+2026-06,General dentistry,P01,owner,Other local practices,8,1137.60
+2026-06,General dentistry,P02,associate,Harbourside Orthodontic Group (synthetic),87,12371.40
+2026-06,General dentistry,P02,associate,Self-referred,33,4692.60
+2026-06,General dentistry,P02,associate,Insurer Bluepoint network (synthetic),18,2559.60
+2026-06,General dentistry,P02,associate,Other local practices,12,1706.40
+2026-06,General dentistry,P03,associate,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-06,General dentistry,P03,associate,Self-referred,22,3128.40
+2026-06,General dentistry,P03,associate,Insurer Bluepoint network (synthetic),12,1706.40
+2026-06,General dentistry,P03,associate,Other local practices,8,1137.60
+2026-06,Hygiene,P04,associate,Harbourside Orthodontic Group (synthetic),116,10080.40
+2026-06,Hygiene,P04,associate,Self-referred,44,3823.60
+2026-06,Hygiene,P04,associate,Insurer Bluepoint network (synthetic),24,2085.60
+2026-06,Hygiene,P04,associate,Other local practices,16,1390.40
+2026-06,Hygiene,P05,associate,Harbourside Orthodontic Group (synthetic),58,5040.20
+2026-06,Hygiene,P05,associate,Self-referred,22,1911.80
+2026-06,Hygiene,P05,associate,Insurer Bluepoint network (synthetic),12,1042.80
+2026-06,Hygiene,P05,associate,Other local practices,8,695.20
+2026-06,Physiotherapy,P06,associate,Harbourside Orthodontic Group (synthetic),87,6529.35
+2026-06,Physiotherapy,P06,associate,Self-referred,33,2476.65
+2026-06,Physiotherapy,P06,associate,Insurer Bluepoint network (synthetic),18,1350.90
+2026-06,Physiotherapy,P06,associate,Other local practices,12,900.60
+2026-06,Physiotherapy,P13,contractor,Harbourside Orthodontic Group (synthetic),58,4352.90
+2026-06,Physiotherapy,P13,contractor,Self-referred,22,1651.10
+2026-06,Physiotherapy,P13,contractor,Insurer Bluepoint network (synthetic),12,900.60
+2026-06,Physiotherapy,P13,contractor,Other local practices,8,600.40
+2026-07,Implants,P01,owner,Harbourside Orthodontic Group (synthetic),29,32074.00
+2026-07,Implants,P01,owner,Self-referred,11,12166.00
+2026-07,Implants,P01,owner,Insurer Bluepoint network (synthetic),6,6636.00
+2026-07,Implants,P01,owner,Other local practices,4,4424.00
+2026-07,General dentistry,P01,owner,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-07,General dentistry,P01,owner,Self-referred,22,3128.40
+2026-07,General dentistry,P01,owner,Insurer Bluepoint network (synthetic),12,1706.40
+2026-07,General dentistry,P01,owner,Other local practices,8,1137.60
+2026-07,General dentistry,P02,associate,Harbourside Orthodontic Group (synthetic),87,12371.40
+2026-07,General dentistry,P02,associate,Self-referred,33,4692.60
+2026-07,General dentistry,P02,associate,Insurer Bluepoint network (synthetic),18,2559.60
+2026-07,General dentistry,P02,associate,Other local practices,12,1706.40
+2026-07,General dentistry,P03,associate,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-07,General dentistry,P03,associate,Self-referred,22,3128.40
+2026-07,General dentistry,P03,associate,Insurer Bluepoint network (synthetic),12,1706.40
+2026-07,General dentistry,P03,associate,Other local practices,8,1137.60
+2026-07,Hygiene,P04,associate,Harbourside Orthodontic Group (synthetic),116,10080.40
+2026-07,Hygiene,P04,associate,Self-referred,44,3823.60
+2026-07,Hygiene,P04,associate,Insurer Bluepoint network (synthetic),24,2085.60
+2026-07,Hygiene,P04,associate,Other local practices,16,1390.40
+2026-07,Hygiene,P05,associate,Harbourside Orthodontic Group (synthetic),58,5040.20
+2026-07,Hygiene,P05,associate,Self-referred,22,1911.80
+2026-07,Hygiene,P05,associate,Insurer Bluepoint network (synthetic),12,1042.80
+2026-07,Hygiene,P05,associate,Other local practices,8,695.20
+2026-07,Physiotherapy,P06,associate,Harbourside Orthodontic Group (synthetic),87,6529.35
+2026-07,Physiotherapy,P06,associate,Self-referred,33,2476.65
+2026-07,Physiotherapy,P06,associate,Insurer Bluepoint network (synthetic),18,1350.90
+2026-07,Physiotherapy,P06,associate,Other local practices,12,900.60
+2026-07,Physiotherapy,P13,contractor,Harbourside Orthodontic Group (synthetic),58,4352.90
+2026-07,Physiotherapy,P13,contractor,Self-referred,22,1651.10
+2026-07,Physiotherapy,P13,contractor,Insurer Bluepoint network (synthetic),12,900.60
+2026-07,Physiotherapy,P13,contractor,Other local practices,8,600.40
+2026-08,Implants,P01,owner,Harbourside Orthodontic Group (synthetic),29,32074.00
+2026-08,Implants,P01,owner,Self-referred,11,12166.00
+2026-08,Implants,P01,owner,Insurer Bluepoint network (synthetic),6,6636.00
+2026-08,Implants,P01,owner,Other local practices,4,4424.00
+2026-08,General dentistry,P01,owner,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-08,General dentistry,P01,owner,Self-referred,22,3128.40
+2026-08,General dentistry,P01,owner,Insurer Bluepoint network (synthetic),12,1706.40
+2026-08,General dentistry,P01,owner,Other local practices,8,1137.60
+2026-08,General dentistry,P02,associate,Harbourside Orthodontic Group (synthetic),87,12371.40
+2026-08,General dentistry,P02,associate,Self-referred,33,4692.60
+2026-08,General dentistry,P02,associate,Insurer Bluepoint network (synthetic),18,2559.60
+2026-08,General dentistry,P02,associate,Other local practices,12,1706.40
+2026-08,General dentistry,P03,associate,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-08,General dentistry,P03,associate,Self-referred,22,3128.40
+2026-08,General dentistry,P03,associate,Insurer Bluepoint network (synthetic),12,1706.40
+2026-08,General dentistry,P03,associate,Other local practices,8,1137.60
+2026-08,Hygiene,P04,associate,Harbourside Orthodontic Group (synthetic),116,10080.40
+2026-08,Hygiene,P04,associate,Self-referred,44,3823.60
+2026-08,Hygiene,P04,associate,Insurer Bluepoint network (synthetic),24,2085.60
+2026-08,Hygiene,P04,associate,Other local practices,16,1390.40
+2026-08,Hygiene,P05,associate,Harbourside Orthodontic Group (synthetic),58,5040.20
+2026-08,Hygiene,P05,associate,Self-referred,22,1911.80
+2026-08,Hygiene,P05,associate,Insurer Bluepoint network (synthetic),12,1042.80
+2026-08,Hygiene,P05,associate,Other local practices,8,695.20
+2026-08,Physiotherapy,P06,associate,Harbourside Orthodontic Group (synthetic),87,6529.35
+2026-08,Physiotherapy,P06,associate,Self-referred,33,2476.65
+2026-08,Physiotherapy,P06,associate,Insurer Bluepoint network (synthetic),18,1350.90
+2026-08,Physiotherapy,P06,associate,Other local practices,12,900.60
+2026-08,Physiotherapy,P13,contractor,Harbourside Orthodontic Group (synthetic),58,4352.90
+2026-08,Physiotherapy,P13,contractor,Self-referred,22,1651.10
+2026-08,Physiotherapy,P13,contractor,Insurer Bluepoint network (synthetic),12,900.60
+2026-08,Physiotherapy,P13,contractor,Other local practices,8,600.40
+2026-09,Implants,P01,owner,Harbourside Orthodontic Group (synthetic),29,32074.00
+2026-09,Implants,P01,owner,Self-referred,11,12166.00
+2026-09,Implants,P01,owner,Insurer Bluepoint network (synthetic),6,6636.00
+2026-09,Implants,P01,owner,Other local practices,4,4424.00
+2026-09,General dentistry,P01,owner,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-09,General dentistry,P01,owner,Self-referred,22,3128.40
+2026-09,General dentistry,P01,owner,Insurer Bluepoint network (synthetic),12,1706.40
+2026-09,General dentistry,P01,owner,Other local practices,8,1137.60
+2026-09,General dentistry,P02,associate,Harbourside Orthodontic Group (synthetic),87,12371.40
+2026-09,General dentistry,P02,associate,Self-referred,33,4692.60
+2026-09,General dentistry,P02,associate,Insurer Bluepoint network (synthetic),18,2559.60
+2026-09,General dentistry,P02,associate,Other local practices,12,1706.40
+2026-09,General dentistry,P03,associate,Harbourside Orthodontic Group (synthetic),58,8247.60
+2026-09,General dentistry,P03,associate,Self-referred,22,3128.40
+2026-09,General dentistry,P03,associate,Insurer Bluepoint network (synthetic),12,1706.40
+2026-09,General dentistry,P03,associate,Other local practices,8,1137.60
+2026-09,Hygiene,P04,associate,Harbourside Orthodontic Group (synthetic),116,10080.40
+2026-09,Hygiene,P04,associate,Self-referred,44,3823.60
+2026-09,Hygiene,P04,associate,Insurer Bluepoint network (synthetic),24,2085.60
+2026-09,Hygiene,P04,associate,Other local practices,16,1390.40
+2026-09,Hygiene,P05,associate,Harbourside Orthodontic Group (synthetic),58,5040.20
+2026-09,Hygiene,P05,associate,Self-referred,22,1911.80
+2026-09,Hygiene,P05,associate,Insurer Bluepoint network (synthetic),12,1042.80
+2026-09,Hygiene,P05,associate,Other local practices,8,695.20
+2026-09,Physiotherapy,P06,associate,Harbourside Orthodontic Group (synthetic),87,6529.35
+2026-09,Physiotherapy,P06,associate,Self-referred,33,2476.65
+2026-09,Physiotherapy,P06,associate,Insurer Bluepoint network (synthetic),18,1350.90
+2026-09,Physiotherapy,P06,associate,Other local practices,12,900.60
+2026-09,Physiotherapy,P13,contractor,Harbourside Orthodontic Group (synthetic),58,4352.90
+2026-09,Physiotherapy,P13,contractor,Self-referred,22,1651.10
+2026-09,Physiotherapy,P13,contractor,Insurer Bluepoint network (synthetic),12,900.60
+2026-09,Physiotherapy,P13,contractor,Other local practices,8,600.40

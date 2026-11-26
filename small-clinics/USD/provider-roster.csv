@@ -1,0 +1,8 @@
+provider_ref,specialty,fte,credential_expiry
+P01,General dentistry and implants,1.0,2028-01-01
+P02,General dentistry,1.0,2029-03-01
+P03,General dentistry,0.8,2028-05-01
+P04,Hygiene,1.0,2029-07-01
+P05,Hygiene,0.6,2028-09-01
+P06,Physiotherapy,1.0,2029-11-01
+P13,Physiotherapy,0.8,2028-01-01

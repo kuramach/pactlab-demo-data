@@ -1,6 +1,6 @@
 # Clearbrook Clinics Inc. — Small clinics (USD)
 
-**Fictional target.** Clearbrook Clinics Inc. runs six dental and physiotherapy clinics with 22 providers, paid by insurers and patients.
+**Fictional target.** Clearbrook Clinics Inc. runs six dental and physiotherapy clinics with 22 providers, paid by insurers and patients. Its founder, the selling owner, still treats patients at Site 1.
 Based in Columbus, Ohio, United States; reports in USD. Data runs October 2024 to September 2026.
 
 > Synthetic demo data. Every company, person, address, account and figure here is invented.
@@ -9,7 +9,7 @@ Based in Columbus, Ohio, United States; reports in USD. Data runs October 2024 t
 
 - Download this whole folder (on GitHub: **Code → Download ZIP** at the top of the repository, then unzip).
 - Sign in to Pactlab. The steps take about 15 minutes.
-- You upload **4 CSV files** and **2 PDFs**. Nothing else.
+- You upload **9 CSV files** and **4 PDFs**. Nothing else.
 - **Never upload the `.md` files** in `documents/`. They are the text each PDF is built from; Pactlab reads the PDFs.
 - `vdr-index.csv` is for reference only (how a data room would list these files). Do not upload it.
 - Text in **bold** below is a button, tab or option exactly as Pactlab shows it.
@@ -62,32 +62,62 @@ Open the **Sources** tab and scroll to **Industry data**. Upload these files one
 | 1 | **Upload patient volume** | `patient-volume.csv` | **Upload and map columns** → **Check every row** | **Import 264 rows** |
 | 2 | **Upload equipment schedule** | `equipment-schedule.csv` | **Upload and map columns** → **Check every row** | **Import 4 rows** |
 | 3 | **Upload coding summary** | `coding-summary.csv` | **Upload and map columns** → **Check every row** | **Import 4 rows** |
+| 4 | **Upload claims summary** | `claims-summary.csv` | **Upload and map columns** → **Check every row** | **Import 48 rows** |
+| 5 | **Upload provider roster** | `provider-roster.csv` | **Upload and map columns** → **Check every row** | **Import 7 rows** |
+| 6 | **Upload service-line margins** | `service-lines.csv` | **Upload and map columns** → **Check every row** | **Import 12 rows** |
+| 7 | **Upload visits by provider and referral** | `visit-summary.csv` | **Upload and map columns** → **Check every row** | **Import 384 rows** |
 
 **You should see** after each import: "… imported … Industry checks ran on them". Some findings may already appear as drafts; that is expected.
 
-## Step 4 — Upload the documents
+## Step 4 — Upload the P&L, by year
+
+`pnl.csv` holds the profit and loss for fiscal years 2024, 2025, 2026, one column per year. Pactlab reads every year, so the trend across them shows.
+
+1. On **Sources**, under **Industry data**, click **Upload profit and loss (p&l)** → `pnl.csv` → **Upload and map columns**.
+2. The line names and the years are read from the file. Under **What each line is**, choose:
+
+   | Line | What it is |
+   |---|---|
+   | `Patient fees` | **Revenue** |
+   | `Clinical supplies` | **Cost of revenue** |
+   | `Lab fees` | **Cost of revenue** |
+   | `Associate and staff costs` | **Operating expense** |
+   | `Rent and occupancy` | **Operating expense** |
+   | `Other operating costs` | **Operating expense** |
+
+3. Click **Check every row**, then **Import 18 rows**.
+
+**You should see:** the statement for each year, adding up. **Quality of earnings** and **Valuation** read every imported year.
+
+## Step 5 — Upload the documents
 
 Open the **Documents** tab. Under **Upload a document**, upload each PDF from the `documents/` folder, one at a time — choose the file, set **Data class**, leave **Keep away from AI** unticked, click **Upload**.
 
 | # | File | Data class | What it is |
 |---|---|---|---|
 | 1 | `documents/01-coding-policy.pdf` | **business information** | Coding and billing policy |
-| 2 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
+| 2 | `documents/02-site-1-premises-lease.pdf` | **business information** | Premises lease for Site 1, the flagship practice |
+| 3 | `documents/03-transaction-timetable.pdf` | **business information** | Transaction timetable, with a premises note |
+| 4 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
 
-**You should see:** all 2 documents listed on the **Documents** tab.
+**You should see:** all 4 documents listed on the **Documents** tab.
 
-## Step 5 — Run the checks and review the findings
+## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run small clinics checks**.
-2. **You should see exactly these 3 findings** (running the checks again adds nothing):
+2. **You should see exactly these 7 findings** (running the checks again adds nothing):
 
    1. **One provider carries Site 3** — P07 earns 73.8% of Site 3 revenue in `patient-volume.csv` — a retention risk after closing.
    2. **High-complexity coding above policy** — `coding-summary.csv` shows 31–36% of visits at the highest code against the 15% expected by `documents/01-coding-policy.pdf`.
    3. **Imaging equipment past its useful life** — two panoramic X-ray units in `equipment-schedule.csv` (2014 and 2015, ten-year lives). Price as remediation.
+   4. **Selling owner is the only provider of Implants** — P01, the selling owner, delivers 46.4% of collections in `visit-summary.csv` and is the only provider of Implants, the highest-margin service line in `service-lines.csv`; no succession plan is filed.
+   5. **One referral source sends 58.0% of visits** — Harbourside Orthodontic Group refers 58.0% of visits in `visit-summary.csv`.
+   6. **Clinic lease ends 14 months after closing with no renewal option** — `documents/02-site-1-premises-lease.pdf` (expires 31 March 2028, no renewal option) against the target closing date in `documents/03-transaction-timetable.pdf`; priced from its relocation estimate.
+   7. **Clinical supplies outpacing revenue** — `pnl.csv` — supplies grow 15% a year against revenue's 6%, from 9.0% to 10.6% of revenue over 2024–2026. Any one year looks normal.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
-## Step 6 — Test the price
+## Step 7 — Test the price
 
 1. Open the **Valuation** tab → **New scenario**.
 2. Fill in the valuation method's fields — the hint under each field says where its number comes from (usually the **Finances** tab) — and save.
@@ -118,7 +148,7 @@ On **Bidders**, under **What bidders see**:
 
 | Field | Enter |
 |---|---|
-| Shared summary | `Clearbrook Clinics Inc. runs six dental and physiotherapy clinics with 22 providers, paid by insurers and patients.` |
+| Shared summary | `Clearbrook Clinics Inc. runs six dental and physiotherapy clinics with 22 providers, paid by insurers and patients. Its founder, the selling owner, still treats patients at Site 1.` |
 | Your data room (link) | `https://dataroom.example/small-clinics` (Pactlab is not the data room; this is where you would grant access) |
 | NDA | `Mutual NDA (synthetic): everything shared about Clearbrook Clinics Inc. stays confidential.` |
 | Offer deadline (UTC) | a date a week from today |
@@ -192,7 +222,15 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 | `patient-volume.csv` | Visits and revenue by site and pseudonymous provider (264 rows) | **Yes** — industry data step |
 | `equipment-schedule.csv` | Equipment with acquisition dates and useful lives (4 rows) | **Yes** — industry data step |
 | `coding-summary.csv` | Share of visits billed at the highest complexity code (4 rows) | **Yes** — industry data step |
+| `claims-summary.csv` | Monthly claims billed, paid and denial rate by payer (48 rows) | **Yes** — industry data step |
+| `provider-roster.csv` | Provider roster, pseudonymous, with credential expiry dates (7 rows) | **Yes** — industry data step |
+| `visit-summary.csv` | Visits and collections by service line, pseudonymous provider and referral source (384 rows) | **Yes** — industry data step |
+| `service-lines.csv` | Revenue and direct costs by service line and fiscal year (12 rows) | **Yes** — industry data step |
+| `pnl.csv` | Profit and loss by fiscal year (6 lines × 3 years) | **Yes** — P&L step |
+| `pnl-line-kinds.csv` | What each P&L line is, as you choose it on screen | **No** — the P&L step lists the same |
 | `documents/01-coding-policy.pdf` | Coding and billing policy | **Yes** — documents step |
+| `documents/02-site-1-premises-lease.pdf` | Premises lease for Site 1, the flagship practice | **Yes** — documents step |
+| `documents/03-transaction-timetable.pdf` | Transaction timetable, with a premises note | **Yes** — documents step |
 | `documents/99-data-room-extracts.pdf` | Every CSV extract in this folder as one paged PDF, so findings can cite a page | **Yes** — documents step |
 | `bidders.csv` | The three bidding firms for Part B: who to invite, what each asks and offers | **No** — read it while you follow Part B |
 | `documents/*.md` | The text each PDF is built from | **No** — never |
@@ -200,7 +238,8 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 
 ## Notes
 
-- Providers are pseudonymous (P01, P02, …); Pactlab never sends people data to a model.
+- Providers are pseudonymous (P01, P02, …); the selling owner is a role in `visit-summary.csv`, never a name. Pactlab never sends people data to a model.
+- Referral sources are businesses or "Self-referred"; Pactlab counts visits and makes no judgment on the referral arrangement.
 
 ## Intake test — hand over the whole data room
 
@@ -217,12 +256,18 @@ Use it to check that Pactlab sorts files on its own and asks only when unsure.
 | File in the data room | Pactlab should file it as | Note |
 |---|---|---|
 | `02 Finance/Clearbrook FY26 summary.md` | Pactlab asks: income statement or cash flow statement? | Mixes profit and cash flow lines. |
+| `02 Finance/Exports/Clearbrook claims summary export Sep26.csv` | Claims summary |  |
 | `02 Finance/Exports/Clearbrook coding summary export Sep26.csv` | Coding summary |  |
 | `02 Finance/Exports/Clearbrook equipment schedule export Sep26.csv` | Equipment schedule |  |
 | `02 Finance/Exports/Clearbrook invoice lines export Sep26.csv` | Invoice lines |  |
+| `02 Finance/Exports/Clearbrook patient volume export Sep26.csv` | Patient volume |  |
+| `02 Finance/Exports/Clearbrook provider roster export Sep26.csv` | Provider roster |  |
+| `02 Finance/Exports/Clearbrook service-line margins export Sep26.csv` | Service-line margins |  |
 | `02 Finance/Mgmt accounts FY26 - Clearbrook.md` | Income statement (P&L) | Revenue matches the invoice lines for Oct 2025 – Sep 2026. |
+| `02 Finance/Transaction timetable.pdf` | Other |  |
+| `03 Commercial/Leases/Site 1 premises lease.pdf` | Lease |  |
 | `05 Policies/Coding policy.pdf` | Policy |  |
 
-**And on the Intake checklist**, these should show as missing: **Cash flow statement**, **Patient volume**.
+**And on the Intake checklist**, these should show as missing: **Cash flow statement**, **Visits by provider and referral**.
 Once billing is imported, **Customer contract** shows **Some missing** and names the largest billed customers with no contract in the room.
 Click **Ask the seller** (or **Copy request for missing items**) to send the list.

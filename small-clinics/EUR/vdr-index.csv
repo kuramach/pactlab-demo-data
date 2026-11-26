@@ -3,5 +3,12 @@ SC-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-0
 SC-002,Visits and revenue by site and pseudonymous provider,patient-volume.csv,Financial,2026-09-30
 SC-003,Equipment with acquisition dates and useful lives,equipment-schedule.csv,Financial,2026-09-30
 SC-004,Share of visits billed at the highest complexity code,coding-summary.csv,Financial,2026-09-30
-SC-005,Coding and billing policy,documents/01-coding-policy.pdf,Business,2026-09-30
-SC-006,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+SC-005,"Monthly claims billed, paid and denial rate by payer",claims-summary.csv,Financial,2026-09-30
+SC-006,"Provider roster, pseudonymous, with credential expiry dates",provider-roster.csv,Financial,2026-09-30
+SC-007,"Visits and collections by service line, pseudonymous provider and referral source",visit-summary.csv,Financial,2026-09-30
+SC-008,Revenue and direct costs by service line and fiscal year,service-lines.csv,Financial,2026-09-30
+SC-009,Profit and loss by fiscal year,pnl.csv,Financial,2026-09-30
+SC-010,Coding and billing policy,documents/01-coding-policy.pdf,Business,2026-09-30
+SC-011,"Premises lease for Site 1, the flagship practice",documents/02-site-1-premises-lease.pdf,Business,2026-09-30
+SC-012,"Transaction timetable, with a premises note",documents/03-transaction-timetable.pdf,Business,2026-09-30
+SC-013,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

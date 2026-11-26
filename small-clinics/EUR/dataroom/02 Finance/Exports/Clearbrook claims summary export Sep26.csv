@@ -1,0 +1,49 @@
+month,payer,claims,billed,paid,denial_rate_pct
+2025-10,Insurer Bluepoint (synthetic),470,117807.00,94245.60,4.0
+2025-10,Insurer Harrowgate (synthetic),480,65020.35,52016.28,5.0
+2025-10,Government scheme (synthetic),470,49652.64,39722.11,6.0
+2025-10,Patients — self-pay (synthetic),490,46130.86,36904.69,2.0
+2025-11,Insurer Bluepoint (synthetic),470,120975.75,96780.60,4.0
+2025-11,Insurer Harrowgate (synthetic),480,65067.16,52053.73,5.0
+2025-11,Government scheme (synthetic),470,49689.60,39751.68,6.0
+2025-11,Patients — self-pay (synthetic),490,46823.14,37458.51,2.0
+2025-12,Insurer Bluepoint (synthetic),470,119414.20,95531.36,4.0
+2025-12,Insurer Harrowgate (synthetic),480,68309.20,54647.36,5.0
+2025-12,Government scheme (synthetic),470,49695.36,39756.29,6.0
+2025-12,Patients — self-pay (synthetic),490,46438.69,37150.95,2.0
+2026-01,Insurer Bluepoint (synthetic),470,122402.69,97922.15,4.0
+2026-01,Insurer Harrowgate (synthetic),480,66261.55,53009.24,5.0
+2026-01,Government scheme (synthetic),470,52184.69,41747.75,6.0
+2026-01,Patients — self-pay (synthetic),490,46783.91,37427.13,2.0
+2026-02,Insurer Bluepoint (synthetic),470,116414.38,93131.50,4.0
+2026-02,Insurer Harrowgate (synthetic),480,69115.06,55292.05,5.0
+2026-02,Government scheme (synthetic),470,51097.45,40877.96,6.0
+2026-02,Patients — self-pay (synthetic),490,46705.45,37364.36,2.0
+2026-03,Insurer Bluepoint (synthetic),470,117465.11,93972.09,4.0
+2026-03,Insurer Harrowgate (synthetic),480,68243.93,54595.14,5.0
+2026-03,Government scheme (synthetic),470,52384.51,41907.61,6.0
+2026-03,Patients — self-pay (synthetic),490,48166.20,38532.96,2.0
+2026-04,Insurer Bluepoint (synthetic),470,123595.76,98876.61,4.0
+2026-04,Insurer Harrowgate (synthetic),480,67097.41,53677.93,5.0
+2026-04,Government scheme (synthetic),470,52600.01,42080.01,6.0
+2026-04,Patients — self-pay (synthetic),490,48163.23,38530.58,2.0
+2026-05,Insurer Bluepoint (synthetic),470,121555.66,97244.53,4.0
+2026-05,Insurer Harrowgate (synthetic),480,66490.74,53192.59,5.0
+2026-05,Government scheme (synthetic),470,50748.08,40598.46,6.0
+2026-05,Patients — self-pay (synthetic),490,48533.76,38827.01,2.0
+2026-06,Insurer Bluepoint (synthetic),470,121651.13,97320.90,4.0
+2026-06,Insurer Harrowgate (synthetic),480,69169.79,55335.83,5.0
+2026-06,Government scheme (synthetic),470,53439.90,42751.92,6.0
+2026-06,Patients — self-pay (synthetic),490,48110.11,38488.09,2.0
+2026-07,Insurer Bluepoint (synthetic),470,121707.73,97366.18,4.0
+2026-07,Insurer Harrowgate (synthetic),480,66888.38,53510.70,5.0
+2026-07,Government scheme (synthetic),470,53251.60,42601.28,6.0
+2026-07,Patients — self-pay (synthetic),490,48044.95,38435.96,2.0
+2026-08,Insurer Bluepoint (synthetic),470,123351.18,98680.94,4.0
+2026-08,Insurer Harrowgate (synthetic),480,69655.31,55724.25,5.0
+2026-08,Government scheme (synthetic),470,52823.30,42258.64,6.0
+2026-08,Patients — self-pay (synthetic),490,49879.89,39903.91,2.0
+2026-09,Insurer Bluepoint (synthetic),470,126382.40,101105.92,4.0
+2026-09,Insurer Harrowgate (synthetic),480,69272.28,55417.82,5.0
+2026-09,Government scheme (synthetic),470,51738.95,41391.16,6.0
+2026-09,Patients — self-pay (synthetic),490,48747.16,38997.73,2.0

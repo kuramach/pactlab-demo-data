@@ -1,0 +1,7 @@
+line,kind
+Patient fees,REVENUE
+Clinical supplies,COGS
+Lab fees,COGS
+Associate and staff costs,OPEX
+Rent and occupancy,OPEX
+Other operating costs,OPEX
