@@ -117,3 +117,75 @@ month | payer | gross_charges | net_revenue
 2026-09 | Government programme B (synthetic) | 1022810.22 | 352693.18
 2026-09 | Commercial plan Riverbend (synthetic) | 699604.12 | 241242.80
 2026-09 | Self-pay and other (synthetic) | 289993.07 | 99997.61
+---page---
+medical-staff.csv — Medical-staff register: department, licence and clinical privileges by pseudonymous staff reference
+
+staff_ref | department | role | licence_status | licence_expires_on | privilege_status | privileges_expire_on
+MS-001 | Cardiology | physician | active | 2028-02-19 | active | 2027-01-01
+MS-002 | Cardiology | physician | active | 2029-03-28 | active | 2028-02-10
+MS-003 | Cardiology | physician | active | 2027-04-10 | active | 2027-03-19
+MS-004 | Cardiology | physician | active | 2028-05-19 | active | 2028-04-01
+MS-005 | Cardiology | physician | active | 2029-06-28 | active | 2027-05-10
+MS-006 | Cardiology | physician | active | 2027-07-10 | active | 2028-06-19
+MS-007 | Cardiology | physician | active | 2028-08-19 | active | 2027-07-01
+MS-008 | Cardiology | physician | active | 2029-09-28 | active | 2028-08-10
+MS-009 | Orthopaedics | surgeon | active | 2027-10-10 | active | 2026-06-30
+MS-010 | Orthopaedics | surgeon | active | 2028-11-19 | active | 2026-06-30
+MS-011 | Orthopaedics | surgeon | active | 2029-12-28 | active | 2026-06-30
+MS-012 | Orthopaedics | surgeon | active | 2027-01-10 | active | 2026-06-30
+MS-013 | Orthopaedics | surgeon | active | 2028-02-19 | active | 2026-06-30
+MS-014 | Orthopaedics | surgeon | active | 2029-03-28 | active | 2026-06-30
+MS-015 | Orthopaedics | surgeon | active | 2027-04-10 | active | 2026-06-30
+MS-016 | Maternity | physician | active | 2028-05-19 | active | 2027-01-01
+MS-017 | Maternity | physician | active | 2029-06-28 | active | 2028-02-10
+MS-018 | Maternity | physician | active | 2027-07-10 | active | 2027-03-19
+MS-019 | Maternity | physician | active | 2028-08-19 | active | 2028-04-01
+MS-020 | Maternity | physician | active | 2029-09-28 | active | 2027-05-10
+MS-021 | Maternity | physician | active | 2027-10-10 | active | 2028-06-19
+MS-022 | General medicine | physician | active | 2028-11-19 | active | 2027-01-01
+MS-023 | General medicine | physician | active | 2029-12-28 | active | 2028-02-10
+MS-024 | General medicine | physician | active | 2027-01-10 | active | 2027-03-19
+MS-025 | General medicine | physician | active | 2028-02-19 | active | 2028-04-01
+MS-026 | General medicine | physician | active | 2029-03-28 | active | 2027-05-10
+MS-027 | General medicine | physician | active | 2027-04-10 | active | 2028-06-19
+MS-028 | General medicine | physician | active | 2028-05-19 | active | 2027-07-01
+MS-029 | General medicine | physician | active | 2029-06-28 | active | 2028-08-10
+MS-030 | General medicine | physician | active | 2027-07-10 | active | 2027-09-19
+MS-031 | General medicine | physician | active | 2028-08-19 | active | 2028-10-01
+MS-032 | General medicine | physician | active | 2029-09-28 | active | 2027-11-10
+MS-033 | General medicine | physician | active | 2027-10-10 | active | 2028-12-19
+MS-034 | General medicine | physician | active | 2028-11-19 | active | 2027-01-01
+MS-035 | General medicine | physician | active | 2029-12-28 | active | 2028-02-10
+MS-036 | Emergency | physician | active | 2027-01-10 | active | 2027-01-01
+MS-037 | Emergency | physician | active | 2028-02-19 | active | 2028-02-10
+MS-038 | Emergency | physician | active | 2029-03-28 | active | 2027-03-19
+MS-039 | Emergency | physician | active | 2027-04-10 | active | 2028-04-01
+MS-040 | Emergency | physician | active | 2028-05-19 | active | 2027-05-10
+MS-041 | Emergency | physician | active | 2029-06-28 | active | 2028-06-19
+MS-042 | Emergency | physician | active | 2027-07-10 | active | 2027-07-01
+MS-043 | Emergency | physician | active | 2028-08-19 | active | 2028-08-10
+MS-044 | Emergency | physician | active | 2029-09-28 | active | 2027-09-19
+MS-045 | Anaesthesia | physician | active | 2027-10-10 | active | 2027-01-01
+MS-046 | Anaesthesia | physician | active | 2028-11-19 | active | 2028-02-10
+MS-047 | Anaesthesia | physician | active | 2029-12-28 | active | 2027-03-19
+MS-048 | Anaesthesia | physician | active | 2027-01-10 | active | 2028-04-01
+MS-049 | Anaesthesia | physician | active | 2028-02-19 | active | 2027-05-10
+MS-050 | Anaesthesia | physician | active | 2029-03-28 | active | 2028-06-19
+MS-051 | Radiology | physician | active | 2027-04-10 | active | 2027-01-01
+MS-052 | Radiology | physician | active | 2028-05-19 | active | 2028-02-10
+MS-053 | Radiology | physician | active | 2029-06-28 | active | 2027-03-19
+MS-054 | Radiology | physician | active | 2027-07-10 | active | 2028-04-01
+MS-055 | Radiology | physician | active | 2028-08-19 | active | 2027-05-10
+---page---
+pnl.csv — Profit and loss by fiscal year, FY2023 to FY2025
+
+Line | FY2023 | FY2024 | FY2025
+Net patient service revenue | 26623000.00 | 28203000.00 | 29941000.00
+Other operating revenue | 1027000.00 | 1106000.00 | 1185000.00
+Cost of care: staff salaries and benefits | 13825000.00 | 14654500.00 | 15563000.00
+Medical supplies and drugs | 4424000.00 | 4689440.00 | 4980160.00
+Contract labour (agency nursing) | 967750.00 | 1025815.00 | 1089410.00
+Purchased services | 1659000.00 | 1758540.00 | 1867560.00
+Repairs and maintenance | 608300.00 | 644798.00 | 684772.00
+Capital-related costs: plant and equipment | 1686650.00 | 1260287.00 | 809276.00
+General and administrative | 3201364.72 | 3393446.60 | 3603822.00

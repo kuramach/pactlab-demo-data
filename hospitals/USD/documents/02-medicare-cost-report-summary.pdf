@@ -12,9 +12,9 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
 endobj
 5 0 obj
-<< /Length 250 >>
+<< /Length 460 >>
 stream
-BT /F1 11 Tf 72 740 Td 14 TL (Cost report summary, fiscal year 2025 \(synthetic\)) Tj T* () Tj T* (Total operating expenses: USD 36,200,000) Tj T* (Committed regulatory capital expenditure \(fire-safety and seismic upgrades\): USD 4,100,000) Tj T* ET
+BT /F1 11 Tf 72 740 Td 14 TL (Medicare cost report summary, fiscal year 2025 \(synthetic\).) Tj T* () Tj T* (Licensed beds: 220.) Tj T* (Inpatient days: 53,290.) Tj T* (Occupancy of licensed beds: 66.4%.) Tj T* (Medicare share of inpatient days: 41.0%.) Tj T* (Medicaid share of inpatient days: 17.0%.) Tj T* (Total operating costs: USD 36,200,000.) Tj T* (Committed regulatory capital expenditure \(fire-safety and seismic upgrades\): USD 4,100,000.) Tj T* ET
 endstream
 endobj
 xref
@@ -28,5 +28,5 @@ xref
 trailer
 << /Size 6 /Root 1 0 R >>
 startxref
-612
+822
 %%EOF

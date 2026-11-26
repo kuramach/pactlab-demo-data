@@ -2,7 +2,14 @@ doc_id,title,file,data_class,as_of
 H-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
 H-002,Admissions and census by service line,census.csv,Financial,2026-09-30
 H-003,Gross charges and net revenue by payer,payer-mix.csv,Financial,2026-09-30
-H-004,Accreditation record and transfer condition,documents/01-accreditation-record.pdf,Business,2026-09-30
-H-005,Cost report summary with committed regulatory capex,documents/02-medicare-cost-report-summary.pdf,Financial,2026-09-30
-H-006,Aggregate physician dependence by service line,documents/03-service-line-dependence.pdf,Business,2026-09-30
-H-007,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+H-004,"Medical-staff register: department, licence and clinical privileges by pseudonymous staff reference",medical-staff.csv,Financial,2026-09-30
+H-005,"Profit and loss by fiscal year, FY2023 to FY2025",pnl.csv,Financial,2026-09-30
+H-006,Accreditation record and transfer condition,documents/01-accreditation-record.pdf,Business,2026-09-30
+H-007,"Filed cost report summary: beds, inpatient days, occupancy, payer shares, costs and committed regulatory capex",documents/02-medicare-cost-report-summary.pdf,Financial,2026-09-30
+H-008,Aggregate physician dependence by service line,documents/03-service-line-dependence.pdf,Business,2026-09-30
+H-009,"Management presentation: occupancy, payer mix, plant, quality rating and the target closing date",documents/04-management-presentation.pdf,Business,2026-09-30
+H-010,"Payer agreement with Commercial plan Keystone: rate basis, term and renewal",documents/05-payer-agreement-keystone.pdf,Business,2026-09-30
+H-011,"Payer agreement with Commercial plan Riverbend: rate basis, term and renewal",documents/06-payer-agreement-riverbend.pdf,Business,2026-09-30
+H-012,Property condition assessment of the hospital plant,documents/07-property-condition-assessment.pdf,Business,2026-09-30
+H-013,Published quality reporting: the overall star rating,documents/08-quality-reporting.pdf,Business,2026-09-30
+H-014,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
