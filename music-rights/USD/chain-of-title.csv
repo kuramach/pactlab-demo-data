@@ -1,0 +1,459 @@
+grant_id,work_id,grant_type,executed_on,publication_date,copyright_secured_on,grantor_ref,reference
+G-0001-R,W-0001,registration,1986-03-01,,,,PA0001000037
+G-0001-A1,W-0001,assignment,1986-02-01,,,WR-004,Assignment W-0001/1
+G-0001-A2,W-0001,assignment,1986-02-01,,,WR-011,Assignment W-0001/2
+G-0001-M,W-0001,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0002-R,W-0002,registration,1993-03-01,,,,PA0001000074
+G-0002-A1,W-0002,assignment,1993-02-01,,,WR-007,Assignment W-0002/1
+G-0002-A2,W-0002,assignment,1993-02-01,,,WR-014,Assignment W-0002/2
+G-0002-A3,W-0002,assignment,1993-02-01,,,WR-021,Assignment W-0002/3
+G-0002-M,W-0002,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0003-R,W-0003,registration,2000-03-01,,,,PA0001000111
+G-0003-A1,W-0003,assignment,2000-02-01,,,WR-010,Assignment W-0003/1
+G-0003-M,W-0003,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0004-R,W-0004,registration,2007-03-01,,,,PA0001000148
+G-0004-A1,W-0004,assignment,2007-02-01,,,WR-013,Assignment W-0004/1
+G-0004-A2,W-0004,assignment,2007-02-01,,,WR-020,Assignment W-0004/2
+G-0004-M,W-0004,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0005-R,W-0005,registration,2014-03-01,,,,PA0001000185
+G-0005-A1,W-0005,assignment,2014-02-01,,,WR-016,Assignment W-0005/1
+G-0005-A2,W-0005,assignment,2014-02-01,,,WR-023,Assignment W-0005/2
+G-0005-A3,W-0005,assignment,2014-02-01,,,WR-030,Assignment W-0005/3
+G-0005-M,W-0005,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0006-R,W-0006,registration,2021-03-01,,,,PA0001000222
+G-0006-A1,W-0006,assignment,2021-02-01,,,WR-019,Assignment W-0006/1
+G-0006-M,W-0006,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0007-R,W-0007,registration,1982-03-01,,,,PA0001000259
+G-0007-A1,W-0007,assignment,1982-02-01,,,WR-022,Assignment W-0007/1
+G-0007-A2,W-0007,assignment,1982-02-01,,,WR-029,Assignment W-0007/2
+G-0007-M,W-0007,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0008-R,W-0008,registration,1989-03-01,,,,PA0001000296
+G-0008-A1,W-0008,assignment,1989-02-01,,,WR-025,Assignment W-0008/1
+G-0008-A2,W-0008,assignment,1989-02-01,,,WR-002,Assignment W-0008/2
+G-0008-A3,W-0008,assignment,1989-02-01,,,WR-009,Assignment W-0008/3
+G-0008-M,W-0008,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0009-R,W-0009,registration,1996-03-01,,,,PA0001000333
+G-0009-A1,W-0009,assignment,1996-02-01,,,WR-028,Assignment W-0009/1
+G-0009-M,W-0009,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0010-R,W-0010,registration,2003-03-01,,,,PA0001000370
+G-0010-A1,W-0010,assignment,2003-02-01,,,WR-001,Assignment W-0010/1
+G-0010-A2,W-0010,assignment,2003-02-01,,,WR-008,Assignment W-0010/2
+G-0010-M,W-0010,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0011-R,W-0011,registration,2010-03-01,,,,PA0001000407
+G-0011-A1,W-0011,assignment,2010-02-01,,,WR-004,Assignment W-0011/1
+G-0011-A2,W-0011,assignment,2010-02-01,,,WR-011,Assignment W-0011/2
+G-0011-A3,W-0011,assignment,2010-02-01,,,WR-018,Assignment W-0011/3
+G-0011-M,W-0011,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0012-R,W-0012,registration,2017-03-01,,,,PA0001000444
+G-0012-A1,W-0012,assignment,2017-02-01,,,WR-007,Assignment W-0012/1
+G-0012-M,W-0012,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0013-R,W-0013,registration,2024-03-01,,,,PA0001000481
+G-0013-A1,W-0013,assignment,2024-02-01,,,WR-010,Assignment W-0013/1
+G-0013-A2,W-0013,assignment,2024-02-01,,,WR-017,Assignment W-0013/2
+G-0013-M,W-0013,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0014-R,W-0014,registration,1985-03-01,,,,PA0001000518
+G-0014-A1,W-0014,assignment,1985-02-01,,,WR-013,Assignment W-0014/1
+G-0014-A2,W-0014,assignment,1985-02-01,,,WR-020,Assignment W-0014/2
+G-0014-A3,W-0014,assignment,1985-02-01,,,WR-027,Assignment W-0014/3
+G-0014-M,W-0014,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0015-R,W-0015,registration,1992-03-01,,,,PA0001000555
+G-0015-A1,W-0015,assignment,1992-02-01,,,WR-016,Assignment W-0015/1
+G-0015-M,W-0015,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0016-R,W-0016,registration,1999-03-01,,,,PA0001000592
+G-0016-A1,W-0016,assignment,1999-02-01,,,WR-019,Assignment W-0016/1
+G-0016-A2,W-0016,assignment,1999-02-01,,,WR-026,Assignment W-0016/2
+G-0016-M,W-0016,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0017-R,W-0017,registration,2006-03-01,,,,PA0001000629
+G-0017-A1,W-0017,assignment,2006-02-01,,,WR-022,Assignment W-0017/1
+G-0017-A2,W-0017,assignment,2006-02-01,,,WR-029,Assignment W-0017/2
+G-0017-A3,W-0017,assignment,2006-02-01,,,WR-006,Assignment W-0017/3
+G-0017-M,W-0017,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0018-R,W-0018,registration,2016-03-01,,,,PA0001000666
+G-0018-A1,W-0018,assignment,2016-02-01,,,WR-025,Assignment W-0018/1
+G-0018-M,W-0018,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0019-R,W-0019,registration,2020-03-01,,,,PA0001000703
+G-0019-A1,W-0019,assignment,2020-02-01,,,WR-028,Assignment W-0019/1
+G-0019-A2,W-0019,assignment,2020-02-01,,,WR-005,Assignment W-0019/2
+G-0019-M,W-0019,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0020-R,W-0020,registration,1981-03-01,,,,PA0001000740
+G-0020-A1,W-0020,assignment,1981-02-01,,,WR-001,Assignment W-0020/1
+G-0020-A2,W-0020,assignment,1981-02-01,,,WR-008,Assignment W-0020/2
+G-0020-A3,W-0020,assignment,1981-02-01,,,WR-015,Assignment W-0020/3
+G-0020-M,W-0020,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0021-R,W-0021,registration,1988-03-01,,,,PA0001000777
+G-0021-A1,W-0021,assignment,1988-02-01,,,WR-004,Assignment W-0021/1
+G-0021-M,W-0021,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0022-R,W-0022,registration,1995-03-01,,,,PA0001000814
+G-0022-A1,W-0022,assignment,1995-02-01,,,WR-007,Assignment W-0022/1
+G-0022-A2,W-0022,assignment,1995-02-01,,,WR-014,Assignment W-0022/2
+G-0022-M,W-0022,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0023-R,W-0023,registration,2002-03-01,,,,PA0001000851
+G-0023-A1,W-0023,assignment,2002-02-01,,,WR-010,Assignment W-0023/1
+G-0023-A2,W-0023,assignment,2002-02-01,,,WR-017,Assignment W-0023/2
+G-0023-A3,W-0023,assignment,2002-02-01,,,WR-024,Assignment W-0023/3
+G-0023-M,W-0023,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0024-R,W-0024,registration,2009-03-01,,,,PA0001000888
+G-0024-A1,W-0024,assignment,2009-02-01,,,WR-013,Assignment W-0024/1
+G-0024-M,W-0024,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0025-R,W-0025,registration,2016-03-01,,,,PA0001000925
+G-0025-A1,W-0025,assignment,2016-02-01,,,WR-016,Assignment W-0025/1
+G-0025-A2,W-0025,assignment,2016-02-01,,,WR-023,Assignment W-0025/2
+G-0025-M,W-0025,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0026-R,W-0026,registration,2023-03-01,,,,PA0001000962
+G-0026-A1,W-0026,assignment,2023-02-01,,,WR-019,Assignment W-0026/1
+G-0026-A2,W-0026,assignment,2023-02-01,,,WR-026,Assignment W-0026/2
+G-0026-A3,W-0026,assignment,2023-02-01,,,WR-003,Assignment W-0026/3
+G-0026-M,W-0026,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0027-R,W-0027,registration,1984-03-01,,,,PA0001000999
+G-0027-A1,W-0027,assignment,1984-02-01,,,WR-022,Assignment W-0027/1
+G-0027-M,W-0027,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0028-R,W-0028,registration,1991-03-01,,,,PA0001001036
+G-0028-A1,W-0028,assignment,1991-02-01,,,WR-025,Assignment W-0028/1
+G-0028-A2,W-0028,assignment,1991-02-01,,,WR-002,Assignment W-0028/2
+G-0028-M,W-0028,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0029-R,W-0029,registration,1998-03-01,,,,PA0001001073
+G-0029-A1,W-0029,assignment,1998-02-01,,,WR-028,Assignment W-0029/1
+G-0029-A2,W-0029,assignment,1998-02-01,,,WR-005,Assignment W-0029/2
+G-0029-A3,W-0029,assignment,1998-02-01,,,WR-012,Assignment W-0029/3
+G-0029-M,W-0029,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0030-R,W-0030,registration,2005-03-01,,,,PA0001001110
+G-0030-A1,W-0030,assignment,2005-02-01,,,WR-001,Assignment W-0030/1
+G-0030-M,W-0030,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0031-R,W-0031,registration,2012-03-01,,,,PA0001001147
+G-0031-A1,W-0031,assignment,2012-02-01,,,WR-004,Assignment W-0031/1
+G-0031-A2,W-0031,assignment,2012-02-01,,,WR-011,Assignment W-0031/2
+G-0031-M,W-0031,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0032-R,W-0032,registration,2019-03-01,,,,PA0001001184
+G-0032-A1,W-0032,assignment,2019-02-01,,,WR-007,Assignment W-0032/1
+G-0032-A2,W-0032,assignment,2019-02-01,,,WR-014,Assignment W-0032/2
+G-0032-A3,W-0032,assignment,2019-02-01,,,WR-021,Assignment W-0032/3
+G-0032-M,W-0032,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0033-R,W-0033,registration,1980-03-01,,,,PA0001001221
+G-0033-A1,W-0033,assignment,1980-02-01,,,WR-010,Assignment W-0033/1
+G-0033-M,W-0033,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0034-R,W-0034,registration,1987-03-01,,,,PA0001001258
+G-0034-A1,W-0034,assignment,1987-02-01,,,WR-013,Assignment W-0034/1
+G-0034-A2,W-0034,assignment,1987-02-01,,,WR-020,Assignment W-0034/2
+G-0034-M,W-0034,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0035-R,W-0035,registration,1994-03-01,,,,PA0001001295
+G-0035-A1,W-0035,assignment,1994-02-01,,,WR-016,Assignment W-0035/1
+G-0035-A2,W-0035,assignment,1994-02-01,,,WR-023,Assignment W-0035/2
+G-0035-A3,W-0035,assignment,1994-02-01,,,WR-030,Assignment W-0035/3
+G-0035-M,W-0035,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0036-R,W-0036,registration,2001-03-01,,,,PA0001001332
+G-0036-A1,W-0036,assignment,2001-02-01,,,WR-019,Assignment W-0036/1
+G-0036-M,W-0036,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0037-R,W-0037,registration,2008-03-01,,,,PA0001001369
+G-0037-A1,W-0037,assignment,2008-02-01,,,WR-022,Assignment W-0037/1
+G-0037-A2,W-0037,assignment,2008-02-01,,,WR-029,Assignment W-0037/2
+G-0037-M,W-0037,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0038-R,W-0038,registration,2015-03-01,,,,PA0001001406
+G-0038-A1,W-0038,assignment,2015-02-01,,,WR-025,Assignment W-0038/1
+G-0038-A2,W-0038,assignment,2015-02-01,,,WR-002,Assignment W-0038/2
+G-0038-A3,W-0038,assignment,2015-02-01,,,WR-009,Assignment W-0038/3
+G-0038-M,W-0038,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0039-R,W-0039,registration,2022-03-01,,,,PA0001001443
+G-0039-A1,W-0039,assignment,2022-02-01,,,WR-028,Assignment W-0039/1
+G-0039-M,W-0039,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0040-R,W-0040,registration,1983-03-01,,,,PA0001001480
+G-0040-A1,W-0040,assignment,1983-02-01,,,WR-001,Assignment W-0040/1
+G-0040-A2,W-0040,assignment,1983-02-01,,,WR-008,Assignment W-0040/2
+G-0040-M,W-0040,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0041-R,W-0041,registration,1990-03-01,,,,PA0001001517
+G-0041-A1,W-0041,assignment,1990-02-01,,,WR-004,Assignment W-0041/1
+G-0041-A2,W-0041,assignment,1990-02-01,,,WR-011,Assignment W-0041/2
+G-0041-A3,W-0041,assignment,1990-02-01,,,WR-018,Assignment W-0041/3
+G-0041-M,W-0041,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0042-R,W-0042,registration,2012-03-01,,,,PA0001001554
+G-0042-M,W-0042,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0043-R,W-0043,registration,2004-03-01,,,,PA0001001591
+G-0043-A1,W-0043,assignment,2004-02-01,,,WR-010,Assignment W-0043/1
+G-0043-A2,W-0043,assignment,2004-02-01,,,WR-017,Assignment W-0043/2
+G-0043-M,W-0043,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0044-R,W-0044,registration,2011-03-01,,,,PA0001001628
+G-0044-A1,W-0044,assignment,2011-02-01,,,WR-013,Assignment W-0044/1
+G-0044-A2,W-0044,assignment,2011-02-01,,,WR-020,Assignment W-0044/2
+G-0044-A3,W-0044,assignment,2011-02-01,,,WR-027,Assignment W-0044/3
+G-0044-M,W-0044,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0045-R,W-0045,registration,2018-03-01,,,,PA0001001665
+G-0045-A1,W-0045,assignment,2018-02-01,,,WR-016,Assignment W-0045/1
+G-0045-M,W-0045,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0046-R,W-0046,registration,1979-03-01,,,,PA0001001702
+G-0046-A1,W-0046,assignment,1979-02-01,,,WR-019,Assignment W-0046/1
+G-0046-A2,W-0046,assignment,1979-02-01,,,WR-026,Assignment W-0046/2
+G-0046-M,W-0046,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0047-R,W-0047,registration,1986-03-01,,,,PA0001001739
+G-0047-A1,W-0047,assignment,1986-02-01,,,WR-022,Assignment W-0047/1
+G-0047-A2,W-0047,assignment,1986-02-01,,,WR-029,Assignment W-0047/2
+G-0047-A3,W-0047,assignment,1986-02-01,,,WR-006,Assignment W-0047/3
+G-0047-M,W-0047,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0048-R,W-0048,registration,1993-03-01,,,,PA0001001776
+G-0048-A1,W-0048,assignment,1993-02-01,,,WR-025,Assignment W-0048/1
+G-0048-M,W-0048,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0049-R,W-0049,registration,2000-03-01,,,,PA0001001813
+G-0049-A1,W-0049,assignment,2000-02-01,,,WR-028,Assignment W-0049/1
+G-0049-A2,W-0049,assignment,2000-02-01,,,WR-005,Assignment W-0049/2
+G-0049-M,W-0049,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0050-R,W-0050,registration,2007-03-01,,,,PA0001001850
+G-0050-A1,W-0050,assignment,2007-02-01,,,WR-001,Assignment W-0050/1
+G-0050-A2,W-0050,assignment,2007-02-01,,,WR-008,Assignment W-0050/2
+G-0050-A3,W-0050,assignment,2007-02-01,,,WR-015,Assignment W-0050/3
+G-0050-M,W-0050,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0051-R,W-0051,registration,2014-03-01,,,,PA0001001887
+G-0051-A1,W-0051,assignment,2014-02-01,,,WR-004,Assignment W-0051/1
+G-0051-M,W-0051,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0052-R,W-0052,registration,2021-03-01,,,,PA0001001924
+G-0052-A1,W-0052,assignment,2021-02-01,,,WR-007,Assignment W-0052/1
+G-0052-A2,W-0052,assignment,2021-02-01,,,WR-014,Assignment W-0052/2
+G-0052-M,W-0052,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0053-R,W-0053,registration,1982-03-01,,,,PA0001001961
+G-0053-A1,W-0053,assignment,1982-02-01,,,WR-010,Assignment W-0053/1
+G-0053-A2,W-0053,assignment,1982-02-01,,,WR-017,Assignment W-0053/2
+G-0053-A3,W-0053,assignment,1982-02-01,,,WR-024,Assignment W-0053/3
+G-0053-M,W-0053,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0054-R,W-0054,registration,1989-03-01,,,,PA0001001998
+G-0054-A1,W-0054,assignment,1989-02-01,,,WR-013,Assignment W-0054/1
+G-0054-M,W-0054,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0055-R,W-0055,registration,1996-03-01,,,,PA0001002035
+G-0055-A1,W-0055,assignment,1996-02-01,,,WR-016,Assignment W-0055/1
+G-0055-A2,W-0055,assignment,1996-02-01,,,WR-023,Assignment W-0055/2
+G-0055-M,W-0055,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0056-R,W-0056,registration,2003-03-01,,,,PA0001002072
+G-0056-A1,W-0056,assignment,2003-02-01,,,WR-019,Assignment W-0056/1
+G-0056-A2,W-0056,assignment,2003-02-01,,,WR-026,Assignment W-0056/2
+G-0056-A3,W-0056,assignment,2003-02-01,,,WR-003,Assignment W-0056/3
+G-0056-M,W-0056,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0057-R,W-0057,registration,2010-03-01,,,,PA0001002109
+G-0057-A1,W-0057,assignment,2010-02-01,,,WR-022,Assignment W-0057/1
+G-0057-M,W-0057,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0058-R,W-0058,registration,2017-03-01,,,,PA0001002146
+G-0058-A1,W-0058,assignment,2017-02-01,,,WR-025,Assignment W-0058/1
+G-0058-A2,W-0058,assignment,2017-02-01,,,WR-002,Assignment W-0058/2
+G-0058-M,W-0058,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0059-R,W-0059,registration,2024-03-01,,,,PA0001002183
+G-0059-A1,W-0059,assignment,2024-02-01,,,WR-028,Assignment W-0059/1
+G-0059-A2,W-0059,assignment,2024-02-01,,,WR-005,Assignment W-0059/2
+G-0059-A3,W-0059,assignment,2024-02-01,,,WR-012,Assignment W-0059/3
+G-0059-M,W-0059,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0060-R,W-0060,registration,1985-03-01,,,,PA0001002220
+G-0060-A1,W-0060,assignment,1985-02-01,,,WR-001,Assignment W-0060/1
+G-0060-M,W-0060,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0061-R,W-0061,registration,1992-03-01,,,,PA0001002257
+G-0061-A1,W-0061,assignment,1992-02-01,,,WR-004,Assignment W-0061/1
+G-0061-A2,W-0061,assignment,1992-02-01,,,WR-011,Assignment W-0061/2
+G-0061-M,W-0061,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0062-R,W-0062,registration,1999-03-01,,,,PA0001002294
+G-0062-A1,W-0062,assignment,1999-02-01,,,WR-007,Assignment W-0062/1
+G-0062-A2,W-0062,assignment,1999-02-01,,,WR-014,Assignment W-0062/2
+G-0062-A3,W-0062,assignment,1999-02-01,,,WR-021,Assignment W-0062/3
+G-0062-M,W-0062,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0063-R,W-0063,registration,2016-03-01,,,,PA0001002331
+G-0063-A1,W-0063,assignment,2016-02-01,,,WR-010,Assignment W-0063/1
+G-0063-M,W-0063,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0064-R,W-0064,registration,2013-03-01,,,,PA0001002368
+G-0064-A1,W-0064,assignment,2013-02-01,,,WR-013,Assignment W-0064/1
+G-0064-A2,W-0064,assignment,2013-02-01,,,WR-020,Assignment W-0064/2
+G-0064-M,W-0064,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0065-R,W-0065,registration,2020-03-01,,,,PA0001002405
+G-0065-A1,W-0065,assignment,2020-02-01,,,WR-016,Assignment W-0065/1
+G-0065-A2,W-0065,assignment,2020-02-01,,,WR-023,Assignment W-0065/2
+G-0065-A3,W-0065,assignment,2020-02-01,,,WR-030,Assignment W-0065/3
+G-0065-M,W-0065,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0066-R,W-0066,registration,1981-03-01,,,,PA0001002442
+G-0066-A1,W-0066,assignment,1981-02-01,,,WR-019,Assignment W-0066/1
+G-0066-M,W-0066,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0067-R,W-0067,registration,1988-03-01,,,,PA0001002479
+G-0067-A1,W-0067,assignment,1988-02-01,,,WR-022,Assignment W-0067/1
+G-0067-A2,W-0067,assignment,1988-02-01,,,WR-029,Assignment W-0067/2
+G-0067-M,W-0067,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0068-R,W-0068,registration,1995-03-01,,,,PA0001002516
+G-0068-A1,W-0068,assignment,1995-02-01,,,WR-025,Assignment W-0068/1
+G-0068-A2,W-0068,assignment,1995-02-01,,,WR-002,Assignment W-0068/2
+G-0068-A3,W-0068,assignment,1995-02-01,,,WR-009,Assignment W-0068/3
+G-0068-M,W-0068,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0069-R,W-0069,registration,2002-03-01,,,,PA0001002553
+G-0069-A1,W-0069,assignment,2002-02-01,,,WR-028,Assignment W-0069/1
+G-0069-M,W-0069,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0070-R,W-0070,registration,2009-03-01,,,,PA0001002590
+G-0070-A1,W-0070,assignment,2009-02-01,,,WR-001,Assignment W-0070/1
+G-0070-A2,W-0070,assignment,2009-02-01,,,WR-008,Assignment W-0070/2
+G-0070-M,W-0070,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0071-R,W-0071,registration,2016-03-01,,,,PA0001002627
+G-0071-A1,W-0071,assignment,2016-02-01,,,WR-004,Assignment W-0071/1
+G-0071-A2,W-0071,assignment,2016-02-01,,,WR-011,Assignment W-0071/2
+G-0071-A3,W-0071,assignment,2016-02-01,,,WR-018,Assignment W-0071/3
+G-0071-M,W-0071,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0072-R,W-0072,registration,2023-03-01,,,,PA0001002664
+G-0072-A1,W-0072,assignment,2023-02-01,,,WR-007,Assignment W-0072/1
+G-0072-M,W-0072,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0073-R,W-0073,registration,1984-03-01,,,,PA0001002701
+G-0073-A1,W-0073,assignment,1984-02-01,,,WR-010,Assignment W-0073/1
+G-0073-A2,W-0073,assignment,1984-02-01,,,WR-017,Assignment W-0073/2
+G-0073-M,W-0073,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0074-R,W-0074,registration,1991-03-01,,,,PA0001002738
+G-0074-A1,W-0074,assignment,1991-02-01,,,WR-013,Assignment W-0074/1
+G-0074-A2,W-0074,assignment,1991-02-01,,,WR-020,Assignment W-0074/2
+G-0074-A3,W-0074,assignment,1991-02-01,,,WR-027,Assignment W-0074/3
+G-0074-M,W-0074,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0075-R,W-0075,registration,1998-03-01,,,,PA0001002775
+G-0075-A1,W-0075,assignment,1998-02-01,,,WR-016,Assignment W-0075/1
+G-0075-M,W-0075,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0076-R,W-0076,registration,2005-03-01,,,,PA0001002812
+G-0076-A1,W-0076,assignment,2005-02-01,,,WR-019,Assignment W-0076/1
+G-0076-A2,W-0076,assignment,2005-02-01,,,WR-026,Assignment W-0076/2
+G-0076-M,W-0076,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0077-R,W-0077,registration,2012-03-01,,,,PA0001002849
+G-0077-A1,W-0077,assignment,2012-02-01,,,WR-022,Assignment W-0077/1
+G-0077-A2,W-0077,assignment,2012-02-01,,,WR-029,Assignment W-0077/2
+G-0077-M,W-0077,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0078-R,W-0078,registration,2019-03-01,,,,PA0001002886
+G-0078-A1,W-0078,assignment,2019-02-01,,,WR-025,Assignment W-0078/1
+G-0078-M,W-0078,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0079-R,W-0079,registration,1980-03-01,,,,PA0001002923
+G-0079-A1,W-0079,assignment,1980-02-01,,,WR-028,Assignment W-0079/1
+G-0079-A2,W-0079,assignment,1980-02-01,,,WR-005,Assignment W-0079/2
+G-0079-M,W-0079,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0080-R,W-0080,registration,1987-03-01,,,,PA0001002960
+G-0080-A1,W-0080,assignment,1987-02-01,,,WR-001,Assignment W-0080/1
+G-0080-A2,W-0080,assignment,1987-02-01,,,WR-008,Assignment W-0080/2
+G-0080-A3,W-0080,assignment,1987-02-01,,,WR-015,Assignment W-0080/3
+G-0080-M,W-0080,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0081-R,W-0081,registration,1994-03-01,,,,PA0001002997
+G-0081-A1,W-0081,assignment,1994-02-01,,,WR-004,Assignment W-0081/1
+G-0081-M,W-0081,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0082-R,W-0082,registration,2001-03-01,,,,PA0001003034
+G-0082-A1,W-0082,assignment,2001-02-01,,,WR-007,Assignment W-0082/1
+G-0082-A2,W-0082,assignment,2001-02-01,,,WR-014,Assignment W-0082/2
+G-0082-M,W-0082,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0083-R,W-0083,registration,2008-03-01,,,,PA0001003071
+G-0083-A1,W-0083,assignment,2008-02-01,,,WR-010,Assignment W-0083/1
+G-0083-A2,W-0083,assignment,2008-02-01,,,WR-017,Assignment W-0083/2
+G-0083-A3,W-0083,assignment,2008-02-01,,,WR-024,Assignment W-0083/3
+G-0083-M,W-0083,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0084-R,W-0084,registration,2015-03-01,,,,PA0001003108
+G-0084-A1,W-0084,assignment,2015-02-01,,,WR-013,Assignment W-0084/1
+G-0084-M,W-0084,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0085-R,W-0085,registration,2022-03-01,,,,PA0001003145
+G-0085-A1,W-0085,assignment,2022-02-01,,,WR-016,Assignment W-0085/1
+G-0085-A2,W-0085,assignment,2022-02-01,,,WR-023,Assignment W-0085/2
+G-0085-M,W-0085,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0086-R,W-0086,registration,1983-03-01,,,,PA0001003182
+G-0086-A1,W-0086,assignment,1983-02-01,,,WR-019,Assignment W-0086/1
+G-0086-A2,W-0086,assignment,1983-02-01,,,WR-026,Assignment W-0086/2
+G-0086-A3,W-0086,assignment,1983-02-01,,,WR-003,Assignment W-0086/3
+G-0086-M,W-0086,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0087-R,W-0087,registration,1990-03-01,,,,PA0001003219
+G-0087-A1,W-0087,assignment,1990-02-01,,,WR-022,Assignment W-0087/1
+G-0087-M,W-0087,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0088-R,W-0088,registration,1997-03-01,,,,PA0001003256
+G-0088-A1,W-0088,assignment,1997-02-01,,,WR-025,Assignment W-0088/1
+G-0088-A2,W-0088,assignment,1997-02-01,,,WR-002,Assignment W-0088/2
+G-0088-M,W-0088,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0089-R,W-0089,registration,2004-03-01,,,,PA0001003293
+G-0089-A1,W-0089,assignment,2004-02-01,,,WR-028,Assignment W-0089/1
+G-0089-A2,W-0089,assignment,2004-02-01,,,WR-005,Assignment W-0089/2
+G-0089-A3,W-0089,assignment,2004-02-01,,,WR-012,Assignment W-0089/3
+G-0089-M,W-0089,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0090-R,W-0090,registration,2011-03-01,,,,PA0001003330
+G-0090-A1,W-0090,assignment,2011-02-01,,,WR-001,Assignment W-0090/1
+G-0090-M,W-0090,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0091-R,W-0091,registration,2018-03-01,,,,PA0001003367
+G-0091-A1,W-0091,assignment,2018-02-01,,,WR-004,Assignment W-0091/1
+G-0091-A2,W-0091,assignment,2018-02-01,,,WR-011,Assignment W-0091/2
+G-0091-M,W-0091,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0092-R,W-0092,registration,1979-03-01,,,,PA0001003404
+G-0092-A1,W-0092,assignment,1979-02-01,,,WR-007,Assignment W-0092/1
+G-0092-A2,W-0092,assignment,1979-02-01,,,WR-014,Assignment W-0092/2
+G-0092-A3,W-0092,assignment,1979-02-01,,,WR-021,Assignment W-0092/3
+G-0092-M,W-0092,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0093-R,W-0093,registration,1986-03-01,,,,PA0001003441
+G-0093-A1,W-0093,assignment,1986-02-01,,,WR-010,Assignment W-0093/1
+G-0093-M,W-0093,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0094-R,W-0094,registration,1993-03-01,,,,PA0001003478
+G-0094-A1,W-0094,assignment,1993-02-01,,,WR-013,Assignment W-0094/1
+G-0094-A2,W-0094,assignment,1993-02-01,,,WR-020,Assignment W-0094/2
+G-0094-M,W-0094,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0095-R,W-0095,registration,2000-03-01,,,,PA0001003515
+G-0095-A1,W-0095,assignment,2000-02-01,,,WR-016,Assignment W-0095/1
+G-0095-A2,W-0095,assignment,2000-02-01,,,WR-023,Assignment W-0095/2
+G-0095-A3,W-0095,assignment,2000-02-01,,,WR-030,Assignment W-0095/3
+G-0095-M,W-0095,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0096-R,W-0096,registration,2007-03-01,,,,PA0001003552
+G-0096-A1,W-0096,assignment,2007-02-01,,,WR-019,Assignment W-0096/1
+G-0096-M,W-0096,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0097-R,W-0097,registration,2014-03-01,,,,PA0001003589
+G-0097-A1,W-0097,assignment,2014-02-01,,,WR-022,Assignment W-0097/1
+G-0097-A2,W-0097,assignment,2014-02-01,,,WR-029,Assignment W-0097/2
+G-0097-M,W-0097,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0098-R,W-0098,registration,2021-03-01,,,,PA0001003626
+G-0098-A1,W-0098,assignment,2021-02-01,,,WR-025,Assignment W-0098/1
+G-0098-A2,W-0098,assignment,2021-02-01,,,WR-002,Assignment W-0098/2
+G-0098-A3,W-0098,assignment,2021-02-01,,,WR-009,Assignment W-0098/3
+G-0098-M,W-0098,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0099-R,W-0099,registration,1982-03-01,,,,PA0001003663
+G-0099-A1,W-0099,assignment,1982-02-01,,,WR-028,Assignment W-0099/1
+G-0099-M,W-0099,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0100-R,W-0100,registration,1989-03-01,,,,PA0001003700
+G-0100-A1,W-0100,assignment,1989-02-01,,,WR-001,Assignment W-0100/1
+G-0100-A2,W-0100,assignment,1989-02-01,,,WR-008,Assignment W-0100/2
+G-0100-M,W-0100,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0101-R,W-0101,registration,1996-03-01,,,,PA0001003737
+G-0101-H,W-0101,work_for_hire,1996-01-15,,,,Recording agreement RA-0101
+G-0101-M,W-0101,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0102-R,W-0102,registration,2003-03-01,,,,PA0001003774
+G-0102-H,W-0102,work_for_hire,2003-01-15,,,,Recording agreement RA-0102
+G-0102-M,W-0102,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0103-R,W-0103,registration,2010-03-01,,,,PA0001003811
+G-0103-H,W-0103,work_for_hire,2010-01-15,,,,Recording agreement RA-0103
+G-0103-M,W-0103,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0104-R,W-0104,registration,2017-03-01,,,,PA0001003848
+G-0104-H,W-0104,work_for_hire,2017-01-15,,,,Recording agreement RA-0104
+G-0104-M,W-0104,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0105-R,W-0105,registration,2024-03-01,,,,PA0001003885
+G-0105-H,W-0105,work_for_hire,2024-01-15,,,,Recording agreement RA-0105
+G-0105-M,W-0105,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0106-R,W-0106,registration,1985-03-01,,,,PA0001003922
+G-0106-H,W-0106,work_for_hire,1985-01-15,,,,Recording agreement RA-0106
+G-0106-M,W-0106,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0107-R,W-0107,registration,1992-03-01,,,,PA0001003959
+G-0107-H,W-0107,work_for_hire,1992-01-15,,,,Recording agreement RA-0107
+G-0107-M,W-0107,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0108-R,W-0108,registration,1999-03-01,,,,PA0001003996
+G-0108-H,W-0108,work_for_hire,1999-01-15,,,,Recording agreement RA-0108
+G-0108-M,W-0108,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0109-R,W-0109,registration,2006-03-01,,,,PA0001004033
+G-0109-H,W-0109,work_for_hire,2006-01-15,,,,Recording agreement RA-0109
+G-0109-M,W-0109,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0110-R,W-0110,registration,2013-03-01,,,,PA0001004070
+G-0110-H,W-0110,work_for_hire,2013-01-15,,,,Recording agreement RA-0110
+G-0110-M,W-0110,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0111-R,W-0111,registration,2020-03-01,,,,PA0001004107
+G-0111-H,W-0111,work_for_hire,2020-01-15,,,,Recording agreement RA-0111
+G-0111-M,W-0111,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0112-R,W-0112,registration,1981-03-01,,,,PA0001004144
+G-0112-H,W-0112,work_for_hire,1981-01-15,,,,Recording agreement RA-0112
+G-0112-M,W-0112,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0113-R,W-0113,registration,1988-03-01,,,,PA0001004181
+G-0113-H,W-0113,work_for_hire,1988-01-15,,,,Recording agreement RA-0113
+G-0113-M,W-0113,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0114-R,W-0114,registration,1995-03-01,,,,PA0001004218
+G-0114-H,W-0114,work_for_hire,1995-01-15,,,,Recording agreement RA-0114
+G-0114-M,W-0114,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0115-R,W-0115,registration,2002-03-01,,,,PA0001004255
+G-0115-H,W-0115,work_for_hire,2002-01-15,,,,Recording agreement RA-0115
+G-0115-M,W-0115,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0116-R,W-0116,registration,2009-03-01,,,,PA0001004292
+G-0116-H,W-0116,work_for_hire,2009-01-15,,,,Recording agreement RA-0116
+G-0116-M,W-0116,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0117-R,W-0117,registration,2016-03-01,,,,PA0001004329
+G-0117-H,W-0117,work_for_hire,2016-01-15,,,,Recording agreement RA-0117
+G-0117-M,W-0117,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0118-R,W-0118,registration,2023-03-01,,,,PA0001004366
+G-0118-H,W-0118,work_for_hire,2023-01-15,,,,Recording agreement RA-0118
+G-0118-M,W-0118,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0119-R,W-0119,registration,1984-03-01,,,,PA0001004403
+G-0119-H,W-0119,work_for_hire,1984-01-15,,,,Recording agreement RA-0119
+G-0119-M,W-0119,administration,2019-07-01,,,,Administration agreement AA-2019
+G-0120-R,W-0120,registration,1991-03-01,,,,PA0001004440
+G-0120-H,W-0120,work_for_hire,1991-01-15,,,,Recording agreement RA-0120
+G-0120-M,W-0120,administration,2019-07-01,,,,Administration agreement AA-2019

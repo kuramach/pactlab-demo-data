@@ -1,0 +1,121 @@
+work_id,title,work_type,iswc,isrc,pro,publisher,release_year,us_work
+W-0001,Hollow Engines,composition,T-900000001-1,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1986,yes
+W-0002,Distant Waves,composition,T-900000002-2,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1993,yes
+W-0003,Velvet Lights,composition,T-900000003-3,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2000,yes
+W-0004,Wild Gardens,composition,T-900000004-4,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2007,yes
+W-0005,Midnight Engines,composition,T-900000005-5,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2014,yes
+W-0006,Harbour Roads,composition,T-900000006-6,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2021,no
+W-0007,Golden Hearts,composition,T-900000007-7,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1982,yes
+W-0008,Lantern Streets,composition,T-900000008-8,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1989,yes
+W-0009,Paper Lines,composition,T-900000009-9,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1996,yes
+W-0010,Wild Letters,composition,T-900000010-0,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2003,yes
+W-0011,Amber Hours,composition,T-900000011-1,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2010,yes
+W-0012,River Engines,composition,T-900000012-2,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2017,no
+W-0013,Neon Roads,composition,T-900000013-3,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2024,yes
+W-0014,Velvet Skies,composition,T-900000014-4,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1985,yes
+W-0015,Lantern Skies,composition,T-900000015-5,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1992,yes
+W-0016,Midnight Lights,composition,T-900000016-6,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1999,yes
+W-0017,Lantern Engines,composition,T-900000017-7,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2006,yes
+W-0018,Midnight Signals,composition,T-900000018-8,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2016,no
+W-0019,Copper Roads,composition,T-900000019-9,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2020,yes
+W-0020,Harbour Waves,composition,T-900000020-0,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1981,yes
+W-0021,Amber Skies,composition,T-900000021-1,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1988,yes
+W-0022,Paper Hours,composition,T-900000022-2,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1995,yes
+W-0023,Distant Signals,composition,T-900000023-3,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2002,yes
+W-0024,Neon Shores,composition,T-900000024-4,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2009,no
+W-0025,Northern Lines,composition,T-900000025-5,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2016,yes
+W-0026,Hollow Lines,composition,T-900000026-6,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2023,yes
+W-0027,Copper Echoes,composition,T-900000027-7,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1984,yes
+W-0028,Velvet Streets,composition,T-900000028-8,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1991,yes
+W-0029,Summer Engines,composition,T-900000029-9,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1998,yes
+W-0030,Static Hours,composition,T-900000030-0,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2005,no
+W-0031,Amber Rooms,composition,T-900000031-1,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2012,yes
+W-0032,Lantern Signals,composition,T-900000032-2,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2019,yes
+W-0033,Hollow Waves,composition,T-900000033-3,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1980,yes
+W-0034,Velvet Roads,composition,T-900000034-4,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1987,yes
+W-0035,Neon Lights,composition,T-900000035-5,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1994,yes
+W-0036,River Hours,composition,T-900000036-6,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2001,no
+W-0037,Distant Streets,composition,T-900000037-7,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2008,yes
+W-0038,Paper Shores,composition,T-900000038-8,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2015,yes
+W-0039,Summer Echoes,composition,T-900000039-9,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2022,yes
+W-0040,Copper Streets,composition,T-900000040-0,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1983,yes
+W-0041,Golden Echoes,composition,T-900000041-1,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1990,yes
+W-0042,Harbour Lights,composition,T-900000042-2,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2012,yes
+W-0043,Copper Engines,composition,T-900000043-3,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2004,yes
+W-0044,Neon Gardens,composition,T-900000044-4,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2011,yes
+W-0045,Hollow Fields,composition,T-900000045-5,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2018,yes
+W-0046,Silver Lights,composition,T-900000046-6,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1979,yes
+W-0047,Harbour Skies,composition,T-900000047-7,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1986,yes
+W-0048,Northern Letters,composition,T-900000048-8,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1993,no
+W-0049,Glass Engines,composition,T-900000049-9,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2000,yes
+W-0050,Midnight Roads,composition,T-900000050-0,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2007,yes
+W-0051,Summer Fields,composition,T-900000051-1,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2014,yes
+W-0052,Glass Shores,composition,T-900000052-2,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2021,yes
+W-0053,Summer Hours,composition,T-900000053-3,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1982,yes
+W-0054,Static Rooms,composition,T-900000054-4,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1989,no
+W-0055,Glass Streets,composition,T-900000055-5,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1996,yes
+W-0056,Summer Shores,composition,T-900000056-6,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2003,yes
+W-0057,Golden Signals,composition,T-900000057-7,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2010,yes
+W-0058,Copper Lights,composition,T-900000058-8,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2017,yes
+W-0059,Velvet Waves,composition,T-900000059-9,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2024,yes
+W-0060,Lantern Hours,composition,T-900000060-0,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1985,no
+W-0061,Paper Fields,composition,T-900000061-1,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1992,yes
+W-0062,Copper Signals,composition,T-900000062-2,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1999,yes
+W-0063,Distant Hours,composition,T-900000063-3,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2016,yes
+W-0064,Lantern Hearts,composition,T-900000064-4,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2013,yes
+W-0065,Paper Rooms,composition,T-900000065-5,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2020,yes
+W-0066,Open Signals,composition,T-900000066-6,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1981,no
+W-0067,Golden Streets,composition,T-900000067-7,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1988,yes
+W-0068,Static Lights,composition,T-900000068-8,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1995,yes
+W-0069,Northern Signals,composition,T-900000069-9,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2002,yes
+W-0070,Quiet Waves,composition,T-900000070-0,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2009,yes
+W-0071,Neon Signals,composition,T-900000071-1,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2016,yes
+W-0072,Lantern Shores,composition,T-900000072-2,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2023,no
+W-0073,Quiet Fields,composition,T-900000073-3,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1984,yes
+W-0074,Static Waves,composition,T-900000074-4,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1991,yes
+W-0075,Static Engines,composition,T-900000075-5,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1998,yes
+W-0076,Silver Engines,composition,T-900000076-6,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2005,yes
+W-0077,Summer Signals,composition,T-900000077-7,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2012,yes
+W-0078,Wild Streets,composition,T-900000078-8,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2019,no
+W-0079,Summer Hearts,composition,T-900000079-9,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1980,yes
+W-0080,Paper Echoes,composition,T-900000080-0,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1987,yes
+W-0081,Open Skies,composition,T-900000081-1,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1994,yes
+W-0082,Velvet Echoes,composition,T-900000082-2,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2001,yes
+W-0083,River Signals,composition,T-900000083-3,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2008,yes
+W-0084,Glass Hearts,composition,T-900000084-4,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2015,no
+W-0085,Midnight Letters,composition,T-900000085-5,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2022,yes
+W-0086,Midnight Lines,composition,T-900000086-6,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1983,yes
+W-0087,Summer Skies,composition,T-900000087-7,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1990,yes
+W-0088,Glass Waves,composition,T-900000088-8,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1997,yes
+W-0089,Hollow Letters,composition,T-900000089-9,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2004,yes
+W-0090,Open Fields,composition,T-900000090-0,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2011,no
+W-0091,Neon Streets,composition,T-900000091-1,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2018,yes
+W-0092,Midnight Fields,composition,T-900000092-2,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1979,yes
+W-0093,Lantern Roads,composition,T-900000093-3,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1986,yes
+W-0094,Amber Shores,composition,T-900000094-4,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1993,yes
+W-0095,Amber Hearts,composition,T-900000095-5,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2000,yes
+W-0096,Distant Rooms,composition,T-900000096-6,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2007,no
+W-0097,Harbour Signals,composition,T-900000097-7,,Northbeam Rights (synthetic),Fairlight Songs B.V.,2014,yes
+W-0098,Distant Gardens,composition,T-900000098-8,,Cardinal PRS (synthetic),Fairlight Songs B.V.,2021,yes
+W-0099,River Echoes,composition,T-900000099-9,,Northbeam Rights (synthetic),Fairlight Songs B.V.,1982,yes
+W-0100,River Hearts,composition,T-900000100-0,,Cardinal PRS (synthetic),Fairlight Songs B.V.,1989,yes
+W-0101,Paper Gardens,recording,,QZ-K7S-96-00101,,Fairlight Songs B.V.,1996,yes
+W-0102,Open Roads,recording,,QZ-K7S-03-00102,,Fairlight Songs B.V.,2003,no
+W-0103,Static Fields,recording,,QZ-K7S-10-00103,,Fairlight Songs B.V.,2010,yes
+W-0104,Midnight Shores,recording,,QZ-K7S-17-00104,,Fairlight Songs B.V.,2017,yes
+W-0105,Harbour Engines,recording,,QZ-K7S-24-00105,,Fairlight Songs B.V.,2024,yes
+W-0106,Glass Roads,recording,,QZ-K7S-85-00106,,Fairlight Songs B.V.,1985,yes
+W-0107,Silver Gardens,recording,,QZ-K7S-92-00107,,Fairlight Songs B.V.,1992,yes
+W-0108,Hollow Roads,recording,,QZ-K7S-99-00108,,Fairlight Songs B.V.,1999,no
+W-0109,River Roads,recording,,QZ-K7S-06-00109,,Fairlight Songs B.V.,2006,yes
+W-0110,Lantern Waves,recording,,QZ-K7S-13-00110,,Fairlight Songs B.V.,2013,yes
+W-0111,Copper Fields,recording,,QZ-K7S-20-00111,,Fairlight Songs B.V.,2020,yes
+W-0112,Harbour Rooms,recording,,QZ-K7S-81-00112,,Fairlight Songs B.V.,1981,yes
+W-0113,Neon Hearts,recording,,QZ-K7S-88-00113,,Fairlight Songs B.V.,1988,yes
+W-0114,Wild Echoes,recording,,QZ-K7S-95-00114,,Fairlight Songs B.V.,1995,no
+W-0115,Open Engines,recording,,QZ-K7S-02-00115,,Fairlight Songs B.V.,2002,yes
+W-0116,Golden Roads,recording,,QZ-K7S-09-00116,,Fairlight Songs B.V.,2009,yes
+W-0117,Amber Streets,recording,,QZ-K7S-16-00117,,Fairlight Songs B.V.,2016,yes
+W-0118,Paper Streets,recording,,QZ-K7S-23-00118,,Fairlight Songs B.V.,2023,yes
+W-0119,Golden Lines,recording,,QZ-K7S-84-00119,,Fairlight Songs B.V.,1984,yes
+W-0120,River Skies,recording,,QZ-K7S-91-00120,,Fairlight Songs B.V.,1991,no

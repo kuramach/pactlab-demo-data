@@ -1,0 +1,289 @@
+line_id,invoice_id,customer_id,customer_name,subscription_id,price_id,currency,amount,interval,interval_count,period_start,period_end,invoice_status,created
+il_ss_00001,in_ss_202410_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,12984.33,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00002,in_ss_202410_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,10964.93,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00003,in_ss_202410_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,9659.03,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00004,in_ss_202410_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,8764.47,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00005,in_ss_202410_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,7880.21,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00006,in_ss_202410_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,7397.54,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00007,in_ss_202410_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,6855.15,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00008,in_ss_202410_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,6455.46,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00009,in_ss_202410_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,5974.62,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00010,in_ss_202410_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,5501.23,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00011,in_ss_202410_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5069.11,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00012,in_ss_202410_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,4629.90,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ss_00013,in_ss_202411_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,13129.78,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00014,in_ss_202411_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,11167.13,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00015,in_ss_202411_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,9703.91,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00016,in_ss_202411_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,8861.83,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00017,in_ss_202411_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,7882.40,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00018,in_ss_202411_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,7368.18,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00019,in_ss_202411_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,6907.67,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00020,in_ss_202411_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,6549.28,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00021,in_ss_202411_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6074.83,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00022,in_ss_202411_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,5559.59,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00023,in_ss_202411_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5137.69,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00024,in_ss_202411_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,4608.37,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ss_00025,in_ss_202412_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,13150.71,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00026,in_ss_202412_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,11329.48,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00027,in_ss_202412_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,9795.04,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00028,in_ss_202412_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,8858.61,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00029,in_ss_202412_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,7994.73,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00030,in_ss_202412_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,7519.95,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00031,in_ss_202412_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,6999.27,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00032,in_ss_202412_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,6581.93,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00033,in_ss_202412_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6094.10,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00034,in_ss_202412_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,5608.99,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00035,in_ss_202412_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5118.86,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00036,in_ss_202412_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,4675.57,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ss_00037,in_ss_202501_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,13231.79,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00038,in_ss_202501_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,11313.10,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00039,in_ss_202501_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,9868.11,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00040,in_ss_202501_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,8982.32,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00041,in_ss_202501_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,7998.14,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00042,in_ss_202501_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,7644.44,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00043,in_ss_202501_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,7106.94,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00044,in_ss_202501_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,6692.20,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00045,in_ss_202501_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6217.88,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00046,in_ss_202501_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,5675.89,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00047,in_ss_202501_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5224.79,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00048,in_ss_202501_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,4765.93,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ss_00049,in_ss_202502_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,13472.68,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00050,in_ss_202502_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,11473.33,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00051,in_ss_202502_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,10077.37,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00052,in_ss_202502_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,9114.89,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00053,in_ss_202502_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,8065.91,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00054,in_ss_202502_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,7664.21,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00055,in_ss_202502_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,7150.01,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00056,in_ss_202502_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,6729.64,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00057,in_ss_202502_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6265.13,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00058,in_ss_202502_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,5792.38,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00059,in_ss_202502_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5234.92,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00060,in_ss_202502_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,4791.09,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ss_00061,in_ss_202503_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,13444.96,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00062,in_ss_202503_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,11519.61,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00063,in_ss_202503_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,10226.87,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00064,in_ss_202503_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,9247.37,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00065,in_ss_202503_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,8144.11,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00066,in_ss_202503_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,7808.15,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00067,in_ss_202503_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,7243.27,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00068,in_ss_202503_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,6766.47,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00069,in_ss_202503_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6237.27,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00070,in_ss_202503_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,5852.05,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00071,in_ss_202503_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5323.43,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00072,in_ss_202503_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,4841.90,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ss_00073,in_ss_202504_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,13597.18,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00074,in_ss_202504_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,11804.73,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00075,in_ss_202504_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,10266.59,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00076,in_ss_202504_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,9232.23,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00077,in_ss_202504_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,8364.18,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00078,in_ss_202504_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,7781.54,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00079,in_ss_202504_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,7266.63,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00080,in_ss_202504_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,6784.92,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00081,in_ss_202504_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6300.92,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00082,in_ss_202504_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,5883.03,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00083,in_ss_202504_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5365.92,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00084,in_ss_202504_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,4876.16,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ss_00085,in_ss_202505_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,13838.10,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00086,in_ss_202505_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,11886.09,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00087,in_ss_202505_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,10266.72,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00088,in_ss_202505_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,9375.15,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00089,in_ss_202505_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,8301.93,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00090,in_ss_202505_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,7882.24,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00091,in_ss_202505_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,7461.35,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00092,in_ss_202505_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,6871.41,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00093,in_ss_202505_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6432.53,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00094,in_ss_202505_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,5973.23,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00095,in_ss_202505_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5427.72,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00096,in_ss_202505_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,4950.07,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ss_00097,in_ss_202506_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,14071.32,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00098,in_ss_202506_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,11930.83,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00099,in_ss_202506_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,10411.23,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00100,in_ss_202506_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,9410.22,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00101,in_ss_202506_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,8396.81,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00102,in_ss_202506_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,8010.47,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00103,in_ss_202506_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,7414.93,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00104,in_ss_202506_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,6990.33,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00105,in_ss_202506_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6422.38,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00106,in_ss_202506_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,5979.76,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00107,in_ss_202506_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5481.99,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00108,in_ss_202506_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,4942.29,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ss_00109,in_ss_202507_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,14144.42,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00110,in_ss_202507_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,12091.19,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00111,in_ss_202507_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,10607.26,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00112,in_ss_202507_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,9520.57,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00113,in_ss_202507_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,8636.43,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00114,in_ss_202507_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,8123.58,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00115,in_ss_202507_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,7533.60,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00116,in_ss_202507_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,7084.89,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00117,in_ss_202507_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6552.66,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00118,in_ss_202507_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6006.35,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00119,in_ss_202507_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5586.62,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00120,in_ss_202507_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5004.79,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ss_00121,in_ss_202508_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,14240.34,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00122,in_ss_202508_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,12269.42,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00123,in_ss_202508_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,10657.84,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00124,in_ss_202508_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,9687.22,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00125,in_ss_202508_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,8693.43,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00126,in_ss_202508_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,8192.62,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00127,in_ss_202508_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,7618.08,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00128,in_ss_202508_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,7075.35,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00129,in_ss_202508_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6567.99,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00130,in_ss_202508_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6067.64,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00131,in_ss_202508_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5533.49,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00132,in_ss_202508_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5085.33,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ss_00133,in_ss_202509_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,14414.35,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00134,in_ss_202509_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,12350.23,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00135,in_ss_202509_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,10795.68,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00136,in_ss_202509_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,9834.80,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00137,in_ss_202509_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,8665.20,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00138,in_ss_202509_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,8242.52,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00139,in_ss_202509_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,7704.27,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00140,in_ss_202509_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,7209.33,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00141,in_ss_202509_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6664.36,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00142,in_ss_202509_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6157.87,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00143,in_ss_202509_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5609.15,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00144,in_ss_202509_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5181.86,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ss_00145,in_ss_202510_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,14652.84,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00146,in_ss_202510_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,12564.55,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00147,in_ss_202510_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,10983.10,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00148,in_ss_202510_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,9865.19,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00149,in_ss_202510_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,8827.63,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00150,in_ss_202510_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,8374.71,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00151,in_ss_202510_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,7731.55,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00152,in_ss_202510_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,7184.91,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00153,in_ss_202510_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6690.57,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00154,in_ss_202510_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6235.62,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00155,in_ss_202510_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5747.35,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00156,in_ss_202510_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5149.70,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ss_00157,in_ss_202511_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,14561.89,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00158,in_ss_202511_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,12557.01,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00159,in_ss_202511_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,10915.92,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00160,in_ss_202511_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,9995.68,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00161,in_ss_202511_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,8984.44,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00162,in_ss_202511_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,8453.43,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00163,in_ss_202511_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,7882.68,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00164,in_ss_202511_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,7269.95,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00165,in_ss_202511_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6771.77,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00166,in_ss_202511_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6267.20,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00167,in_ss_202511_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5810.58,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00168,in_ss_202511_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5269.78,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ss_00169,in_ss_202512_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,14936.99,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00170,in_ss_202512_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,12765.07,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00171,in_ss_202512_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,11063.95,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00172,in_ss_202512_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,10086.59,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00173,in_ss_202512_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,9053.61,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00174,in_ss_202512_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,8501.58,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00175,in_ss_202512_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,7939.30,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00176,in_ss_202512_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,7452.95,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00177,in_ss_202512_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6806.49,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00178,in_ss_202512_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6393.32,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00179,in_ss_202512_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5790.17,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00180,in_ss_202512_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5250.04,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ss_00181,in_ss_202601_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,14996.64,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00182,in_ss_202601_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,12691.49,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00183,in_ss_202601_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,11283.37,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00184,in_ss_202601_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,10107.30,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00185,in_ss_202601_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,9072.42,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00186,in_ss_202601_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,8581.47,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00187,in_ss_202601_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,8087.59,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00188,in_ss_202601_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,7404.86,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00189,in_ss_202601_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,6945.37,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00190,in_ss_202601_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6385.48,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00191,in_ss_202601_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5894.48,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00192,in_ss_202601_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5384.25,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ss_00193,in_ss_202602_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,15197.96,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00194,in_ss_202602_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,12894.78,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00195,in_ss_202602_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,11408.66,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00196,in_ss_202602_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,10311.88,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00197,in_ss_202602_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,9125.55,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00198,in_ss_202602_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,8675.06,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00199,in_ss_202602_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,8133.67,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00200,in_ss_202602_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,7568.77,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00201,in_ss_202602_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,7066.71,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00202,in_ss_202602_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6497.23,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00203,in_ss_202602_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,5987.24,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00204,in_ss_202602_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5373.90,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ss_00205,in_ss_202603_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,15401.80,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00206,in_ss_202603_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,13100.87,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00207,in_ss_202603_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,11514.74,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00208,in_ss_202603_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,10277.33,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00209,in_ss_202603_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,9232.55,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00210,in_ss_202603_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,8751.35,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00211,in_ss_202603_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,8160.26,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00212,in_ss_202603_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,7597.94,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00213,in_ss_202603_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,7097.72,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00214,in_ss_202603_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6585.74,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00215,in_ss_202603_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,6039.92,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00216,in_ss_202603_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5434.73,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ss_00217,in_ss_202604_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,15298.53,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00218,in_ss_202604_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,13126.24,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00219,in_ss_202604_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,11552.47,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00220,in_ss_202604_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,10493.01,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00221,in_ss_202604_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,9341.71,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00222,in_ss_202604_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,8820.37,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00223,in_ss_202604_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,8175.84,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00224,in_ss_202604_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,7678.54,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00225,in_ss_202604_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,7218.05,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00226,in_ss_202604_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6550.57,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00227,in_ss_202604_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,6080.35,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00228,in_ss_202604_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5450.56,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ss_00229,in_ss_202605_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,15538.66,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00230,in_ss_202605_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,13386.87,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00231,in_ss_202605_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,11677.33,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00232,in_ss_202605_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,10663.41,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00233,in_ss_202605_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,9413.40,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00234,in_ss_202605_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,8924.58,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00235,in_ss_202605_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,8278.43,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00236,in_ss_202605_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,7791.11,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00237,in_ss_202605_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,7293.85,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00238,in_ss_202605_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6636.08,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00239,in_ss_202605_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,6076.35,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00240,in_ss_202605_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5612.32,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ss_00241,in_ss_202606_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,15741.19,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00242,in_ss_202606_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,13439.91,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00243,in_ss_202606_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,11851.86,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00244,in_ss_202606_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,10621.80,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00245,in_ss_202606_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,9558.11,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00246,in_ss_202606_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,9021.91,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00247,in_ss_202606_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,8442.89,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00248,in_ss_202606_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,7891.03,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00249,in_ss_202606_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,7360.95,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00250,in_ss_202606_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6709.18,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00251,in_ss_202606_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,6144.53,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00252,in_ss_202606_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5566.85,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ss_00253,in_ss_202607_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,15833.53,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00254,in_ss_202607_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,13689.96,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00255,in_ss_202607_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,11918.00,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00256,in_ss_202607_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,10732.33,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00257,in_ss_202607_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,9614.18,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00258,in_ss_202607_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,9014.17,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00259,in_ss_202607_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,8505.21,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00260,in_ss_202607_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,7928.67,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00261,in_ss_202607_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,7411.71,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00262,in_ss_202607_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6789.20,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00263,in_ss_202607_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,6219.07,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00264,in_ss_202607_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5616.28,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ss_00265,in_ss_202608_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,15964.61,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00266,in_ss_202608_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,13630.36,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00267,in_ss_202608_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,11978.26,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00268,in_ss_202608_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,10984.34,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00269,in_ss_202608_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,9641.21,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00270,in_ss_202608_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,9074.08,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00271,in_ss_202608_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,8548.17,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00272,in_ss_202608_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,8072.08,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00273,in_ss_202608_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,7372.69,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00274,in_ss_202608_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6912.06,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00275,in_ss_202608_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,6297.63,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00276,in_ss_202608_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5692.48,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ss_00277,in_ss_202609_-001,ss-cus-001,Brightline Plumbing (synthetic),sub_ss-cus-001,price_ss_subscription_m,EUR,16331.51,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00278,in_ss_202609_-002,ss-cus-002,Copperfield Electric (synthetic),sub_ss-cus-002,price_ss_subscription_m,EUR,13842.99,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00279,in_ss_202609_-003,ss-cus-003,Northgate HVAC (synthetic),sub_ss-cus-003,price_ss_subscription_m,EUR,12255.92,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00280,in_ss_202609_-004,ss-cus-004,Tidewater Roofing (synthetic),sub_ss-cus-004,price_ss_subscription_m,EUR,11024.96,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00281,in_ss_202609_-005,ss-cus-005,Juniper Landscapes (synthetic),sub_ss-cus-005,price_ss_subscription_m,EUR,9911.63,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00282,in_ss_202609_-006,ss-cus-006,Ashby Pest Control (synthetic),sub_ss-cus-006,price_ss_subscription_m,EUR,9224.04,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00283,in_ss_202609_-007,ss-cus-007,Marlow Cleaning Co (synthetic),sub_ss-cus-007,price_ss_subscription_m,EUR,8726.47,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00284,in_ss_202609_-008,ss-cus-008,Fernhill Glazing (synthetic),sub_ss-cus-008,price_ss_subscription_m,EUR,8104.23,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00285,in_ss_202609_-009,ss-cus-009,Oriel Locksmiths (synthetic),sub_ss-cus-009,price_ss_subscription_m,EUR,7471.22,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00286,in_ss_202609_-010,ss-cus-010,Kestrel Pools (synthetic),sub_ss-cus-010,price_ss_subscription_m,EUR,6910.39,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00287,in_ss_202609_-011,ss-cus-011,Wrenfield Joinery (synthetic),sub_ss-cus-011,price_ss_subscription_m,EUR,6404.50,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ss_00288,in_ss_202609_-012,ss-cus-012,Halden Solar (synthetic),sub_ss-cus-012,price_ss_subscription_m,EUR,5785.26,month,1,2026-09-01,2026-10-01,paid,2026-09-01

@@ -1,0 +1,12 @@
+doc_id,title,file,data_class,as_of
+MR-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
+MR-002,Works and rights register: one row per composition or master,works-register.csv,Financial,2026-09-30
+MR-003,"Writer splits from the split sheets, and as statements pay them (pseudonymous writer references)",writer-splits.csv,Financial,2026-09-30
+MR-004,"Chain of title: registrations, assignments, administration and work-for-hire agreements",chain-of-title.csv,Financial,2026-09-30
+MR-005,"Royalty statement lines by work, period and income source, net to the catalog owner",royalty-statements.csv,Financial,2026-09-30
+MR-006,The seller's catalog sale summary,documents/01-catalog-summary.pdf,Business,2026-09-30
+MR-007,"Split sheet for one composition, as signed",documents/02-split-sheet-w0077.pdf,Business,2026-09-30
+MR-008,"Administration agreement, with the advance and recoupment terms",documents/03-administration-agreement.pdf,Business,2026-09-30
+MR-009,The administrator's account statement and advance ledger,documents/04-administration-ledger.pdf,Business,2026-09-30
+MR-010,Lien and UCC search over the selling entity,documents/05-lien-search.pdf,Business,2026-09-30
+MR-011,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

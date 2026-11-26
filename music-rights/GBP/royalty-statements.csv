@@ -1,0 +1,957 @@
+line_id,period_end,work_id,income_source,payer,amount
+L-W-0001-2024-12-31-pf,2024-12-31,W-0001,performance,Northbeam Rights (synthetic),659.14
+L-W-0001-2024-12-31-mc,2024-12-31,W-0001,mechanical,Keystone Mechanical Agency (synthetic),539.29
+L-W-0001-2025-06-30-pf,2025-06-30,W-0001,performance,Northbeam Rights (synthetic),649.25
+L-W-0001-2025-06-30-mc,2025-06-30,W-0001,mechanical,Keystone Mechanical Agency (synthetic),531.20
+L-W-0001-2025-12-31-pf,2025-12-31,W-0001,performance,Northbeam Rights (synthetic),639.51
+L-W-0001-2025-12-31-mc,2025-12-31,W-0001,mechanical,Keystone Mechanical Agency (synthetic),523.24
+L-W-0001-2026-06-30-pf,2026-06-30,W-0001,performance,Northbeam Rights (synthetic),629.92
+L-W-0001-2026-06-30-mc,2026-06-30,W-0001,mechanical,Keystone Mechanical Agency (synthetic),515.39
+L-W-0002-2024-12-31-pf,2024-12-31,W-0002,performance,Cardinal PRS (synthetic),1372.81
+L-W-0002-2024-12-31-mc,2024-12-31,W-0002,mechanical,Keystone Mechanical Agency (synthetic),1123.21
+L-W-0002-2025-06-30-pf,2025-06-30,W-0002,performance,Cardinal PRS (synthetic),1352.22
+L-W-0002-2025-06-30-mc,2025-06-30,W-0002,mechanical,Keystone Mechanical Agency (synthetic),1106.36
+L-W-0002-2025-12-31-pf,2025-12-31,W-0002,performance,Cardinal PRS (synthetic),1331.93
+L-W-0002-2025-12-31-mc,2025-12-31,W-0002,mechanical,Keystone Mechanical Agency (synthetic),1089.76
+L-W-0002-2026-06-30-pf,2026-06-30,W-0002,performance,Cardinal PRS (synthetic),1311.95
+L-W-0002-2026-06-30-mc,2026-06-30,W-0002,mechanical,Keystone Mechanical Agency (synthetic),1073.42
+L-W-0003-2024-12-31-pf,2024-12-31,W-0003,performance,Northbeam Rights (synthetic),1614.52
+L-W-0003-2024-12-31-mc,2024-12-31,W-0003,mechanical,Keystone Mechanical Agency (synthetic),1320.97
+L-W-0003-2025-06-30-pf,2025-06-30,W-0003,performance,Northbeam Rights (synthetic),1590.31
+L-W-0003-2025-06-30-mc,2025-06-30,W-0003,mechanical,Keystone Mechanical Agency (synthetic),1301.16
+L-W-0003-2025-12-31-pf,2025-12-31,W-0003,performance,Northbeam Rights (synthetic),1566.45
+L-W-0003-2025-12-31-mc,2025-12-31,W-0003,mechanical,Keystone Mechanical Agency (synthetic),1281.64
+L-W-0003-2026-06-30-pf,2026-06-30,W-0003,performance,Northbeam Rights (synthetic),1542.96
+L-W-0003-2026-06-30-mc,2026-06-30,W-0003,mechanical,Keystone Mechanical Agency (synthetic),1262.42
+L-W-0004-2024-12-31-pf,2024-12-31,W-0004,performance,Cardinal PRS (synthetic),885.51
+L-W-0004-2024-12-31-mc,2024-12-31,W-0004,mechanical,Keystone Mechanical Agency (synthetic),724.51
+L-W-0004-2025-06-30-pf,2025-06-30,W-0004,performance,Cardinal PRS (synthetic),872.23
+L-W-0004-2025-06-30-mc,2025-06-30,W-0004,mechanical,Keystone Mechanical Agency (synthetic),713.64
+L-W-0004-2025-12-31-pf,2025-12-31,W-0004,performance,Cardinal PRS (synthetic),859.14
+L-W-0004-2025-12-31-mc,2025-12-31,W-0004,mechanical,Keystone Mechanical Agency (synthetic),702.94
+L-W-0004-2026-06-30-pf,2026-06-30,W-0004,performance,Cardinal PRS (synthetic),846.26
+L-W-0004-2026-06-30-mc,2026-06-30,W-0004,mechanical,Keystone Mechanical Agency (synthetic),692.39
+L-W-0005-2024-12-31-pf,2024-12-31,W-0005,performance,Northbeam Rights (synthetic),784.71
+L-W-0005-2024-12-31-mc,2024-12-31,W-0005,mechanical,Keystone Mechanical Agency (synthetic),642.03
+L-W-0005-2025-06-30-pf,2025-06-30,W-0005,performance,Northbeam Rights (synthetic),772.94
+L-W-0005-2025-06-30-mc,2025-06-30,W-0005,mechanical,Keystone Mechanical Agency (synthetic),632.40
+L-W-0005-2025-12-31-pf,2025-12-31,W-0005,performance,Northbeam Rights (synthetic),761.34
+L-W-0005-2025-12-31-mc,2025-12-31,W-0005,mechanical,Keystone Mechanical Agency (synthetic),622.92
+L-W-0005-2026-06-30-pf,2026-06-30,W-0005,performance,Northbeam Rights (synthetic),749.92
+L-W-0005-2026-06-30-mc,2026-06-30,W-0005,mechanical,Keystone Mechanical Agency (synthetic),613.57
+L-W-0006-2024-12-31-pf,2024-12-31,W-0006,performance,Cardinal PRS (synthetic),1581.58
+L-W-0006-2024-12-31-mc,2024-12-31,W-0006,mechanical,Keystone Mechanical Agency (synthetic),1294.02
+L-W-0006-2025-06-30-pf,2025-06-30,W-0006,performance,Cardinal PRS (synthetic),1486.69
+L-W-0006-2025-06-30-mc,2025-06-30,W-0006,mechanical,Keystone Mechanical Agency (synthetic),1216.38
+L-W-0006-2025-12-31-pf,2025-12-31,W-0006,performance,Cardinal PRS (synthetic),1397.48
+L-W-0006-2025-12-31-mc,2025-12-31,W-0006,mechanical,Keystone Mechanical Agency (synthetic),1143.40
+L-W-0006-2026-06-30-pf,2026-06-30,W-0006,performance,Cardinal PRS (synthetic),1313.64
+L-W-0006-2026-06-30-mc,2026-06-30,W-0006,mechanical,Keystone Mechanical Agency (synthetic),1074.79
+L-W-0007-2024-12-31-pf,2024-12-31,W-0007,performance,Northbeam Rights (synthetic),880.30
+L-W-0007-2024-12-31-mc,2024-12-31,W-0007,mechanical,Keystone Mechanical Agency (synthetic),720.24
+L-W-0007-2025-06-30-pf,2025-06-30,W-0007,performance,Northbeam Rights (synthetic),867.09
+L-W-0007-2025-06-30-mc,2025-06-30,W-0007,mechanical,Keystone Mechanical Agency (synthetic),709.44
+L-W-0007-2025-12-31-pf,2025-12-31,W-0007,performance,Northbeam Rights (synthetic),854.09
+L-W-0007-2025-12-31-mc,2025-12-31,W-0007,mechanical,Keystone Mechanical Agency (synthetic),698.80
+L-W-0007-2026-06-30-pf,2026-06-30,W-0007,performance,Northbeam Rights (synthetic),841.27
+L-W-0007-2026-06-30-mc,2026-06-30,W-0007,mechanical,Keystone Mechanical Agency (synthetic),688.32
+L-W-0008-2024-12-31-pf,2024-12-31,W-0008,performance,Cardinal PRS (synthetic),1316.53
+L-W-0008-2024-12-31-mc,2024-12-31,W-0008,mechanical,Keystone Mechanical Agency (synthetic),1077.16
+L-W-0008-2025-06-30-pf,2025-06-30,W-0008,performance,Cardinal PRS (synthetic),1296.78
+L-W-0008-2025-06-30-mc,2025-06-30,W-0008,mechanical,Keystone Mechanical Agency (synthetic),1061.00
+L-W-0008-2025-12-31-pf,2025-12-31,W-0008,performance,Cardinal PRS (synthetic),1277.33
+L-W-0008-2025-12-31-mc,2025-12-31,W-0008,mechanical,Keystone Mechanical Agency (synthetic),1045.09
+L-W-0008-2026-06-30-pf,2026-06-30,W-0008,performance,Cardinal PRS (synthetic),1258.17
+L-W-0008-2026-06-30-mc,2026-06-30,W-0008,mechanical,Keystone Mechanical Agency (synthetic),1029.41
+L-W-0009-2024-12-31-pf,2024-12-31,W-0009,performance,Northbeam Rights (synthetic),1646.82
+L-W-0009-2024-12-31-mc,2024-12-31,W-0009,mechanical,Keystone Mechanical Agency (synthetic),1347.39
+L-W-0009-2025-06-30-pf,2025-06-30,W-0009,performance,Northbeam Rights (synthetic),1622.11
+L-W-0009-2025-06-30-mc,2025-06-30,W-0009,mechanical,Keystone Mechanical Agency (synthetic),1327.18
+L-W-0009-2025-12-31-pf,2025-12-31,W-0009,performance,Northbeam Rights (synthetic),1597.78
+L-W-0009-2025-12-31-mc,2025-12-31,W-0009,mechanical,Keystone Mechanical Agency (synthetic),1307.28
+L-W-0009-2026-06-30-pf,2026-06-30,W-0009,performance,Northbeam Rights (synthetic),1573.81
+L-W-0009-2026-06-30-mc,2026-06-30,W-0009,mechanical,Keystone Mechanical Agency (synthetic),1287.67
+L-W-0010-2024-12-31-pf,2024-12-31,W-0010,performance,Cardinal PRS (synthetic),842.06
+L-W-0010-2024-12-31-mc,2024-12-31,W-0010,mechanical,Keystone Mechanical Agency (synthetic),688.96
+L-W-0010-2025-06-30-pf,2025-06-30,W-0010,performance,Cardinal PRS (synthetic),829.43
+L-W-0010-2025-06-30-mc,2025-06-30,W-0010,mechanical,Keystone Mechanical Agency (synthetic),678.62
+L-W-0010-2025-12-31-pf,2025-12-31,W-0010,performance,Cardinal PRS (synthetic),816.99
+L-W-0010-2025-12-31-mc,2025-12-31,W-0010,mechanical,Keystone Mechanical Agency (synthetic),668.45
+L-W-0010-2026-06-30-pf,2026-06-30,W-0010,performance,Cardinal PRS (synthetic),804.73
+L-W-0010-2026-06-30-mc,2026-06-30,W-0010,mechanical,Keystone Mechanical Agency (synthetic),658.42
+L-W-0011-2024-12-31-pf,2024-12-31,W-0011,performance,Northbeam Rights (synthetic),415.38
+L-W-0011-2024-12-31-mc,2024-12-31,W-0011,mechanical,Keystone Mechanical Agency (synthetic),339.86
+L-W-0011-2025-06-30-pf,2025-06-30,W-0011,performance,Northbeam Rights (synthetic),409.15
+L-W-0011-2025-06-30-mc,2025-06-30,W-0011,mechanical,Keystone Mechanical Agency (synthetic),334.76
+L-W-0011-2025-12-31-pf,2025-12-31,W-0011,performance,Northbeam Rights (synthetic),403.01
+L-W-0011-2025-12-31-mc,2025-12-31,W-0011,mechanical,Keystone Mechanical Agency (synthetic),329.74
+L-W-0011-2026-06-30-pf,2026-06-30,W-0011,performance,Northbeam Rights (synthetic),396.97
+L-W-0011-2026-06-30-mc,2026-06-30,W-0011,mechanical,Keystone Mechanical Agency (synthetic),324.79
+L-W-0012-2024-12-31-pf,2024-12-31,W-0012,performance,Cardinal PRS (synthetic),1612.86
+L-W-0012-2024-12-31-mc,2024-12-31,W-0012,mechanical,Keystone Mechanical Agency (synthetic),1319.62
+L-W-0012-2025-06-30-pf,2025-06-30,W-0012,performance,Cardinal PRS (synthetic),1516.09
+L-W-0012-2025-06-30-mc,2025-06-30,W-0012,mechanical,Keystone Mechanical Agency (synthetic),1240.44
+L-W-0012-2025-12-31-pf,2025-12-31,W-0012,performance,Cardinal PRS (synthetic),1425.13
+L-W-0012-2025-12-31-mc,2025-12-31,W-0012,mechanical,Keystone Mechanical Agency (synthetic),1166.01
+L-W-0012-2026-06-30-pf,2026-06-30,W-0012,performance,Cardinal PRS (synthetic),1339.62
+L-W-0012-2026-06-30-mc,2026-06-30,W-0012,mechanical,Keystone Mechanical Agency (synthetic),1096.05
+L-W-0013-2024-12-31-pf,2024-12-31,W-0013,performance,Northbeam Rights (synthetic),1054.62
+L-W-0013-2024-12-31-mc,2024-12-31,W-0013,mechanical,Keystone Mechanical Agency (synthetic),862.87
+L-W-0013-2025-06-30-pf,2025-06-30,W-0013,performance,Northbeam Rights (synthetic),991.34
+L-W-0013-2025-06-30-mc,2025-06-30,W-0013,mechanical,Keystone Mechanical Agency (synthetic),811.10
+L-W-0013-2025-12-31-pf,2025-12-31,W-0013,performance,Northbeam Rights (synthetic),931.86
+L-W-0013-2025-12-31-mc,2025-12-31,W-0013,mechanical,Keystone Mechanical Agency (synthetic),762.43
+L-W-0013-2026-06-30-pf,2026-06-30,W-0013,performance,Northbeam Rights (synthetic),875.95
+L-W-0013-2026-06-30-mc,2026-06-30,W-0013,mechanical,Keystone Mechanical Agency (synthetic),716.69
+L-W-0014-2024-12-31-pf,2024-12-31,W-0014,performance,Cardinal PRS (synthetic),885.95
+L-W-0014-2024-12-31-mc,2024-12-31,W-0014,mechanical,Keystone Mechanical Agency (synthetic),724.86
+L-W-0014-2025-06-30-pf,2025-06-30,W-0014,performance,Cardinal PRS (synthetic),872.66
+L-W-0014-2025-06-30-mc,2025-06-30,W-0014,mechanical,Keystone Mechanical Agency (synthetic),713.99
+L-W-0014-2025-12-31-pf,2025-12-31,W-0014,performance,Cardinal PRS (synthetic),859.57
+L-W-0014-2025-12-31-mc,2025-12-31,W-0014,mechanical,Keystone Mechanical Agency (synthetic),703.28
+L-W-0014-2026-06-30-pf,2026-06-30,W-0014,performance,Cardinal PRS (synthetic),846.67
+L-W-0014-2026-06-30-mc,2026-06-30,W-0014,mechanical,Keystone Mechanical Agency (synthetic),692.73
+L-W-0015-2024-12-31-pf,2024-12-31,W-0015,performance,Northbeam Rights (synthetic),1687.41
+L-W-0015-2024-12-31-mc,2024-12-31,W-0015,mechanical,Keystone Mechanical Agency (synthetic),1380.61
+L-W-0015-2025-06-30-pf,2025-06-30,W-0015,performance,Northbeam Rights (synthetic),1662.10
+L-W-0015-2025-06-30-mc,2025-06-30,W-0015,mechanical,Keystone Mechanical Agency (synthetic),1359.90
+L-W-0015-2025-12-31-pf,2025-12-31,W-0015,performance,Northbeam Rights (synthetic),1637.17
+L-W-0015-2025-12-31-mc,2025-12-31,W-0015,mechanical,Keystone Mechanical Agency (synthetic),1339.50
+L-W-0015-2026-06-30-pf,2026-06-30,W-0015,performance,Northbeam Rights (synthetic),1612.61
+L-W-0015-2026-06-30-mc,2026-06-30,W-0015,mechanical,Keystone Mechanical Agency (synthetic),1319.41
+L-W-0016-2024-12-31-pf,2024-12-31,W-0016,performance,Cardinal PRS (synthetic),1900.53
+L-W-0016-2024-12-31-mc,2024-12-31,W-0016,mechanical,Keystone Mechanical Agency (synthetic),1554.98
+L-W-0016-2025-06-30-pf,2025-06-30,W-0016,performance,Cardinal PRS (synthetic),1872.02
+L-W-0016-2025-06-30-mc,2025-06-30,W-0016,mechanical,Keystone Mechanical Agency (synthetic),1531.65
+L-W-0016-2025-12-31-pf,2025-12-31,W-0016,performance,Cardinal PRS (synthetic),1843.94
+L-W-0016-2025-12-31-mc,2025-12-31,W-0016,mechanical,Keystone Mechanical Agency (synthetic),1508.68
+L-W-0016-2026-06-30-pf,2026-06-30,W-0016,performance,Cardinal PRS (synthetic),1816.28
+L-W-0016-2026-06-30-mc,2026-06-30,W-0016,mechanical,Keystone Mechanical Agency (synthetic),1486.05
+L-W-0017-2024-12-31-pf,2024-12-31,W-0017,performance,Northbeam Rights (synthetic),738.22
+L-W-0017-2024-12-31-mc,2024-12-31,W-0017,mechanical,Keystone Mechanical Agency (synthetic),603.99
+L-W-0017-2025-06-30-pf,2025-06-30,W-0017,performance,Northbeam Rights (synthetic),727.14
+L-W-0017-2025-06-30-mc,2025-06-30,W-0017,mechanical,Keystone Mechanical Agency (synthetic),594.93
+L-W-0017-2025-12-31-pf,2025-12-31,W-0017,performance,Northbeam Rights (synthetic),716.24
+L-W-0017-2025-12-31-mc,2025-12-31,W-0017,mechanical,Keystone Mechanical Agency (synthetic),586.01
+L-W-0017-2026-06-30-pf,2026-06-30,W-0017,performance,Northbeam Rights (synthetic),705.49
+L-W-0017-2026-06-30-mc,2026-06-30,W-0017,mechanical,Keystone Mechanical Agency (synthetic),577.22
+L-W-0018-2024-12-31-mc,2024-12-31,W-0018,mechanical,Keystone Mechanical Agency (synthetic),1018.15
+L-W-0018-2025-06-30-mc,2025-06-30,W-0018,mechanical,Keystone Mechanical Agency (synthetic),957.06
+L-W-0018-2025-12-31-mc,2025-12-31,W-0018,mechanical,Keystone Mechanical Agency (synthetic),899.64
+L-W-0018-2026-06-30-mc,2026-06-30,W-0018,mechanical,Keystone Mechanical Agency (synthetic),845.66
+L-W-0019-2024-12-31-pf,2024-12-31,W-0019,performance,Northbeam Rights (synthetic),1446.02
+L-W-0019-2024-12-31-mc,2024-12-31,W-0019,mechanical,Keystone Mechanical Agency (synthetic),1183.10
+L-W-0019-2025-06-30-pf,2025-06-30,W-0019,performance,Northbeam Rights (synthetic),1359.26
+L-W-0019-2025-06-30-mc,2025-06-30,W-0019,mechanical,Keystone Mechanical Agency (synthetic),1112.12
+L-W-0019-2025-12-31-pf,2025-12-31,W-0019,performance,Northbeam Rights (synthetic),1277.70
+L-W-0019-2025-12-31-mc,2025-12-31,W-0019,mechanical,Keystone Mechanical Agency (synthetic),1045.39
+L-W-0019-2026-06-30-pf,2026-06-30,W-0019,performance,Northbeam Rights (synthetic),1201.04
+L-W-0019-2026-06-30-mc,2026-06-30,W-0019,mechanical,Keystone Mechanical Agency (synthetic),982.67
+L-W-0020-2024-12-31-pf,2024-12-31,W-0020,performance,Cardinal PRS (synthetic),866.39
+L-W-0020-2024-12-31-mc,2024-12-31,W-0020,mechanical,Keystone Mechanical Agency (synthetic),708.87
+L-W-0020-2025-06-30-pf,2025-06-30,W-0020,performance,Cardinal PRS (synthetic),853.40
+L-W-0020-2025-06-30-mc,2025-06-30,W-0020,mechanical,Keystone Mechanical Agency (synthetic),698.23
+L-W-0020-2025-12-31-pf,2025-12-31,W-0020,performance,Cardinal PRS (synthetic),840.60
+L-W-0020-2025-12-31-mc,2025-12-31,W-0020,mechanical,Keystone Mechanical Agency (synthetic),687.76
+L-W-0020-2026-06-30-pf,2026-06-30,W-0020,performance,Cardinal PRS (synthetic),827.99
+L-W-0020-2026-06-30-mc,2026-06-30,W-0020,mechanical,Keystone Mechanical Agency (synthetic),677.44
+L-W-0021-2024-12-31-pf,2024-12-31,W-0021,performance,Northbeam Rights (synthetic),1041.60
+L-W-0021-2024-12-31-mc,2024-12-31,W-0021,mechanical,Keystone Mechanical Agency (synthetic),852.22
+L-W-0021-2025-06-30-pf,2025-06-30,W-0021,performance,Northbeam Rights (synthetic),1025.98
+L-W-0021-2025-06-30-mc,2025-06-30,W-0021,mechanical,Keystone Mechanical Agency (synthetic),839.43
+L-W-0021-2025-12-31-pf,2025-12-31,W-0021,performance,Northbeam Rights (synthetic),1010.59
+L-W-0021-2025-12-31-mc,2025-12-31,W-0021,mechanical,Keystone Mechanical Agency (synthetic),826.84
+L-W-0021-2026-06-30-pf,2026-06-30,W-0021,performance,Northbeam Rights (synthetic),995.43
+L-W-0021-2026-06-30-mc,2026-06-30,W-0021,mechanical,Keystone Mechanical Agency (synthetic),814.44
+L-W-0022-2024-12-31-pf,2024-12-31,W-0022,performance,Cardinal PRS (synthetic),855.24
+L-W-0022-2024-12-31-mc,2024-12-31,W-0022,mechanical,Keystone Mechanical Agency (synthetic),699.74
+L-W-0022-2025-06-30-pf,2025-06-30,W-0022,performance,Cardinal PRS (synthetic),842.41
+L-W-0022-2025-06-30-mc,2025-06-30,W-0022,mechanical,Keystone Mechanical Agency (synthetic),689.24
+L-W-0022-2025-12-31-pf,2025-12-31,W-0022,performance,Cardinal PRS (synthetic),829.77
+L-W-0022-2025-12-31-mc,2025-12-31,W-0022,mechanical,Keystone Mechanical Agency (synthetic),678.90
+L-W-0022-2026-06-30-pf,2026-06-30,W-0022,performance,Cardinal PRS (synthetic),817.33
+L-W-0022-2026-06-30-mc,2026-06-30,W-0022,mechanical,Keystone Mechanical Agency (synthetic),668.72
+L-W-0023-2024-12-31-pf,2024-12-31,W-0023,performance,Northbeam Rights (synthetic),434.50
+L-W-0023-2024-12-31-mc,2024-12-31,W-0023,mechanical,Keystone Mechanical Agency (synthetic),355.50
+L-W-0023-2025-06-30-pf,2025-06-30,W-0023,performance,Northbeam Rights (synthetic),427.98
+L-W-0023-2025-06-30-mc,2025-06-30,W-0023,mechanical,Keystone Mechanical Agency (synthetic),350.17
+L-W-0023-2025-12-31-pf,2025-12-31,W-0023,performance,Northbeam Rights (synthetic),421.56
+L-W-0023-2025-12-31-mc,2025-12-31,W-0023,mechanical,Keystone Mechanical Agency (synthetic),344.91
+L-W-0023-2026-06-30-pf,2026-06-30,W-0023,performance,Northbeam Rights (synthetic),415.24
+L-W-0023-2026-06-30-mc,2026-06-30,W-0023,mechanical,Keystone Mechanical Agency (synthetic),339.74
+L-W-0024-2024-12-31-pf,2024-12-31,W-0024,performance,Cardinal PRS (synthetic),1086.68
+L-W-0024-2024-12-31-mc,2024-12-31,W-0024,mechanical,Keystone Mechanical Agency (synthetic),889.11
+L-W-0024-2025-06-30-pf,2025-06-30,W-0024,performance,Cardinal PRS (synthetic),1070.38
+L-W-0024-2025-06-30-mc,2025-06-30,W-0024,mechanical,Keystone Mechanical Agency (synthetic),875.77
+L-W-0024-2025-12-31-pf,2025-12-31,W-0024,performance,Cardinal PRS (synthetic),1054.33
+L-W-0024-2025-12-31-mc,2025-12-31,W-0024,mechanical,Keystone Mechanical Agency (synthetic),862.63
+L-W-0024-2026-06-30-pf,2026-06-30,W-0024,performance,Cardinal PRS (synthetic),1038.51
+L-W-0024-2026-06-30-mc,2026-06-30,W-0024,mechanical,Keystone Mechanical Agency (synthetic),849.69
+L-W-0025-2024-12-31-pf,2024-12-31,W-0025,performance,Northbeam Rights (synthetic),1778.32
+L-W-0025-2024-12-31-mc,2024-12-31,W-0025,mechanical,Keystone Mechanical Agency (synthetic),1454.99
+L-W-0025-2025-06-30-pf,2025-06-30,W-0025,performance,Northbeam Rights (synthetic),1671.62
+L-W-0025-2025-06-30-mc,2025-06-30,W-0025,mechanical,Keystone Mechanical Agency (synthetic),1367.69
+L-W-0025-2025-12-31-pf,2025-12-31,W-0025,performance,Northbeam Rights (synthetic),1571.32
+L-W-0025-2025-12-31-mc,2025-12-31,W-0025,mechanical,Keystone Mechanical Agency (synthetic),1285.63
+L-W-0025-2026-06-30-pf,2026-06-30,W-0025,performance,Northbeam Rights (synthetic),1477.05
+L-W-0025-2026-06-30-mc,2026-06-30,W-0025,mechanical,Keystone Mechanical Agency (synthetic),1208.49
+L-W-0026-2024-12-31-pf,2024-12-31,W-0026,performance,Cardinal PRS (synthetic),827.29
+L-W-0026-2024-12-31-mc,2024-12-31,W-0026,mechanical,Keystone Mechanical Agency (synthetic),676.87
+L-W-0026-2025-06-30-pf,2025-06-30,W-0026,performance,Cardinal PRS (synthetic),777.65
+L-W-0026-2025-06-30-mc,2025-06-30,W-0026,mechanical,Keystone Mechanical Agency (synthetic),636.26
+L-W-0026-2025-12-31-pf,2025-12-31,W-0026,performance,Cardinal PRS (synthetic),730.99
+L-W-0026-2025-12-31-mc,2025-12-31,W-0026,mechanical,Keystone Mechanical Agency (synthetic),598.08
+L-W-0026-2026-06-30-pf,2026-06-30,W-0026,performance,Cardinal PRS (synthetic),687.13
+L-W-0026-2026-06-30-mc,2026-06-30,W-0026,mechanical,Keystone Mechanical Agency (synthetic),562.20
+L-W-0027-2024-12-31-pf,2024-12-31,W-0027,performance,Northbeam Rights (synthetic),979.80
+L-W-0027-2024-12-31-mc,2024-12-31,W-0027,mechanical,Keystone Mechanical Agency (synthetic),801.65
+L-W-0027-2025-06-30-pf,2025-06-30,W-0027,performance,Northbeam Rights (synthetic),965.10
+L-W-0027-2025-06-30-mc,2025-06-30,W-0027,mechanical,Keystone Mechanical Agency (synthetic),789.63
+L-W-0027-2025-12-31-pf,2025-12-31,W-0027,performance,Northbeam Rights (synthetic),950.62
+L-W-0027-2025-12-31-mc,2025-12-31,W-0027,mechanical,Keystone Mechanical Agency (synthetic),777.78
+L-W-0027-2026-06-30-pf,2026-06-30,W-0027,performance,Northbeam Rights (synthetic),936.36
+L-W-0027-2026-06-30-mc,2026-06-30,W-0027,mechanical,Keystone Mechanical Agency (synthetic),766.12
+L-W-0028-2024-12-31-pf,2024-12-31,W-0028,performance,Cardinal PRS (synthetic),1934.66
+L-W-0028-2024-12-31-mc,2024-12-31,W-0028,mechanical,Keystone Mechanical Agency (synthetic),1582.91
+L-W-0028-2025-06-30-pf,2025-06-30,W-0028,performance,Cardinal PRS (synthetic),1905.64
+L-W-0028-2025-06-30-mc,2025-06-30,W-0028,mechanical,Keystone Mechanical Agency (synthetic),1559.16
+L-W-0028-2025-12-31-pf,2025-12-31,W-0028,performance,Cardinal PRS (synthetic),1877.06
+L-W-0028-2025-12-31-mc,2025-12-31,W-0028,mechanical,Keystone Mechanical Agency (synthetic),1535.77
+L-W-0028-2026-06-30-pf,2026-06-30,W-0028,performance,Cardinal PRS (synthetic),1848.90
+L-W-0028-2026-06-30-mc,2026-06-30,W-0028,mechanical,Keystone Mechanical Agency (synthetic),1512.74
+L-W-0029-2024-12-31-pf,2024-12-31,W-0029,performance,Northbeam Rights (synthetic),1652.35
+L-W-0029-2024-12-31-mc,2024-12-31,W-0029,mechanical,Keystone Mechanical Agency (synthetic),1351.92
+L-W-0029-2025-06-30-pf,2025-06-30,W-0029,performance,Northbeam Rights (synthetic),1627.57
+L-W-0029-2025-06-30-mc,2025-06-30,W-0029,mechanical,Keystone Mechanical Agency (synthetic),1331.64
+L-W-0029-2025-12-31-pf,2025-12-31,W-0029,performance,Northbeam Rights (synthetic),1603.15
+L-W-0029-2025-12-31-mc,2025-12-31,W-0029,mechanical,Keystone Mechanical Agency (synthetic),1311.67
+L-W-0029-2026-06-30-pf,2026-06-30,W-0029,performance,Northbeam Rights (synthetic),1579.10
+L-W-0029-2026-06-30-mc,2026-06-30,W-0029,mechanical,Keystone Mechanical Agency (synthetic),1291.99
+L-W-0030-2024-12-31-pf,2024-12-31,W-0030,performance,Cardinal PRS (synthetic),749.95
+L-W-0030-2024-12-31-mc,2024-12-31,W-0030,mechanical,Keystone Mechanical Agency (synthetic),613.59
+L-W-0030-2025-06-30-pf,2025-06-30,W-0030,performance,Cardinal PRS (synthetic),738.70
+L-W-0030-2025-06-30-mc,2025-06-30,W-0030,mechanical,Keystone Mechanical Agency (synthetic),604.39
+L-W-0030-2025-12-31-pf,2025-12-31,W-0030,performance,Cardinal PRS (synthetic),727.62
+L-W-0030-2025-12-31-mc,2025-12-31,W-0030,mechanical,Keystone Mechanical Agency (synthetic),595.32
+L-W-0030-2026-06-30-pf,2026-06-30,W-0030,performance,Cardinal PRS (synthetic),716.70
+L-W-0030-2026-06-30-mc,2026-06-30,W-0030,mechanical,Keystone Mechanical Agency (synthetic),586.39
+L-W-0031-2024-12-31-pf,2024-12-31,W-0031,performance,Northbeam Rights (synthetic),1097.55
+L-W-0031-2024-12-31-mc,2024-12-31,W-0031,mechanical,Keystone Mechanical Agency (synthetic),897.99
+L-W-0031-2025-06-30-pf,2025-06-30,W-0031,performance,Northbeam Rights (synthetic),1081.08
+L-W-0031-2025-06-30-mc,2025-06-30,W-0031,mechanical,Keystone Mechanical Agency (synthetic),884.52
+L-W-0031-2025-12-31-pf,2025-12-31,W-0031,performance,Northbeam Rights (synthetic),1064.87
+L-W-0031-2025-12-31-mc,2025-12-31,W-0031,mechanical,Keystone Mechanical Agency (synthetic),871.26
+L-W-0031-2026-06-30-pf,2026-06-30,W-0031,performance,Northbeam Rights (synthetic),1048.89
+L-W-0031-2026-06-30-mc,2026-06-30,W-0031,mechanical,Keystone Mechanical Agency (synthetic),858.19
+L-W-0032-2024-12-31-pf,2024-12-31,W-0032,performance,Cardinal PRS (synthetic),1446.02
+L-W-0032-2024-12-31-mc,2024-12-31,W-0032,mechanical,Keystone Mechanical Agency (synthetic),1183.10
+L-W-0032-2025-06-30-pf,2025-06-30,W-0032,performance,Cardinal PRS (synthetic),1359.26
+L-W-0032-2025-06-30-mc,2025-06-30,W-0032,mechanical,Keystone Mechanical Agency (synthetic),1112.12
+L-W-0032-2025-12-31-pf,2025-12-31,W-0032,performance,Cardinal PRS (synthetic),1277.70
+L-W-0032-2025-12-31-mc,2025-12-31,W-0032,mechanical,Keystone Mechanical Agency (synthetic),1045.39
+L-W-0032-2026-06-30-pf,2026-06-30,W-0032,performance,Cardinal PRS (synthetic),1201.04
+L-W-0032-2026-06-30-mc,2026-06-30,W-0032,mechanical,Keystone Mechanical Agency (synthetic),982.67
+L-W-0033-2024-12-31-pf,2024-12-31,W-0033,performance,Northbeam Rights (synthetic),1106.67
+L-W-0033-2024-12-31-mc,2024-12-31,W-0033,mechanical,Keystone Mechanical Agency (synthetic),905.46
+L-W-0033-2025-06-30-pf,2025-06-30,W-0033,performance,Northbeam Rights (synthetic),1090.07
+L-W-0033-2025-06-30-mc,2025-06-30,W-0033,mechanical,Keystone Mechanical Agency (synthetic),891.88
+L-W-0033-2025-12-31-pf,2025-12-31,W-0033,performance,Northbeam Rights (synthetic),1073.72
+L-W-0033-2025-12-31-mc,2025-12-31,W-0033,mechanical,Keystone Mechanical Agency (synthetic),878.50
+L-W-0033-2026-06-30-pf,2026-06-30,W-0033,performance,Northbeam Rights (synthetic),1057.61
+L-W-0033-2026-06-30-mc,2026-06-30,W-0033,mechanical,Keystone Mechanical Agency (synthetic),865.32
+L-W-0034-2024-12-31-pf,2024-12-31,W-0034,performance,Cardinal PRS (synthetic),1315.61
+L-W-0034-2024-12-31-mc,2024-12-31,W-0034,mechanical,Keystone Mechanical Agency (synthetic),1076.41
+L-W-0034-2025-06-30-pf,2025-06-30,W-0034,performance,Cardinal PRS (synthetic),1295.87
+L-W-0034-2025-06-30-mc,2025-06-30,W-0034,mechanical,Keystone Mechanical Agency (synthetic),1060.26
+L-W-0034-2025-12-31-pf,2025-12-31,W-0034,performance,Cardinal PRS (synthetic),1276.43
+L-W-0034-2025-12-31-mc,2025-12-31,W-0034,mechanical,Keystone Mechanical Agency (synthetic),1044.36
+L-W-0034-2026-06-30-pf,2026-06-30,W-0034,performance,Cardinal PRS (synthetic),1257.29
+L-W-0034-2026-06-30-mc,2026-06-30,W-0034,mechanical,Keystone Mechanical Agency (synthetic),1028.69
+L-W-0035-2024-12-31-pf,2024-12-31,W-0035,performance,Northbeam Rights (synthetic),1201.21
+L-W-0035-2024-12-31-mc,2024-12-31,W-0035,mechanical,Keystone Mechanical Agency (synthetic),982.81
+L-W-0035-2025-06-30-pf,2025-06-30,W-0035,performance,Northbeam Rights (synthetic),1183.19
+L-W-0035-2025-06-30-mc,2025-06-30,W-0035,mechanical,Keystone Mechanical Agency (synthetic),968.06
+L-W-0035-2025-12-31-pf,2025-12-31,W-0035,performance,Northbeam Rights (synthetic),1165.44
+L-W-0035-2025-12-31-mc,2025-12-31,W-0035,mechanical,Keystone Mechanical Agency (synthetic),953.54
+L-W-0035-2026-06-30-pf,2026-06-30,W-0035,performance,Northbeam Rights (synthetic),1147.96
+L-W-0035-2026-06-30-mc,2026-06-30,W-0035,mechanical,Keystone Mechanical Agency (synthetic),939.24
+L-W-0036-2024-12-31-pf,2024-12-31,W-0036,performance,Cardinal PRS (synthetic),755.60
+L-W-0036-2024-12-31-mc,2024-12-31,W-0036,mechanical,Keystone Mechanical Agency (synthetic),618.21
+L-W-0036-2025-06-30-pf,2025-06-30,W-0036,performance,Cardinal PRS (synthetic),744.26
+L-W-0036-2025-06-30-mc,2025-06-30,W-0036,mechanical,Keystone Mechanical Agency (synthetic),608.94
+L-W-0036-2025-12-31-pf,2025-12-31,W-0036,performance,Cardinal PRS (synthetic),733.10
+L-W-0036-2025-12-31-mc,2025-12-31,W-0036,mechanical,Keystone Mechanical Agency (synthetic),599.81
+L-W-0036-2026-06-30-pf,2026-06-30,W-0036,performance,Cardinal PRS (synthetic),722.10
+L-W-0036-2026-06-30-mc,2026-06-30,W-0036,mechanical,Keystone Mechanical Agency (synthetic),590.81
+L-W-0037-2024-12-31-pf,2024-12-31,W-0037,performance,Northbeam Rights (synthetic),1121.44
+L-W-0037-2024-12-31-mc,2024-12-31,W-0037,mechanical,Keystone Mechanical Agency (synthetic),917.55
+L-W-0037-2025-06-30-pf,2025-06-30,W-0037,performance,Northbeam Rights (synthetic),1104.62
+L-W-0037-2025-06-30-mc,2025-06-30,W-0037,mechanical,Keystone Mechanical Agency (synthetic),903.78
+L-W-0037-2025-12-31-pf,2025-12-31,W-0037,performance,Northbeam Rights (synthetic),1088.05
+L-W-0037-2025-12-31-mc,2025-12-31,W-0037,mechanical,Keystone Mechanical Agency (synthetic),890.23
+L-W-0037-2026-06-30-pf,2026-06-30,W-0037,performance,Northbeam Rights (synthetic),1071.73
+L-W-0037-2026-06-30-mc,2026-06-30,W-0037,mechanical,Keystone Mechanical Agency (synthetic),876.87
+L-W-0038-2024-12-31-pf,2024-12-31,W-0038,performance,Cardinal PRS (synthetic),504.89
+L-W-0038-2024-12-31-mc,2024-12-31,W-0038,mechanical,Keystone Mechanical Agency (synthetic),413.09
+L-W-0038-2025-06-30-pf,2025-06-30,W-0038,performance,Cardinal PRS (synthetic),497.32
+L-W-0038-2025-06-30-mc,2025-06-30,W-0038,mechanical,Keystone Mechanical Agency (synthetic),406.89
+L-W-0038-2025-12-31-pf,2025-12-31,W-0038,performance,Cardinal PRS (synthetic),489.86
+L-W-0038-2025-12-31-mc,2025-12-31,W-0038,mechanical,Keystone Mechanical Agency (synthetic),400.79
+L-W-0038-2026-06-30-pf,2026-06-30,W-0038,performance,Cardinal PRS (synthetic),482.51
+L-W-0038-2026-06-30-mc,2026-06-30,W-0038,mechanical,Keystone Mechanical Agency (synthetic),394.78
+L-W-0039-2024-12-31-pf,2024-12-31,W-0039,performance,Northbeam Rights (synthetic),1644.15
+L-W-0039-2024-12-31-mc,2024-12-31,W-0039,mechanical,Keystone Mechanical Agency (synthetic),1345.21
+L-W-0039-2025-06-30-pf,2025-06-30,W-0039,performance,Northbeam Rights (synthetic),1545.50
+L-W-0039-2025-06-30-mc,2025-06-30,W-0039,mechanical,Keystone Mechanical Agency (synthetic),1264.50
+L-W-0039-2025-12-31-pf,2025-12-31,W-0039,performance,Northbeam Rights (synthetic),1452.77
+L-W-0039-2025-12-31-mc,2025-12-31,W-0039,mechanical,Keystone Mechanical Agency (synthetic),1188.63
+L-W-0039-2026-06-30-pf,2026-06-30,W-0039,performance,Northbeam Rights (synthetic),1365.60
+L-W-0039-2026-06-30-mc,2026-06-30,W-0039,mechanical,Keystone Mechanical Agency (synthetic),1117.31
+L-W-0040-2024-12-31-pf,2024-12-31,W-0040,performance,Cardinal PRS (synthetic),444.06
+L-W-0040-2024-12-31-mc,2024-12-31,W-0040,mechanical,Keystone Mechanical Agency (synthetic),363.32
+L-W-0040-2025-06-30-pf,2025-06-30,W-0040,performance,Cardinal PRS (synthetic),437.40
+L-W-0040-2025-06-30-mc,2025-06-30,W-0040,mechanical,Keystone Mechanical Agency (synthetic),357.87
+L-W-0040-2025-12-31-pf,2025-12-31,W-0040,performance,Cardinal PRS (synthetic),430.84
+L-W-0040-2025-12-31-mc,2025-12-31,W-0040,mechanical,Keystone Mechanical Agency (synthetic),352.50
+L-W-0040-2026-06-30-pf,2026-06-30,W-0040,performance,Cardinal PRS (synthetic),424.37
+L-W-0040-2026-06-30-mc,2026-06-30,W-0040,mechanical,Keystone Mechanical Agency (synthetic),347.22
+L-W-0041-2024-12-31-pf,2024-12-31,W-0041,performance,Northbeam Rights (synthetic),1196.59
+L-W-0041-2024-12-31-mc,2024-12-31,W-0041,mechanical,Keystone Mechanical Agency (synthetic),979.03
+L-W-0041-2025-06-30-pf,2025-06-30,W-0041,performance,Northbeam Rights (synthetic),1178.64
+L-W-0041-2025-06-30-mc,2025-06-30,W-0041,mechanical,Keystone Mechanical Agency (synthetic),964.35
+L-W-0041-2025-12-31-pf,2025-12-31,W-0041,performance,Northbeam Rights (synthetic),1160.96
+L-W-0041-2025-12-31-mc,2025-12-31,W-0041,mechanical,Keystone Mechanical Agency (synthetic),949.88
+L-W-0041-2026-06-30-pf,2026-06-30,W-0041,performance,Northbeam Rights (synthetic),1143.55
+L-W-0041-2026-06-30-mc,2026-06-30,W-0041,mechanical,Keystone Mechanical Agency (synthetic),935.63
+L-W-0042-2024-12-31-pf,2024-12-31,W-0042,performance,Cardinal PRS (synthetic),26070.00
+L-W-0042-2024-12-31-mc,2024-12-31,W-0042,mechanical,Keystone Mechanical Agency (synthetic),21330.00
+L-W-0042-2024-12-31-sy,2024-12-31,W-0042,sync,Direct licences,3160.00
+L-W-0042-2025-06-30-pf,2025-06-30,W-0042,performance,Cardinal PRS (synthetic),25678.95
+L-W-0042-2025-06-30-mc,2025-06-30,W-0042,mechanical,Keystone Mechanical Agency (synthetic),21010.05
+L-W-0042-2025-06-30-sy,2025-06-30,W-0042,sync,Direct licences,3160.00
+L-W-0042-2025-12-31-pf,2025-12-31,W-0042,performance,Cardinal PRS (synthetic),25293.77
+L-W-0042-2025-12-31-mc,2025-12-31,W-0042,mechanical,Keystone Mechanical Agency (synthetic),20694.90
+L-W-0042-2025-12-31-sy,2025-12-31,W-0042,sync,Direct licences,3160.00
+L-W-0042-2026-06-30-pf,2026-06-30,W-0042,performance,Cardinal PRS (synthetic),24914.36
+L-W-0042-2026-06-30-mc,2026-06-30,W-0042,mechanical,Keystone Mechanical Agency (synthetic),20384.48
+L-W-0042-2026-06-30-sy,2026-06-30,W-0042,sync,Direct licences,3160.00
+L-W-0043-2024-12-31-pf,2024-12-31,W-0043,performance,Northbeam Rights (synthetic),805.13
+L-W-0043-2024-12-31-mc,2024-12-31,W-0043,mechanical,Keystone Mechanical Agency (synthetic),658.74
+L-W-0043-2025-06-30-pf,2025-06-30,W-0043,performance,Northbeam Rights (synthetic),793.05
+L-W-0043-2025-06-30-mc,2025-06-30,W-0043,mechanical,Keystone Mechanical Agency (synthetic),648.86
+L-W-0043-2025-12-31-pf,2025-12-31,W-0043,performance,Northbeam Rights (synthetic),781.16
+L-W-0043-2025-12-31-mc,2025-12-31,W-0043,mechanical,Keystone Mechanical Agency (synthetic),639.13
+L-W-0043-2026-06-30-pf,2026-06-30,W-0043,performance,Northbeam Rights (synthetic),769.44
+L-W-0043-2026-06-30-mc,2026-06-30,W-0043,mechanical,Keystone Mechanical Agency (synthetic),629.54
+L-W-0044-2024-12-31-pf,2024-12-31,W-0044,performance,Cardinal PRS (synthetic),510.54
+L-W-0044-2024-12-31-mc,2024-12-31,W-0044,mechanical,Keystone Mechanical Agency (synthetic),417.71
+L-W-0044-2025-06-30-pf,2025-06-30,W-0044,performance,Cardinal PRS (synthetic),502.88
+L-W-0044-2025-06-30-mc,2025-06-30,W-0044,mechanical,Keystone Mechanical Agency (synthetic),411.45
+L-W-0044-2025-12-31-pf,2025-12-31,W-0044,performance,Cardinal PRS (synthetic),495.34
+L-W-0044-2025-12-31-mc,2025-12-31,W-0044,mechanical,Keystone Mechanical Agency (synthetic),405.28
+L-W-0044-2026-06-30-pf,2026-06-30,W-0044,performance,Cardinal PRS (synthetic),487.91
+L-W-0044-2026-06-30-mc,2026-06-30,W-0044,mechanical,Keystone Mechanical Agency (synthetic),399.20
+L-W-0045-2024-12-31-pf,2024-12-31,W-0045,performance,Northbeam Rights (synthetic),1395.27
+L-W-0045-2024-12-31-mc,2024-12-31,W-0045,mechanical,Keystone Mechanical Agency (synthetic),1141.58
+L-W-0045-2025-06-30-pf,2025-06-30,W-0045,performance,Northbeam Rights (synthetic),1311.55
+L-W-0045-2025-06-30-mc,2025-06-30,W-0045,mechanical,Keystone Mechanical Agency (synthetic),1073.09
+L-W-0045-2025-12-31-pf,2025-12-31,W-0045,performance,Northbeam Rights (synthetic),1232.86
+L-W-0045-2025-12-31-mc,2025-12-31,W-0045,mechanical,Keystone Mechanical Agency (synthetic),1008.70
+L-W-0045-2026-06-30-pf,2026-06-30,W-0045,performance,Northbeam Rights (synthetic),1158.89
+L-W-0045-2026-06-30-mc,2026-06-30,W-0045,mechanical,Keystone Mechanical Agency (synthetic),948.18
+L-W-0046-2024-12-31-pf,2024-12-31,W-0046,performance,Cardinal PRS (synthetic),454.92
+L-W-0046-2024-12-31-mc,2024-12-31,W-0046,mechanical,Keystone Mechanical Agency (synthetic),372.21
+L-W-0046-2025-06-30-pf,2025-06-30,W-0046,performance,Cardinal PRS (synthetic),448.10
+L-W-0046-2025-06-30-mc,2025-06-30,W-0046,mechanical,Keystone Mechanical Agency (synthetic),366.63
+L-W-0046-2025-12-31-pf,2025-12-31,W-0046,performance,Cardinal PRS (synthetic),441.38
+L-W-0046-2025-12-31-mc,2025-12-31,W-0046,mechanical,Keystone Mechanical Agency (synthetic),361.13
+L-W-0046-2026-06-30-pf,2026-06-30,W-0046,performance,Cardinal PRS (synthetic),434.76
+L-W-0046-2026-06-30-mc,2026-06-30,W-0046,mechanical,Keystone Mechanical Agency (synthetic),355.71
+L-W-0047-2024-12-31-pf,2024-12-31,W-0047,performance,Northbeam Rights (synthetic),474.91
+L-W-0047-2024-12-31-mc,2024-12-31,W-0047,mechanical,Keystone Mechanical Agency (synthetic),388.56
+L-W-0047-2025-06-30-pf,2025-06-30,W-0047,performance,Northbeam Rights (synthetic),467.78
+L-W-0047-2025-06-30-mc,2025-06-30,W-0047,mechanical,Keystone Mechanical Agency (synthetic),382.73
+L-W-0047-2025-12-31-pf,2025-12-31,W-0047,performance,Northbeam Rights (synthetic),460.77
+L-W-0047-2025-12-31-mc,2025-12-31,W-0047,mechanical,Keystone Mechanical Agency (synthetic),376.99
+L-W-0047-2026-06-30-pf,2026-06-30,W-0047,performance,Northbeam Rights (synthetic),453.86
+L-W-0047-2026-06-30-mc,2026-06-30,W-0047,mechanical,Keystone Mechanical Agency (synthetic),371.34
+L-W-0048-2024-12-31-pf,2024-12-31,W-0048,performance,Cardinal PRS (synthetic),942.43
+L-W-0048-2024-12-31-mc,2024-12-31,W-0048,mechanical,Keystone Mechanical Agency (synthetic),771.08
+L-W-0048-2025-06-30-pf,2025-06-30,W-0048,performance,Cardinal PRS (synthetic),928.29
+L-W-0048-2025-06-30-mc,2025-06-30,W-0048,mechanical,Keystone Mechanical Agency (synthetic),759.51
+L-W-0048-2025-12-31-pf,2025-12-31,W-0048,performance,Cardinal PRS (synthetic),914.37
+L-W-0048-2025-12-31-mc,2025-12-31,W-0048,mechanical,Keystone Mechanical Agency (synthetic),748.12
+L-W-0048-2026-06-30-pf,2026-06-30,W-0048,performance,Cardinal PRS (synthetic),900.65
+L-W-0048-2026-06-30-mc,2026-06-30,W-0048,mechanical,Keystone Mechanical Agency (synthetic),736.90
+L-W-0049-2024-12-31-pf,2024-12-31,W-0049,performance,Northbeam Rights (synthetic),1358.05
+L-W-0049-2024-12-31-mc,2024-12-31,W-0049,mechanical,Keystone Mechanical Agency (synthetic),1111.13
+L-W-0049-2025-06-30-pf,2025-06-30,W-0049,performance,Northbeam Rights (synthetic),1337.68
+L-W-0049-2025-06-30-mc,2025-06-30,W-0049,mechanical,Keystone Mechanical Agency (synthetic),1094.46
+L-W-0049-2025-12-31-pf,2025-12-31,W-0049,performance,Northbeam Rights (synthetic),1317.61
+L-W-0049-2025-12-31-mc,2025-12-31,W-0049,mechanical,Keystone Mechanical Agency (synthetic),1078.04
+L-W-0049-2026-06-30-pf,2026-06-30,W-0049,performance,Northbeam Rights (synthetic),1297.85
+L-W-0049-2026-06-30-mc,2026-06-30,W-0049,mechanical,Keystone Mechanical Agency (synthetic),1061.87
+L-W-0050-2024-12-31-pf,2024-12-31,W-0050,performance,Cardinal PRS (synthetic),977.19
+L-W-0050-2024-12-31-mc,2024-12-31,W-0050,mechanical,Keystone Mechanical Agency (synthetic),799.52
+L-W-0050-2025-06-30-pf,2025-06-30,W-0050,performance,Cardinal PRS (synthetic),962.53
+L-W-0050-2025-06-30-mc,2025-06-30,W-0050,mechanical,Keystone Mechanical Agency (synthetic),787.53
+L-W-0050-2025-12-31-pf,2025-12-31,W-0050,performance,Cardinal PRS (synthetic),948.09
+L-W-0050-2025-12-31-mc,2025-12-31,W-0050,mechanical,Keystone Mechanical Agency (synthetic),775.71
+L-W-0050-2026-06-30-pf,2026-06-30,W-0050,performance,Cardinal PRS (synthetic),933.87
+L-W-0050-2026-06-30-mc,2026-06-30,W-0050,mechanical,Keystone Mechanical Agency (synthetic),764.08
+L-W-0051-2024-12-31-pf,2024-12-31,W-0051,performance,Northbeam Rights (synthetic),1011.52
+L-W-0051-2024-12-31-mc,2024-12-31,W-0051,mechanical,Keystone Mechanical Agency (synthetic),827.60
+L-W-0051-2025-06-30-pf,2025-06-30,W-0051,performance,Northbeam Rights (synthetic),996.34
+L-W-0051-2025-06-30-mc,2025-06-30,W-0051,mechanical,Keystone Mechanical Agency (synthetic),815.19
+L-W-0051-2025-12-31-pf,2025-12-31,W-0051,performance,Northbeam Rights (synthetic),981.40
+L-W-0051-2025-12-31-mc,2025-12-31,W-0051,mechanical,Keystone Mechanical Agency (synthetic),802.96
+L-W-0051-2026-06-30-pf,2026-06-30,W-0051,performance,Northbeam Rights (synthetic),966.68
+L-W-0051-2026-06-30-mc,2026-06-30,W-0051,mechanical,Keystone Mechanical Agency (synthetic),790.92
+L-W-0052-2024-12-31-pf,2024-12-31,W-0052,performance,Cardinal PRS (synthetic),1186.01
+L-W-0052-2024-12-31-mc,2024-12-31,W-0052,mechanical,Keystone Mechanical Agency (synthetic),970.37
+L-W-0052-2025-06-30-pf,2025-06-30,W-0052,performance,Cardinal PRS (synthetic),1114.85
+L-W-0052-2025-06-30-mc,2025-06-30,W-0052,mechanical,Keystone Mechanical Agency (synthetic),912.15
+L-W-0052-2025-12-31-pf,2025-12-31,W-0052,performance,Cardinal PRS (synthetic),1047.96
+L-W-0052-2025-12-31-mc,2025-12-31,W-0052,mechanical,Keystone Mechanical Agency (synthetic),857.42
+L-W-0052-2026-06-30-pf,2026-06-30,W-0052,performance,Cardinal PRS (synthetic),985.08
+L-W-0052-2026-06-30-mc,2026-06-30,W-0052,mechanical,Keystone Mechanical Agency (synthetic),805.98
+L-W-0053-2024-12-31-pf,2024-12-31,W-0053,performance,Northbeam Rights (synthetic),562.68
+L-W-0053-2024-12-31-mc,2024-12-31,W-0053,mechanical,Keystone Mechanical Agency (synthetic),460.37
+L-W-0053-2025-06-30-pf,2025-06-30,W-0053,performance,Northbeam Rights (synthetic),554.24
+L-W-0053-2025-06-30-mc,2025-06-30,W-0053,mechanical,Keystone Mechanical Agency (synthetic),453.47
+L-W-0053-2025-12-31-pf,2025-12-31,W-0053,performance,Northbeam Rights (synthetic),545.92
+L-W-0053-2025-12-31-mc,2025-12-31,W-0053,mechanical,Keystone Mechanical Agency (synthetic),446.66
+L-W-0053-2026-06-30-pf,2026-06-30,W-0053,performance,Northbeam Rights (synthetic),537.73
+L-W-0053-2026-06-30-mc,2026-06-30,W-0053,mechanical,Keystone Mechanical Agency (synthetic),439.96
+L-W-0054-2024-12-31-pf,2024-12-31,W-0054,performance,Cardinal PRS (synthetic),651.75
+L-W-0054-2024-12-31-mc,2024-12-31,W-0054,mechanical,Keystone Mechanical Agency (synthetic),533.25
+L-W-0054-2025-06-30-pf,2025-06-30,W-0054,performance,Cardinal PRS (synthetic),641.97
+L-W-0054-2025-06-30-mc,2025-06-30,W-0054,mechanical,Keystone Mechanical Agency (synthetic),525.25
+L-W-0054-2025-12-31-pf,2025-12-31,W-0054,performance,Cardinal PRS (synthetic),632.34
+L-W-0054-2025-12-31-mc,2025-12-31,W-0054,mechanical,Keystone Mechanical Agency (synthetic),517.37
+L-W-0054-2026-06-30-pf,2026-06-30,W-0054,performance,Cardinal PRS (synthetic),622.86
+L-W-0054-2026-06-30-mc,2026-06-30,W-0054,mechanical,Keystone Mechanical Agency (synthetic),509.61
+L-W-0055-2024-12-31-pf,2024-12-31,W-0055,performance,Northbeam Rights (synthetic),1794.43
+L-W-0055-2024-12-31-mc,2024-12-31,W-0055,mechanical,Keystone Mechanical Agency (synthetic),1468.17
+L-W-0055-2025-06-30-pf,2025-06-30,W-0055,performance,Northbeam Rights (synthetic),1767.51
+L-W-0055-2025-06-30-mc,2025-06-30,W-0055,mechanical,Keystone Mechanical Agency (synthetic),1446.15
+L-W-0055-2025-12-31-pf,2025-12-31,W-0055,performance,Northbeam Rights (synthetic),1741.00
+L-W-0055-2025-12-31-mc,2025-12-31,W-0055,mechanical,Keystone Mechanical Agency (synthetic),1424.45
+L-W-0055-2026-06-30-pf,2026-06-30,W-0055,performance,Northbeam Rights (synthetic),1714.88
+L-W-0055-2026-06-30-mc,2026-06-30,W-0055,mechanical,Keystone Mechanical Agency (synthetic),1403.09
+L-W-0056-2024-12-31-pf,2024-12-31,W-0056,performance,Cardinal PRS (synthetic),497.07
+L-W-0056-2024-12-31-mc,2024-12-31,W-0056,mechanical,Keystone Mechanical Agency (synthetic),406.69
+L-W-0056-2025-06-30-pf,2025-06-30,W-0056,performance,Cardinal PRS (synthetic),489.61
+L-W-0056-2025-06-30-mc,2025-06-30,W-0056,mechanical,Keystone Mechanical Agency (synthetic),400.59
+L-W-0056-2025-12-31-pf,2025-12-31,W-0056,performance,Cardinal PRS (synthetic),482.27
+L-W-0056-2025-12-31-mc,2025-12-31,W-0056,mechanical,Keystone Mechanical Agency (synthetic),394.58
+L-W-0056-2026-06-30-pf,2026-06-30,W-0056,performance,Cardinal PRS (synthetic),475.03
+L-W-0056-2026-06-30-mc,2026-06-30,W-0056,mechanical,Keystone Mechanical Agency (synthetic),388.66
+L-W-0057-2024-12-31-pf,2024-12-31,W-0057,performance,Northbeam Rights (synthetic),401.04
+L-W-0057-2024-12-31-mc,2024-12-31,W-0057,mechanical,Keystone Mechanical Agency (synthetic),328.13
+L-W-0057-2025-06-30-pf,2025-06-30,W-0057,performance,Northbeam Rights (synthetic),395.03
+L-W-0057-2025-06-30-mc,2025-06-30,W-0057,mechanical,Keystone Mechanical Agency (synthetic),323.20
+L-W-0057-2025-12-31-pf,2025-12-31,W-0057,performance,Northbeam Rights (synthetic),389.10
+L-W-0057-2025-12-31-mc,2025-12-31,W-0057,mechanical,Keystone Mechanical Agency (synthetic),318.36
+L-W-0057-2026-06-30-pf,2026-06-30,W-0057,performance,Northbeam Rights (synthetic),383.27
+L-W-0057-2026-06-30-mc,2026-06-30,W-0057,mechanical,Keystone Mechanical Agency (synthetic),313.58
+L-W-0058-2024-12-31-pf,2024-12-31,W-0058,performance,Cardinal PRS (synthetic),1494.68
+L-W-0058-2024-12-31-mc,2024-12-31,W-0058,mechanical,Keystone Mechanical Agency (synthetic),1222.92
+L-W-0058-2025-06-30-pf,2025-06-30,W-0058,performance,Cardinal PRS (synthetic),1405.00
+L-W-0058-2025-06-30-mc,2025-06-30,W-0058,mechanical,Keystone Mechanical Agency (synthetic),1149.54
+L-W-0058-2025-12-31-pf,2025-12-31,W-0058,performance,Cardinal PRS (synthetic),1320.70
+L-W-0058-2025-12-31-mc,2025-12-31,W-0058,mechanical,Keystone Mechanical Agency (synthetic),1080.57
+L-W-0058-2026-06-30-pf,2026-06-30,W-0058,performance,Cardinal PRS (synthetic),1241.46
+L-W-0058-2026-06-30-mc,2026-06-30,W-0058,mechanical,Keystone Mechanical Agency (synthetic),1015.74
+L-W-0059-2024-12-31-pf,2024-12-31,W-0059,performance,Northbeam Rights (synthetic),1316.01
+L-W-0059-2024-12-31-mc,2024-12-31,W-0059,mechanical,Keystone Mechanical Agency (synthetic),1076.74
+L-W-0059-2025-06-30-pf,2025-06-30,W-0059,performance,Northbeam Rights (synthetic),1237.05
+L-W-0059-2025-06-30-mc,2025-06-30,W-0059,mechanical,Keystone Mechanical Agency (synthetic),1012.13
+L-W-0059-2025-12-31-pf,2025-12-31,W-0059,performance,Northbeam Rights (synthetic),1162.83
+L-W-0059-2025-12-31-mc,2025-12-31,W-0059,mechanical,Keystone Mechanical Agency (synthetic),951.41
+L-W-0059-2026-06-30-pf,2026-06-30,W-0059,performance,Northbeam Rights (synthetic),1093.06
+L-W-0059-2026-06-30-mc,2026-06-30,W-0059,mechanical,Keystone Mechanical Agency (synthetic),894.32
+L-W-0060-2024-12-31-pf,2024-12-31,W-0060,performance,Cardinal PRS (synthetic),1107.54
+L-W-0060-2024-12-31-mc,2024-12-31,W-0060,mechanical,Keystone Mechanical Agency (synthetic),906.17
+L-W-0060-2025-06-30-pf,2025-06-30,W-0060,performance,Cardinal PRS (synthetic),1090.93
+L-W-0060-2025-06-30-mc,2025-06-30,W-0060,mechanical,Keystone Mechanical Agency (synthetic),892.58
+L-W-0060-2025-12-31-pf,2025-12-31,W-0060,performance,Cardinal PRS (synthetic),1074.56
+L-W-0060-2025-12-31-mc,2025-12-31,W-0060,mechanical,Keystone Mechanical Agency (synthetic),879.19
+L-W-0060-2026-06-30-pf,2026-06-30,W-0060,performance,Cardinal PRS (synthetic),1058.45
+L-W-0060-2026-06-30-mc,2026-06-30,W-0060,mechanical,Keystone Mechanical Agency (synthetic),866.00
+L-W-0061-2024-12-31-pf,2024-12-31,W-0061,performance,Northbeam Rights (synthetic),976.10
+L-W-0061-2024-12-31-mc,2024-12-31,W-0061,mechanical,Keystone Mechanical Agency (synthetic),798.62
+L-W-0061-2025-06-30-pf,2025-06-30,W-0061,performance,Northbeam Rights (synthetic),961.45
+L-W-0061-2025-06-30-mc,2025-06-30,W-0061,mechanical,Keystone Mechanical Agency (synthetic),786.64
+L-W-0061-2025-12-31-pf,2025-12-31,W-0061,performance,Northbeam Rights (synthetic),947.03
+L-W-0061-2025-12-31-mc,2025-12-31,W-0061,mechanical,Keystone Mechanical Agency (synthetic),774.84
+L-W-0061-2026-06-30-pf,2026-06-30,W-0061,performance,Northbeam Rights (synthetic),932.83
+L-W-0061-2026-06-30-mc,2026-06-30,W-0061,mechanical,Keystone Mechanical Agency (synthetic),763.22
+L-W-0062-2024-12-31-pf,2024-12-31,W-0062,performance,Cardinal PRS (synthetic),2367.35
+L-W-0062-2024-12-31-mc,2024-12-31,W-0062,mechanical,Keystone Mechanical Agency (synthetic),1936.93
+L-W-0062-2025-06-30-pf,2025-06-30,W-0062,performance,Cardinal PRS (synthetic),2331.84
+L-W-0062-2025-06-30-mc,2025-06-30,W-0062,mechanical,Keystone Mechanical Agency (synthetic),1907.87
+L-W-0062-2025-12-31-pf,2025-12-31,W-0062,performance,Cardinal PRS (synthetic),2296.87
+L-W-0062-2025-12-31-mc,2025-12-31,W-0062,mechanical,Keystone Mechanical Agency (synthetic),1879.25
+L-W-0062-2026-06-30-pf,2026-06-30,W-0062,performance,Cardinal PRS (synthetic),2262.41
+L-W-0062-2026-06-30-mc,2026-06-30,W-0062,mechanical,Keystone Mechanical Agency (synthetic),1851.07
+L-W-0063-2024-12-31-mc,2024-12-31,W-0063,mechanical,Keystone Mechanical Agency (synthetic),746.27
+L-W-0063-2025-06-30-mc,2025-06-30,W-0063,mechanical,Keystone Mechanical Agency (synthetic),701.49
+L-W-0063-2025-12-31-mc,2025-12-31,W-0063,mechanical,Keystone Mechanical Agency (synthetic),659.40
+L-W-0063-2026-06-30-mc,2026-06-30,W-0063,mechanical,Keystone Mechanical Agency (synthetic),619.84
+L-W-0064-2024-12-31-pf,2024-12-31,W-0064,performance,Cardinal PRS (synthetic),600.48
+L-W-0064-2024-12-31-mc,2024-12-31,W-0064,mechanical,Keystone Mechanical Agency (synthetic),491.30
+L-W-0064-2025-06-30-pf,2025-06-30,W-0064,performance,Cardinal PRS (synthetic),591.47
+L-W-0064-2025-06-30-mc,2025-06-30,W-0064,mechanical,Keystone Mechanical Agency (synthetic),483.93
+L-W-0064-2025-12-31-pf,2025-12-31,W-0064,performance,Cardinal PRS (synthetic),582.60
+L-W-0064-2025-12-31-mc,2025-12-31,W-0064,mechanical,Keystone Mechanical Agency (synthetic),476.67
+L-W-0064-2026-06-30-pf,2026-06-30,W-0064,performance,Cardinal PRS (synthetic),573.86
+L-W-0064-2026-06-30-mc,2026-06-30,W-0064,mechanical,Keystone Mechanical Agency (synthetic),469.52
+L-W-0065-2024-12-31-pf,2024-12-31,W-0065,performance,Northbeam Rights (synthetic),638.89
+L-W-0065-2024-12-31-mc,2024-12-31,W-0065,mechanical,Keystone Mechanical Agency (synthetic),522.73
+L-W-0065-2025-06-30-pf,2025-06-30,W-0065,performance,Northbeam Rights (synthetic),600.56
+L-W-0065-2025-06-30-mc,2025-06-30,W-0065,mechanical,Keystone Mechanical Agency (synthetic),491.36
+L-W-0065-2025-12-31-pf,2025-12-31,W-0065,performance,Northbeam Rights (synthetic),564.52
+L-W-0065-2025-12-31-mc,2025-12-31,W-0065,mechanical,Keystone Mechanical Agency (synthetic),461.88
+L-W-0065-2026-06-30-pf,2026-06-30,W-0065,performance,Northbeam Rights (synthetic),530.65
+L-W-0065-2026-06-30-mc,2026-06-30,W-0065,mechanical,Keystone Mechanical Agency (synthetic),434.17
+L-W-0066-2024-12-31-pf,2024-12-31,W-0066,performance,Cardinal PRS (synthetic),571.80
+L-W-0066-2024-12-31-mc,2024-12-31,W-0066,mechanical,Keystone Mechanical Agency (synthetic),467.84
+L-W-0066-2025-06-30-pf,2025-06-30,W-0066,performance,Cardinal PRS (synthetic),563.22
+L-W-0066-2025-06-30-mc,2025-06-30,W-0066,mechanical,Keystone Mechanical Agency (synthetic),460.82
+L-W-0066-2025-12-31-pf,2025-12-31,W-0066,performance,Cardinal PRS (synthetic),554.78
+L-W-0066-2025-12-31-mc,2025-12-31,W-0066,mechanical,Keystone Mechanical Agency (synthetic),453.91
+L-W-0066-2026-06-30-pf,2026-06-30,W-0066,performance,Cardinal PRS (synthetic),546.45
+L-W-0066-2026-06-30-mc,2026-06-30,W-0066,mechanical,Keystone Mechanical Agency (synthetic),447.10
+L-W-0067-2024-12-31-pf,2024-12-31,W-0067,performance,Northbeam Rights (synthetic),1018.53
+L-W-0067-2024-12-31-mc,2024-12-31,W-0067,mechanical,Keystone Mechanical Agency (synthetic),833.35
+L-W-0067-2025-06-30-pf,2025-06-30,W-0067,performance,Northbeam Rights (synthetic),1003.26
+L-W-0067-2025-06-30-mc,2025-06-30,W-0067,mechanical,Keystone Mechanical Agency (synthetic),820.85
+L-W-0067-2025-12-31-pf,2025-12-31,W-0067,performance,Northbeam Rights (synthetic),988.21
+L-W-0067-2025-12-31-mc,2025-12-31,W-0067,mechanical,Keystone Mechanical Agency (synthetic),808.53
+L-W-0067-2026-06-30-pf,2026-06-30,W-0067,performance,Northbeam Rights (synthetic),973.38
+L-W-0067-2026-06-30-mc,2026-06-30,W-0067,mechanical,Keystone Mechanical Agency (synthetic),796.41
+L-W-0068-2024-12-31-pf,2024-12-31,W-0068,performance,Cardinal PRS (synthetic),1453.99
+L-W-0068-2024-12-31-mc,2024-12-31,W-0068,mechanical,Keystone Mechanical Agency (synthetic),1189.63
+L-W-0068-2025-06-30-pf,2025-06-30,W-0068,performance,Cardinal PRS (synthetic),1432.18
+L-W-0068-2025-06-30-mc,2025-06-30,W-0068,mechanical,Keystone Mechanical Agency (synthetic),1171.79
+L-W-0068-2025-12-31-pf,2025-12-31,W-0068,performance,Cardinal PRS (synthetic),1410.70
+L-W-0068-2025-12-31-mc,2025-12-31,W-0068,mechanical,Keystone Mechanical Agency (synthetic),1154.21
+L-W-0068-2026-06-30-pf,2026-06-30,W-0068,performance,Cardinal PRS (synthetic),1389.54
+L-W-0068-2026-06-30-mc,2026-06-30,W-0068,mechanical,Keystone Mechanical Agency (synthetic),1136.90
+L-W-0069-2024-12-31-pf,2024-12-31,W-0069,performance,Northbeam Rights (synthetic),406.69
+L-W-0069-2024-12-31-mc,2024-12-31,W-0069,mechanical,Keystone Mechanical Agency (synthetic),332.75
+L-W-0069-2025-06-30-pf,2025-06-30,W-0069,performance,Northbeam Rights (synthetic),400.59
+L-W-0069-2025-06-30-mc,2025-06-30,W-0069,mechanical,Keystone Mechanical Agency (synthetic),327.76
+L-W-0069-2025-12-31-pf,2025-12-31,W-0069,performance,Northbeam Rights (synthetic),394.58
+L-W-0069-2025-12-31-mc,2025-12-31,W-0069,mechanical,Keystone Mechanical Agency (synthetic),322.84
+L-W-0069-2026-06-30-pf,2026-06-30,W-0069,performance,Northbeam Rights (synthetic),388.66
+L-W-0069-2026-06-30-mc,2026-06-30,W-0069,mechanical,Keystone Mechanical Agency (synthetic),318.00
+L-W-0070-2024-12-31-pf,2024-12-31,W-0070,performance,Cardinal PRS (synthetic),590.92
+L-W-0070-2024-12-31-mc,2024-12-31,W-0070,mechanical,Keystone Mechanical Agency (synthetic),483.48
+L-W-0070-2025-06-30-pf,2025-06-30,W-0070,performance,Cardinal PRS (synthetic),582.06
+L-W-0070-2025-06-30-mc,2025-06-30,W-0070,mechanical,Keystone Mechanical Agency (synthetic),476.23
+L-W-0070-2025-12-31-pf,2025-12-31,W-0070,performance,Cardinal PRS (synthetic),573.33
+L-W-0070-2025-12-31-mc,2025-12-31,W-0070,mechanical,Keystone Mechanical Agency (synthetic),469.08
+L-W-0070-2026-06-30-pf,2026-06-30,W-0070,performance,Cardinal PRS (synthetic),564.73
+L-W-0070-2026-06-30-mc,2026-06-30,W-0070,mechanical,Keystone Mechanical Agency (synthetic),462.05
+L-W-0071-2024-12-31-pf,2024-12-31,W-0071,performance,Northbeam Rights (synthetic),1657.36
+L-W-0071-2024-12-31-mc,2024-12-31,W-0071,mechanical,Keystone Mechanical Agency (synthetic),1356.02
+L-W-0071-2025-06-30-pf,2025-06-30,W-0071,performance,Northbeam Rights (synthetic),1557.92
+L-W-0071-2025-06-30-mc,2025-06-30,W-0071,mechanical,Keystone Mechanical Agency (synthetic),1274.66
+L-W-0071-2025-12-31-pf,2025-12-31,W-0071,performance,Northbeam Rights (synthetic),1464.44
+L-W-0071-2025-12-31-mc,2025-12-31,W-0071,mechanical,Keystone Mechanical Agency (synthetic),1198.18
+L-W-0071-2026-06-30-pf,2026-06-30,W-0071,performance,Northbeam Rights (synthetic),1376.57
+L-W-0071-2026-06-30-mc,2026-06-30,W-0071,mechanical,Keystone Mechanical Agency (synthetic),1126.29
+L-W-0072-2024-12-31-pf,2024-12-31,W-0072,performance,Cardinal PRS (synthetic),1294.46
+L-W-0072-2024-12-31-mc,2024-12-31,W-0072,mechanical,Keystone Mechanical Agency (synthetic),1059.11
+L-W-0072-2025-06-30-pf,2025-06-30,W-0072,performance,Cardinal PRS (synthetic),1216.79
+L-W-0072-2025-06-30-mc,2025-06-30,W-0072,mechanical,Keystone Mechanical Agency (synthetic),995.56
+L-W-0072-2025-12-31-pf,2025-12-31,W-0072,performance,Cardinal PRS (synthetic),1143.79
+L-W-0072-2025-12-31-mc,2025-12-31,W-0072,mechanical,Keystone Mechanical Agency (synthetic),935.83
+L-W-0072-2026-06-30-pf,2026-06-30,W-0072,performance,Cardinal PRS (synthetic),1075.16
+L-W-0072-2026-06-30-mc,2026-06-30,W-0072,mechanical,Keystone Mechanical Agency (synthetic),879.68
+L-W-0073-2024-12-31-pf,2024-12-31,W-0073,performance,Northbeam Rights (synthetic),569.20
+L-W-0073-2024-12-31-mc,2024-12-31,W-0073,mechanical,Keystone Mechanical Agency (synthetic),465.71
+L-W-0073-2025-06-30-pf,2025-06-30,W-0073,performance,Northbeam Rights (synthetic),560.66
+L-W-0073-2025-06-30-mc,2025-06-30,W-0073,mechanical,Keystone Mechanical Agency (synthetic),458.72
+L-W-0073-2025-12-31-pf,2025-12-31,W-0073,performance,Northbeam Rights (synthetic),552.25
+L-W-0073-2025-12-31-mc,2025-12-31,W-0073,mechanical,Keystone Mechanical Agency (synthetic),451.84
+L-W-0073-2026-06-30-pf,2026-06-30,W-0073,performance,Northbeam Rights (synthetic),543.96
+L-W-0073-2026-06-30-mc,2026-06-30,W-0073,mechanical,Keystone Mechanical Agency (synthetic),445.06
+L-W-0074-2024-12-31-pf,2024-12-31,W-0074,performance,Cardinal PRS (synthetic),1464.14
+L-W-0074-2024-12-31-mc,2024-12-31,W-0074,mechanical,Keystone Mechanical Agency (synthetic),1197.94
+L-W-0074-2025-06-30-pf,2025-06-30,W-0074,performance,Cardinal PRS (synthetic),1442.18
+L-W-0074-2025-06-30-mc,2025-06-30,W-0074,mechanical,Keystone Mechanical Agency (synthetic),1179.97
+L-W-0074-2025-12-31-pf,2025-12-31,W-0074,performance,Cardinal PRS (synthetic),1420.55
+L-W-0074-2025-12-31-mc,2025-12-31,W-0074,mechanical,Keystone Mechanical Agency (synthetic),1162.27
+L-W-0074-2026-06-30-pf,2026-06-30,W-0074,performance,Cardinal PRS (synthetic),1399.24
+L-W-0074-2026-06-30-mc,2026-06-30,W-0074,mechanical,Keystone Mechanical Agency (synthetic),1144.83
+L-W-0075-2024-12-31-pf,2024-12-31,W-0075,performance,Northbeam Rights (synthetic),1608.99
+L-W-0075-2024-12-31-mc,2024-12-31,W-0075,mechanical,Keystone Mechanical Agency (synthetic),1316.45
+L-W-0075-2025-06-30-pf,2025-06-30,W-0075,performance,Northbeam Rights (synthetic),1584.85
+L-W-0075-2025-06-30-mc,2025-06-30,W-0075,mechanical,Keystone Mechanical Agency (synthetic),1296.70
+L-W-0075-2025-12-31-pf,2025-12-31,W-0075,performance,Northbeam Rights (synthetic),1561.08
+L-W-0075-2025-12-31-mc,2025-12-31,W-0075,mechanical,Keystone Mechanical Agency (synthetic),1277.25
+L-W-0075-2026-06-30-pf,2026-06-30,W-0075,performance,Northbeam Rights (synthetic),1537.67
+L-W-0075-2026-06-30-mc,2026-06-30,W-0075,mechanical,Keystone Mechanical Agency (synthetic),1258.09
+L-W-0076-2024-12-31-pf,2024-12-31,W-0076,performance,Cardinal PRS (synthetic),1107.54
+L-W-0076-2024-12-31-mc,2024-12-31,W-0076,mechanical,Keystone Mechanical Agency (synthetic),906.17
+L-W-0076-2025-06-30-pf,2025-06-30,W-0076,performance,Cardinal PRS (synthetic),1090.93
+L-W-0076-2025-06-30-mc,2025-06-30,W-0076,mechanical,Keystone Mechanical Agency (synthetic),892.58
+L-W-0076-2025-12-31-pf,2025-12-31,W-0076,performance,Cardinal PRS (synthetic),1074.56
+L-W-0076-2025-12-31-mc,2025-12-31,W-0076,mechanical,Keystone Mechanical Agency (synthetic),879.19
+L-W-0076-2026-06-30-pf,2026-06-30,W-0076,performance,Cardinal PRS (synthetic),1058.45
+L-W-0076-2026-06-30-mc,2026-06-30,W-0076,mechanical,Keystone Mechanical Agency (synthetic),866.00
+L-W-0077-2024-12-31-pf,2024-12-31,W-0077,performance,Northbeam Rights (synthetic),1060.18
+L-W-0077-2024-12-31-mc,2024-12-31,W-0077,mechanical,Keystone Mechanical Agency (synthetic),867.42
+L-W-0077-2025-06-30-pf,2025-06-30,W-0077,performance,Northbeam Rights (synthetic),1044.28
+L-W-0077-2025-06-30-mc,2025-06-30,W-0077,mechanical,Keystone Mechanical Agency (synthetic),854.41
+L-W-0077-2025-12-31-pf,2025-12-31,W-0077,performance,Northbeam Rights (synthetic),1028.61
+L-W-0077-2025-12-31-mc,2025-12-31,W-0077,mechanical,Keystone Mechanical Agency (synthetic),841.59
+L-W-0077-2026-06-30-pf,2026-06-30,W-0077,performance,Northbeam Rights (synthetic),1013.18
+L-W-0077-2026-06-30-mc,2026-06-30,W-0077,mechanical,Keystone Mechanical Agency (synthetic),828.97
+L-W-0078-2024-12-31-pf,2024-12-31,W-0078,performance,Cardinal PRS (synthetic),862.74
+L-W-0078-2024-12-31-mc,2024-12-31,W-0078,mechanical,Keystone Mechanical Agency (synthetic),705.88
+L-W-0078-2025-06-30-pf,2025-06-30,W-0078,performance,Cardinal PRS (synthetic),810.98
+L-W-0078-2025-06-30-mc,2025-06-30,W-0078,mechanical,Keystone Mechanical Agency (synthetic),663.53
+L-W-0078-2025-12-31-pf,2025-12-31,W-0078,performance,Cardinal PRS (synthetic),762.32
+L-W-0078-2025-12-31-mc,2025-12-31,W-0078,mechanical,Keystone Mechanical Agency (synthetic),623.72
+L-W-0078-2026-06-30-pf,2026-06-30,W-0078,performance,Cardinal PRS (synthetic),716.58
+L-W-0078-2026-06-30-mc,2026-06-30,W-0078,mechanical,Keystone Mechanical Agency (synthetic),586.29
+L-W-0079-2024-12-31-pf,2024-12-31,W-0079,performance,Northbeam Rights (synthetic),827.29
+L-W-0079-2024-12-31-mc,2024-12-31,W-0079,mechanical,Keystone Mechanical Agency (synthetic),676.87
+L-W-0079-2025-06-30-pf,2025-06-30,W-0079,performance,Northbeam Rights (synthetic),814.88
+L-W-0079-2025-06-30-mc,2025-06-30,W-0079,mechanical,Keystone Mechanical Agency (synthetic),666.72
+L-W-0079-2025-12-31-pf,2025-12-31,W-0079,performance,Northbeam Rights (synthetic),802.66
+L-W-0079-2025-12-31-mc,2025-12-31,W-0079,mechanical,Keystone Mechanical Agency (synthetic),656.72
+L-W-0079-2026-06-30-pf,2026-06-30,W-0079,performance,Northbeam Rights (synthetic),790.62
+L-W-0079-2026-06-30-mc,2026-06-30,W-0079,mechanical,Keystone Mechanical Agency (synthetic),646.87
+L-W-0080-2024-12-31-pf,2024-12-31,W-0080,performance,Cardinal PRS (synthetic),2002.01
+L-W-0080-2024-12-31-mc,2024-12-31,W-0080,mechanical,Keystone Mechanical Agency (synthetic),1638.01
+L-W-0080-2025-06-30-pf,2025-06-30,W-0080,performance,Cardinal PRS (synthetic),1971.98
+L-W-0080-2025-06-30-mc,2025-06-30,W-0080,mechanical,Keystone Mechanical Agency (synthetic),1613.44
+L-W-0080-2025-12-31-pf,2025-12-31,W-0080,performance,Cardinal PRS (synthetic),1942.40
+L-W-0080-2025-12-31-mc,2025-12-31,W-0080,mechanical,Keystone Mechanical Agency (synthetic),1589.24
+L-W-0080-2026-06-30-pf,2026-06-30,W-0080,performance,Cardinal PRS (synthetic),1913.26
+L-W-0080-2026-06-30-mc,2026-06-30,W-0080,mechanical,Keystone Mechanical Agency (synthetic),1565.40
+L-W-0081-2024-12-31-pf,2024-12-31,W-0081,performance,Northbeam Rights (synthetic),2358.13
+L-W-0081-2024-12-31-mc,2024-12-31,W-0081,mechanical,Keystone Mechanical Agency (synthetic),1929.38
+L-W-0081-2025-06-30-pf,2025-06-30,W-0081,performance,Northbeam Rights (synthetic),2322.76
+L-W-0081-2025-06-30-mc,2025-06-30,W-0081,mechanical,Keystone Mechanical Agency (synthetic),1900.44
+L-W-0081-2025-12-31-pf,2025-12-31,W-0081,performance,Northbeam Rights (synthetic),2287.92
+L-W-0081-2025-12-31-mc,2025-12-31,W-0081,mechanical,Keystone Mechanical Agency (synthetic),1871.93
+L-W-0081-2026-06-30-pf,2026-06-30,W-0081,performance,Northbeam Rights (synthetic),2253.60
+L-W-0081-2026-06-30-mc,2026-06-30,W-0081,mechanical,Keystone Mechanical Agency (synthetic),1843.85
+L-W-0082-2024-12-31-pf,2024-12-31,W-0082,performance,Cardinal PRS (synthetic),1203.05
+L-W-0082-2024-12-31-mc,2024-12-31,W-0082,mechanical,Keystone Mechanical Agency (synthetic),984.31
+L-W-0082-2025-06-30-pf,2025-06-30,W-0082,performance,Cardinal PRS (synthetic),1185.01
+L-W-0082-2025-06-30-mc,2025-06-30,W-0082,mechanical,Keystone Mechanical Agency (synthetic),969.55
+L-W-0082-2025-12-31-pf,2025-12-31,W-0082,performance,Cardinal PRS (synthetic),1167.23
+L-W-0082-2025-12-31-mc,2025-12-31,W-0082,mechanical,Keystone Mechanical Agency (synthetic),955.01
+L-W-0082-2026-06-30-pf,2026-06-30,W-0082,performance,Cardinal PRS (synthetic),1149.72
+L-W-0082-2026-06-30-mc,2026-06-30,W-0082,mechanical,Keystone Mechanical Agency (synthetic),940.68
+L-W-0083-2024-12-31-pf,2024-12-31,W-0083,performance,Northbeam Rights (synthetic),999.35
+L-W-0083-2024-12-31-mc,2024-12-31,W-0083,mechanical,Keystone Mechanical Agency (synthetic),817.65
+L-W-0083-2025-06-30-pf,2025-06-30,W-0083,performance,Northbeam Rights (synthetic),984.36
+L-W-0083-2025-06-30-mc,2025-06-30,W-0083,mechanical,Keystone Mechanical Agency (synthetic),805.39
+L-W-0083-2025-12-31-pf,2025-12-31,W-0083,performance,Northbeam Rights (synthetic),969.59
+L-W-0083-2025-12-31-mc,2025-12-31,W-0083,mechanical,Keystone Mechanical Agency (synthetic),793.30
+L-W-0083-2026-06-30-pf,2026-06-30,W-0083,performance,Northbeam Rights (synthetic),955.05
+L-W-0083-2026-06-30-mc,2026-06-30,W-0083,mechanical,Keystone Mechanical Agency (synthetic),781.40
+L-W-0084-2024-12-31-pf,2024-12-31,W-0084,performance,Cardinal PRS (synthetic),575.71
+L-W-0084-2024-12-31-mc,2024-12-31,W-0084,mechanical,Keystone Mechanical Agency (synthetic),471.04
+L-W-0084-2025-06-30-pf,2025-06-30,W-0084,performance,Cardinal PRS (synthetic),567.08
+L-W-0084-2025-06-30-mc,2025-06-30,W-0084,mechanical,Keystone Mechanical Agency (synthetic),463.97
+L-W-0084-2025-12-31-pf,2025-12-31,W-0084,performance,Cardinal PRS (synthetic),558.57
+L-W-0084-2025-12-31-mc,2025-12-31,W-0084,mechanical,Keystone Mechanical Agency (synthetic),457.01
+L-W-0084-2026-06-30-pf,2026-06-30,W-0084,performance,Cardinal PRS (synthetic),550.19
+L-W-0084-2026-06-30-mc,2026-06-30,W-0084,mechanical,Keystone Mechanical Agency (synthetic),450.16
+L-W-0085-2024-12-31-pf,2024-12-31,W-0085,performance,Northbeam Rights (synthetic),1674.74
+L-W-0085-2024-12-31-mc,2024-12-31,W-0085,mechanical,Keystone Mechanical Agency (synthetic),1370.24
+L-W-0085-2025-06-30-pf,2025-06-30,W-0085,performance,Northbeam Rights (synthetic),1574.25
+L-W-0085-2025-06-30-mc,2025-06-30,W-0085,mechanical,Keystone Mechanical Agency (synthetic),1288.02
+L-W-0085-2025-12-31-pf,2025-12-31,W-0085,performance,Northbeam Rights (synthetic),1479.80
+L-W-0085-2025-12-31-mc,2025-12-31,W-0085,mechanical,Keystone Mechanical Agency (synthetic),1210.74
+L-W-0085-2026-06-30-pf,2026-06-30,W-0085,performance,Northbeam Rights (synthetic),1391.01
+L-W-0085-2026-06-30-mc,2026-06-30,W-0085,mechanical,Keystone Mechanical Agency (synthetic),1138.10
+L-W-0086-2024-12-31-pf,2024-12-31,W-0086,performance,Cardinal PRS (synthetic),669.56
+L-W-0086-2024-12-31-mc,2024-12-31,W-0086,mechanical,Keystone Mechanical Agency (synthetic),547.83
+L-W-0086-2025-06-30-pf,2025-06-30,W-0086,performance,Cardinal PRS (synthetic),659.52
+L-W-0086-2025-06-30-mc,2025-06-30,W-0086,mechanical,Keystone Mechanical Agency (synthetic),539.61
+L-W-0086-2025-12-31-pf,2025-12-31,W-0086,performance,Cardinal PRS (synthetic),649.63
+L-W-0086-2025-12-31-mc,2025-12-31,W-0086,mechanical,Keystone Mechanical Agency (synthetic),531.51
+L-W-0086-2026-06-30-pf,2026-06-30,W-0086,performance,Cardinal PRS (synthetic),639.88
+L-W-0086-2026-06-30-mc,2026-06-30,W-0086,mechanical,Keystone Mechanical Agency (synthetic),523.54
+L-W-0087-2024-12-31-pf,2024-12-31,W-0087,performance,Northbeam Rights (synthetic),2341.52
+L-W-0087-2024-12-31-mc,2024-12-31,W-0087,mechanical,Keystone Mechanical Agency (synthetic),1915.79
+L-W-0087-2025-06-30-pf,2025-06-30,W-0087,performance,Northbeam Rights (synthetic),2306.40
+L-W-0087-2025-06-30-mc,2025-06-30,W-0087,mechanical,Keystone Mechanical Agency (synthetic),1887.05
+L-W-0087-2025-12-31-pf,2025-12-31,W-0087,performance,Northbeam Rights (synthetic),2271.80
+L-W-0087-2025-12-31-mc,2025-12-31,W-0087,mechanical,Keystone Mechanical Agency (synthetic),1858.75
+L-W-0087-2026-06-30-pf,2026-06-30,W-0087,performance,Northbeam Rights (synthetic),2237.73
+L-W-0087-2026-06-30-mc,2026-06-30,W-0087,mechanical,Keystone Mechanical Agency (synthetic),1830.87
+L-W-0088-2024-12-31-pf,2024-12-31,W-0088,performance,Cardinal PRS (synthetic),1007.46
+L-W-0088-2024-12-31-mc,2024-12-31,W-0088,mechanical,Keystone Mechanical Agency (synthetic),824.29
+L-W-0088-2025-06-30-pf,2025-06-30,W-0088,performance,Cardinal PRS (synthetic),992.35
+L-W-0088-2025-06-30-mc,2025-06-30,W-0088,mechanical,Keystone Mechanical Agency (synthetic),811.92
+L-W-0088-2025-12-31-pf,2025-12-31,W-0088,performance,Cardinal PRS (synthetic),977.47
+L-W-0088-2025-12-31-mc,2025-12-31,W-0088,mechanical,Keystone Mechanical Agency (synthetic),799.75
+L-W-0088-2026-06-30-pf,2026-06-30,W-0088,performance,Cardinal PRS (synthetic),962.80
+L-W-0088-2026-06-30-mc,2026-06-30,W-0088,mechanical,Keystone Mechanical Agency (synthetic),787.75
+L-W-0089-2024-12-31-pf,2024-12-31,W-0089,performance,Northbeam Rights (synthetic),764.29
+L-W-0089-2024-12-31-mc,2024-12-31,W-0089,mechanical,Keystone Mechanical Agency (synthetic),625.32
+L-W-0089-2025-06-30-pf,2025-06-30,W-0089,performance,Northbeam Rights (synthetic),752.82
+L-W-0089-2025-06-30-mc,2025-06-30,W-0089,mechanical,Keystone Mechanical Agency (synthetic),615.94
+L-W-0089-2025-12-31-pf,2025-12-31,W-0089,performance,Northbeam Rights (synthetic),741.53
+L-W-0089-2025-12-31-mc,2025-12-31,W-0089,mechanical,Keystone Mechanical Agency (synthetic),606.71
+L-W-0089-2026-06-30-pf,2026-06-30,W-0089,performance,Northbeam Rights (synthetic),730.41
+L-W-0089-2026-06-30-mc,2026-06-30,W-0089,mechanical,Keystone Mechanical Agency (synthetic),597.60
+L-W-0090-2024-12-31-pf,2024-12-31,W-0090,performance,Cardinal PRS (synthetic),1022.81
+L-W-0090-2024-12-31-mc,2024-12-31,W-0090,mechanical,Keystone Mechanical Agency (synthetic),836.85
+L-W-0090-2025-06-30-pf,2025-06-30,W-0090,performance,Cardinal PRS (synthetic),1007.47
+L-W-0090-2025-06-30-mc,2025-06-30,W-0090,mechanical,Keystone Mechanical Agency (synthetic),824.29
+L-W-0090-2025-12-31-pf,2025-12-31,W-0090,performance,Cardinal PRS (synthetic),992.36
+L-W-0090-2025-12-31-mc,2025-12-31,W-0090,mechanical,Keystone Mechanical Agency (synthetic),811.93
+L-W-0090-2026-06-30-pf,2026-06-30,W-0090,performance,Cardinal PRS (synthetic),977.47
+L-W-0090-2026-06-30-mc,2026-06-30,W-0090,mechanical,Keystone Mechanical Agency (synthetic),799.75
+L-W-0091-2024-12-31-pf,2024-12-31,W-0091,performance,Northbeam Rights (synthetic),1357.73
+L-W-0091-2024-12-31-mc,2024-12-31,W-0091,mechanical,Keystone Mechanical Agency (synthetic),1110.87
+L-W-0091-2025-06-30-pf,2025-06-30,W-0091,performance,Northbeam Rights (synthetic),1276.26
+L-W-0091-2025-06-30-mc,2025-06-30,W-0091,mechanical,Keystone Mechanical Agency (synthetic),1044.21
+L-W-0091-2025-12-31-pf,2025-12-31,W-0091,performance,Northbeam Rights (synthetic),1199.69
+L-W-0091-2025-12-31-mc,2025-12-31,W-0091,mechanical,Keystone Mechanical Agency (synthetic),981.56
+L-W-0091-2026-06-30-pf,2026-06-30,W-0091,performance,Northbeam Rights (synthetic),1127.71
+L-W-0091-2026-06-30-mc,2026-06-30,W-0091,mechanical,Keystone Mechanical Agency (synthetic),922.67
+L-W-0092-2024-12-31-pf,2024-12-31,W-0092,performance,Cardinal PRS (synthetic),963.29
+L-W-0092-2024-12-31-mc,2024-12-31,W-0092,mechanical,Keystone Mechanical Agency (synthetic),788.14
+L-W-0092-2025-06-30-pf,2025-06-30,W-0092,performance,Cardinal PRS (synthetic),948.84
+L-W-0092-2025-06-30-mc,2025-06-30,W-0092,mechanical,Keystone Mechanical Agency (synthetic),776.32
+L-W-0092-2025-12-31-pf,2025-12-31,W-0092,performance,Cardinal PRS (synthetic),934.60
+L-W-0092-2025-12-31-mc,2025-12-31,W-0092,mechanical,Keystone Mechanical Agency (synthetic),764.68
+L-W-0092-2026-06-30-pf,2026-06-30,W-0092,performance,Cardinal PRS (synthetic),920.59
+L-W-0092-2026-06-30-mc,2026-06-30,W-0092,mechanical,Keystone Mechanical Agency (synthetic),753.21
+L-W-0093-2024-12-31-pf,2024-12-31,W-0093,performance,Northbeam Rights (synthetic),1104.06
+L-W-0093-2024-12-31-mc,2024-12-31,W-0093,mechanical,Keystone Mechanical Agency (synthetic),903.33
+L-W-0093-2025-06-30-pf,2025-06-30,W-0093,performance,Northbeam Rights (synthetic),1087.50
+L-W-0093-2025-06-30-mc,2025-06-30,W-0093,mechanical,Keystone Mechanical Agency (synthetic),889.78
+L-W-0093-2025-12-31-pf,2025-12-31,W-0093,performance,Northbeam Rights (synthetic),1071.19
+L-W-0093-2025-12-31-mc,2025-12-31,W-0093,mechanical,Keystone Mechanical Agency (synthetic),876.43
+L-W-0093-2026-06-30-pf,2026-06-30,W-0093,performance,Northbeam Rights (synthetic),1055.12
+L-W-0093-2026-06-30-mc,2026-06-30,W-0093,mechanical,Keystone Mechanical Agency (synthetic),863.28
+L-W-0094-2024-12-31-pf,2024-12-31,W-0094,performance,Cardinal PRS (synthetic),1764.91
+L-W-0094-2024-12-31-mc,2024-12-31,W-0094,mechanical,Keystone Mechanical Agency (synthetic),1444.01
+L-W-0094-2025-06-30-pf,2025-06-30,W-0094,performance,Cardinal PRS (synthetic),1738.43
+L-W-0094-2025-06-30-mc,2025-06-30,W-0094,mechanical,Keystone Mechanical Agency (synthetic),1422.35
+L-W-0094-2025-12-31-pf,2025-12-31,W-0094,performance,Cardinal PRS (synthetic),1712.36
+L-W-0094-2025-12-31-mc,2025-12-31,W-0094,mechanical,Keystone Mechanical Agency (synthetic),1401.02
+L-W-0094-2026-06-30-pf,2026-06-30,W-0094,performance,Cardinal PRS (synthetic),1686.67
+L-W-0094-2026-06-30-mc,2026-06-30,W-0094,mechanical,Keystone Mechanical Agency (synthetic),1380.00
+L-W-0095-2024-12-31-pf,2024-12-31,W-0095,performance,Northbeam Rights (synthetic),1870.08
+L-W-0095-2024-12-31-mc,2024-12-31,W-0095,mechanical,Keystone Mechanical Agency (synthetic),1530.07
+L-W-0095-2025-06-30-pf,2025-06-30,W-0095,performance,Northbeam Rights (synthetic),1842.03
+L-W-0095-2025-06-30-mc,2025-06-30,W-0095,mechanical,Keystone Mechanical Agency (synthetic),1507.12
+L-W-0095-2025-12-31-pf,2025-12-31,W-0095,performance,Northbeam Rights (synthetic),1814.40
+L-W-0095-2025-12-31-mc,2025-12-31,W-0095,mechanical,Keystone Mechanical Agency (synthetic),1484.51
+L-W-0095-2026-06-30-pf,2026-06-30,W-0095,performance,Northbeam Rights (synthetic),1787.18
+L-W-0095-2026-06-30-mc,2026-06-30,W-0095,mechanical,Keystone Mechanical Agency (synthetic),1462.24
+L-W-0096-2024-12-31-pf,2024-12-31,W-0096,performance,Cardinal PRS (synthetic),400.61
+L-W-0096-2024-12-31-mc,2024-12-31,W-0096,mechanical,Keystone Mechanical Agency (synthetic),327.77
+L-W-0096-2025-06-30-pf,2025-06-30,W-0096,performance,Cardinal PRS (synthetic),394.60
+L-W-0096-2025-06-30-mc,2025-06-30,W-0096,mechanical,Keystone Mechanical Agency (synthetic),322.85
+L-W-0096-2025-12-31-pf,2025-12-31,W-0096,performance,Cardinal PRS (synthetic),388.68
+L-W-0096-2025-12-31-mc,2025-12-31,W-0096,mechanical,Keystone Mechanical Agency (synthetic),318.01
+L-W-0096-2026-06-30-pf,2026-06-30,W-0096,performance,Cardinal PRS (synthetic),382.85
+L-W-0096-2026-06-30-mc,2026-06-30,W-0096,mechanical,Keystone Mechanical Agency (synthetic),313.24
+L-W-0097-2024-12-31-pf,2024-12-31,W-0097,performance,Northbeam Rights (synthetic),837.72
+L-W-0097-2024-12-31-mc,2024-12-31,W-0097,mechanical,Keystone Mechanical Agency (synthetic),685.40
+L-W-0097-2025-06-30-pf,2025-06-30,W-0097,performance,Northbeam Rights (synthetic),825.15
+L-W-0097-2025-06-30-mc,2025-06-30,W-0097,mechanical,Keystone Mechanical Agency (synthetic),675.12
+L-W-0097-2025-12-31-pf,2025-12-31,W-0097,performance,Northbeam Rights (synthetic),812.77
+L-W-0097-2025-12-31-mc,2025-12-31,W-0097,mechanical,Keystone Mechanical Agency (synthetic),665.00
+L-W-0097-2026-06-30-pf,2026-06-30,W-0097,performance,Northbeam Rights (synthetic),800.58
+L-W-0097-2026-06-30-mc,2026-06-30,W-0097,mechanical,Keystone Mechanical Agency (synthetic),655.02
+L-W-0098-2024-12-31-pf,2024-12-31,W-0098,performance,Cardinal PRS (synthetic),1163.76
+L-W-0098-2024-12-31-mc,2024-12-31,W-0098,mechanical,Keystone Mechanical Agency (synthetic),952.17
+L-W-0098-2025-06-30-pf,2025-06-30,W-0098,performance,Cardinal PRS (synthetic),1093.94
+L-W-0098-2025-06-30-mc,2025-06-30,W-0098,mechanical,Keystone Mechanical Agency (synthetic),895.04
+L-W-0098-2025-12-31-pf,2025-12-31,W-0098,performance,Cardinal PRS (synthetic),1028.30
+L-W-0098-2025-12-31-mc,2025-12-31,W-0098,mechanical,Keystone Mechanical Agency (synthetic),841.34
+L-W-0098-2026-06-30-pf,2026-06-30,W-0098,performance,Cardinal PRS (synthetic),966.60
+L-W-0098-2026-06-30-mc,2026-06-30,W-0098,mechanical,Keystone Mechanical Agency (synthetic),790.86
+L-W-0099-2024-12-31-pf,2024-12-31,W-0099,performance,Northbeam Rights (synthetic),1043.67
+L-W-0099-2024-12-31-mc,2024-12-31,W-0099,mechanical,Keystone Mechanical Agency (synthetic),853.91
+L-W-0099-2025-06-30-pf,2025-06-30,W-0099,performance,Northbeam Rights (synthetic),1028.01
+L-W-0099-2025-06-30-mc,2025-06-30,W-0099,mechanical,Keystone Mechanical Agency (synthetic),841.10
+L-W-0099-2025-12-31-pf,2025-12-31,W-0099,performance,Northbeam Rights (synthetic),1012.59
+L-W-0099-2025-12-31-mc,2025-12-31,W-0099,mechanical,Keystone Mechanical Agency (synthetic),828.49
+L-W-0099-2026-06-30-pf,2026-06-30,W-0099,performance,Northbeam Rights (synthetic),997.40
+L-W-0099-2026-06-30-mc,2026-06-30,W-0099,mechanical,Keystone Mechanical Agency (synthetic),816.06
+L-W-0100-2024-12-31-pf,2024-12-31,W-0100,performance,Cardinal PRS (synthetic),1897.76
+L-W-0100-2024-12-31-mc,2024-12-31,W-0100,mechanical,Keystone Mechanical Agency (synthetic),1552.71
+L-W-0100-2025-06-30-pf,2025-06-30,W-0100,performance,Cardinal PRS (synthetic),1869.29
+L-W-0100-2025-06-30-mc,2025-06-30,W-0100,mechanical,Keystone Mechanical Agency (synthetic),1529.42
+L-W-0100-2025-12-31-pf,2025-12-31,W-0100,performance,Cardinal PRS (synthetic),1841.25
+L-W-0100-2025-12-31-mc,2025-12-31,W-0100,mechanical,Keystone Mechanical Agency (synthetic),1506.48
+L-W-0100-2026-06-30-pf,2026-06-30,W-0100,performance,Cardinal PRS (synthetic),1813.63
+L-W-0100-2026-06-30-mc,2026-06-30,W-0100,mechanical,Keystone Mechanical Agency (synthetic),1483.88
+L-W-0101-2024-12-31-st,2024-12-31,W-0101,streaming,Lattice Digital Distribution (synthetic),1310.61
+L-W-0101-2024-12-31-nr,2024-12-31,W-0101,neighbouring,Fernway Neighbouring Rights (synthetic),561.69
+L-W-0101-2025-06-30-st,2025-06-30,W-0101,streaming,Lattice Digital Distribution (synthetic),1290.95
+L-W-0101-2025-06-30-nr,2025-06-30,W-0101,neighbouring,Fernway Neighbouring Rights (synthetic),553.26
+L-W-0101-2025-12-31-st,2025-12-31,W-0101,streaming,Lattice Digital Distribution (synthetic),1271.59
+L-W-0101-2025-12-31-nr,2025-12-31,W-0101,neighbouring,Fernway Neighbouring Rights (synthetic),544.97
+L-W-0101-2026-06-30-st,2026-06-30,W-0101,streaming,Lattice Digital Distribution (synthetic),1252.51
+L-W-0101-2026-06-30-nr,2026-06-30,W-0101,neighbouring,Fernway Neighbouring Rights (synthetic),536.79
+L-W-0102-2024-12-31-st,2024-12-31,W-0102,streaming,Lattice Digital Distribution (synthetic),988.76
+L-W-0102-2024-12-31-nr,2024-12-31,W-0102,neighbouring,Fernway Neighbouring Rights (synthetic),423.76
+L-W-0102-2025-06-30-st,2025-06-30,W-0102,streaming,Lattice Digital Distribution (synthetic),973.93
+L-W-0102-2025-06-30-nr,2025-06-30,W-0102,neighbouring,Fernway Neighbouring Rights (synthetic),417.40
+L-W-0102-2025-12-31-st,2025-12-31,W-0102,streaming,Lattice Digital Distribution (synthetic),959.32
+L-W-0102-2025-12-31-nr,2025-12-31,W-0102,neighbouring,Fernway Neighbouring Rights (synthetic),411.14
+L-W-0102-2026-06-30-st,2026-06-30,W-0102,streaming,Lattice Digital Distribution (synthetic),944.93
+L-W-0102-2026-06-30-nr,2026-06-30,W-0102,neighbouring,Fernway Neighbouring Rights (synthetic),404.97
+L-W-0103-2024-12-31-st,2024-12-31,W-0103,streaming,Lattice Digital Distribution (synthetic),1128.12
+L-W-0103-2024-12-31-nr,2024-12-31,W-0103,neighbouring,Fernway Neighbouring Rights (synthetic),483.48
+L-W-0103-2025-06-30-st,2025-06-30,W-0103,streaming,Lattice Digital Distribution (synthetic),1111.20
+L-W-0103-2025-06-30-nr,2025-06-30,W-0103,neighbouring,Fernway Neighbouring Rights (synthetic),476.23
+L-W-0103-2025-12-31-st,2025-12-31,W-0103,streaming,Lattice Digital Distribution (synthetic),1094.53
+L-W-0103-2025-12-31-nr,2025-12-31,W-0103,neighbouring,Fernway Neighbouring Rights (synthetic),469.08
+L-W-0103-2026-06-30-st,2026-06-30,W-0103,streaming,Lattice Digital Distribution (synthetic),1078.11
+L-W-0103-2026-06-30-nr,2026-06-30,W-0103,neighbouring,Fernway Neighbouring Rights (synthetic),462.05
+L-W-0104-2024-12-31-st,2024-12-31,W-0104,streaming,Lattice Digital Distribution (synthetic),1013.98
+L-W-0104-2024-12-31-nr,2024-12-31,W-0104,neighbouring,Fernway Neighbouring Rights (synthetic),434.56
+L-W-0104-2025-06-30-st,2025-06-30,W-0104,streaming,Lattice Digital Distribution (synthetic),953.14
+L-W-0104-2025-06-30-nr,2025-06-30,W-0104,neighbouring,Fernway Neighbouring Rights (synthetic),408.49
+L-W-0104-2025-12-31-st,2025-12-31,W-0104,streaming,Lattice Digital Distribution (synthetic),895.95
+L-W-0104-2025-12-31-nr,2025-12-31,W-0104,neighbouring,Fernway Neighbouring Rights (synthetic),383.98
+L-W-0104-2026-06-30-st,2026-06-30,W-0104,streaming,Lattice Digital Distribution (synthetic),842.20
+L-W-0104-2026-06-30-nr,2026-06-30,W-0104,neighbouring,Fernway Neighbouring Rights (synthetic),360.94
+L-W-0105-2024-12-31-st,2024-12-31,W-0105,streaming,Lattice Digital Distribution (synthetic),1404.18
+L-W-0105-2024-12-31-nr,2024-12-31,W-0105,neighbouring,Fernway Neighbouring Rights (synthetic),601.79
+L-W-0105-2025-06-30-st,2025-06-30,W-0105,streaming,Lattice Digital Distribution (synthetic),1319.93
+L-W-0105-2025-06-30-nr,2025-06-30,W-0105,neighbouring,Fernway Neighbouring Rights (synthetic),565.68
+L-W-0105-2025-12-31-st,2025-12-31,W-0105,streaming,Lattice Digital Distribution (synthetic),1240.73
+L-W-0105-2025-12-31-nr,2025-12-31,W-0105,neighbouring,Fernway Neighbouring Rights (synthetic),531.74
+L-W-0105-2026-06-30-st,2026-06-30,W-0105,streaming,Lattice Digital Distribution (synthetic),1166.29
+L-W-0105-2026-06-30-nr,2026-06-30,W-0105,neighbouring,Fernway Neighbouring Rights (synthetic),499.84
+L-W-0106-2024-12-31-st,2024-12-31,W-0106,streaming,Lattice Digital Distribution (synthetic),927.38
+L-W-0106-2024-12-31-nr,2024-12-31,W-0106,neighbouring,Fernway Neighbouring Rights (synthetic),397.45
+L-W-0106-2025-06-30-st,2025-06-30,W-0106,streaming,Lattice Digital Distribution (synthetic),913.47
+L-W-0106-2025-06-30-nr,2025-06-30,W-0106,neighbouring,Fernway Neighbouring Rights (synthetic),391.49
+L-W-0106-2025-12-31-st,2025-12-31,W-0106,streaming,Lattice Digital Distribution (synthetic),899.77
+L-W-0106-2025-12-31-nr,2025-12-31,W-0106,neighbouring,Fernway Neighbouring Rights (synthetic),385.61
+L-W-0106-2026-06-30-st,2026-06-30,W-0106,streaming,Lattice Digital Distribution (synthetic),886.27
+L-W-0106-2026-06-30-nr,2026-06-30,W-0106,neighbouring,Fernway Neighbouring Rights (synthetic),379.83
+L-W-0107-2024-12-31-st,2024-12-31,W-0107,streaming,Lattice Digital Distribution (synthetic),670.79
+L-W-0107-2024-12-31-nr,2024-12-31,W-0107,neighbouring,Fernway Neighbouring Rights (synthetic),287.48
+L-W-0107-2025-06-30-st,2025-06-30,W-0107,streaming,Lattice Digital Distribution (synthetic),660.73
+L-W-0107-2025-06-30-nr,2025-06-30,W-0107,neighbouring,Fernway Neighbouring Rights (synthetic),283.17
+L-W-0107-2025-12-31-st,2025-12-31,W-0107,streaming,Lattice Digital Distribution (synthetic),650.82
+L-W-0107-2025-12-31-nr,2025-12-31,W-0107,neighbouring,Fernway Neighbouring Rights (synthetic),278.92
+L-W-0107-2026-06-30-st,2026-06-30,W-0107,streaming,Lattice Digital Distribution (synthetic),641.05
+L-W-0107-2026-06-30-nr,2026-06-30,W-0107,neighbouring,Fernway Neighbouring Rights (synthetic),274.74
+L-W-0108-2024-12-31-st,2024-12-31,W-0108,streaming,Lattice Digital Distribution (synthetic),843.88
+L-W-0108-2024-12-31-nr,2024-12-31,W-0108,neighbouring,Fernway Neighbouring Rights (synthetic),361.66
+L-W-0108-2025-06-30-st,2025-06-30,W-0108,streaming,Lattice Digital Distribution (synthetic),831.22
+L-W-0108-2025-06-30-nr,2025-06-30,W-0108,neighbouring,Fernway Neighbouring Rights (synthetic),356.24
+L-W-0108-2025-12-31-st,2025-12-31,W-0108,streaming,Lattice Digital Distribution (synthetic),818.75
+L-W-0108-2025-12-31-nr,2025-12-31,W-0108,neighbouring,Fernway Neighbouring Rights (synthetic),350.89
+L-W-0108-2026-06-30-st,2026-06-30,W-0108,streaming,Lattice Digital Distribution (synthetic),806.47
+L-W-0108-2026-06-30-nr,2026-06-30,W-0108,neighbouring,Fernway Neighbouring Rights (synthetic),345.63
+L-W-0109-2024-12-31-st,2024-12-31,W-0109,streaming,Lattice Digital Distribution (synthetic),547.47
+L-W-0109-2024-12-31-nr,2024-12-31,W-0109,neighbouring,Fernway Neighbouring Rights (synthetic),234.63
+L-W-0109-2025-06-30-st,2025-06-30,W-0109,streaming,Lattice Digital Distribution (synthetic),539.26
+L-W-0109-2025-06-30-nr,2025-06-30,W-0109,neighbouring,Fernway Neighbouring Rights (synthetic),231.11
+L-W-0109-2025-12-31-st,2025-12-31,W-0109,streaming,Lattice Digital Distribution (synthetic),531.17
+L-W-0109-2025-12-31-nr,2025-12-31,W-0109,neighbouring,Fernway Neighbouring Rights (synthetic),227.64
+L-W-0109-2026-06-30-st,2026-06-30,W-0109,streaming,Lattice Digital Distribution (synthetic),523.20
+L-W-0109-2026-06-30-nr,2026-06-30,W-0109,neighbouring,Fernway Neighbouring Rights (synthetic),224.23
+L-W-0110-2024-12-31-st,2024-12-31,W-0110,streaming,Lattice Digital Distribution (synthetic),1381.95
+L-W-0110-2024-12-31-nr,2024-12-31,W-0110,neighbouring,Fernway Neighbouring Rights (synthetic),592.26
+L-W-0110-2025-06-30-st,2025-06-30,W-0110,streaming,Lattice Digital Distribution (synthetic),1361.22
+L-W-0110-2025-06-30-nr,2025-06-30,W-0110,neighbouring,Fernway Neighbouring Rights (synthetic),583.38
+L-W-0110-2025-12-31-st,2025-12-31,W-0110,streaming,Lattice Digital Distribution (synthetic),1340.80
+L-W-0110-2025-12-31-nr,2025-12-31,W-0110,neighbouring,Fernway Neighbouring Rights (synthetic),574.63
+L-W-0110-2026-06-30-st,2026-06-30,W-0110,streaming,Lattice Digital Distribution (synthetic),1320.69
+L-W-0110-2026-06-30-nr,2026-06-30,W-0110,neighbouring,Fernway Neighbouring Rights (synthetic),566.01
+L-W-0111-2024-12-31-st,2024-12-31,W-0111,streaming,Lattice Digital Distribution (synthetic),1943.02
+L-W-0111-2024-12-31-nr,2024-12-31,W-0111,neighbouring,Fernway Neighbouring Rights (synthetic),832.72
+L-W-0111-2025-06-30-st,2025-06-30,W-0111,streaming,Lattice Digital Distribution (synthetic),1826.44
+L-W-0111-2025-06-30-nr,2025-06-30,W-0111,neighbouring,Fernway Neighbouring Rights (synthetic),782.76
+L-W-0111-2025-12-31-st,2025-12-31,W-0111,streaming,Lattice Digital Distribution (synthetic),1716.85
+L-W-0111-2025-12-31-nr,2025-12-31,W-0111,neighbouring,Fernway Neighbouring Rights (synthetic),735.79
+L-W-0111-2026-06-30-st,2026-06-30,W-0111,streaming,Lattice Digital Distribution (synthetic),1613.84
+L-W-0111-2026-06-30-nr,2026-06-30,W-0111,neighbouring,Fernway Neighbouring Rights (synthetic),691.65
+L-W-0112-2024-12-31-st,2024-12-31,W-0112,streaming,Lattice Digital Distribution (synthetic),1010.88
+L-W-0112-2024-12-31-nr,2024-12-31,W-0112,neighbouring,Fernway Neighbouring Rights (synthetic),433.24
+L-W-0112-2025-06-30-st,2025-06-30,W-0112,streaming,Lattice Digital Distribution (synthetic),995.72
+L-W-0112-2025-06-30-nr,2025-06-30,W-0112,neighbouring,Fernway Neighbouring Rights (synthetic),426.74
+L-W-0112-2025-12-31-st,2025-12-31,W-0112,streaming,Lattice Digital Distribution (synthetic),980.78
+L-W-0112-2025-12-31-nr,2025-12-31,W-0112,neighbouring,Fernway Neighbouring Rights (synthetic),420.34
+L-W-0112-2026-06-30-st,2026-06-30,W-0112,streaming,Lattice Digital Distribution (synthetic),966.07
+L-W-0112-2026-06-30-nr,2026-06-30,W-0112,neighbouring,Fernway Neighbouring Rights (synthetic),414.03
+L-W-0113-2024-12-31-st,2024-12-31,W-0113,streaming,Lattice Digital Distribution (synthetic),1324.99
+L-W-0113-2024-12-31-nr,2024-12-31,W-0113,neighbouring,Fernway Neighbouring Rights (synthetic),567.85
+L-W-0113-2025-06-30-st,2025-06-30,W-0113,streaming,Lattice Digital Distribution (synthetic),1305.11
+L-W-0113-2025-06-30-nr,2025-06-30,W-0113,neighbouring,Fernway Neighbouring Rights (synthetic),559.33
+L-W-0113-2025-12-31-st,2025-12-31,W-0113,streaming,Lattice Digital Distribution (synthetic),1285.54
+L-W-0113-2025-12-31-nr,2025-12-31,W-0113,neighbouring,Fernway Neighbouring Rights (synthetic),550.94
+L-W-0113-2026-06-30-st,2026-06-30,W-0113,streaming,Lattice Digital Distribution (synthetic),1266.25
+L-W-0113-2026-06-30-nr,2026-06-30,W-0113,neighbouring,Fernway Neighbouring Rights (synthetic),542.68
+L-W-0114-2024-12-31-st,2024-12-31,W-0114,streaming,Lattice Digital Distribution (synthetic),575.12
+L-W-0114-2024-12-31-nr,2024-12-31,W-0114,neighbouring,Fernway Neighbouring Rights (synthetic),246.48
+L-W-0114-2025-06-30-st,2025-06-30,W-0114,streaming,Lattice Digital Distribution (synthetic),566.49
+L-W-0114-2025-06-30-nr,2025-06-30,W-0114,neighbouring,Fernway Neighbouring Rights (synthetic),242.78
+L-W-0114-2025-12-31-st,2025-12-31,W-0114,streaming,Lattice Digital Distribution (synthetic),558.00
+L-W-0114-2025-12-31-nr,2025-12-31,W-0114,neighbouring,Fernway Neighbouring Rights (synthetic),239.14
+L-W-0114-2026-06-30-st,2026-06-30,W-0114,streaming,Lattice Digital Distribution (synthetic),549.63
+L-W-0114-2026-06-30-nr,2026-06-30,W-0114,neighbouring,Fernway Neighbouring Rights (synthetic),235.55
+L-W-0115-2024-12-31-st,2024-12-31,W-0115,streaming,Lattice Digital Distribution (synthetic),1146.92
+L-W-0115-2024-12-31-nr,2024-12-31,W-0115,neighbouring,Fernway Neighbouring Rights (synthetic),491.54
+L-W-0115-2025-06-30-st,2025-06-30,W-0115,streaming,Lattice Digital Distribution (synthetic),1129.72
+L-W-0115-2025-06-30-nr,2025-06-30,W-0115,neighbouring,Fernway Neighbouring Rights (synthetic),484.16
+L-W-0115-2025-12-31-st,2025-12-31,W-0115,streaming,Lattice Digital Distribution (synthetic),1112.77
+L-W-0115-2025-12-31-nr,2025-12-31,W-0115,neighbouring,Fernway Neighbouring Rights (synthetic),476.90
+L-W-0115-2026-06-30-st,2026-06-30,W-0115,streaming,Lattice Digital Distribution (synthetic),1096.08
+L-W-0115-2026-06-30-nr,2026-06-30,W-0115,neighbouring,Fernway Neighbouring Rights (synthetic),469.75
+L-W-0116-2024-12-31-st,2024-12-31,W-0116,streaming,Lattice Digital Distribution (synthetic),893.10
+L-W-0116-2024-12-31-nr,2024-12-31,W-0116,neighbouring,Fernway Neighbouring Rights (synthetic),382.76
+L-W-0116-2025-06-30-st,2025-06-30,W-0116,streaming,Lattice Digital Distribution (synthetic),879.70
+L-W-0116-2025-06-30-nr,2025-06-30,W-0116,neighbouring,Fernway Neighbouring Rights (synthetic),377.01
+L-W-0116-2025-12-31-st,2025-12-31,W-0116,streaming,Lattice Digital Distribution (synthetic),866.50
+L-W-0116-2025-12-31-nr,2025-12-31,W-0116,neighbouring,Fernway Neighbouring Rights (synthetic),371.36
+L-W-0116-2026-06-30-st,2026-06-30,W-0116,streaming,Lattice Digital Distribution (synthetic),853.51
+L-W-0116-2026-06-30-nr,2026-06-30,W-0116,neighbouring,Fernway Neighbouring Rights (synthetic),365.79
+L-W-0117-2024-12-31-st,2024-12-31,W-0117,streaming,Lattice Digital Distribution (synthetic),1194.48
+L-W-0117-2024-12-31-nr,2024-12-31,W-0117,neighbouring,Fernway Neighbouring Rights (synthetic),511.92
+L-W-0117-2025-06-30-st,2025-06-30,W-0117,streaming,Lattice Digital Distribution (synthetic),1122.81
+L-W-0117-2025-06-30-nr,2025-06-30,W-0117,neighbouring,Fernway Neighbouring Rights (synthetic),481.20
+L-W-0117-2025-12-31-st,2025-12-31,W-0117,streaming,Lattice Digital Distribution (synthetic),1055.44
+L-W-0117-2025-12-31-nr,2025-12-31,W-0117,neighbouring,Fernway Neighbouring Rights (synthetic),452.33
+L-W-0117-2026-06-30-st,2026-06-30,W-0117,streaming,Lattice Digital Distribution (synthetic),992.12
+L-W-0117-2026-06-30-nr,2026-06-30,W-0117,neighbouring,Fernway Neighbouring Rights (synthetic),425.19
+L-W-0118-2024-12-31-st,2024-12-31,W-0118,streaming,Lattice Digital Distribution (synthetic),2021.77
+L-W-0118-2024-12-31-nr,2024-12-31,W-0118,neighbouring,Fernway Neighbouring Rights (synthetic),866.47
+L-W-0118-2025-06-30-st,2025-06-30,W-0118,streaming,Lattice Digital Distribution (synthetic),1900.46
+L-W-0118-2025-06-30-nr,2025-06-30,W-0118,neighbouring,Fernway Neighbouring Rights (synthetic),814.48
+L-W-0118-2025-12-31-st,2025-12-31,W-0118,streaming,Lattice Digital Distribution (synthetic),1786.43
+L-W-0118-2025-12-31-nr,2025-12-31,W-0118,neighbouring,Fernway Neighbouring Rights (synthetic),765.61
+L-W-0118-2026-06-30-st,2026-06-30,W-0118,streaming,Lattice Digital Distribution (synthetic),1679.25
+L-W-0118-2026-06-30-nr,2026-06-30,W-0118,neighbouring,Fernway Neighbouring Rights (synthetic),719.68
+L-W-0119-2024-12-31-st,2024-12-31,W-0119,streaming,Lattice Digital Distribution (synthetic),848.86
+L-W-0119-2024-12-31-nr,2024-12-31,W-0119,neighbouring,Fernway Neighbouring Rights (synthetic),363.80
+L-W-0119-2025-06-30-st,2025-06-30,W-0119,streaming,Lattice Digital Distribution (synthetic),836.12
+L-W-0119-2025-06-30-nr,2025-06-30,W-0119,neighbouring,Fernway Neighbouring Rights (synthetic),358.34
+L-W-0119-2025-12-31-st,2025-12-31,W-0119,streaming,Lattice Digital Distribution (synthetic),823.58
+L-W-0119-2025-12-31-nr,2025-12-31,W-0119,neighbouring,Fernway Neighbouring Rights (synthetic),352.96
+L-W-0119-2026-06-30-st,2026-06-30,W-0119,streaming,Lattice Digital Distribution (synthetic),811.23
+L-W-0119-2026-06-30-nr,2026-06-30,W-0119,neighbouring,Fernway Neighbouring Rights (synthetic),347.67
+L-W-0120-2024-12-31-st,2024-12-31,W-0120,streaming,Lattice Digital Distribution (synthetic),520.37
+L-W-0120-2024-12-31-nr,2024-12-31,W-0120,neighbouring,Fernway Neighbouring Rights (synthetic),223.02
+L-W-0120-2025-06-30-st,2025-06-30,W-0120,streaming,Lattice Digital Distribution (synthetic),512.57
+L-W-0120-2025-06-30-nr,2025-06-30,W-0120,neighbouring,Fernway Neighbouring Rights (synthetic),219.67
+L-W-0120-2025-12-31-st,2025-12-31,W-0120,streaming,Lattice Digital Distribution (synthetic),504.88
+L-W-0120-2025-12-31-nr,2025-12-31,W-0120,neighbouring,Fernway Neighbouring Rights (synthetic),216.38
+L-W-0120-2026-06-30-st,2026-06-30,W-0120,streaming,Lattice Digital Distribution (synthetic),497.31
+L-W-0120-2026-06-30-nr,2026-06-30,W-0120,neighbouring,Fernway Neighbouring Rights (synthetic),213.13
