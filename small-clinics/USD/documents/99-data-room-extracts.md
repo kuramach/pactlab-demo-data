@@ -86,67 +86,67 @@ quarter | high_complexity_share | policy_benchmark
 remittances.csv — Remittances by month and payer: claims, denials, charges billed, cash collected and receivables at month end
 
 month | payer | payer_class | claims | denied_claims | billed | collected | ar_balance
-2023-01 | Insurer Bluepoint (synthetic) | commercial | 746 | 36 | 114817.35 | 87646.83 | 135424.04
-2023-01 | Insurer Harrowgate (synthetic) | commercial | 426 | 20 | 65349.23 | 49884.91 | 77000.31
-2023-01 | Government scheme (synthetic) | medicaid | 502 | 24 | 48180.44 | 36778.96 | 57569.29
-2023-01 | Patients — self-pay (synthetic) | self_pay | 360 | 17 | 44897.13 | 34272.62 | 53167.65
-2023-02 | Insurer Bluepoint (synthetic) | commercial | 749 | 36 | 115391.44 | 88085.07 | 135964.52
-2023-02 | Insurer Harrowgate (synthetic) | commercial | 424 | 20 | 65675.97 | 50134.33 | 76918.66
-2023-02 | Government scheme (synthetic) | medicaid | 502 | 24 | 48421.35 | 36962.86 | 57169.05
-2023-02 | Patients — self-pay (synthetic) | self_pay | 361 | 17 | 45121.61 | 34443.98 | 53647.22
-2023-03 | Insurer Bluepoint (synthetic) | commercial | 744 | 35 | 115968.39 | 88525.49 | 136644.33
-2023-03 | Insurer Harrowgate (synthetic) | commercial | 429 | 20 | 66004.35 | 50385.00 | 79257.33
-2023-03 | Government scheme (synthetic) | medicaid | 500 | 24 | 48663.45 | 37147.67 | 56820.98
-2023-03 | Patients — self-pay (synthetic) | self_pay | 357 | 17 | 45347.22 | 34616.20 | 53700.66
-2023-04 | Insurer Bluepoint (synthetic) | commercial | 747 | 36 | 116548.24 | 88968.12 | 136775.49
-2023-04 | Insurer Harrowgate (synthetic) | commercial | 425 | 20 | 66334.38 | 50636.93 | 79182.30
-2023-04 | Government scheme (synthetic) | medicaid | 505 | 25 | 48906.77 | 37333.41 | 58263.41
-2023-04 | Patients — self-pay (synthetic) | self_pay | 359 | 17 | 45573.96 | 34789.28 | 54346.95
-2023-05 | Insurer Bluepoint (synthetic) | commercial | 763 | 38 | 117130.98 | 89412.96 | 137875.49
-2023-05 | Insurer Harrowgate (synthetic) | commercial | 430 | 21 | 66666.04 | 50890.11 | 80130.83
-2023-05 | Government scheme (synthetic) | medicaid | 511 | 24 | 49151.30 | 37520.08 | 58554.72
-2023-05 | Patients — self-pay (synthetic) | self_pay | 361 | 18 | 45801.83 | 34963.23 | 54076.29
-2023-06 | Insurer Bluepoint (synthetic) | commercial | 766 | 38 | 117716.63 | 89860.02 | 139261.87
-2023-06 | Insurer Harrowgate (synthetic) | commercial | 430 | 21 | 66999.37 | 51144.56 | 78944.65
-2023-06 | Government scheme (synthetic) | medicaid | 511 | 25 | 49397.06 | 37707.68 | 58145.54
-2023-06 | Patients — self-pay (synthetic) | self_pay | 363 | 17 | 46030.83 | 35138.04 | 54891.76
-2023-07 | Insurer Bluepoint (synthetic) | commercial | 762 | 37 | 118305.21 | 90309.32 | 140658.67
-2023-07 | Insurer Harrowgate (synthetic) | commercial | 438 | 21 | 67334.38 | 51400.29 | 80455.72
-2023-07 | Government scheme (synthetic) | medicaid | 512 | 24 | 49644.05 | 37896.22 | 59670.84
-2023-07 | Patients — self-pay (synthetic) | self_pay | 370 | 18 | 46260.99 | 35313.73 | 55111.45
-2023-08 | Insurer Bluepoint (synthetic) | commercial | 766 | 36 | 118896.74 | 90760.87 | 141643.56
-2023-08 | Insurer Harrowgate (synthetic) | commercial | 440 | 22 | 67671.05 | 51657.29 | 80216.91
-2023-08 | Government scheme (synthetic) | medicaid | 511 | 24 | 49892.27 | 38085.70 | 59437.45
-2023-08 | Patients — self-pay (synthetic) | self_pay | 368 | 18 | 46492.29 | 35490.30 | 54340.92
-2023-09 | Insurer Bluepoint (synthetic) | commercial | 768 | 37 | 119491.23 | 91214.68 | 141361.27
-2023-09 | Insurer Harrowgate (synthetic) | commercial | 442 | 22 | 68009.40 | 51915.57 | 80698.52
-2023-09 | Government scheme (synthetic) | medicaid | 522 | 25 | 50141.73 | 38276.13 | 58784.58
-2023-09 | Patients — self-pay (synthetic) | self_pay | 370 | 18 | 46724.75 | 35667.75 | 54612.63
-2023-10 | Insurer Bluepoint (synthetic) | commercial | 772 | 37 | 120088.68 | 91670.75 | 140788.18
-2023-10 | Insurer Harrowgate (synthetic) | commercial | 445 | 22 | 68349.45 | 52175.15 | 80130.74
-2023-10 | Government scheme (synthetic) | medicaid | 525 | 26 | 50392.44 | 38467.51 | 58780.13
-2023-10 | Patients — self-pay (synthetic) | self_pay | 376 | 18 | 46958.38 | 35846.09 | 55274.96
-2023-11 | Insurer Bluepoint (synthetic) | commercial | 780 | 37 | 120689.12 | 92129.10 | 143778.85
-2023-11 | Insurer Harrowgate (synthetic) | commercial | 449 | 22 | 68691.20 | 52436.03 | 80938.12
-2023-11 | Government scheme (synthetic) | medicaid | 524 | 25 | 50644.40 | 38659.85 | 59373.90
-2023-11 | Patients — self-pay (synthetic) | self_pay | 375 | 18 | 47193.17 | 36025.32 | 55271.90
-2023-12 | Insurer Bluepoint (synthetic) | commercial | 787 | 39 | 121292.57 | 92589.75 | 144785.03
-2023-12 | Insurer Harrowgate (synthetic) | commercial | 442 | 21 | 69034.66 | 52698.21 | 80852.30
-2023-12 | Government scheme (synthetic) | medicaid | 525 | 25 | 50897.63 | 38853.15 | 60695.42
-2023-12 | Patients — self-pay (synthetic) | self_pay | 379 | 18 | 47429.14 | 36205.45 | 56390.75
-2024-01 | Insurer Bluepoint (synthetic) | commercial | 787 | 37 | 121899.04 | 93052.70 | 146375.08
-2024-01 | Insurer Harrowgate (synthetic) | commercial | 445 | 21 | 69379.83 | 52961.70 | 81338.72
-2024-01 | Government scheme (synthetic) | medicaid | 522 | 26 | 51152.11 | 39047.41 | 60998.89
-2024-01 | Patients — self-pay (synthetic) | self_pay | 379 | 19 | 47666.29 | 36386.48 | 57124.29
-2024-02 | Insurer Bluepoint (synthetic) | commercial | 794 | 39 | 122508.53 | 93517.96 | 144640.66
-2024-02 | Insurer Harrowgate (synthetic) | commercial | 451 | 21 | 69726.73 | 53226.51 | 82240.84
-2024-02 | Government scheme (synthetic) | medicaid | 532 | 26 | 51407.87 | 39242.65 | 61669.15
-2024-02 | Patients — self-pay (synthetic) | self_pay | 379 | 19 | 47904.62 | 36568.41 | 56161.86
-2024-03 | Insurer Bluepoint (synthetic) | commercial | 789 | 38 | 123121.07 | 93985.55 | 147988.29
-2024-03 | Insurer Harrowgate (synthetic) | commercial | 452 | 22 | 70075.36 | 53492.64 | 84228.74
-2024-03 | Government scheme (synthetic) | medicaid | 533 | 26 | 51664.91 | 39438.86 | 61304.49
-2024-03 | Patients — self-pay (synthetic) | self_pay | 379 | 19 | 48144.14 | 36751.25 | 57411.89
-… 120 more rows in remittances.csv
+2021-01 | Insurer Bluepoint (synthetic) | commercial | 664 | 32 | 101864.30 | 77759.01 | 119784.37
+2021-01 | Insurer Harrowgate (synthetic) | commercial | 379 | 18 | 57976.89 | 44257.17 | 67832.96
+2021-01 | Government scheme (synthetic) | medicaid | 439 | 21 | 42745.00 | 32629.77 | 50619.08
+2021-01 | Patients — self-pay (synthetic) | self_pay | 320 | 15 | 39832.08 | 30406.17 | 46839.38
+2021-02 | Insurer Bluepoint (synthetic) | commercial | 662 | 31 | 102373.63 | 78147.81 | 122323.02
+2021-02 | Insurer Harrowgate (synthetic) | commercial | 374 | 18 | 58266.78 | 44478.46 | 69483.14
+2021-02 | Government scheme (synthetic) | medicaid | 445 | 21 | 42958.73 | 32792.92 | 50261.71
+2021-02 | Patients — self-pay (synthetic) | self_pay | 320 | 15 | 40031.24 | 30558.20 | 46789.15
+2021-03 | Insurer Bluepoint (synthetic) | commercial | 664 | 32 | 102885.50 | 78538.55 | 120619.71
+2021-03 | Insurer Harrowgate (synthetic) | commercial | 377 | 18 | 58558.11 | 44700.85 | 69691.86
+2021-03 | Government scheme (synthetic) | medicaid | 445 | 22 | 43173.51 | 32956.88 | 50615.26
+2021-03 | Patients — self-pay (synthetic) | self_pay | 322 | 15 | 40231.41 | 30711.00 | 46975.46
+2021-04 | Insurer Bluepoint (synthetic) | commercial | 676 | 32 | 103399.92 | 78931.24 | 121590.14
+2021-04 | Insurer Harrowgate (synthetic) | commercial | 377 | 18 | 58850.91 | 44924.36 | 68785.87
+2021-04 | Government scheme (synthetic) | medicaid | 444 | 21 | 43389.39 | 33121.67 | 51022.50
+2021-04 | Patients — self-pay (synthetic) | self_pay | 318 | 15 | 40432.56 | 30864.55 | 48263.71
+2021-05 | Insurer Bluepoint (synthetic) | commercial | 666 | 32 | 103916.93 | 79325.90 | 121582.81
+2021-05 | Insurer Harrowgate (synthetic) | commercial | 380 | 18 | 59145.16 | 45148.98 | 70600.64
+2021-05 | Government scheme (synthetic) | medicaid | 454 | 22 | 43606.34 | 33287.28 | 50916.14
+2021-05 | Patients — self-pay (synthetic) | self_pay | 325 | 16 | 40634.72 | 31018.87 | 47638.86
+2021-06 | Insurer Bluepoint (synthetic) | commercial | 672 | 33 | 104436.51 | 79722.53 | 122067.04
+2021-06 | Insurer Harrowgate (synthetic) | commercial | 384 | 19 | 59440.88 | 45374.72 | 70249.73
+2021-06 | Government scheme (synthetic) | medicaid | 451 | 22 | 43824.36 | 33453.71 | 52156.75
+2021-06 | Patients — self-pay (synthetic) | self_pay | 327 | 15 | 40837.90 | 31173.97 | 48167.23
+2021-07 | Insurer Bluepoint (synthetic) | commercial | 673 | 31 | 104958.69 | 80121.14 | 125660.41
+2021-07 | Insurer Harrowgate (synthetic) | commercial | 386 | 19 | 59738.10 | 45601.60 | 70813.23
+2021-07 | Government scheme (synthetic) | medicaid | 451 | 22 | 44043.48 | 33620.98 | 52626.16
+2021-07 | Patients — self-pay (synthetic) | self_pay | 323 | 15 | 41042.09 | 31329.84 | 48748.28
+2021-08 | Insurer Bluepoint (synthetic) | commercial | 687 | 33 | 105483.48 | 80521.74 | 124539.90
+2021-08 | Insurer Harrowgate (synthetic) | commercial | 388 | 19 | 60036.78 | 45829.60 | 70171.94
+2021-08 | Government scheme (synthetic) | medicaid | 458 | 22 | 44263.71 | 33789.09 | 51631.29
+2021-08 | Patients — self-pay (synthetic) | self_pay | 325 | 16 | 41247.30 | 31486.49 | 48112.80
+2021-09 | Insurer Bluepoint (synthetic) | commercial | 690 | 33 | 106010.90 | 80924.35 | 126669.08
+2021-09 | Insurer Harrowgate (synthetic) | commercial | 388 | 19 | 60336.96 | 46058.75 | 70379.89
+2021-09 | Government scheme (synthetic) | medicaid | 460 | 22 | 44485.02 | 33958.03 | 52047.47
+2021-09 | Patients — self-pay (synthetic) | self_pay | 328 | 15 | 41453.54 | 31643.92 | 48942.45
+2021-10 | Insurer Bluepoint (synthetic) | commercial | 691 | 33 | 106540.95 | 81328.97 | 127554.75
+2021-10 | Insurer Harrowgate (synthetic) | commercial | 391 | 18 | 60638.66 | 46289.05 | 71090.85
+2021-10 | Government scheme (synthetic) | medicaid | 463 | 23 | 44707.44 | 34127.82 | 53048.91
+2021-10 | Patients — self-pay (synthetic) | self_pay | 329 | 16 | 41660.80 | 31802.14 | 49976.51
+2021-11 | Insurer Bluepoint (synthetic) | commercial | 695 | 34 | 107073.66 | 81735.62 | 125910.17
+2021-11 | Insurer Harrowgate (synthetic) | commercial | 398 | 19 | 60941.84 | 46520.49 | 72384.47
+2021-11 | Government scheme (synthetic) | medicaid | 467 | 22 | 44930.98 | 34298.46 | 53101.32
+2021-11 | Patients — self-pay (synthetic) | self_pay | 330 | 16 | 41869.11 | 31961.15 | 49433.10
+2021-12 | Insurer Bluepoint (synthetic) | commercial | 693 | 33 | 107609.03 | 82144.30 | 127304.31
+2021-12 | Insurer Harrowgate (synthetic) | commercial | 393 | 19 | 61246.55 | 46753.09 | 72456.28
+2021-12 | Government scheme (synthetic) | medicaid | 465 | 22 | 45155.63 | 34469.95 | 53420.30
+2021-12 | Patients — self-pay (synthetic) | self_pay | 335 | 16 | 42078.46 | 32120.96 | 49779.93
+2022-01 | Insurer Bluepoint (synthetic) | commercial | 704 | 34 | 108147.08 | 82555.02 | 126404.01
+2022-01 | Insurer Harrowgate (synthetic) | commercial | 398 | 19 | 61552.79 | 46986.86 | 73110.14
+2022-01 | Government scheme (synthetic) | medicaid | 472 | 23 | 45381.41 | 34642.30 | 54117.33
+2022-01 | Patients — self-pay (synthetic) | self_pay | 339 | 16 | 42288.84 | 32281.56 | 50830.07
+2022-02 | Insurer Bluepoint (synthetic) | commercial | 708 | 34 | 108687.80 | 82967.79 | 130639.88
+2022-02 | Insurer Harrowgate (synthetic) | commercial | 397 | 20 | 61860.54 | 47221.79 | 73109.39
+2022-02 | Government scheme (synthetic) | medicaid | 468 | 22 | 45608.32 | 34815.51 | 53469.75
+2022-02 | Patients — self-pay (synthetic) | self_pay | 339 | 16 | 42500.29 | 32442.97 | 49876.33
+2022-03 | Insurer Bluepoint (synthetic) | commercial | 714 | 33 | 109231.25 | 83382.63 | 130775.68
+2022-03 | Insurer Harrowgate (synthetic) | commercial | 400 | 19 | 62169.85 | 47457.90 | 73990.30
+2022-03 | Government scheme (synthetic) | medicaid | 473 | 23 | 45836.36 | 34989.59 | 54876.98
+2022-03 | Patients — self-pay (synthetic) | self_pay | 337 | 16 | 42712.79 | 32605.18 | 49973.96
+… 216 more rows in remittances.csv
 ---page---
 service-lines.csv — Collections and direct costs by month, service line and pseudonymous provider, from the schedule and billing exports
 
@@ -213,70 +213,70 @@ month | service_line | provider_ref | visits | collected | direct_cost
 2026-02 | Hygiene | P09 | 201 | 17069.52 | 8876.15
 … 96 more rows in service-lines.csv
 ---page---
-clinician-collections.csv — Collections by clinician and month, pseudonymous, from the practice-management system
+clinician-collections.csv — Collections by clinician and month, pseudonymous, from the practice-management system, January 2021 to September 2026
 
 month | provider_ref | site | visits | collected
-2025-10 | P01 | Site 1 (synthetic) | 183 | 47070.01
-2025-10 | P02 | Site 1 (synthetic) | 205 | 24632.12
-2025-10 | P03 | Site 1 (synthetic) | 249 | 21177.96
-2025-10 | P04 | Site 2 (synthetic) | 187 | 15883.47
-2025-10 | P05 | Site 2 (synthetic) | 188 | 22579.45
-2025-10 | P06 | Site 4 (synthetic) | 137 | 16421.42
-2025-10 | P09 | Site 3 (synthetic) | 187 | 15883.48
-2025-10 | P13 | Site 4 (synthetic) | 181 | 15402.16
-2025-10 | P14 | Site 5 (synthetic) | 181 | 15402.16
-2025-10 | P17 | Site 5 (synthetic) | 181 | 15402.16
-2025-10 | P18 | Site 6 (synthetic) | 161 | 13690.81
-2025-10 | P21 | Site 6 (synthetic) | 201 | 17113.49
-2025-11 | P01 | Site 1 (synthetic) | 191 | 48446.66
-2025-11 | P02 | Site 1 (synthetic) | 172 | 20593.78
-2025-11 | P03 | Site 1 (synthetic) | 203 | 17219.87
-2025-11 | P04 | Site 2 (synthetic) | 228 | 19372.35
-2025-11 | P05 | Site 2 (synthetic) | 191 | 22881.97
-2025-11 | P06 | Site 4 (synthetic) | 172 | 20593.78
-2025-11 | P09 | Site 3 (synthetic) | 203 | 17219.87
-2025-11 | P13 | Site 4 (synthetic) | 221 | 18785.31
-2025-11 | P14 | Site 5 (synthetic) | 184 | 15654.42
-2025-11 | P17 | Site 5 (synthetic) | 184 | 15654.42
-2025-11 | P18 | Site 6 (synthetic) | 147 | 12523.54
-2025-11 | P21 | Site 6 (synthetic) | 184 | 15654.43
-2025-12 | P01 | Site 1 (synthetic) | 188 | 48192.41
-2025-12 | P02 | Site 1 (synthetic) | 140 | 16812.99
-2025-12 | P03 | Site 1 (synthetic) | 226 | 19234.89
-2025-12 | P04 | Site 2 (synthetic) | 226 | 19234.89
-2025-12 | P05 | Site 2 (synthetic) | 210 | 25219.49
-2025-12 | P06 | Site 4 (synthetic) | 193 | 23117.87
-2025-12 | P09 | Site 3 (synthetic) | 185 | 15737.63
-2025-12 | P13 | Site 4 (synthetic) | 193 | 16364.50
-2025-12 | P14 | Site 5 (synthetic) | 158 | 13389.14
-2025-12 | P17 | Site 5 (synthetic) | 175 | 14876.82
-2025-12 | P18 | Site 6 (synthetic) | 193 | 16364.50
-2025-12 | P21 | Site 6 (synthetic) | 210 | 17852.18
-2026-01 | P01 | Site 1 (synthetic) | 189 | 48136.94
-2026-01 | P02 | Site 1 (synthetic) | 221 | 26547.78
-2026-01 | P03 | Site 1 (synthetic) | 178 | 15104.77
-2026-01 | P04 | Site 2 (synthetic) | 217 | 18461.39
-2026-01 | P05 | Site 2 (synthetic) | 147 | 17698.52
-2026-01 | P06 | Site 4 (synthetic) | 166 | 19910.84
-2026-01 | P09 | Site 3 (synthetic) | 237 | 20139.70
-2026-01 | P13 | Site 4 (synthetic) | 153 | 13019.60
-2026-01 | P14 | Site 5 (synthetic) | 211 | 17901.95
-2026-01 | P17 | Site 5 (synthetic) | 191 | 16274.50
-2026-01 | P18 | Site 6 (synthetic) | 172 | 14647.05
-2026-01 | P21 | Site 6 (synthetic) | 191 | 16274.52
-2026-02 | P01 | Site 1 (synthetic) | 195 | 49723.47
-2026-02 | P02 | Site 1 (synthetic) | 171 | 20567.08
-2026-02 | P03 | Site 1 (synthetic) | 201 | 17069.53
-2026-02 | P04 | Site 2 (synthetic) | 251 | 21336.91
-2026-02 | P05 | Site 2 (synthetic) | 152 | 18281.85
-2026-02 | P06 | Site 4 (synthetic) | 229 | 27422.78
-2026-02 | P09 | Site 3 (synthetic) | 201 | 17069.52
-2026-02 | P13 | Site 4 (synthetic) | 158 | 13448.72
-2026-02 | P14 | Site 5 (synthetic) | 178 | 15129.81
-2026-02 | P17 | Site 5 (synthetic) | 178 | 15129.81
-2026-02 | P18 | Site 6 (synthetic) | 198 | 16810.90
-2026-02 | P21 | Site 6 (synthetic) | 237 | 20173.06
-… 84 more rows in clinician-collections.csv
+2021-01 | P01 | Site 1 (synthetic) | 308 | 36309.51
+2021-01 | P02 | Site 1 (synthetic) | 135 | 15936.04
+2021-01 | P03 | Site 1 (synthetic) | 115 | 13586.60
+2021-01 | P04 | Site 2 (synthetic) | 119 | 13986.35
+2021-01 | P05 | Site 2 (synthetic) | 137 | 16215.54
+2021-01 | P06 | Site 4 (synthetic) | 141 | 16662.89
+2021-01 | P09 | Site 3 (synthetic) | 111 | 13138.52
+2021-01 | P13 | Site 4 (synthetic) | 98 | 11530.34
+2021-01 | P14 | Site 5 (synthetic) | 105 | 12389.56
+2021-01 | P17 | Site 5 (synthetic) | 100 | 11835.06
+2021-01 | P18 | Site 6 (synthetic) | 98 | 11607.54
+2021-01 | P21 | Site 6 (synthetic) | 100 | 11854.17
+2021-02 | P01 | Site 1 (synthetic) | 309 | 36491.05
+2021-02 | P02 | Site 1 (synthetic) | 136 | 16015.72
+2021-02 | P03 | Site 1 (synthetic) | 116 | 13654.53
+2021-02 | P04 | Site 2 (synthetic) | 119 | 14056.28
+2021-02 | P05 | Site 2 (synthetic) | 138 | 16296.62
+2021-02 | P06 | Site 4 (synthetic) | 142 | 16746.21
+2021-02 | P09 | Site 3 (synthetic) | 112 | 13204.22
+2021-02 | P13 | Site 4 (synthetic) | 98 | 11587.99
+2021-02 | P14 | Site 5 (synthetic) | 106 | 12451.51
+2021-02 | P17 | Site 5 (synthetic) | 101 | 11894.24
+2021-02 | P18 | Site 6 (synthetic) | 99 | 11665.58
+2021-02 | P21 | Site 6 (synthetic) | 101 | 11913.44
+2021-03 | P01 | Site 1 (synthetic) | 311 | 36673.51
+2021-03 | P02 | Site 1 (synthetic) | 136 | 16095.80
+2021-03 | P03 | Site 1 (synthetic) | 116 | 13722.80
+2021-03 | P04 | Site 2 (synthetic) | 120 | 14126.56
+2021-03 | P05 | Site 2 (synthetic) | 139 | 16378.10
+2021-03 | P06 | Site 4 (synthetic) | 143 | 16829.94
+2021-03 | P09 | Site 3 (synthetic) | 112 | 13270.24
+2021-03 | P13 | Site 4 (synthetic) | 99 | 11645.93
+2021-03 | P14 | Site 5 (synthetic) | 106 | 12513.77
+2021-03 | P17 | Site 5 (synthetic) | 101 | 11953.71
+2021-03 | P18 | Site 6 (synthetic) | 99 | 11723.91
+2021-03 | P21 | Site 6 (synthetic) | 101 | 11973.01
+2021-04 | P01 | Site 1 (synthetic) | 312 | 36856.88
+2021-04 | P02 | Site 1 (synthetic) | 137 | 16176.28
+2021-04 | P03 | Site 1 (synthetic) | 117 | 13791.42
+2021-04 | P04 | Site 2 (synthetic) | 120 | 14197.19
+2021-04 | P05 | Site 2 (synthetic) | 139 | 16459.99
+2021-04 | P06 | Site 4 (synthetic) | 143 | 16914.09
+2021-04 | P09 | Site 3 (synthetic) | 113 | 13336.59
+2021-04 | P13 | Site 4 (synthetic) | 99 | 11704.16
+2021-04 | P14 | Site 5 (synthetic) | 107 | 12576.34
+2021-04 | P17 | Site 5 (synthetic) | 102 | 12013.48
+2021-04 | P18 | Site 6 (synthetic) | 100 | 11782.53
+2021-04 | P21 | Site 6 (synthetic) | 102 | 12032.87
+2021-05 | P01 | Site 1 (synthetic) | 314 | 37041.16
+2021-05 | P02 | Site 1 (synthetic) | 138 | 16257.16
+2021-05 | P03 | Site 1 (synthetic) | 117 | 13860.37
+2021-05 | P04 | Site 2 (synthetic) | 121 | 14268.18
+2021-05 | P05 | Site 2 (synthetic) | 140 | 16542.29
+2021-05 | P06 | Site 4 (synthetic) | 144 | 16998.66
+2021-05 | P09 | Site 3 (synthetic) | 114 | 13403.27
+2021-05 | P13 | Site 4 (synthetic) | 100 | 11762.68
+2021-05 | P14 | Site 5 (synthetic) | 107 | 12639.22
+2021-05 | P17 | Site 5 (synthetic) | 102 | 12073.54
+2021-05 | P18 | Site 6 (synthetic) | 100 | 11841.44
+2021-05 | P21 | Site 6 (synthetic) | 102 | 12093.06
+… 768 more rows in clinician-collections.csv
 ---page---
 referrals.csv — Visits by referral source and month, from the schedule export
 
@@ -353,13 +353,13 @@ BP-2023 | Insurer Bluepoint (synthetic) | commercial | 2023-01-01 | 2028-12-31 |
 HG-2024 | Insurer Harrowgate (synthetic) | commercial | 2024-07-01 | 2029-06-30 | no
 GS-ENR-118 | Government scheme (synthetic) | medicaid | 2019-04-01 |  | no
 ---page---
-pnl.csv — Profit and loss by fiscal year, FY2023 to FY2025
+pnl.csv — Profit and loss by fiscal year, FY2021 to FY2025
 
-Line | FY2023 | FY2024 | FY2025
-Net patient service revenue | 2572992.55 | 2722434.86 | 2867350.10
-Other operating revenue | 9000.00 | 9270.00 | 9540.00
-Cost of care: clinical staff | 1058616.95 | 1119998.99 | 1179524.94
-Clinical and dental supplies | 175575.49 | 229463.21 | 296319.68
-Laboratory fees | 80041.77 | 84682.85 | 86306.70
-Rent and occupancy | 191067.45 | 199414.45 | 207136.09
-General and administrative | 304675.12 | 281365.60 | 244535.66
+Line | FY2021 | FY2022 | FY2023 | FY2024 | FY2025
+Net patient service revenue | 2282722.10 | 2423515.37 | 2572992.55 | 2722434.86 | 2867350.10
+Other operating revenue | 8460.00 | 8730.00 | 9000.00 | 9270.00 | 9540.00
+Cost of care: clinical staff | 939384.66 | 997220.60 | 1058616.95 | 1119998.99 | 1179524.94
+Clinical and dental supplies | 103103.19 | 136205.74 | 175575.49 | 229463.21 | 296319.68
+Laboratory fees | 71026.65 | 75399.61 | 80041.77 | 84682.85 | 86306.70
+Rent and occupancy | 174129.84 | 182418.40 | 191067.45 | 199414.45 | 207136.09
+General and administrative | 343677.32 | 323488.63 | 304675.12 | 281365.60 | 244535.66

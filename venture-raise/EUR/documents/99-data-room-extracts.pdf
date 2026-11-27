@@ -3,7 +3,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R] /Count 4 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -35,20 +35,31 @@ stream
 BT /F1 11 Tf 72 740 Td 14 TL (monthly-financials.csv  Cash balance and net burn by month) Tj T* () Tj T* (month | cash_balance | net_burn) Tj T* (2025-10 | 2493200.00 | 84640.00) Tj T* (2025-11 | 2405800.00 | 87400.00) Tj T* (2025-12 | 2315640.00 | 90160.00) Tj T* (2026-01 | 2222720.00 | 92920.00) Tj T* (2026-02 | 2127040.00 | 95680.00) Tj T* (2026-03 | 2028600.00 | 98440.00) Tj T* (2026-04 | 1927400.00 | 101200.00) Tj T* (2026-05 | 1823440.00 | 103960.00) Tj T* (2026-06 | 1716720.00 | 106720.00) Tj T* (2026-07 | 1607240.00 | 109480.00) Tj T* (2026-08 | 1495000.00 | 112240.00) Tj T* (2026-09 | 1380000.00 | 115000.00) Tj T* ET
 endstream
 endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 474 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (pnl.csv  Profit and loss by fiscal year, FY2024 to FY2025 \(the business began trading in) Tj T* (January 2024\)) Tj T* () Tj T* (Line | FY2024 | FY2025) Tj T* (Subscription revenue | 753685.02 | 1222701.17) Tj T* (Hosting and infrastructure | 90442.20 | 146724.14) Tj T* (Research and development | 640632.27 | 1039295.99) Tj T* (Sales and marketing | 339158.26 | 550215.53) Tj T* (General and administrative | 226105.51 | 366810.35) Tj T* ET
+endstream
+endobj
 xref
-0 10
+0 12
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000127 00000 n 
-0000000197 00000 n 
-0000000323 00000 n 
-0000000596 00000 n 
-0000000722 00000 n 
-0000001854 00000 n 
-0000001980 00000 n 
+0000000134 00000 n 
+0000000204 00000 n 
+0000000330 00000 n 
+0000000603 00000 n 
+0000000729 00000 n 
+0000001861 00000 n 
+0000001987 00000 n 
+0000002672 00000 n 
+0000002800 00000 n 
 trailer
-<< /Size 10 /Root 1 0 R >>
+<< /Size 12 /Root 1 0 R >>
 startxref
-2665
+3326
 %%EOF

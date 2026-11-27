@@ -1,0 +1,1243 @@
+month,client,engagement,fee_earner,grade,relationship_partner,hours_worked,hours_billed,standard_value,billed,collected
+2021-01,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,56.4,55.8,18160.01,17252.01,16734.45
+2021-01,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,185.1,183.2,27240.02,25878.02,25101.68
+2021-02,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,57.5,56.9,18526.06,17599.76,17071.77
+2021-02,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,188.8,186.9,27789.09,26399.64,25607.65
+2021-03,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,56.9,56.3,18321.93,17405.83,16883.66
+2021-03,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,186.7,184.8,27482.88,26108.74,25325.48
+2021-04,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,57.8,57.2,18618.04,17687.14,17156.53
+2021-04,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,189.7,187.8,27927.06,26530.71,25734.79
+2021-05,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,58.9,58.3,18974.25,18025.54,17484.77
+2021-05,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,193.4,191.5,28461.38,27038.31,26227.16
+2021-06,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,58.3,57.7,18784.17,17844.96,17309.61
+2021-06,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,191.4,189.5,28176.25,26767.44,25964.42
+2021-07,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,59.1,58.5,19030.17,18078.66,17536.30
+2021-07,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,193.9,192.0,28545.25,27117.99,26304.45
+2021-08,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,58.9,58.3,18970.13,18021.62,17480.97
+2021-08,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,193.3,191.4,28455.19,27032.43,26221.46
+2021-09,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,61.4,60.8,19763.83,18775.64,18212.37
+2021-09,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,201.4,199.4,29645.74,28163.45,27318.55
+2021-10,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,59.9,59.3,19294.47,18329.75,17779.86
+2021-10,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,196.6,194.6,28941.72,27494.63,26669.79
+2021-11,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,60.6,60.0,19527.88,18551.49,17994.95
+2021-11,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,199.0,197.0,29291.83,27827.24,26992.42
+2021-12,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,61.4,60.8,19783.73,18794.54,18230.70
+2021-12,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,201.6,199.6,29675.59,28191.81,27346.06
+2022-01,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,62.3,60.7,20057.87,18754.11,18191.49
+2022-01,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,204.4,199.3,30086.81,28131.17,27287.23
+2022-02,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,62.6,61.0,20156.63,18846.45,18281.06
+2022-02,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,205.4,200.3,30234.95,28269.68,27421.59
+2022-03,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,63.5,61.9,20442.29,19113.54,18540.13
+2022-03,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,208.3,203.1,30663.42,28670.30,27810.19
+2022-04,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,64.3,62.7,20710.31,19364.14,18783.22
+2022-04,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,211.0,205.7,31065.48,29046.22,28174.83
+2022-05,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,66.5,64.8,21402.64,20011.47,19411.13
+2022-05,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,218.1,212.6,32103.96,30017.20,29116.68
+2022-06,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,65.0,63.4,20936.83,19575.94,18988.66
+2022-06,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,213.4,208.1,31405.25,29363.91,28482.99
+2022-07,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,66.7,65.0,21468.19,20072.76,19470.58
+2022-07,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,218.8,213.3,32202.29,30109.14,29205.87
+2022-08,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,66.1,64.4,21294.74,19910.58,19313.26
+2022-08,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,217.0,211.6,31942.11,29865.87,28969.89
+2022-09,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,66.5,64.8,21399.85,20008.86,19408.59
+2022-09,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,218.1,212.6,32099.78,30013.29,29112.89
+2022-10,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,69.2,67.5,22294.47,20845.33,20219.97
+2022-10,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,227.2,221.5,33441.71,31268.00,30329.96
+2022-11,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,67.4,65.7,21699.42,20288.96,19680.29
+2022-11,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,221.1,215.6,32549.14,30433.45,29520.45
+2022-12,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,69.0,67.3,22229.40,20784.49,20160.96
+2022-12,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,226.5,220.8,33344.11,31176.74,30241.44
+2023-01,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,70.2,67.4,22612.85,20803.82,20179.71
+2023-01,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,230.4,221.2,33919.27,31205.73,30269.56
+2023-02,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,72.0,69.1,23184.76,21329.98,20690.08
+2023-02,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,236.3,226.8,34777.14,31994.97,31035.12
+2023-03,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,70.6,67.8,22744.25,20924.71,20296.97
+2023-03,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,231.8,222.5,34116.38,31387.07,30445.46
+2023-04,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,73.0,70.1,23510.46,21629.62,20980.73
+2023-04,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,239.6,230.0,35265.70,32444.44,31471.11
+2023-05,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,72.5,69.6,23345.18,21477.57,20833.24
+2023-05,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,237.9,228.4,35017.78,32216.36,31249.87
+2023-06,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,74.3,71.3,23935.63,22020.78,21360.16
+2023-06,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,243.9,234.1,35903.43,33031.16,32040.23
+2023-07,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,73.5,70.6,23672.34,21778.55,21125.19
+2023-07,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,241.2,231.6,35508.50,32667.82,31687.79
+2023-08,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,76.1,73.1,24489.02,22529.90,21854.00
+2023-08,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,249.5,239.5,36733.53,33794.85,32781.00
+2023-09,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,77.0,73.9,24782.21,22799.63,22115.64
+2023-09,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,252.5,242.4,37173.32,34199.45,33173.47
+2023-10,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,77.2,74.1,24857.89,22869.26,22183.18
+2023-10,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,253.3,243.2,37286.84,34303.89,33274.77
+2023-11,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,75.8,72.8,24414.27,22461.13,21787.30
+2023-11,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,248.8,238.8,36621.41,33691.70,32680.95
+2023-12,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,76.7,73.6,24709.23,22732.49,22050.52
+2023-12,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,251.8,241.7,37063.84,34098.73,33075.77
+2024-01,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,82.0,74.6,26391.44,22960.55,22271.73
+2024-01,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,268.9,244.7,39587.15,34440.82,33407.60
+2024-02,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,82.4,75.0,26522.28,23074.38,22382.15
+2024-02,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,270.3,246.0,39783.40,34611.56,33573.21
+2024-03,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,83.4,75.9,26869.33,23376.32,22675.03
+2024-03,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,273.8,249.2,40304.00,35064.48,34012.55
+2024-04,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,84.5,76.9,27193.07,23657.97,22948.23
+2024-04,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,277.1,252.2,40789.60,35486.95,34422.34
+2024-05,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,86.2,78.4,27766.94,24157.24,23432.52
+2024-05,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,283.0,257.5,41650.41,36235.86,35148.78
+2024-06,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,84.7,77.1,27270.70,23725.51,23013.74
+2024-06,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,277.9,252.9,40906.06,35588.27,34520.62
+2024-07,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,88.1,80.2,28352.25,24666.46,23926.47
+2024-07,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,288.9,262.9,42528.38,36999.69,35889.70
+2024-08,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,88.2,80.3,28410.63,24717.25,23975.73
+2024-08,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,289.5,263.4,42615.94,37075.87,35963.59
+2024-09,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,87.0,79.2,28015.34,24373.35,23642.15
+2024-09,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,285.5,259.8,42023.02,36560.03,35463.23
+2024-10,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,89.6,81.5,28867.01,25114.30,24360.87
+2024-10,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,294.2,267.7,43300.52,37671.45,36541.31
+2024-11,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,89.6,81.5,28839.17,25090.08,24337.38
+2024-11,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,293.9,267.4,43258.76,37635.12,36506.07
+2024-12,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,90.3,82.2,29069.89,25290.80,24532.08
+2024-12,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,296.2,269.5,43604.83,37936.20,36798.11
+2025-01,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,96.7,82.2,31127.83,25213.54,24457.13
+2025-01,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,317.2,269.6,46691.74,37820.31,36685.70
+2025-02,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,98.9,84.1,31851.30,25799.55,25025.56
+2025-02,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,324.6,275.9,47776.95,38699.33,37538.35
+2025-03,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,100.4,85.3,32329.30,26186.73,25401.13
+2025-03,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,329.4,280.0,48493.94,39280.09,38101.69
+2025-04,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,100.3,85.3,32298.68,26161.93,25377.07
+2025-04,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,329.1,279.7,48448.02,39242.90,38065.61
+2025-05,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,99.1,84.2,31909.17,25846.43,25071.04
+2025-05,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,325.2,276.4,47863.75,38769.64,37606.55
+2025-06,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,102.5,87.1,33013.46,26740.90,25938.67
+2025-06,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,336.4,285.9,49520.19,40111.35,38908.01
+2025-07,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,100.9,85.8,32487.59,26314.95,25525.50
+2025-07,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,331.1,281.4,48731.38,39472.42,38288.25
+2025-08,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,102.3,87.0,32946.57,26686.72,25886.12
+2025-08,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,335.7,285.3,49419.85,40030.08,38829.18
+2025-09,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,101.8,86.5,32775.36,26548.04,25751.60
+2025-09,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,334.0,283.9,49163.04,39822.06,38627.40
+2025-10,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,104.9,89.2,33779.22,27361.17,26540.33
+2025-10,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,344.2,292.6,50668.84,41041.76,39810.51
+2025-11,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,106.0,90.1,34117.42,27635.11,26806.06
+2025-11,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,347.7,295.5,51176.14,41452.67,40209.09
+2025-12,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,108.2,92.0,34835.65,28216.88,27370.37
+2025-12,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,355.0,301.8,52253.48,42325.32,41055.56
+2026-01,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,106.4,89.4,34259.79,27407.83,26585.60
+2026-01,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,349.1,293.2,51389.68,41111.74,39878.39
+2026-02,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,110.0,92.4,35414.84,28331.87,27481.91
+2026-02,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,360.9,303.2,53122.25,42497.80,41222.87
+2026-03,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,110.2,92.6,35485.03,28388.02,27536.38
+2026-03,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,361.6,303.7,53227.55,42582.04,41304.58
+2026-04,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,109.1,91.6,35124.43,28099.54,27256.55
+2026-04,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,357.9,300.6,52686.63,42149.30,40884.82
+2026-05,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,111.9,94.0,36018.96,28815.17,27950.71
+2026-05,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,367.0,308.3,54028.45,43222.76,41926.08
+2026-06,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,110.7,93.0,35652.29,28521.83,27666.18
+2026-06,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,363.3,305.2,53478.43,42782.74,41499.26
+2026-07,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,113.7,95.5,36597.58,29278.06,28399.72
+2026-07,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,372.9,313.2,54896.36,43917.09,42599.58
+2026-08,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,113.6,95.4,36594.64,29275.71,28397.44
+2026-08,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,372.9,313.2,54891.96,43913.57,42596.16
+2026-09,Meridian Retail Group (synthetic),retainer,P-01,Partner,P-01,114.6,96.3,36887.40,29509.92,28624.62
+2026-09,Meridian Retail Group (synthetic),retainer,C-01,Consultant,P-01,375.9,315.8,55331.10,44264.88,42936.93
+2021-01,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,14.9,14.8,4802.79,4562.65,4425.77
+2021-01,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,48.9,48.4,7204.18,6843.97,6638.65
+2021-02,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,15.0,14.9,4845.98,4603.68,4465.57
+2021-02,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,49.4,48.9,7268.97,6905.52,6698.35
+2021-03,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,15.0,14.9,4827.05,4585.70,4448.13
+2021-03,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,49.2,48.7,7240.58,6878.55,6672.19
+2021-04,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,14.8,14.7,4754.21,4516.50,4381.01
+2021-04,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,48.4,47.9,7131.31,6774.74,6571.50
+2021-05,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,14.9,14.8,4797.13,4557.27,4420.55
+2021-05,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,48.9,48.4,7195.68,6835.90,6630.82
+2021-06,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,15.2,15.0,4894.59,4649.86,4510.36
+2021-06,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,49.9,49.4,7341.88,6974.79,6765.55
+2021-07,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,15.4,15.2,4958.57,4710.64,4569.32
+2021-07,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,50.5,50.0,7437.84,7065.95,6853.97
+2021-08,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,15.8,15.6,5078.28,4824.37,4679.64
+2021-08,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,51.7,51.2,7617.43,7236.56,7019.46
+2021-09,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,16.0,15.8,5144.13,4886.92,4740.31
+2021-09,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,52.4,51.9,7716.19,7330.38,7110.47
+2021-10,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,15.6,15.4,5007.36,4756.99,4614.28
+2021-10,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,51.0,50.5,7511.03,7135.48,6921.42
+2021-11,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,15.8,15.6,5073.03,4819.38,4674.80
+2021-11,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,51.7,51.2,7609.56,7229.08,7012.21
+2021-12,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,16.2,16.0,5206.59,4946.26,4797.87
+2021-12,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,53.1,52.6,7809.89,7419.40,7196.82
+2022-01,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,16.7,16.3,5369.48,5020.46,4869.85
+2022-01,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,54.7,53.3,8054.21,7530.69,7304.77
+2022-02,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,16.8,16.4,5401.76,5050.65,4899.13
+2022-02,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,55.0,53.6,8102.65,7575.98,7348.70
+2022-03,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,16.6,16.2,5332.10,4985.51,4835.94
+2022-03,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,54.3,52.9,7998.15,7478.27,7253.92
+2022-04,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,16.8,16.4,5412.68,5060.86,4909.03
+2022-04,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,55.2,53.8,8119.03,7591.29,7363.55
+2022-05,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,16.8,16.4,5412.30,5060.50,4908.69
+2022-05,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,55.2,53.8,8118.45,7590.75,7363.03
+2022-06,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,17.0,16.6,5483.11,5126.71,4972.91
+2022-06,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,55.9,54.5,8224.67,7690.07,7459.37
+2022-07,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,17.3,16.9,5571.38,5209.24,5052.96
+2022-07,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,56.8,55.4,8357.07,7813.86,7579.44
+2022-08,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,17.5,17.1,5638.32,5271.83,5113.68
+2022-08,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,57.5,56.1,8457.49,7907.75,7670.52
+2022-09,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,17.3,16.9,5576.30,5213.84,5057.42
+2022-09,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,56.8,55.4,8364.45,7820.76,7586.14
+2022-10,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,17.4,17.0,5598.18,5234.30,5077.27
+2022-10,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,57.0,55.6,8397.27,7851.45,7615.91
+2022-11,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,18.0,17.6,5780.46,5404.73,5242.59
+2022-11,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,58.9,57.4,8670.68,8107.09,7863.88
+2022-12,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,18.2,17.7,5855.57,5474.96,5310.71
+2022-12,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,59.7,58.2,8783.36,8212.44,7966.07
+2023-01,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,18.1,17.4,5827.10,5360.93,5200.10
+2023-01,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,59.4,57.0,8740.64,8041.39,7800.15
+2023-02,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,18.2,17.5,5861.78,5392.84,5231.05
+2023-02,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,59.7,57.3,8792.68,8089.27,7846.59
+2023-03,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,18.7,18.0,6028.90,5546.59,5380.19
+2023-03,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,61.4,58.9,9043.35,8319.88,8070.28
+2023-04,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,18.9,18.1,6101.37,5613.26,5444.86
+2023-04,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,62.2,59.7,9152.04,8419.88,8167.28
+2023-05,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,18.9,18.1,6070.78,5585.12,5417.57
+2023-05,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,61.9,59.4,9106.16,8377.67,8126.34
+2023-06,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,19.5,18.7,6279.41,5777.06,5603.75
+2023-06,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,64.0,61.4,9419.11,8665.58,8405.61
+2023-07,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,19.2,18.4,6186.91,5691.96,5521.20
+2023-07,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,63.0,60.5,9280.38,8537.95,8281.81
+2023-08,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,19.4,18.6,6236.41,5737.50,5565.38
+2023-08,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,63.6,61.1,9354.62,8606.25,8348.06
+2023-09,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,19.2,18.4,6198.03,5702.19,5531.12
+2023-09,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,63.2,60.7,9297.04,8553.28,8296.68
+2023-10,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,19.5,18.7,6285.75,5782.89,5609.40
+2023-10,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,64.1,61.5,9428.62,8674.33,8414.10
+2023-11,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,20.2,19.4,6496.20,5976.50,5797.21
+2023-11,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,66.2,63.6,9744.29,8964.75,8695.81
+2023-12,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,19.8,19.0,6380.26,5869.84,5693.74
+2023-12,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,65.0,62.4,9570.39,8804.76,8540.62
+2024-01,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,21.0,19.1,6766.51,5886.86,5710.25
+2024-01,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,69.0,62.8,10149.76,8830.29,8565.38
+2024-02,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,21.6,19.7,6959.41,6054.69,5873.05
+2024-02,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,70.9,64.5,10439.11,9082.03,8809.57
+2024-03,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,21.9,19.9,7057.05,6139.63,5955.44
+2024-03,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,71.9,65.4,10585.57,9209.45,8933.17
+2024-04,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,22.3,20.3,7176.95,6243.95,6056.63
+2024-04,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,73.1,66.5,10765.44,9365.93,9084.95
+2024-05,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,21.9,19.9,7042.49,6126.97,5943.16
+2024-05,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,71.8,65.3,10563.75,9190.46,8914.75
+2024-06,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,22.4,20.4,7213.45,6275.70,6087.43
+2024-06,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,73.5,66.9,10820.17,9413.55,9131.14
+2024-07,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,22.0,20.0,7090.64,6168.86,5983.79
+2024-07,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,72.3,65.8,10635.97,9253.29,8975.69
+2024-08,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,22.5,20.5,7256.54,6313.19,6123.79
+2024-08,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,73.9,67.2,10884.82,9469.79,9185.70
+2024-09,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,22.4,20.4,7219.22,6280.72,6092.30
+2024-09,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,73.6,67.0,10828.83,9421.08,9138.45
+2024-10,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,22.8,20.7,7336.14,6382.44,6190.97
+2024-10,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,74.8,68.1,11004.21,9573.66,9286.45
+2024-11,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,23.3,21.2,7514.09,6537.26,6341.14
+2024-11,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,76.6,69.7,11271.14,9805.89,9511.71
+2024-12,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,23.4,21.3,7544.15,6563.41,6366.51
+2024-12,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,76.9,70.0,11316.23,9845.12,9549.77
+2025-01,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,24.8,21.1,7972.56,6457.77,6264.04
+2025-01,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,81.2,69.0,11958.83,9686.65,9396.05
+2025-02,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,25.2,21.4,8101.94,6562.57,6365.69
+2025-02,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,82.6,70.2,12152.90,9843.85,9548.53
+2025-03,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,25.4,21.6,8183.28,6628.46,6429.61
+2025-03,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,83.4,70.9,12274.93,9942.69,9644.41
+2025-04,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,25.7,21.8,8265.42,6694.99,6494.14
+2025-04,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,84.2,71.6,12398.12,10042.48,9741.21
+2025-05,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,26.6,22.6,8549.91,6925.43,6717.67
+2025-05,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,87.1,74.0,12824.86,10388.14,10076.50
+2025-06,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,26.5,22.5,8525.19,6905.40,6698.24
+2025-06,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,86.9,73.9,12787.78,10358.10,10047.36
+2025-07,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,26.6,22.6,8559.25,6932.99,6725.00
+2025-07,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,87.2,74.1,12838.86,10399.48,10087.50
+2025-08,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,27.1,23.0,8730.95,7072.07,6859.91
+2025-08,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,89.0,75.7,13096.42,10608.10,10289.86
+2025-09,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,26.9,22.9,8670.73,7023.29,6812.59
+2025-09,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,88.4,75.1,13006.10,10534.94,10218.89
+2025-10,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,27.1,23.0,8713.88,7058.24,6846.49
+2025-10,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,88.8,75.5,13070.81,10587.36,10269.74
+2025-11,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,27.8,23.6,8942.17,7243.16,7025.87
+2025-11,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,91.1,77.4,13413.26,10864.74,10538.80
+2025-12,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,27.9,23.7,8978.19,7272.33,7054.16
+2025-12,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,91.5,77.8,13467.27,10908.49,10581.24
+2026-01,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,28.1,23.6,9036.25,7229.00,7012.13
+2026-01,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,92.1,77.4,13554.36,10843.49,10518.19
+2026-02,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,27.9,23.4,8980.64,7184.51,6968.97
+2026-02,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,91.5,76.9,13470.95,10776.76,10453.46
+2026-03,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,28.6,24.0,9199.83,7359.86,7139.06
+2026-03,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,93.7,78.7,13799.74,11039.79,10708.60
+2026-04,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,28.5,23.9,9189.88,7351.90,7131.34
+2026-04,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,93.6,78.6,13784.81,11027.85,10697.01
+2026-05,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,29.0,24.4,9328.90,7463.12,7239.23
+2026-05,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,95.1,79.9,13993.34,11194.67,10858.83
+2026-06,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,29.5,24.8,9507.28,7605.82,7377.65
+2026-06,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,96.9,81.4,14260.91,11408.73,11066.47
+2026-07,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,29.1,24.4,9383.68,7506.94,7281.73
+2026-07,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,95.6,80.3,14075.53,11260.42,10922.61
+2026-08,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,29.9,25.1,9640.84,7712.67,7481.29
+2026-08,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,98.2,82.5,14461.25,11569.00,11221.93
+2026-09,Seabright Leisure (synthetic),time_and_materials,P-01,Partner,P-01,29.5,24.8,9486.13,7588.90,7361.23
+2026-09,Seabright Leisure (synthetic),time_and_materials,C-02,Consultant,P-01,96.7,81.2,14229.18,11383.34,11041.84
+2021-01,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,29.9,29.6,9643.43,9161.26,8886.42
+2021-01,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,98.3,97.3,14465.15,13741.89,13329.63
+2021-02,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,29.7,29.4,9567.95,9089.55,8816.86
+2021-02,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,97.5,96.5,14351.93,13634.33,13225.30
+2021-03,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,29.9,29.6,9615.64,9134.86,8860.81
+2021-03,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,98.0,97.0,14423.46,13702.29,13291.22
+2021-04,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,30.0,29.7,9653.80,9171.11,8895.98
+2021-04,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,98.4,97.4,14480.69,13756.66,13343.96
+2021-05,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,30.8,30.5,9916.66,9420.83,9138.21
+2021-05,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,101.1,100.1,14874.99,14131.24,13707.30
+2021-06,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,30.6,30.3,9867.97,9374.57,9093.33
+2021-06,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,100.6,99.6,14801.95,14061.85,13639.99
+2021-07,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,31.0,30.7,9986.62,9487.29,9202.67
+2021-07,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,101.8,100.8,14979.93,14230.93,13804.00
+2021-08,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,30.9,30.6,9956.44,9458.62,9174.86
+2021-08,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,101.5,100.5,14934.66,14187.93,13762.29
+2021-09,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,32.0,31.7,10288.25,9773.84,9480.62
+2021-09,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,104.8,103.8,15432.39,14660.77,14220.95
+2021-10,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,31.7,31.4,10197.72,9687.83,9397.20
+2021-10,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,103.9,102.9,15296.58,14531.75,14095.80
+2021-11,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,31.9,31.6,10269.05,9755.60,9462.93
+2021-11,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,104.6,103.6,15403.58,14633.40,14194.40
+2021-12,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,31.8,31.5,10227.24,9715.88,9424.40
+2021-12,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,104.2,103.2,15340.85,14573.81,14136.60
+2022-01,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,32.6,31.8,10485.03,9803.50,9509.40
+2022-01,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,106.8,104.1,15727.53,14705.24,14264.08
+2022-02,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,33.4,32.6,10750.20,10051.44,9749.90
+2022-02,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,109.5,106.8,16125.30,15077.16,14624.85
+2022-03,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,33.9,33.1,10911.47,10202.22,9896.15
+2022-03,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,111.2,108.4,16367.19,15303.32,14844.22
+2022-04,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,33.9,33.1,10922.90,10212.91,9906.52
+2022-04,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,111.3,108.5,16384.34,15319.36,14859.78
+2022-05,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,33.5,32.7,10791.82,10090.35,9787.64
+2022-05,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,110.0,107.3,16187.73,15135.53,14681.46
+2022-06,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,34.5,33.6,11120.39,10397.56,10085.63
+2022-06,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,113.3,110.5,16680.58,15596.34,15128.45
+2022-07,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,35.0,34.1,11264.83,10532.62,10216.64
+2022-07,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,114.8,111.9,16897.25,15798.93,15324.96
+2022-08,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,34.6,33.7,11153.58,10428.60,10115.74
+2022-08,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,113.7,110.9,16730.39,15642.91,15173.62
+2022-09,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,35.5,34.6,11445.80,10701.82,10380.77
+2022-09,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,116.6,113.7,17168.70,16052.73,15571.15
+2022-10,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,34.7,33.8,11162.26,10436.71,10123.61
+2022-10,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,113.7,110.9,16743.38,15655.06,15185.41
+2022-11,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,35.9,35.0,11549.45,10798.74,10474.78
+2022-11,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,117.7,114.8,17324.18,16198.11,15712.17
+2022-12,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,35.8,34.9,11514.80,10766.34,10443.35
+2022-12,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,117.3,114.4,17272.21,16149.52,15665.03
+2023-01,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,37.4,35.9,12032.80,11070.18,10738.07
+2023-01,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,122.6,117.7,18049.21,16605.27,16107.11
+2023-02,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,36.5,35.0,11759.35,10818.60,10494.04
+2023-02,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,119.8,115.0,17639.02,16227.90,15741.06
+2023-03,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,38.0,36.5,12238.12,11259.07,10921.30
+2023-03,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,124.7,119.7,18357.18,16888.61,16381.95
+2023-04,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,37.5,36.0,12069.43,11103.88,10770.76
+2023-04,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,123.0,118.1,18104.15,16655.82,16156.15
+2023-05,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,38.2,36.7,12300.35,11316.32,10976.83
+2023-05,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,125.3,120.3,18450.53,16974.49,16465.26
+2023-06,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,37.9,36.4,12201.75,11225.61,10888.84
+2023-06,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,124.3,119.3,18302.63,16838.42,16333.27
+2023-07,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,38.9,37.3,12522.76,11520.94,11175.31
+2023-07,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,127.6,122.5,18784.15,17281.42,16762.98
+2023-08,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,38.9,37.3,12522.86,11521.03,11175.40
+2023-08,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,127.6,122.5,18784.29,17281.55,16763.10
+2023-09,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,39.5,37.9,12711.32,11694.41,11343.58
+2023-09,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,129.5,124.3,19066.98,17541.62,17015.37
+2023-10,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,39.5,37.9,12711.33,11694.42,11343.59
+2023-10,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,129.5,124.3,19066.98,17541.62,17015.37
+2023-11,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,39.9,38.3,12838.63,11811.54,11457.19
+2023-11,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,130.8,125.6,19257.96,17717.32,17185.80
+2023-12,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,39.5,37.9,12708.87,11692.16,11341.40
+2023-12,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,129.5,124.3,19063.29,17538.23,17012.08
+2024-01,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,42.0,38.2,13519.24,11761.74,11408.89
+2024-01,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,137.8,125.4,20278.86,17642.61,17113.33
+2024-02,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,43.7,39.8,14085.34,12254.25,11886.62
+2024-02,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,143.5,130.6,21128.01,18381.37,17829.93
+2024-03,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,44.0,40.0,14156.06,12315.77,11946.30
+2024-03,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,144.3,131.3,21234.09,18473.66,17919.45
+2024-04,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,43.4,39.5,13973.21,12156.69,11791.99
+2024-04,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,142.4,129.6,20959.80,18235.03,17687.98
+2024-05,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,43.6,39.7,14042.36,12216.85,11850.34
+2024-05,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,143.1,130.2,21063.53,18325.27,17775.51
+2024-06,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,44.0,40.0,14169.02,12327.05,11957.24
+2024-06,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,144.4,131.4,21253.53,18490.57,17935.85
+2024-07,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,45.4,41.3,14614.52,12714.63,12333.19
+2024-07,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,148.9,135.5,21921.78,19071.95,18499.79
+2024-08,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,45.6,41.5,14687.77,12778.36,12395.01
+2024-08,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,149.7,136.2,22031.64,19167.53,18592.50
+2024-09,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,45.0,41.0,14482.46,12599.74,12221.75
+2024-09,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,147.6,134.3,21723.69,18899.61,18332.62
+2024-10,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,46.8,42.6,15056.83,13099.44,12706.46
+2024-10,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,153.4,139.6,22585.24,19649.16,19059.69
+2024-11,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,47.1,42.9,15162.37,13191.26,12795.52
+2024-11,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,154.5,140.6,22743.55,19786.89,19193.28
+2024-12,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,47.1,42.9,15178.47,13205.27,12809.11
+2024-12,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,154.7,140.8,22767.70,19807.90,19213.66
+2025-01,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,50.4,42.8,16221.70,13139.58,12745.39
+2025-01,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,165.3,140.5,24332.56,19709.37,19118.09
+2025-02,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,50.1,42.6,16138.27,13072.00,12679.84
+2025-02,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,164.5,139.8,24207.41,19608.00,19019.76
+2025-03,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,50.4,42.8,16234.32,13149.80,12755.31
+2025-03,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,165.4,140.6,24351.48,19724.70,19132.96
+2025-04,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,51.0,43.4,16430.84,13308.98,12909.71
+2025-04,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,167.4,142.3,24646.27,19963.48,19364.58
+2025-05,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,53.2,45.2,17133.41,13878.06,13461.72
+2025-05,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,174.6,148.4,25700.11,20817.09,20192.58
+2025-06,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,52.3,44.5,16830.25,13632.50,13223.53
+2025-06,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,171.5,145.8,25245.37,20448.75,19835.29
+2025-07,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,52.5,44.6,16896.62,13686.26,13275.67
+2025-07,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,172.2,146.4,25344.93,20529.39,19913.51
+2025-08,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,52.4,44.5,16859.75,13656.40,13246.71
+2025-08,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,171.8,146.0,25289.63,20484.60,19870.06
+2025-09,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,54.6,46.4,17566.90,14229.19,13802.31
+2025-09,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,179.0,152.2,26350.35,21343.78,20703.47
+2025-10,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,54.1,46.0,17410.27,14102.32,13679.25
+2025-10,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,177.4,150.8,26115.41,21153.48,20518.88
+2025-11,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,55.8,47.4,17972.43,14557.67,14120.94
+2025-11,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,183.1,155.6,26958.65,21836.51,21181.41
+2025-12,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,55.4,47.1,17832.04,14443.95,14010.63
+2025-12,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,181.7,154.4,26748.06,21665.93,21015.95
+2026-01,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,56.5,47.5,18181.25,14545.00,14108.65
+2026-01,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,185.3,155.7,27271.88,21817.50,21162.98
+2026-02,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,56.0,47.0,18034.35,14427.48,13994.66
+2026-02,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,183.8,154.4,27051.53,21641.22,20991.98
+2026-03,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,58.1,48.8,18694.33,14955.46,14506.80
+2026-03,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,190.5,160.0,28041.50,22433.20,21760.20
+2026-04,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,56.5,47.5,18194.10,14555.28,14118.62
+2026-04,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,185.4,155.7,27291.15,21832.92,21177.93
+2026-05,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,58.4,49.1,18807.50,15046.00,14594.62
+2026-05,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,191.7,161.0,28211.25,22569.00,21891.93
+2026-06,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,57.6,48.4,18561.83,14849.46,14403.98
+2026-06,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,189.1,158.8,27842.74,22274.19,21605.96
+2026-07,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,59.3,49.8,19109.63,15287.70,14829.07
+2026-07,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,194.7,163.5,28664.44,22931.55,22243.60
+2026-08,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,60.6,50.9,19511.66,15609.33,15141.05
+2026-08,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,198.8,167.0,29267.50,23414.00,22711.58
+2026-09,Halcyon Mutual (synthetic),managed_service,P-02,Partner,P-02,59.2,49.7,19049.53,15239.62,14782.43
+2026-09,Halcyon Mutual (synthetic),managed_service,C-03,Consultant,P-02,194.1,163.0,28574.28,22859.42,22173.64
+2021-01,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,16.7,16.5,5391.56,5121.98,4968.32
+2021-01,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,54.9,54.4,8087.35,7682.98,7452.49
+2021-02,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,16.9,16.7,5429.24,5157.78,5003.05
+2021-02,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,55.3,54.7,8143.86,7736.67,7504.57
+2021-03,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,17.3,17.1,5571.58,5293.00,5134.21
+2021-03,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,56.8,56.2,8357.37,7939.50,7701.32
+2021-04,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,17.1,16.9,5499.84,5224.85,5068.10
+2021-04,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,56.0,55.4,8249.76,7837.27,7602.15
+2021-05,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,17.6,17.4,5672.24,5388.63,5226.97
+2021-05,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,57.8,57.2,8508.37,8082.95,7840.46
+2021-06,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,17.8,17.6,5728.88,5442.44,5279.17
+2021-06,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,58.4,57.8,8593.32,8163.65,7918.74
+2021-07,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,17.7,17.5,5706.64,5421.31,5258.67
+2021-07,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,58.2,57.6,8559.96,8131.96,7888.00
+2021-08,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,17.8,17.6,5746.57,5459.24,5295.46
+2021-08,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,58.6,58.0,8619.86,8188.87,7943.20
+2021-09,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,17.6,17.4,5665.75,5382.46,5220.99
+2021-09,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,57.7,57.1,8498.62,8073.69,7831.48
+2021-10,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,18.4,18.2,5920.23,5624.22,5455.49
+2021-10,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,60.3,59.7,8880.34,8436.32,8183.23
+2021-11,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,18.6,18.4,5973.44,5674.77,5504.53
+2021-11,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,60.9,60.3,8960.17,8512.16,8256.80
+2021-12,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,18.5,18.3,5956.29,5658.48,5488.73
+2021-12,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,60.7,60.1,8934.44,8487.72,8233.09
+2022-01,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,18.7,18.2,6033.76,5641.57,5472.32
+2022-01,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,61.5,60.0,9050.64,8462.35,8208.48
+2022-02,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,19.0,18.5,6118.60,5720.89,5549.26
+2022-02,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,62.3,60.7,9177.89,8581.33,8323.89
+2022-03,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,19.0,18.5,6118.41,5720.71,5549.09
+2022-03,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,62.3,60.7,9177.60,8581.06,8323.63
+2022-04,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,19.1,18.6,6142.58,5743.31,5571.01
+2022-04,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,62.6,61.0,9213.87,8614.97,8356.52
+2022-05,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,19.2,18.7,6166.76,5765.92,5592.94
+2022-05,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,62.8,61.2,9250.13,8648.87,8389.40
+2022-06,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,19.6,19.1,6304.17,5894.40,5717.57
+2022-06,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,64.2,62.6,9456.26,8841.60,8576.35
+2022-07,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,19.6,19.1,6316.56,5905.98,5728.80
+2022-07,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,64.4,62.8,9474.83,8858.97,8593.20
+2022-08,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,20.1,19.6,6469.37,6048.86,5867.39
+2022-08,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,65.9,64.3,9704.05,9073.29,8801.09
+2022-09,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,20.1,19.6,6482.46,6061.10,5879.27
+2022-09,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,66.1,64.4,9723.69,9091.65,8818.90
+2022-10,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,19.8,19.3,6365.44,5951.69,5773.14
+2022-10,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,64.9,63.3,9548.16,8927.53,8659.70
+2022-11,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,20.6,20.1,6632.43,6201.32,6015.28
+2022-11,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,67.6,65.9,9948.64,9301.98,9022.92
+2022-12,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,20.2,19.7,6513.89,6090.49,5907.78
+2022-12,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,66.4,64.7,9770.83,9135.73,8861.66
+2023-01,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,21.2,20.4,6815.04,6269.84,6081.74
+2023-01,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,69.4,66.6,10222.55,9404.75,9122.61
+2023-02,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,21.4,20.5,6903.63,6351.34,6160.80
+2023-02,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,70.3,67.5,10355.46,9527.02,9241.21
+2023-03,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,21.6,20.7,6945.13,6389.52,6197.83
+2023-03,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,70.8,68.0,10417.68,9584.27,9296.74
+2023-04,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,21.7,20.8,6986.84,6427.89,6235.05
+2023-04,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,71.2,68.4,10480.26,9641.84,9352.58
+2023-05,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,21.4,20.5,6903.13,6350.88,6160.35
+2023-05,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,70.3,67.5,10354.70,9526.32,9240.53
+2023-06,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,21.7,20.8,6979.47,6421.11,6228.48
+2023-06,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,71.1,68.3,10469.20,9631.66,9342.71
+2023-07,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,21.7,20.8,6992.75,6433.33,6240.33
+2023-07,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,71.3,68.4,10489.13,9650.00,9360.50
+2023-08,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,22.5,21.6,7256.01,6675.53,6475.26
+2023-08,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,73.9,70.9,10884.01,10013.29,9712.89
+2023-09,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,22.2,21.3,7133.90,6563.19,6366.29
+2023-09,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,72.7,69.8,10700.86,9844.79,9549.45
+2023-10,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,22.9,22.0,7387.10,6796.13,6592.25
+2023-10,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,75.3,72.3,11080.64,10194.19,9888.36
+2023-11,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,22.8,21.9,7329.04,6742.72,6540.44
+2023-11,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,74.7,71.7,10993.57,10114.08,9810.66
+2023-12,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,23.0,22.1,7402.43,6810.24,6605.93
+2023-12,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,75.4,72.4,11103.65,10215.36,9908.90
+2024-01,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,24.9,22.7,8016.36,6974.23,6765.00
+2024-01,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,81.7,74.3,12024.53,10461.34,10147.50
+2024-02,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,25.1,22.8,8088.41,7036.92,6825.81
+2024-02,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,82.4,75.0,12132.62,10555.38,10238.72
+2024-03,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,25.1,22.8,8081.18,7030.63,6819.71
+2024-03,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,82.3,74.9,12121.78,10545.95,10229.57
+2024-04,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,25.2,22.9,8121.67,7065.85,6853.87
+2024-04,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,82.8,75.3,12182.49,10598.77,10280.81
+2024-05,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,25.2,22.9,8121.66,7065.84,6853.86
+2024-05,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,82.8,75.3,12182.49,10598.77,10280.81
+2024-06,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,25.0,22.8,8039.28,6994.17,6784.34
+2024-06,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,81.9,74.5,12058.91,10491.25,10176.51
+2024-07,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,26.1,23.8,8417.17,7322.94,7103.25
+2024-07,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,85.8,78.1,12625.76,10984.41,10654.88
+2024-08,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,25.8,23.5,8318.15,7236.79,7019.69
+2024-08,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,84.8,77.2,12477.22,10855.18,10529.52
+2024-09,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,26.4,24.0,8502.08,7396.81,7174.91
+2024-09,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,86.6,78.8,12753.11,11095.21,10762.35
+2024-10,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,26.0,23.7,8384.16,7294.22,7075.39
+2024-10,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,85.4,77.7,12576.23,10941.32,10613.08
+2024-11,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,26.8,24.4,8621.62,7500.81,7275.79
+2024-11,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,87.9,80.0,12932.43,11251.21,10913.67
+2024-12,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,26.5,24.1,8544.60,7433.80,7210.79
+2024-12,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,87.1,79.3,12816.90,11150.70,10816.18
+2025-01,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,28.8,24.5,9269.56,7508.34,7283.09
+2025-01,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,94.5,80.3,13904.32,11262.50,10924.63
+2025-02,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,29.0,24.7,9324.96,7553.22,7326.62
+2025-02,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,95.0,80.8,13987.44,11329.83,10989.94
+2025-03,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,29.1,24.7,9380.67,7598.34,7370.39
+2025-03,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,95.6,81.3,14071.00,11397.51,11055.58
+2025-04,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,29.4,25.0,9465.23,7666.84,7436.83
+2025-04,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,96.5,82.0,14197.85,11500.26,11155.25
+2025-05,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,29.8,25.3,9588.95,7767.05,7534.04
+2025-05,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,97.7,83.0,14383.42,11650.57,11301.05
+2025-06,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,30.1,25.6,9704.37,7860.54,7624.72
+2025-06,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,98.9,84.1,14556.54,11790.80,11437.08
+2025-07,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,30.6,26.0,9860.02,7986.62,7747.02
+2025-07,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,100.5,85.4,14790.04,11979.93,11620.53
+2025-08,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,30.3,25.8,9742.28,7891.25,7654.51
+2025-08,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,99.3,84.4,14613.42,11836.87,11481.76
+2025-09,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,31.0,26.4,9968.86,8074.78,7832.54
+2025-09,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,101.6,86.4,14953.30,12112.17,11748.80
+2025-10,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,30.9,26.3,9938.74,8050.38,7808.87
+2025-10,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,101.3,86.1,14908.11,12075.57,11713.30
+2025-11,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,31.4,26.7,10098.80,8180.03,7934.63
+2025-11,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,102.9,87.5,15148.20,12270.04,11901.94
+2025-12,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,31.3,26.6,10088.25,8171.48,7926.34
+2025-12,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,102.8,87.4,15132.37,12257.22,11889.50
+2026-01,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,32.0,26.9,10306.43,8245.14,7997.79
+2026-01,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,105.0,88.2,15459.64,12367.71,11996.68
+2026-02,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,32.1,27.0,10326.23,8260.98,8013.15
+2026-02,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,105.2,88.4,15489.34,12391.47,12019.73
+2026-03,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,32.0,26.9,10314.11,8251.29,8003.75
+2026-03,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,105.1,88.3,15471.18,12376.94,12005.63
+2026-04,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,33.4,28.1,10767.94,8614.35,8355.92
+2026-04,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,109.7,92.1,16151.90,12921.52,12533.87
+2026-05,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,33.0,27.7,10629.51,8503.61,8248.50
+2026-05,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,108.3,91.0,15944.28,12755.42,12372.76
+2026-06,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,33.5,28.1,10790.00,8632.00,8373.04
+2026-06,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,110.0,92.4,16185.01,12948.01,12559.57
+2026-07,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,33.1,27.8,10648.15,8518.52,8262.96
+2026-07,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,108.5,91.1,15972.23,12777.78,12394.45
+2026-08,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,34.4,28.9,11061.90,8849.52,8584.03
+2026-08,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,112.7,94.7,16592.85,13274.28,12876.05
+2026-09,Lumen Education Trust (synthetic),project,P-02,Partner,P-02,34.6,29.1,11139.36,8911.49,8644.15
+2026-09,Lumen Education Trust (synthetic),project,C-04,Consultant,P-02,113.5,95.3,16709.04,13367.23,12966.21
+2021-01,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,10.7,10.6,3433.95,3262.25,3164.38
+2021-01,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,35.0,34.7,5150.92,4893.37,4746.57
+2021-02,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,10.8,10.7,3471.63,3298.05,3199.11
+2021-02,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,35.4,35.0,5207.45,4947.08,4798.67
+2021-03,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,10.7,10.6,3444.46,3272.24,3174.07
+2021-03,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,35.1,34.7,5166.69,4908.36,4761.11
+2021-04,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,10.9,10.8,3499.72,3324.73,3224.99
+2021-04,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,35.7,35.3,5249.57,4987.09,4837.48
+2021-05,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,11.0,10.9,3548.64,3371.21,3270.07
+2021-05,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,36.2,35.8,5322.97,5056.82,4905.12
+2021-06,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,11.1,11.0,3587.58,3408.20,3305.95
+2021-06,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,36.6,36.2,5381.38,5112.31,4958.94
+2021-07,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,11.0,10.9,3556.01,3378.21,3276.86
+2021-07,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,36.2,35.8,5334.02,5067.32,4915.30
+2021-08,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,11.2,11.1,3605.91,3425.61,3322.84
+2021-08,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,36.7,36.3,5408.85,5138.41,4984.26
+2021-09,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,11.4,11.3,3656.37,3473.55,3369.34
+2021-09,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,37.3,36.9,5484.55,5210.32,5054.01
+2021-10,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,11.3,11.2,3645.67,3463.39,3359.49
+2021-10,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,37.2,36.8,5468.52,5195.09,5039.24
+2021-11,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,11.3,11.2,3623.60,3442.42,3339.15
+2021-11,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,36.9,36.5,5435.39,5163.62,5008.71
+2021-12,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,11.3,11.2,3626.76,3445.42,3342.06
+2021-12,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,37.0,36.6,5440.14,5168.13,5013.09
+2022-01,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,11.6,11.3,3737.09,3494.18,3389.35
+2022-01,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,38.1,37.1,5605.64,5241.27,5084.03
+2022-02,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,11.7,11.4,3759.37,3515.01,3409.56
+2022-02,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,38.3,37.3,5639.06,5272.52,5114.34
+2022-03,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,12.0,11.7,3862.40,3611.34,3503.00
+2022-03,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,39.4,38.4,5793.59,5417.01,5254.50
+2022-04,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,11.9,11.6,3819.76,3571.48,3464.34
+2022-04,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,38.9,37.9,5729.65,5357.22,5196.50
+2022-05,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,12.0,11.7,3877.63,3625.58,3516.81
+2022-05,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,39.5,38.5,5816.44,5438.37,5275.22
+2022-06,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,12.2,11.9,3912.58,3658.26,3548.51
+2022-06,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,39.9,38.9,5868.88,5487.40,5322.78
+2022-07,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,12.1,11.8,3888.39,3635.64,3526.57
+2022-07,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,39.6,38.6,5832.59,5453.47,5289.87
+2022-08,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,12.4,12.1,3987.42,3728.24,3616.39
+2022-08,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,40.6,39.6,5981.12,5592.35,5424.58
+2022-09,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,12.7,12.4,4103.89,3837.14,3722.03
+2022-09,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,41.8,40.8,6155.84,5755.71,5583.04
+2022-10,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,12.4,12.1,3982.46,3723.60,3611.89
+2022-10,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,40.6,39.6,5973.69,5585.40,5417.84
+2022-11,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,12.9,12.6,4157.54,3887.30,3770.68
+2022-11,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,42.4,41.3,6236.31,5830.95,5656.02
+2022-12,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,12.9,12.6,4161.93,3891.40,3774.66
+2022-12,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,42.4,41.3,6242.89,5837.10,5661.99
+2023-01,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,12.9,12.4,4145.30,3813.68,3699.27
+2023-01,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,42.2,40.5,6217.97,5720.53,5548.91
+2023-02,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,13.2,12.7,4242.36,3902.97,3785.88
+2023-02,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,43.2,41.5,6363.54,5854.46,5678.83
+2023-03,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,13.3,12.8,4276.30,3934.20,3816.17
+2023-03,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,43.6,41.9,6414.45,5901.29,5724.25
+2023-04,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,13.7,13.2,4410.05,4057.25,3935.53
+2023-04,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,44.9,43.1,6615.08,6085.87,5903.29
+2023-05,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,13.7,13.2,4410.43,4057.60,3935.87
+2023-05,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,44.9,43.1,6615.64,6086.39,5903.80
+2023-06,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,13.7,13.2,4401.74,4049.60,3928.11
+2023-06,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,44.9,43.1,6602.61,6074.40,5892.17
+2023-07,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,14.0,13.4,4521.17,4159.48,4034.70
+2023-07,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,46.1,44.3,6781.76,6239.22,6052.04
+2023-08,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,13.7,13.2,4400.97,4048.89,3927.42
+2023-08,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,44.8,43.0,6601.45,6073.33,5891.13
+2023-09,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,14.2,13.6,4566.78,4201.44,4075.40
+2023-09,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,46.5,44.6,6850.16,6302.15,6113.09
+2023-10,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,14.2,13.6,4562.46,4197.46,4071.54
+2023-10,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,46.5,44.6,6843.68,6296.19,6107.30
+2023-11,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,14.0,13.4,4521.16,4159.47,4034.69
+2023-11,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,46.1,44.3,6781.74,6239.20,6052.02
+2023-12,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,14.2,13.6,4561.95,4196.99,4071.08
+2023-12,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,46.5,44.6,6842.91,6295.48,6106.62
+2024-01,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,15.3,13.9,4926.64,4286.18,4157.59
+2024-01,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,50.2,45.7,7389.95,6429.26,6236.38
+2024-02,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,15.7,14.3,5045.34,4389.45,4257.77
+2024-02,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,51.4,46.8,7568.02,6584.18,6386.65
+2024-03,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,15.8,14.4,5080.71,4420.22,4287.61
+2024-03,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,51.8,47.1,7621.08,6630.34,6431.43
+2024-04,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,15.7,14.3,5040.79,4385.49,4253.93
+2024-04,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,51.4,46.8,7561.18,6578.23,6380.88
+2024-05,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,15.6,14.2,5010.05,4358.74,4227.98
+2024-05,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,51.1,46.5,7515.07,6538.11,6341.97
+2024-06,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,15.8,14.4,5075.71,4415.87,4283.39
+2024-06,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,51.7,47.0,7613.57,6623.81,6425.10
+2024-07,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,15.9,14.5,5111.16,4446.71,4313.31
+2024-07,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,52.1,47.4,7666.75,6670.07,6469.97
+2024-08,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,16.0,14.6,5146.85,4477.76,4343.43
+2024-08,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,52.4,47.7,7720.28,6716.64,6515.14
+2024-09,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,15.9,14.5,5135.62,4467.99,4333.95
+2024-09,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,52.3,47.6,7703.44,6701.99,6500.93
+2024-10,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,16.1,14.7,5187.28,4512.93,4377.54
+2024-10,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,52.9,48.1,7780.91,6769.39,6566.31
+2024-11,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,16.9,15.4,5425.78,4720.43,4578.82
+2024-11,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,55.3,50.3,8138.68,7080.65,6868.23
+2024-12,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,16.4,14.9,5286.70,4599.43,4461.45
+2024-12,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,53.9,49.0,7930.05,6899.14,6692.17
+2025-01,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,18.3,15.6,5903.88,4782.14,4638.68
+2025-01,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,60.2,51.2,8855.81,7173.21,6958.01
+2025-02,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,18.3,15.6,5892.53,4772.95,4629.76
+2025-02,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,60.0,51.0,8838.80,7159.43,6944.65
+2025-03,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,18.1,15.4,5815.68,4710.70,4569.38
+2025-03,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,59.3,50.4,8723.53,7066.06,6854.08
+2025-04,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,18.6,15.8,5993.14,4854.44,4708.81
+2025-04,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,61.1,51.9,8989.72,7281.67,7063.22
+2025-05,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,18.3,15.6,5885.11,4766.94,4623.93
+2025-05,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,60.0,51.0,8827.67,7150.41,6935.90
+2025-06,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,18.7,15.9,6028.95,4883.45,4736.95
+2025-06,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,61.4,52.2,9043.42,7325.17,7105.41
+2025-07,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,18.7,15.9,6016.22,4873.14,4726.95
+2025-07,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,61.3,52.1,9024.33,7309.71,7090.42
+2025-08,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,18.9,16.1,6070.49,4917.10,4769.59
+2025-08,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,61.9,52.6,9105.74,7375.65,7154.38
+2025-09,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,19.1,16.2,6143.83,4976.50,4827.21
+2025-09,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,62.6,53.2,9215.74,7464.75,7240.81
+2025-10,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,19.5,16.6,6267.90,5077.00,4924.69
+2025-10,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,63.9,54.3,9401.85,7615.50,7387.04
+2025-11,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,19.4,16.5,6248.81,5061.54,4909.69
+2025-11,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,63.7,54.1,9373.23,7592.32,7364.55
+2025-12,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,20.0,17.0,6438.36,5215.07,5058.62
+2025-12,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,65.6,55.8,9657.54,7822.61,7587.93
+2026-01,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,20.3,17.1,6538.63,5230.90,5073.97
+2026-01,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,66.6,55.9,9807.94,7846.35,7610.96
+2026-02,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,20.3,17.1,6532.20,5225.76,5068.99
+2026-02,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,66.6,55.9,9798.30,7838.64,7603.48
+2026-03,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,20.0,16.8,6446.33,5157.06,5002.35
+2026-03,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,65.7,55.2,9669.49,7735.59,7503.52
+2026-04,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,20.7,17.4,6657.03,5325.62,5165.85
+2026-04,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,67.8,57.0,9985.54,7988.43,7748.78
+2026-05,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,20.9,17.6,6730.33,5384.26,5222.73
+2026-05,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,68.6,57.6,10095.50,8076.40,7834.11
+2026-06,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,21.0,17.6,6750.49,5400.39,5238.38
+2026-06,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,68.8,57.8,10125.74,8100.59,7857.57
+2026-07,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,21.0,17.6,6756.95,5405.56,5243.39
+2026-07,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,68.9,57.9,10135.44,8108.35,7865.10
+2026-08,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,21.0,17.6,6776.79,5421.43,5258.79
+2026-08,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,69.1,58.0,10165.19,8132.15,7888.19
+2026-09,Carraway Foods (synthetic),retainer,P-02,Partner,P-02,21.7,18.2,6982.80,5586.24,5418.65
+2026-09,Carraway Foods (synthetic),retainer,C-05,Consultant,P-02,71.2,59.8,10474.20,8379.36,8127.98
+2021-01,Brookfield Transit (synthetic),project,P-03,Partner,P-03,24.7,24.5,7965.66,7567.38,7340.36
+2021-01,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,81.2,80.4,11948.49,11351.07,11010.54
+2021-02,Brookfield Transit (synthetic),project,P-03,Partner,P-03,25.6,25.3,8233.80,7822.11,7587.45
+2021-02,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,83.9,83.1,12350.71,11733.17,11381.17
+2021-03,Brookfield Transit (synthetic),project,P-03,Partner,P-03,25.5,25.2,8225.49,7814.22,7579.79
+2021-03,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,83.8,83.0,12338.24,11721.33,11369.69
+2021-04,Brookfield Transit (synthetic),project,P-03,Partner,P-03,26.1,25.8,8399.31,7979.34,7739.96
+2021-04,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,85.6,84.7,12598.96,11969.01,11609.94
+2021-05,Brookfield Transit (synthetic),project,P-03,Partner,P-03,25.8,25.5,8299.01,7884.06,7647.54
+2021-05,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,84.6,83.8,12448.52,11826.09,11471.31
+2021-06,Brookfield Transit (synthetic),project,P-03,Partner,P-03,26.2,25.9,8424.49,8003.27,7763.17
+2021-06,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,85.8,84.9,12636.74,12004.90,11644.75
+2021-07,Brookfield Transit (synthetic),project,P-03,Partner,P-03,26.8,26.5,8619.52,8188.54,7942.88
+2021-07,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,87.8,86.9,12929.28,12282.82,11914.34
+2021-08,Brookfield Transit (synthetic),project,P-03,Partner,P-03,26.1,25.8,8405.44,7985.17,7745.61
+2021-08,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,85.7,84.8,12608.16,11977.75,11618.42
+2021-09,Brookfield Transit (synthetic),project,P-03,Partner,P-03,27.3,27.0,8775.27,8336.51,8086.41
+2021-09,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,89.4,88.5,13162.92,12504.77,12129.63
+2021-10,Brookfield Transit (synthetic),project,P-03,Partner,P-03,27.2,26.9,8767.04,8328.69,8078.83
+2021-10,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,89.3,88.4,13150.57,12493.04,12118.25
+2021-11,Brookfield Transit (synthetic),project,P-03,Partner,P-03,27.0,26.7,8679.06,8245.11,7997.76
+2021-11,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,88.4,87.5,13018.59,12367.66,11996.63
+2021-12,Brookfield Transit (synthetic),project,P-03,Partner,P-03,27.3,27.0,8801.62,8361.54,8110.69
+2021-12,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,89.7,88.8,13202.44,12542.32,12166.05
+2022-01,Brookfield Transit (synthetic),project,P-03,Partner,P-03,27.9,27.2,8987.17,8403.00,8150.91
+2022-01,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,91.6,89.3,13480.75,12604.50,12226.37
+2022-02,Brookfield Transit (synthetic),project,P-03,Partner,P-03,28.2,27.5,9095.63,8504.41,8249.28
+2022-02,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,92.7,90.4,13643.43,12756.61,12373.91
+2022-03,Brookfield Transit (synthetic),project,P-03,Partner,P-03,28.6,27.9,9205.24,8606.90,8348.69
+2022-03,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,93.8,91.5,13807.87,12910.36,12523.05
+2022-04,Brookfield Transit (synthetic),project,P-03,Partner,P-03,28.4,27.7,9158.14,8562.86,8305.97
+2022-04,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,93.3,91.0,13737.21,12844.29,12458.96
+2022-05,Brookfield Transit (synthetic),project,P-03,Partner,P-03,29.1,28.4,9362.48,8753.92,8491.30
+2022-05,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,95.4,93.0,14043.72,13130.88,12736.95
+2022-06,Brookfield Transit (synthetic),project,P-03,Partner,P-03,29.5,28.8,9503.44,8885.72,8619.15
+2022-06,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,96.8,94.4,14255.17,13328.58,12928.72
+2022-07,Brookfield Transit (synthetic),project,P-03,Partner,P-03,29.8,29.1,9608.01,8983.49,8713.99
+2022-07,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,97.9,95.5,14412.01,13475.23,13070.97
+2022-08,Brookfield Transit (synthetic),project,P-03,Partner,P-03,30.3,29.5,9752.00,9118.12,8844.58
+2022-08,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,99.4,96.9,14628.00,13677.18,13266.86
+2022-09,Brookfield Transit (synthetic),project,P-03,Partner,P-03,29.4,28.7,9472.39,8856.68,8590.98
+2022-09,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,96.5,94.1,14208.58,13285.02,12886.47
+2022-10,Brookfield Transit (synthetic),project,P-03,Partner,P-03,30.4,29.6,9781.99,9146.16,8871.78
+2022-10,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,99.7,97.2,14672.98,13719.24,13307.66
+2022-11,Brookfield Transit (synthetic),project,P-03,Partner,P-03,30.7,29.9,9889.71,9246.88,8969.47
+2022-11,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,100.8,98.3,14834.57,13870.32,13454.21
+2022-12,Brookfield Transit (synthetic),project,P-03,Partner,P-03,31.0,30.2,9978.73,9330.11,9050.21
+2022-12,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,101.7,99.2,14968.10,13995.17,13575.31
+2023-01,Brookfield Transit (synthetic),project,P-03,Partner,P-03,31.4,30.1,10100.86,9292.79,9014.01
+2023-01,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,102.9,98.8,15151.29,13939.19,13521.01
+2023-02,Brookfield Transit (synthetic),project,P-03,Partner,P-03,32.3,31.0,10396.34,9564.63,9277.69
+2023-02,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,105.9,101.7,15594.51,14346.95,13916.54
+2023-03,Brookfield Transit (synthetic),project,P-03,Partner,P-03,32.1,30.8,10324.95,9498.95,9213.98
+2023-03,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,105.2,101.0,15487.42,14248.43,13820.98
+2023-04,Brookfield Transit (synthetic),project,P-03,Partner,P-03,31.9,30.6,10282.90,9460.27,9176.46
+2023-04,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,104.8,100.6,15424.36,14190.41,13764.70
+2023-05,Brookfield Transit (synthetic),project,P-03,Partner,P-03,32.7,31.4,10532.68,9690.07,9399.37
+2023-05,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,107.3,103.0,15799.03,14535.11,14099.06
+2023-06,Brookfield Transit (synthetic),project,P-03,Partner,P-03,32.6,31.3,10500.86,9660.79,9370.97
+2023-06,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,107.0,102.7,15751.28,14491.18,14056.44
+2023-07,Brookfield Transit (synthetic),project,P-03,Partner,P-03,33.3,32.0,10733.80,9875.10,9578.85
+2023-07,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,109.4,105.0,16100.70,14812.64,14368.26
+2023-08,Brookfield Transit (synthetic),project,P-03,Partner,P-03,33.6,32.3,10808.95,9944.23,9645.90
+2023-08,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,110.1,105.7,16213.42,14916.35,14468.86
+2023-09,Brookfield Transit (synthetic),project,P-03,Partner,P-03,34.2,32.8,11025.13,10143.12,9838.83
+2023-09,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,112.3,107.8,16537.68,15214.67,14758.23
+2023-10,Brookfield Transit (synthetic),project,P-03,Partner,P-03,33.4,32.1,10764.67,9903.50,9606.40
+2023-10,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,109.7,105.3,16147.01,14855.25,14409.59
+2023-11,Brookfield Transit (synthetic),project,P-03,Partner,P-03,34.4,33.0,11081.42,10194.91,9889.06
+2023-11,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,112.9,108.4,16622.14,15292.37,14833.60
+2023-12,Brookfield Transit (synthetic),project,P-03,Partner,P-03,34.4,33.0,11081.51,10194.99,9889.14
+2023-12,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,112.9,108.4,16622.26,15292.48,14833.71
+2024-01,Brookfield Transit (synthetic),project,P-03,Partner,P-03,36.1,32.9,11623.32,10112.29,9808.92
+2024-01,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,118.4,107.7,17434.98,15168.43,14713.38
+2024-02,Brookfield Transit (synthetic),project,P-03,Partner,P-03,36.5,33.2,11740.10,10213.89,9907.47
+2024-02,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,119.6,108.8,17610.15,15320.83,14861.21
+2024-03,Brookfield Transit (synthetic),project,P-03,Partner,P-03,37.7,34.3,12133.77,10556.38,10239.69
+2024-03,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,123.6,112.5,18200.66,15834.57,15359.53
+2024-04,Brookfield Transit (synthetic),project,P-03,Partner,P-03,37.8,34.4,12170.40,10588.25,10270.60
+2024-04,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,124.0,112.8,18255.61,15882.38,15405.91
+2024-05,Brookfield Transit (synthetic),project,P-03,Partner,P-03,38.4,34.9,12353.05,10747.15,10424.74
+2024-05,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,125.9,114.6,18529.57,16120.73,15637.11
+2024-06,Brookfield Transit (synthetic),project,P-03,Partner,P-03,37.9,34.5,12194.00,10608.78,10290.52
+2024-06,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,124.3,113.1,18290.99,15913.16,15435.77
+2024-07,Brookfield Transit (synthetic),project,P-03,Partner,P-03,37.7,34.3,12143.01,10564.42,10247.49
+2024-07,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,123.7,112.6,18214.51,15846.62,15371.22
+2024-08,Brookfield Transit (synthetic),project,P-03,Partner,P-03,39.4,35.9,12689.33,11039.72,10708.53
+2024-08,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,129.3,117.7,19034.00,16559.58,16062.79
+2024-09,Brookfield Transit (synthetic),project,P-03,Partner,P-03,38.6,35.1,12438.69,10821.66,10497.01
+2024-09,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,126.8,115.4,18658.03,16232.49,15745.52
+2024-10,Brookfield Transit (synthetic),project,P-03,Partner,P-03,40.0,36.4,12867.82,11195.00,10859.15
+2024-10,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,131.1,119.3,19301.72,16792.50,16288.73
+2024-11,Brookfield Transit (synthetic),project,P-03,Partner,P-03,40.2,36.6,12932.43,11251.21,10913.67
+2024-11,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,131.8,119.9,19398.63,16876.81,16370.51
+2024-12,Brookfield Transit (synthetic),project,P-03,Partner,P-03,40.6,36.9,13061.64,11363.63,11022.72
+2024-12,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,133.1,121.1,19592.47,17045.45,16534.09
+2025-01,Brookfield Transit (synthetic),project,P-03,Partner,P-03,43.7,37.1,14071.68,11398.06,11056.12
+2025-01,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,143.4,121.9,21107.51,17097.08,16584.17
+2025-02,Brookfield Transit (synthetic),project,P-03,Partner,P-03,43.7,37.1,14085.84,11409.53,11067.24
+2025-02,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,143.5,122.0,21128.77,17114.30,16600.87
+2025-03,Brookfield Transit (synthetic),project,P-03,Partner,P-03,43.5,37.0,14000.15,11340.12,10999.92
+2025-03,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,142.7,121.3,21000.22,17010.18,16499.87
+2025-04,Brookfield Transit (synthetic),project,P-03,Partner,P-03,43.9,37.3,14126.43,11442.41,11099.14
+2025-04,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,144.0,122.4,21189.65,17163.62,16648.71
+2025-05,Brookfield Transit (synthetic),project,P-03,Partner,P-03,45.0,38.3,14484.21,11732.21,11380.24
+2025-05,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,147.6,125.5,21726.31,17598.31,17070.36
+2025-06,Brookfield Transit (synthetic),project,P-03,Partner,P-03,45.6,38.8,14672.64,11884.84,11528.29
+2025-06,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,149.5,127.1,22008.96,17827.26,17292.44
+2025-07,Brookfield Transit (synthetic),project,P-03,Partner,P-03,45.1,38.3,14526.70,11766.63,11413.63
+2025-07,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,148.0,125.8,21790.05,17649.94,17120.44
+2025-08,Brookfield Transit (synthetic),project,P-03,Partner,P-03,46.5,39.5,14982.09,12135.49,11771.43
+2025-08,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,152.7,129.8,22473.12,18203.23,17657.13
+2025-09,Brookfield Transit (synthetic),project,P-03,Partner,P-03,45.6,38.8,14670.88,11883.41,11526.91
+2025-09,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,149.5,127.1,22006.31,17825.11,17290.36
+2025-10,Brookfield Transit (synthetic),project,P-03,Partner,P-03,45.6,38.8,14698.35,11905.66,11548.49
+2025-10,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,149.8,127.3,22047.52,17858.49,17322.74
+2025-11,Brookfield Transit (synthetic),project,P-03,Partner,P-03,46.5,39.5,14982.06,12135.47,11771.41
+2025-11,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,152.7,129.8,22473.10,18203.21,17657.11
+2025-12,Brookfield Transit (synthetic),project,P-03,Partner,P-03,47.1,40.0,15178.04,12294.21,11925.38
+2025-12,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,154.7,131.5,22767.06,18441.32,17888.08
+2026-01,Brookfield Transit (synthetic),project,P-03,Partner,P-03,48.7,40.9,15677.15,12541.72,12165.47
+2026-01,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,159.8,134.2,23515.74,18812.59,18248.21
+2026-02,Brookfield Transit (synthetic),project,P-03,Partner,P-03,47.7,40.1,15348.39,12278.71,11910.35
+2026-02,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,156.4,131.4,23022.58,18418.06,17865.52
+2026-03,Brookfield Transit (synthetic),project,P-03,Partner,P-03,49.8,41.8,16023.71,12818.97,12434.40
+2026-03,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,163.3,137.2,24035.58,19228.46,18651.61
+2026-04,Brookfield Transit (synthetic),project,P-03,Partner,P-03,50.2,42.2,16167.81,12934.25,12546.22
+2026-04,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,164.8,138.4,24251.73,19401.38,18819.34
+2026-05,Brookfield Transit (synthetic),project,P-03,Partner,P-03,49.7,41.7,15992.39,12793.91,12410.09
+2026-05,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,163.0,136.9,23988.59,19190.87,18615.14
+2026-06,Brookfield Transit (synthetic),project,P-03,Partner,P-03,50.6,42.5,16298.19,13038.55,12647.39
+2026-06,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,166.1,139.5,24447.28,19557.82,18971.09
+2026-07,Brookfield Transit (synthetic),project,P-03,Partner,P-03,50.3,42.3,16200.40,12960.32,12571.51
+2026-07,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,165.1,138.7,24300.60,19440.48,18857.27
+2026-08,Brookfield Transit (synthetic),project,P-03,Partner,P-03,51.0,42.8,16412.14,13129.71,12735.82
+2026-08,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,167.2,140.4,24618.21,19694.57,19103.73
+2026-09,Brookfield Transit (synthetic),project,P-03,Partner,P-03,51.5,43.3,16593.13,13274.50,12876.27
+2026-09,Brookfield Transit (synthetic),project,C-06,Consultant,P-03,169.1,142.0,24889.68,19911.74,19314.39
+2021-01,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,16.8,16.6,5424.01,5152.81,4998.23
+2021-01,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,55.3,54.7,8136.01,7729.21,7497.33
+2021-02,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,17.2,17.0,5543.72,5266.53,5108.53
+2021-02,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,56.5,55.9,8315.57,7899.79,7662.80
+2021-03,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,17.4,17.2,5604.55,5324.32,5164.59
+2021-03,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,57.1,56.5,8406.82,7986.48,7746.89
+2021-04,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,16.9,16.7,5444.45,5172.23,5017.06
+2021-04,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,55.5,54.9,8166.68,7758.35,7525.60
+2021-05,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,17.0,16.8,5471.26,5197.70,5041.77
+2021-05,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,55.8,55.2,8206.88,7796.54,7562.64
+2021-06,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,17.8,17.6,5740.14,5453.13,5289.54
+2021-06,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,58.5,57.9,8610.20,8179.69,7934.30
+2021-07,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,17.6,17.4,5661.25,5378.19,5216.84
+2021-07,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,57.7,57.1,8491.88,8067.29,7825.27
+2021-08,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,17.7,17.5,5683.67,5399.49,5237.51
+2021-08,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,57.9,57.3,8525.52,8099.24,7856.26
+2021-09,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,18.0,17.8,5798.32,5508.40,5343.15
+2021-09,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,59.1,58.5,8697.47,8262.60,8014.72
+2021-10,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,17.8,17.6,5722.69,5436.56,5273.46
+2021-10,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,58.3,57.7,8584.04,8154.84,7910.19
+2021-11,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,18.0,17.8,5780.18,5491.17,5326.43
+2021-11,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,58.9,58.3,8670.27,8236.76,7989.66
+2021-12,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,18.5,18.3,5956.29,5658.48,5488.73
+2021-12,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,60.7,60.1,8934.44,8487.72,8233.09
+2022-01,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,18.5,18.0,5949.12,5562.43,5395.56
+2022-01,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,60.6,59.1,8923.68,8343.64,8093.33
+2022-02,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,19.1,18.6,6142.97,5743.68,5571.37
+2022-02,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,62.6,61.0,9214.46,8615.52,8357.05
+2022-03,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,18.8,18.3,6056.97,5663.27,5493.37
+2022-03,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,61.7,60.2,9085.45,8494.90,8240.05
+2022-04,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,19.0,18.5,6124.01,5725.95,5554.17
+2022-04,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,62.4,60.8,9186.01,8588.92,8331.25
+2022-05,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,19.8,19.3,6366.49,5952.67,5774.09
+2022-05,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,64.9,63.3,9549.73,8929.00,8661.13
+2022-06,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,19.7,19.2,6348.21,5935.58,5757.51
+2022-06,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,64.7,63.1,9522.32,8903.37,8636.27
+2022-07,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,19.6,19.1,6316.56,5905.98,5728.80
+2022-07,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,64.4,62.8,9474.83,8858.97,8593.20
+2022-08,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,19.5,19.0,6277.58,5869.54,5693.45
+2022-08,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,64.0,62.4,9416.39,8804.32,8540.19
+2022-09,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,20.4,19.9,6566.24,6139.43,5955.25
+2022-09,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,66.9,65.2,9849.35,9209.14,8932.87
+2022-10,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,20.0,19.5,6430.40,6012.42,5832.05
+2022-10,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,65.5,63.9,9645.59,9018.63,8748.07
+2022-11,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,19.9,19.4,6416.36,5999.30,5819.32
+2022-11,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,65.4,63.8,9624.55,8998.95,8728.98
+2022-12,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,20.2,19.7,6513.89,6090.49,5907.78
+2022-12,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,66.4,64.7,9770.83,9135.73,8861.66
+2023-01,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,20.8,20.0,6713.63,6176.54,5991.24
+2023-01,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,68.4,65.7,10070.43,9264.80,8986.86
+2023-02,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,21.0,20.2,6774.15,6232.22,6045.25
+2023-02,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,69.0,66.2,10161.23,9348.33,9067.88
+2023-03,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,21.4,20.5,6876.43,6326.32,6136.53
+2023-03,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,70.1,67.3,10314.64,9489.47,9204.79
+2023-04,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,21.1,20.3,6786.02,6243.14,6055.85
+2023-04,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,69.2,66.4,10179.04,9364.72,9083.78
+2023-05,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,21.7,20.8,7000.85,6440.78,6247.56
+2023-05,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,71.3,68.4,10501.28,9661.18,9371.34
+2023-06,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,21.9,21.0,7042.78,6479.36,6284.98
+2023-06,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,71.8,68.9,10564.18,9719.05,9427.48
+2023-07,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,21.6,20.7,6964.38,6407.23,6215.01
+2023-07,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,71.0,68.2,10446.58,9610.85,9322.52
+2023-08,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,21.8,20.9,7020.10,6458.49,6264.74
+2023-08,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,71.5,68.6,10530.14,9687.73,9397.10
+2023-09,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,22.5,21.6,7256.40,6675.89,6475.61
+2023-09,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,73.9,70.9,10884.61,10013.84,9713.42
+2023-10,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,22.9,22.0,7387.10,6796.13,6592.25
+2023-10,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,75.3,72.3,11080.64,10194.19,9888.36
+2023-11,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,22.9,22.0,7358.33,6769.66,6566.57
+2023-11,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,75.0,72.0,11037.50,10154.50,9849.87
+2023-12,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,23.1,22.2,7446.72,6850.98,6645.45
+2023-12,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,75.9,72.9,11170.08,10276.47,9968.18
+2024-01,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,24.8,22.6,7992.76,6953.70,6745.09
+2024-01,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,81.4,74.1,11989.13,10430.54,10117.62
+2024-02,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,24.7,22.5,7969.47,6933.44,6725.44
+2024-02,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,81.2,73.9,11954.21,10400.16,10088.16
+2024-03,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,24.8,22.6,7993.26,6954.14,6745.52
+2024-03,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,81.5,74.2,11989.89,10431.20,10118.26
+2024-04,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,25.1,22.8,8089.44,7037.81,6826.68
+2024-04,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,82.4,75.0,12134.15,10556.71,10240.01
+2024-05,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,25.0,22.8,8048.56,7002.25,6792.18
+2024-05,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,82.0,74.6,12072.85,10503.38,10188.28
+2024-06,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,25.2,22.9,8104.77,7051.15,6839.62
+2024-06,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,82.6,75.2,12157.15,10576.72,10259.42
+2024-07,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,25.2,22.9,8128.34,7071.66,6859.51
+2024-07,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,82.8,75.3,12192.52,10607.49,10289.27
+2024-08,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,25.9,23.6,8326.46,7244.02,7026.70
+2024-08,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,84.8,77.2,12489.70,10866.04,10540.06
+2024-09,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,26.0,23.7,8367.92,7280.09,7061.69
+2024-09,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,85.3,77.6,12551.89,10920.14,10592.54
+2024-10,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,26.4,24.0,8485.57,7382.45,7160.98
+2024-10,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,86.5,78.7,12728.37,11073.68,10741.47
+2024-11,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,26.7,24.3,8587.54,7471.16,7247.03
+2024-11,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,87.5,79.6,12881.31,11206.74,10870.54
+2024-12,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,26.9,24.5,8664.83,7538.40,7312.25
+2024-12,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,88.3,80.4,12997.23,11307.59,10968.36
+2025-01,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,29.1,24.7,9362.52,7583.64,7356.13
+2025-01,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,95.4,81.1,14043.79,11375.47,11034.21
+2025-02,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,29.6,25.2,9521.77,7712.63,7481.25
+2025-02,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,97.0,82.5,14282.65,11568.95,11221.88
+2025-03,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,28.9,24.6,9314.54,7544.78,7318.44
+2025-03,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,94.9,80.7,13971.81,11317.17,10977.65
+2025-04,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,30.2,25.7,9712.81,7867.38,7631.36
+2025-04,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,99.0,84.2,14569.22,11801.07,11447.04
+2025-05,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,29.2,24.8,9416.17,7627.10,7398.29
+2025-05,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,96.0,81.6,14124.26,11440.65,11097.43
+2025-06,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,30.0,25.5,9675.33,7837.02,7601.91
+2025-06,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,98.6,83.8,14513.01,11755.54,11402.87
+2025-07,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,30.8,26.2,9918.54,8034.02,7793.00
+2025-07,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,101.1,85.9,14877.80,12051.02,11689.49
+2025-08,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,30.7,26.1,9879.91,8002.73,7762.65
+2025-08,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,100.7,85.6,14819.88,12004.10,11643.98
+2025-09,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,31.3,26.6,10067.96,8155.05,7910.40
+2025-09,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,102.6,87.2,15101.94,12232.57,11865.59
+2025-10,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,31.3,26.6,10068.59,8155.56,7910.89
+2025-10,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,102.6,87.2,15102.89,12233.34,11866.34
+2025-11,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,31.6,26.9,10179.35,8245.27,7997.91
+2025-11,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,103.7,88.1,15269.02,12367.91,11996.87
+2025-12,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,32.1,27.3,10321.68,8360.56,8109.74
+2025-12,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,105.2,89.4,15482.52,12540.84,12164.61
+2026-01,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,32.7,27.5,10523.95,8419.16,8166.59
+2026-01,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,107.2,90.0,15785.93,12628.74,12249.88
+2026-02,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,32.2,27.0,10357.55,8286.04,8037.46
+2026-02,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,105.5,88.6,15536.33,12429.06,12056.19
+2026-03,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,33.0,27.7,10619.33,8495.46,8240.60
+2026-03,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,108.2,90.9,15928.99,12743.19,12360.89
+2026-04,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,33.2,27.9,10704.29,8563.43,8306.53
+2026-04,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,109.1,91.6,16056.43,12845.14,12459.79
+2026-05,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,33.0,27.7,10618.83,8495.06,8240.21
+2026-05,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,108.2,90.9,15928.23,12742.58,12360.30
+2026-06,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,33.2,27.9,10682.21,8545.77,8289.40
+2026-06,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,108.9,91.5,16023.31,12818.65,12434.09
+2026-07,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,33.6,28.2,10832.86,8666.29,8406.30
+2026-07,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,110.4,92.7,16249.29,12999.43,12609.45
+2026-08,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,34.0,28.6,10941.43,8753.14,8490.55
+2026-08,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,111.5,93.7,16412.14,13129.71,12735.82
+2026-09,Kestrel Pharma Services (synthetic),project,P-03,Partner,P-03,34.5,29.0,11095.20,8876.16,8609.88
+2026-09,Kestrel Pharma Services (synthetic),project,C-07,Consultant,P-03,113.1,95.0,16642.80,13314.24,12914.81
+2021-01,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,25.2,24.9,8127.89,7721.50,7489.86
+2021-01,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,82.8,82.0,12191.85,11582.26,11234.79
+2021-02,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,25.0,24.8,8053.92,7651.22,7421.68
+2021-02,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,82.1,81.3,12080.88,11476.84,11132.53
+2021-03,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,26.1,25.8,8406.82,7986.48,7746.89
+2021-03,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,85.7,84.8,12610.23,11979.72,11620.33
+2021-04,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,26.2,25.9,8440.84,8018.80,7778.24
+2021-04,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,86.0,85.1,12661.26,12028.20,11667.35
+2021-05,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,26.5,26.2,8541.86,8114.77,7871.33
+2021-05,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,87.0,86.1,12812.80,12172.16,11807.00
+2021-06,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,26.0,25.7,8373.84,7955.15,7716.50
+2021-06,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,85.3,84.4,12560.77,11932.73,11574.75
+2021-07,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,26.7,26.4,8585.48,8156.21,7911.52
+2021-07,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,87.5,86.6,12878.23,12234.32,11867.29
+2021-08,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,26.6,26.3,8559.82,8131.83,7887.88
+2021-08,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,87.2,86.3,12839.74,12197.75,11831.82
+2021-09,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,26.9,26.6,8662.88,8229.74,7982.85
+2021-09,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,88.3,87.4,12994.33,12344.61,11974.27
+2021-10,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,27.4,27.1,8828.05,8386.65,8135.05
+2021-10,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,90.0,89.1,13242.07,12579.97,12202.57
+2021-11,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,27.8,27.5,8951.38,8503.81,8248.70
+2021-11,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,91.2,90.3,13427.07,12755.72,12373.05
+2021-12,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,27.6,27.3,8872.46,8428.84,8175.97
+2021-12,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,90.4,89.5,13308.69,12643.26,12263.96
+2022-01,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,27.9,27.2,8987.17,8403.00,8150.91
+2022-01,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,91.6,89.3,13480.75,12604.50,12226.37
+2022-02,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,27.9,27.2,8995.07,8410.39,8158.08
+2022-02,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,91.7,89.4,13492.60,12615.58,12237.11
+2022-03,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,28.6,27.9,9214.46,8615.52,8357.05
+2022-03,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,93.9,91.6,13821.69,12923.28,12535.58
+2022-04,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,28.4,27.7,9139.56,8545.49,8289.13
+2022-04,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,93.1,90.8,13709.35,12818.24,12433.69
+2022-05,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,28.7,28.0,9250.13,8648.87,8389.40
+2022-05,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,94.3,91.9,13875.20,12973.31,12584.11
+2022-06,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,28.8,28.1,9286.39,8682.77,8422.29
+2022-06,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,94.6,92.2,13929.57,13024.15,12633.43
+2022-07,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,29.4,28.7,9474.83,8858.97,8593.20
+2022-07,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,96.6,94.2,14212.25,13288.45,12889.80
+2022-08,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,29.6,28.9,9541.04,8920.87,8653.24
+2022-08,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,97.2,94.8,14311.56,13381.31,12979.87
+2022-09,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,29.7,29.0,9549.71,8928.98,8661.11
+2022-09,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,97.3,94.9,14324.57,13393.47,12991.67
+2022-10,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,30.3,29.5,9752.76,9118.83,8845.27
+2022-10,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,99.4,96.9,14629.14,13678.25,13267.90
+2022-11,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,30.4,29.6,9801.33,9164.24,8889.31
+2022-11,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,99.9,97.4,14701.99,13746.36,13333.97
+2022-12,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,30.3,29.5,9741.14,9107.97,8834.73
+2022-12,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,99.3,96.8,14611.71,13661.95,13252.09
+2023-01,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,31.1,29.9,10009.59,9208.82,8932.56
+2023-01,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,102.0,97.9,15014.38,13813.23,13398.83
+2023-02,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,31.4,30.1,10120.33,9310.70,9031.38
+2023-02,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,103.1,99.0,15180.50,13966.06,13547.08
+2023-03,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,32.1,30.8,10345.55,9517.91,9232.37
+2023-03,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,105.4,101.2,15518.34,14276.87,13848.56
+2023-04,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,32.3,31.0,10397.16,9565.39,9278.43
+2023-04,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,105.9,101.7,15595.74,14348.08,13917.64
+2023-05,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,32.9,31.6,10595.51,9747.87,9455.43
+2023-05,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,108.0,103.7,15893.26,14621.80,14183.15
+2023-06,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,32.9,31.6,10585.28,9738.46,9446.31
+2023-06,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,107.9,103.6,15877.93,14607.70,14169.47
+2023-07,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,33.4,32.1,10755.08,9894.67,9597.83
+2023-07,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,109.6,105.2,16132.61,14842.00,14396.74
+2023-08,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,33.6,32.3,10830.39,9963.96,9665.04
+2023-08,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,110.4,106.0,16245.59,14945.94,14497.56
+2023-09,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,33.7,32.4,10852.18,9984.01,9684.49
+2023-09,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,110.6,106.2,16278.27,14976.01,14526.73
+2023-10,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,33.4,32.1,10764.67,9903.50,9606.40
+2023-10,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,109.7,105.3,16147.01,14855.25,14409.59
+2023-11,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,34.2,32.8,11026.51,10144.39,9840.06
+2023-11,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,112.4,107.9,16539.77,15216.59,14760.09
+2023-12,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,33.8,32.4,10871.17,10001.48,9701.44
+2023-12,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,110.8,106.4,16306.76,15002.22,14552.15
+2024-01,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,36.9,33.6,11871.13,10327.88,10018.04
+2024-01,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,121.0,110.1,17806.69,15491.82,15027.07
+2024-02,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,37.3,33.9,12013.68,10451.90,10138.34
+2024-02,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,122.4,111.4,18020.52,15677.85,15207.51
+2024-03,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,37.5,34.1,12085.80,10514.65,10199.21
+2024-03,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,123.2,112.1,18128.71,15771.98,15298.82
+2024-04,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,37.0,33.7,11904.52,10356.93,10046.22
+2024-04,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,121.3,110.4,17856.78,15535.40,15069.34
+2024-05,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,38.0,34.6,12243.40,10651.76,10332.21
+2024-05,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,124.8,113.6,18365.10,15977.64,15498.31
+2024-06,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,38.7,35.2,12476.44,10854.50,10528.87
+2024-06,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,127.1,115.7,18714.66,16281.75,15793.30
+2024-07,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,38.8,35.3,12489.60,10865.95,10539.97
+2024-07,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,127.3,115.8,18734.39,16298.92,15809.95
+2024-08,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,38.0,34.6,12227.68,10638.08,10318.94
+2024-08,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,124.6,113.4,18341.51,15957.11,15478.40
+2024-09,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,39.8,36.2,12803.43,11138.98,10804.81
+2024-09,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,130.5,118.8,19205.13,16708.46,16207.21
+2024-10,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,38.6,35.1,12424.09,10808.96,10484.69
+2024-10,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,126.6,115.2,18636.15,16213.45,15727.05
+2024-11,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,40.3,36.7,12983.54,11295.68,10956.81
+2024-11,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,132.3,120.4,19475.31,16943.52,16435.21
+2024-12,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,40.2,36.6,12945.71,11262.77,10924.89
+2024-12,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,131.9,120.0,19418.56,16894.15,16387.33
+2025-01,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,43.1,36.6,13876.43,11239.91,10902.71
+2025-01,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,141.4,120.2,20814.64,16859.86,16354.06
+2025-02,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,44.1,37.5,14198.31,11500.63,11155.61
+2025-02,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,144.7,123.0,21297.46,17250.94,16733.41
+2025-03,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,43.3,36.8,13929.30,11282.73,10944.25
+2025-03,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,141.9,120.6,20893.95,16924.10,16416.38
+2025-04,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,43.9,37.3,14126.43,11442.41,11099.14
+2025-04,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,144.0,122.4,21189.65,17163.62,16648.71
+2025-05,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,44.3,37.7,14268.25,11557.28,11210.56
+2025-05,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,145.4,123.6,21402.36,17335.91,16815.83
+2025-06,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,45.5,38.7,14658.14,11873.09,11516.90
+2025-06,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,149.4,127.0,21987.20,17809.63,17275.34
+2025-07,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,45.0,38.3,14497.44,11742.93,11390.64
+2025-07,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,147.7,125.5,21746.16,17614.39,17085.96
+2025-08,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,45.8,38.9,14746.15,11944.38,11586.05
+2025-08,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,150.3,127.8,22119.21,17916.56,17379.06
+2025-09,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,46.7,39.7,15027.62,12172.37,11807.20
+2025-09,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,153.1,130.1,22541.42,18258.55,17710.79
+2025-10,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,47.2,40.1,15207.77,12318.29,11948.74
+2025-10,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,155.0,131.8,22811.65,18477.44,17923.12
+2025-11,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,47.8,40.6,15389.84,12465.77,12091.80
+2025-11,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,156.8,133.3,23084.77,18698.66,18137.70
+2025-12,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,46.4,39.4,14949.68,12109.24,11745.96
+2025-12,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,152.3,129.5,22424.52,18163.86,17618.94
+2026-01,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,48.3,40.6,15537.33,12429.86,12056.96
+2026-01,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,158.3,133.0,23305.98,18644.78,18085.44
+2026-02,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,47.8,40.2,15395.36,12316.29,11946.80
+2026-02,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,156.9,131.8,23093.05,18474.44,17920.21
+2026-03,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,49.9,41.9,16055.29,12844.23,12458.90
+2026-03,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,163.6,137.4,24082.93,19266.34,18688.35
+2026-04,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,48.6,40.8,15658.59,12526.87,12151.06
+2026-04,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,159.6,134.1,23487.89,18790.31,18226.60
+2026-05,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,49.5,41.6,15928.23,12742.58,12360.30
+2026-05,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,162.3,136.3,23892.34,19113.87,18540.45
+2026-06,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,50.5,42.4,16249.68,12999.74,12609.75
+2026-06,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,165.6,139.1,24374.53,19499.62,18914.63
+2026-07,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,50.2,42.2,16167.80,12934.24,12546.21
+2026-07,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,164.8,138.4,24251.70,19401.36,18819.32
+2026-08,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,51.4,43.2,16543.58,13234.86,12837.81
+2026-08,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,168.6,141.6,24815.35,19852.28,19256.71
+2026-09,Oakmont Utilities (synthetic),retainer,P-04,Partner,P-04,50.6,42.5,16278.48,13022.78,12632.10
+2026-09,Oakmont Utilities (synthetic),retainer,C-08,Consultant,P-04,165.9,139.4,24417.73,19534.18,18948.15
+2021-01,Northwind Councils (synthetic),project,P-05,Partner,P-05,14.7,14.6,4746.01,4508.71,4373.45
+2021-01,Northwind Councils (synthetic),project,C-09,Consultant,P-05,48.4,47.9,7119.01,6763.06,6560.17
+2021-02,Northwind Councils (synthetic),project,P-05,Partner,P-05,14.7,14.6,4741.04,4503.99,4368.87
+2021-02,Northwind Councils (synthetic),project,C-09,Consultant,P-05,48.3,47.8,7111.57,6755.99,6553.31
+2021-03,Northwind Councils (synthetic),project,P-05,Partner,P-05,14.8,14.7,4759.75,4521.76,4386.11
+2021-03,Northwind Councils (synthetic),project,C-09,Consultant,P-05,48.5,48.0,7139.62,6782.64,6579.16
+2021-04,Northwind Councils (synthetic),project,P-05,Partner,P-05,15.0,14.9,4826.91,4585.56,4447.99
+2021-04,Northwind Councils (synthetic),project,C-09,Consultant,P-05,49.2,48.7,7240.35,6878.33,6671.98
+2021-05,Northwind Councils (synthetic),project,P-05,Partner,P-05,14.9,14.8,4792.24,4552.63,4416.05
+2021-05,Northwind Councils (synthetic),project,C-09,Consultant,P-05,48.8,48.3,7188.36,6828.94,6624.07
+2021-06,Northwind Councils (synthetic),project,P-05,Partner,P-05,15.6,15.4,5017.69,4766.81,4623.81
+2021-06,Northwind Councils (synthetic),project,C-09,Consultant,P-05,51.1,50.6,7526.54,7150.21,6935.70
+2021-07,Northwind Councils (synthetic),project,P-05,Partner,P-05,15.7,15.5,5047.91,4795.51,4651.64
+2021-07,Northwind Councils (synthetic),project,C-09,Consultant,P-05,51.4,50.9,7571.86,7193.27,6977.47
+2021-08,Northwind Councils (synthetic),project,P-05,Partner,P-05,15.7,15.5,5063.27,4810.11,4665.81
+2021-08,Northwind Councils (synthetic),project,C-09,Consultant,P-05,51.6,51.1,7594.92,7215.17,6998.71
+2021-09,Northwind Councils (synthetic),project,P-05,Partner,P-05,15.8,15.6,5078.57,4824.64,4679.90
+2021-09,Northwind Councils (synthetic),project,C-09,Consultant,P-05,51.8,51.3,7617.85,7236.96,7019.85
+2021-10,Northwind Councils (synthetic),project,P-05,Partner,P-05,16.0,15.8,5159.86,4901.87,4754.81
+2021-10,Northwind Councils (synthetic),project,C-09,Consultant,P-05,52.6,52.1,7739.79,7352.80,7132.22
+2021-11,Northwind Councils (synthetic),project,P-05,Partner,P-05,15.8,15.6,5088.41,4833.99,4688.97
+2021-11,Northwind Councils (synthetic),project,C-09,Consultant,P-05,51.9,51.4,7632.61,7250.98,7033.45
+2021-12,Northwind Councils (synthetic),project,P-05,Partner,P-05,16.4,16.2,5268.58,5005.15,4855.00
+2021-12,Northwind Councils (synthetic),project,C-09,Consultant,P-05,53.7,53.2,7902.86,7507.72,7282.49
+2022-01,Northwind Councils (synthetic),project,P-05,Partner,P-05,16.6,16.2,5332.44,4985.83,4836.26
+2022-01,Northwind Councils (synthetic),project,C-09,Consultant,P-05,54.3,52.9,7998.66,7478.75,7254.39
+2022-02,Northwind Councils (synthetic),project,P-05,Partner,P-05,16.4,16.0,5289.79,4945.95,4797.57
+2022-02,Northwind Councils (synthetic),project,C-09,Consultant,P-05,53.9,52.6,7934.67,7418.92,7196.35
+2022-03,Northwind Councils (synthetic),project,P-05,Partner,P-05,16.9,16.5,5455.73,5101.11,4948.08
+2022-03,Northwind Councils (synthetic),project,C-09,Consultant,P-05,55.6,54.2,8183.59,7651.66,7422.11
+2022-04,Northwind Councils (synthetic),project,P-05,Partner,P-05,16.6,16.2,5358.50,5010.20,4859.89
+2022-04,Northwind Councils (synthetic),project,C-09,Consultant,P-05,54.6,53.2,8037.75,7515.30,7289.84
+2022-05,Northwind Councils (synthetic),project,P-05,Partner,P-05,17.0,16.6,5477.84,5121.78,4968.13
+2022-05,Northwind Councils (synthetic),project,C-09,Consultant,P-05,55.8,54.4,8216.75,7682.66,7452.18
+2022-06,Northwind Councils (synthetic),project,P-05,Partner,P-05,17.3,16.9,5554.68,5193.63,5037.82
+2022-06,Northwind Councils (synthetic),project,C-09,Consultant,P-05,56.6,55.2,8332.02,7790.44,7556.73
+2022-07,Northwind Councils (synthetic),project,P-05,Partner,P-05,17.4,17.0,5604.67,5240.37,5083.16
+2022-07,Northwind Councils (synthetic),project,C-09,Consultant,P-05,57.1,55.7,8407.01,7860.55,7624.73
+2022-08,Northwind Councils (synthetic),project,P-05,Partner,P-05,17.6,17.2,5671.88,5303.21,5144.11
+2022-08,Northwind Councils (synthetic),project,C-09,Consultant,P-05,57.8,56.4,8507.83,7954.82,7716.18
+2022-09,Northwind Councils (synthetic),project,P-05,Partner,P-05,17.8,17.4,5734.17,5361.45,5200.61
+2022-09,Northwind Councils (synthetic),project,C-09,Consultant,P-05,58.4,56.9,8601.26,8042.18,7800.91
+2022-10,Northwind Councils (synthetic),project,P-05,Partner,P-05,17.8,17.4,5723.22,5351.21,5190.67
+2022-10,Northwind Councils (synthetic),project,C-09,Consultant,P-05,58.3,56.8,8584.82,8026.81,7786.01
+2022-11,Northwind Councils (synthetic),project,P-05,Partner,P-05,17.7,17.3,5711.71,5340.45,5180.24
+2022-11,Northwind Councils (synthetic),project,C-09,Consultant,P-05,58.2,56.7,8567.57,8010.68,7770.36
+2022-12,Northwind Councils (synthetic),project,P-05,Partner,P-05,18.3,17.8,5878.67,5496.56,5331.66
+2022-12,Northwind Councils (synthetic),project,C-09,Consultant,P-05,59.9,58.4,8818.01,8244.84,7997.49
+2023-01,Northwind Councils (synthetic),project,P-05,Partner,P-05,18.1,17.4,5815.26,5350.04,5189.54
+2023-01,Northwind Councils (synthetic),project,C-09,Consultant,P-05,59.3,56.9,8722.89,8025.06,7784.31
+2023-02,Northwind Councils (synthetic),project,P-05,Partner,P-05,18.3,17.6,5903.53,5431.25,5268.31
+2023-02,Northwind Councils (synthetic),project,C-09,Consultant,P-05,60.2,57.8,8855.29,8146.87,7902.46
+2023-03,Northwind Councils (synthetic),project,P-05,Partner,P-05,18.7,18.0,6028.90,5546.59,5380.19
+2023-03,Northwind Councils (synthetic),project,C-09,Consultant,P-05,61.4,58.9,9043.35,8319.88,8070.28
+2023-04,Northwind Councils (synthetic),project,P-05,Partner,P-05,18.8,18.0,6065.01,5579.81,5412.42
+2023-04,Northwind Councils (synthetic),project,C-09,Consultant,P-05,61.8,59.3,9097.52,8369.72,8118.63
+2023-05,Northwind Councils (synthetic),project,P-05,Partner,P-05,19.3,18.5,6205.14,5708.73,5537.47
+2023-05,Northwind Councils (synthetic),project,C-09,Consultant,P-05,63.2,60.7,9307.71,8563.09,8306.20
+2023-06,Northwind Councils (synthetic),project,P-05,Partner,P-05,19.0,18.2,6131.65,5641.12,5471.89
+2023-06,Northwind Councils (synthetic),project,C-09,Consultant,P-05,62.5,60.0,9197.49,8461.69,8207.84
+2023-07,Northwind Councils (synthetic),project,P-05,Partner,P-05,19.3,18.5,6199.33,5703.38,5532.28
+2023-07,Northwind Councils (synthetic),project,C-09,Consultant,P-05,63.2,60.7,9298.99,8555.07,8298.42
+2023-08,Northwind Councils (synthetic),project,P-05,Partner,P-05,19.6,18.8,6298.97,5795.05,5621.20
+2023-08,Northwind Councils (synthetic),project,C-09,Consultant,P-05,64.2,61.6,9448.45,8692.57,8431.79
+2023-09,Northwind Councils (synthetic),project,P-05,Partner,P-05,19.7,18.9,6355.66,5847.21,5671.79
+2023-09,Northwind Councils (synthetic),project,C-09,Consultant,P-05,64.8,62.2,9533.49,8770.81,8507.69
+2023-10,Northwind Councils (synthetic),project,P-05,Partner,P-05,19.6,18.8,6304.82,5800.43,5626.42
+2023-10,Northwind Councils (synthetic),project,C-09,Consultant,P-05,64.2,61.6,9457.23,8700.65,8439.63
+2023-11,Northwind Councils (synthetic),project,P-05,Partner,P-05,20.0,19.2,6438.53,5923.45,5745.75
+2023-11,Northwind Councils (synthetic),project,C-09,Consultant,P-05,65.6,63.0,9657.80,8885.18,8618.62
+2023-12,Northwind Councils (synthetic),project,P-05,Partner,P-05,19.9,19.1,6419.01,5905.49,5728.33
+2023-12,Northwind Councils (synthetic),project,C-09,Consultant,P-05,65.4,62.8,9628.51,8858.23,8592.48
+2024-01,Northwind Councils (synthetic),project,P-05,Partner,P-05,21.2,19.3,6821.57,5934.77,5756.73
+2024-01,Northwind Councils (synthetic),project,C-09,Consultant,P-05,69.5,63.2,10232.36,8902.15,8635.09
+2024-02,Northwind Councils (synthetic),project,P-05,Partner,P-05,21.8,19.8,7021.85,6109.01,5925.74
+2024-02,Northwind Councils (synthetic),project,C-09,Consultant,P-05,71.6,65.2,10532.78,9163.52,8888.61
+2024-03,Northwind Councils (synthetic),project,P-05,Partner,P-05,21.6,19.7,6952.14,6048.36,5866.91
+2024-03,Northwind Councils (synthetic),project,C-09,Consultant,P-05,70.8,64.4,10428.21,9072.54,8800.36
+2024-04,Northwind Councils (synthetic),project,P-05,Partner,P-05,21.9,19.9,7043.00,6127.41,5943.59
+2024-04,Northwind Councils (synthetic),project,C-09,Consultant,P-05,71.8,65.3,10564.51,9191.12,8915.39
+2024-05,Northwind Councils (synthetic),project,P-05,Partner,P-05,21.7,19.7,6978.54,6071.33,5889.19
+2024-05,Northwind Councils (synthetic),project,C-09,Consultant,P-05,71.1,64.7,10467.80,9106.99,8833.78
+2024-06,Northwind Councils (synthetic),project,P-05,Partner,P-05,22.2,20.2,7134.66,6207.15,6020.94
+2024-06,Northwind Councils (synthetic),project,C-09,Consultant,P-05,72.7,66.2,10701.98,9310.72,9031.40
+2024-07,Northwind Councils (synthetic),project,P-05,Partner,P-05,22.1,20.1,7126.75,6200.27,6014.26
+2024-07,Northwind Councils (synthetic),project,C-09,Consultant,P-05,72.6,66.1,10690.11,9300.40,9021.39
+2024-08,Northwind Councils (synthetic),project,P-05,Partner,P-05,23.0,20.9,7416.67,6452.50,6258.93
+2024-08,Northwind Councils (synthetic),project,C-09,Consultant,P-05,75.6,68.8,11125.00,9678.75,9388.39
+2024-09,Northwind Councils (synthetic),project,P-05,Partner,P-05,23.1,21.0,7424.64,6459.44,6265.66
+2024-09,Northwind Councils (synthetic),project,C-09,Consultant,P-05,75.7,68.9,11136.97,9689.16,9398.49
+2024-10,Northwind Councils (synthetic),project,P-05,Partner,P-05,22.9,20.8,7365.71,6408.17,6215.92
+2024-10,Northwind Councils (synthetic),project,C-09,Consultant,P-05,75.1,68.3,11048.57,9612.26,9323.89
+2024-11,Northwind Councils (synthetic),project,P-05,Partner,P-05,23.6,21.5,7603.55,6615.09,6416.64
+2024-11,Northwind Councils (synthetic),project,C-09,Consultant,P-05,77.5,70.5,11405.32,9922.63,9624.95
+2024-12,Northwind Councils (synthetic),project,P-05,Partner,P-05,23.8,21.7,7649.34,6654.93,6455.28
+2024-12,Northwind Councils (synthetic),project,C-09,Consultant,P-05,77.9,70.9,11474.02,9982.40,9682.93
+2025-01,Northwind Councils (synthetic),project,P-05,Partner,P-05,25.5,21.7,8200.35,6642.28,6443.01
+2025-01,Northwind Councils (synthetic),project,C-09,Consultant,P-05,83.6,71.1,12300.51,9963.41,9664.51
+2025-02,Northwind Councils (synthetic),project,P-05,Partner,P-05,25.8,21.9,8298.74,6721.98,6520.32
+2025-02,Northwind Councils (synthetic),project,C-09,Consultant,P-05,84.6,71.9,12448.11,10082.97,9780.48
+2025-03,Northwind Councils (synthetic),project,P-05,Partner,P-05,25.7,21.8,8274.21,6702.11,6501.05
+2025-03,Northwind Councils (synthetic),project,C-09,Consultant,P-05,84.3,71.7,12411.32,10053.17,9751.57
+2025-04,Northwind Councils (synthetic),project,P-05,Partner,P-05,26.2,22.3,8440.40,6836.72,6631.62
+2025-04,Northwind Councils (synthetic),project,C-09,Consultant,P-05,86.0,73.1,12660.59,10255.08,9947.43
+2025-05,Northwind Councils (synthetic),project,P-05,Partner,P-05,26.3,22.4,8482.72,6871.00,6664.87
+2025-05,Northwind Councils (synthetic),project,C-09,Consultant,P-05,86.4,73.4,12724.07,10306.50,9997.31
+2025-06,Northwind Councils (synthetic),project,P-05,Partner,P-05,26.3,22.4,8457.46,6850.54,6645.02
+2025-06,Northwind Councils (synthetic),project,C-09,Consultant,P-05,86.2,73.3,12686.19,10275.81,9967.54
+2025-07,Northwind Councils (synthetic),project,P-05,Partner,P-05,26.8,22.8,8627.52,6988.29,6778.64
+2025-07,Northwind Councils (synthetic),project,C-09,Consultant,P-05,87.9,74.7,12941.27,10482.43,10167.96
+2025-08,Northwind Councils (synthetic),project,P-05,Partner,P-05,26.7,22.7,8610.52,6974.52,6765.28
+2025-08,Northwind Councils (synthetic),project,C-09,Consultant,P-05,87.7,74.5,12915.78,10461.78,10147.93
+2025-09,Northwind Councils (synthetic),project,P-05,Partner,P-05,26.9,22.9,8662.06,7016.27,6805.78
+2025-09,Northwind Councils (synthetic),project,C-09,Consultant,P-05,88.3,75.1,12993.09,10524.40,10208.67
+2025-10,Northwind Councils (synthetic),project,P-05,Partner,P-05,27.2,23.1,8748.84,7086.56,6873.96
+2025-10,Northwind Councils (synthetic),project,C-09,Consultant,P-05,89.2,75.8,13123.26,10629.84,10310.94
+2025-11,Northwind Councils (synthetic),project,P-05,Partner,P-05,27.9,23.7,8986.22,7278.84,7060.47
+2025-11,Northwind Councils (synthetic),project,C-09,Consultant,P-05,91.6,77.9,13479.33,10918.26,10590.71
+2025-12,Northwind Councils (synthetic),project,P-05,Partner,P-05,27.8,23.6,8942.67,7243.56,7026.25
+2025-12,Northwind Councils (synthetic),project,C-09,Consultant,P-05,91.1,77.4,13413.99,10865.33,10539.37
+2026-01,Northwind Councils (synthetic),project,P-05,Partner,P-05,28.0,23.5,8999.99,7199.99,6983.99
+2026-01,Northwind Councils (synthetic),project,C-09,Consultant,P-05,91.7,77.0,13499.99,10799.99,10475.99
+2026-02,Northwind Councils (synthetic),project,P-05,Partner,P-05,28.5,23.9,9172.49,7337.99,7117.85
+2026-02,Northwind Councils (synthetic),project,C-09,Consultant,P-05,93.5,78.5,13758.74,11006.99,10676.78
+2026-03,Northwind Councils (synthetic),project,P-05,Partner,P-05,28.0,23.5,9024.85,7219.88,7003.28
+2026-03,Northwind Councils (synthetic),project,C-09,Consultant,P-05,92.0,77.3,13537.28,10829.82,10504.93
+2026-04,Northwind Councils (synthetic),project,P-05,Partner,P-05,29.2,24.5,9394.10,7515.28,7289.82
+2026-04,Northwind Councils (synthetic),project,C-09,Consultant,P-05,95.7,80.4,14091.15,11272.92,10934.73
+2026-05,Northwind Councils (synthetic),project,P-05,Partner,P-05,28.8,24.2,9282.11,7425.69,7202.92
+2026-05,Northwind Councils (synthetic),project,C-09,Consultant,P-05,94.6,79.5,13923.16,11138.53,10804.37
+2026-06,Northwind Councils (synthetic),project,P-05,Partner,P-05,29.8,25.0,9601.59,7681.27,7450.83
+2026-06,Northwind Councils (synthetic),project,C-09,Consultant,P-05,97.8,82.2,14402.39,11521.91,11176.25
+2026-07,Northwind Councils (synthetic),project,P-05,Partner,P-05,30.1,25.3,9687.91,7750.33,7517.82
+2026-07,Northwind Councils (synthetic),project,C-09,Consultant,P-05,98.7,82.9,14531.88,11625.50,11276.74
+2026-08,Northwind Councils (synthetic),project,P-05,Partner,P-05,29.9,25.1,9631.25,7705.00,7473.85
+2026-08,Northwind Councils (synthetic),project,C-09,Consultant,P-05,98.1,82.4,14446.88,11557.50,11210.78
+2026-09,Northwind Councils (synthetic),project,P-05,Partner,P-05,30.6,25.7,9843.54,7874.83,7638.59
+2026-09,Northwind Councils (synthetic),project,C-09,Consultant,P-05,100.3,84.3,14765.31,11812.25,11457.88

@@ -1,0 +1,43 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 232 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (Brightwave Software Ltd  data-room extracts \(synthetic demo data\)) Tj T* () Tj T* (Each page reproduces one structured extract from this folder. All names and figures are) Tj T* (fictional.) Tj T* ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 615 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (pnl.csv  Profit and loss by fiscal year, FY2021 to FY2025) Tj T* () Tj T* (Line | FY2021 | FY2022 | FY2023 | FY2024 | FY2025) Tj T* (Subscription revenue | 124160.16 | 155170.52 | 184465.00 | 231043.40 | 476512.20) Tj T* (Cost of hosting and infrastructure | 17382.42 | 20948.02 | 23980.45 | 28880.43 | 57181.46) Tj T* (Research and development | 42214.45 | 51206.27 | 59028.80 | 71623.45 | 142953.66) Tj T* (Sales and marketing | 37248.05 | 44999.45 | 53494.85 | 64692.15 | 133423.42) Tj T* (General and administrative | 21107.23 | 24827.28 | 29514.40 | 34656.51 | 71476.83) Tj T* ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+0000000600 00000 n 
+0000000726 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1392
+%%EOF

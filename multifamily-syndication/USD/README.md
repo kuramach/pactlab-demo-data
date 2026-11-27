@@ -117,7 +117,7 @@ Open the **Sources** tab, scroll to **Industry data** and click **Upload profit 
 2. Under **What each line is**, keep the two revenue lines as **Revenue** and every other line as **Operating expense** (the insurance refund is a credit, entered negative).
 3. **Check every row**, then **Import 50 rows**.
 
-**You should see:** on **Home → Property metrics**, a **History** strip under net operating income, occupancy and average rent, each with five points and "FY2022–FY2026 (5 of 5 years)"; on **Finances**, the five years side by side.
+**You should see:** on **Home → Property metrics**, a **History** strip under net operating income, occupancy and average rent, each with five points and "FY2022–FY2026 (5 years; earlier years not provided)"; on **Finances**, the five years side by side.
 
 ## Step 7 — Run the checks and review the findings
 

@@ -1,6 +1,6 @@
 # Sablestone Consulting Inc. — IT and professional services (USD)
 
-**Fictional target.** Sablestone Consulting Inc. is a 140-person digital and data consultancy working on monthly retainers for enterprise clients.
+**Fictional target.** Sablestone Consulting Inc. is a 140-person digital and data consultancy working on retainers and projects for enterprise clients.
 Based in Columbus, Ohio, United States; reports in USD. Data runs October 2024 to September 2026.
 
 > Synthetic demo data. Every company, person, address, account and figure here is invented.
@@ -9,7 +9,7 @@ Based in Columbus, Ohio, United States; reports in USD. Data runs October 2024 t
 
 - Download this whole folder (on GitHub: **Code → Download ZIP** at the top of the repository, then unzip).
 - Sign in to Pactlab. The steps take about 15 minutes.
-- You upload **3 CSV files** and **3 PDFs**. Nothing else.
+- You upload **5 CSV files** and **5 PDFs**. Nothing else.
 - **Never upload the `.md` files** in `documents/`. They are the text each PDF is built from; Pactlab reads the PDFs.
 - `vdr-index.csv` is for reference only (how a data room would list these files). Do not upload it.
 - Text in **bold** below is a button, tab or option exactly as Pactlab shows it.
@@ -32,7 +32,7 @@ Based in Columbus, Ohio, United States; reports in USD. Data runs October 2024 t
 
    | Field | Enter |
    |---|---|
-   | Asking price | `4800000` (USD 4,800,000) |
+   | Asking price | `4300000` (USD 4,300,000) |
    | Currency | **USD** |
    | Quoted as | **Enterprise value** |
    | Where it came from | **Teaser or information memorandum** |
@@ -42,14 +42,14 @@ Based in Columbus, Ohio, United States; reports in USD. Data runs October 2024 t
    → **Next**. (This is the seller's ask: 1.2× the September 2026 billed revenue run-rate. The demo shows how far the evidence supports it.)
 6. **Review and start** — check the summary → **Start Pact**.
 
-**You should see:** the Pact overview for `Sablestone Consulting Inc.`, with the asking price USD 4,800,000.
+**You should see:** the Pact overview for `Sablestone Consulting Inc.`, with the asking price USD 4,300,000.
 
 ## Step 2 — Upload the billing export
 
 1. Open the **Sources** tab → **Upload billing export**.
 2. *1. Where is the export from?* → **Pactlab standard template**.
 3. *2. Choose the file* → `invoice-lines.csv` → **Upload and map columns**.
-4. The columns are matched for you. Click **Check every row**, then **Import 192 lines**.
+4. The columns are matched for you. Click **Check every row**, then **Import 216 lines**.
 
 **You should see:** a green message ending "Finances now include them." The **Finances** tab now shows the revenue ledger.
 
@@ -59,8 +59,10 @@ Open the **Sources** tab and scroll to **Industry data**. Upload these files one
 
 | # | Click | Choose the file | Then | Button should read |
 |---|---|---|---|---|
-| 1 | **Upload timesheets summary** | `timesheets-summary.csv` | **Upload and map columns** → **Check every row** | **Import 36 rows** |
+| 1 | **Upload timesheets summary** | `timesheets-summary.csv` | **Upload and map columns** → **Check every row** | **Import 207 rows** |
 | 2 | **Upload headcount movements** | `headcount-movements.csv` | **Upload and map columns** → **Check every row** | **Import 24 rows** |
+| 3 | **Upload time and billing** | `time-billing.csv` | **Upload and map columns** → **Check every row** | **Import 1242 rows** |
+| 4 | **Upload wip and debtor ageing** | `wip-ar-ageing.csv` | **Upload and map columns** → **Check every row** | **Import 30 rows** |
 
 **You should see** after each import: "… imported … Industry checks ran on them". Some findings may already appear as drafts; that is expected.
 
@@ -72,22 +74,45 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 |---|---|---|---|
 | 1 | `documents/01-management-pack-2026-09.pdf` | **business information** | Management pack with reported utilization |
 | 2 | `documents/02-msa-meridian.pdf` | **business information** | Master services agreement with the largest client |
-| 3 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
+| 3 | `documents/03-information-memorandum.pdf` | **business information** | Information memorandum with the concentration ceilings |
+| 4 | `documents/04-covenant-register.pdf` | **business information** | Register of the non-compete and non-solicitation covenants binding partners, by pseudonymous reference |
+| 5 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
 
-**You should see:** all 3 documents listed on the **Documents** tab.
+**You should see:** all 5 documents listed on the **Documents** tab.
 
-## Step 5 — Run the checks and review the findings
+## Step 5 — Upload the P&L by year
+
+Open the **Sources** tab, scroll to **Industry data** and click **Upload profit and loss (p&l)**.
+
+1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the five years across the columns (FY2021 to FY2025).
+2. Say what each line is: the two lines ending in *revenue* are **Revenue**, the two lines starting *Cost of* are **Cost of revenue**, and the rest are **Operating expenses**.
+3. **Check every row**, then **Import 40 rows**.
+
+**You should see:** the import succeed. The **Practice** tab now shows the P&L year by year, reconciled to the billing export; **Finances** shows the five years side by side with utilization, realization and headcount, and the checks in the next step read every year.
+
+## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run professional services checks**.
-2. **You should see exactly these 3 findings** (running the checks again adds nothing):
+2. **You should see exactly these 14 findings** (running the checks again adds nothing):
 
-   1. **Utilization below the reported level** — the management pack reports 78%; `timesheets-summary.csv` gives 64.7% over the last twelve months.
-   2. **Largest client terminable for convenience** — Meridian Retail Group (synthetic) is 37.4% of September 2026 revenue and can terminate on sixty days' notice (`documents/02-msa-meridian.pdf` page 2, clause 18.2).
+   1. **Utilization below the reported level** — the management pack reports 78%; `timesheets-summary.csv` gives 64.2% over the last twelve months.
+   2. **Largest client terminable for convenience** — Meridian Retail Group (synthetic) is 27.0% of September 2026 revenue and can terminate on sixty days' notice (`documents/02-msa-meridian.pdf` page 2, clause 18.2).
    3. **Rising attrition in delivery roles** — monthly delivery leavers rise from 1 to 4 across the year in `headcount-movements.csv`.
+   4. **Claim contradicted: Client concentration ceiling** — the information memorandum says no client exceeds 15% of fees; `time-billing.csv` gives Meridian Retail Group (synthetic) 27.1% of fees billed in the twelve months to September 2026.
+   5. **Claim verified: Partner concentration ceiling** — the largest partner book (P-01, the clients whose relationship they hold) is 34.1% of fees, under the stated 40%.
+   6. **Realization falling every year, 2021–2025** — `time-billing.csv` — fees ÷ standard value 2021 95.0%, 2022 93.5%, 2023 92.0%, 2024 87.0%, 2025 81.0%. A single year looks unremarkable.
+   7. **WIP over 90 days up 2.1× in a year, 2024–2025** — `wip-ar-ageing.csv` — WIP older than 90 days USD 36,349 at 2024-12-31, USD 76,334 at 2025-12-31; the USD 39,984 increase is priced into working capital.
+   8. **Rainmaker with no non-solicit or non-compete on file: P-01** — P-01's book is 34.1% of fees; `documents/04-covenant-register.pdf` states P-01 has no covenant.
+   9. **Rainmaker with no non-solicit or non-compete on file: P-02** — P-02's book is 27.0% of fees; the same register states P-02 has no covenant.
+   10. **Revenue quality: 58.0% recurring, twelve months to September 2026** — retainers and managed services against projects and time and materials, from `time-billing.csv`.
+   11. **Utilization falling every year, FY2021–FY2025** — `timesheets-summary.csv` — billable ÷ available hours by calendar year: FY2021 73.95%, FY2022 71.54%, FY2023 69.00%, FY2024 67.05%, FY2025 64.96%. The trailing twelve months alone do not show it.
+   12. **P&L trend, 2021–2025** — every imported year side by side: revenue, growth, margins and the staff, subcontractor, write-off and recruitment ratios.
+   13. **Gross margin and Operating margin down across 2021–2025** — `pnl.csv` — gross margin 41.5% to 32.7%, operating margin 27.4% to 16.6%.
+   14. **WIP and bad-debt write-offs growing faster than revenue, 2021–2025** — `pnl.csv` — 0.6% of revenue in FY2021 to 2.6% in FY2025.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
-## Step 6 — Test the price
+## Step 7 — Test the price
 
 1. Open the **Valuation** tab → **New scenario**.
 2. Fill in the valuation method's fields — the hint under each field says where its number comes from (usually the **Finances** tab) — and save.
@@ -107,7 +132,7 @@ Each bidder sees only their own bid — never another bidder's questions, offers
 1. Click **Start a Pact** (top right).
 2. Under *Who are you in this deal?* choose **We are selling (or raising)**. Pact name: `Project Sablestone Sale` · Base currency: **USD** → **Next**. (There is no buying-entity step.)
 3. **Selling entity** — Legal or trading name: `Sablestone Consulting Inc.` · **Private** · What kind of company is it?: **Professional services** → **Next**.
-4. **Asking price** — enter the same asking price as Part A, Step 1 (`4800000`) → **Next**.
+4. **Asking price** — enter the same asking price as Part A, Step 1 (`4300000`) → **Next**.
 5. **Review and start** — the Buyer box says *Bid process — you invite buyers once the pact starts* → **Start Pact**.
 
 **You should see:** the **Bidders** page, with no bidders yet.
@@ -118,7 +143,7 @@ On **Bidders**, under **What bidders see**:
 
 | Field | Enter |
 |---|---|
-| Shared summary | `Sablestone Consulting Inc. is a 140-person digital and data consultancy working on monthly retainers for enterprise clients.` |
+| Shared summary | `Sablestone Consulting Inc. is a 140-person digital and data consultancy working on retainers and projects for enterprise clients.` |
 | Your data room (link) | `https://dataroom.example/professional-services` (Pactlab is not the data room; this is where you would grant access) |
 | NDA | `Mutual NDA (synthetic): everything shared about Sablestone Consulting Inc. stays confidential.` |
 | Offer deadline (UTC) | a date a week from today |
@@ -150,13 +175,13 @@ For each bidder: open the invitation link (from the email, or the newest file in
 
    | Field | Enter |
    |---|---|
-   | Price | `4400000` (USD 4,400,000) |
+   | Price | `4000000` (USD 4,000,000) |
    | Currency | `USD` |
    | Structure (cash, shares, earn-out…) | `Cash at close for 100% of the shares` |
    | Conditions | `Subject to confirmatory diligence and committed financing` |
 
    → **Submit offer**.
-3. **Northline Strategic (synthetic)**: ask `Can you share the last three years of audited accounts?` → **Ask**. Then offer **Price** `4100000` (USD 4,100,000), **Structure** `80% cash at close, 20% earn-out over 24 months`, **Conditions** `Key-person retention for the founders` → **Submit offer**.
+3. **Northline Strategic (synthetic)**: ask `Can you share the last three years of audited accounts?` → **Ask**. Then offer **Price** `3700000` (USD 3,700,000), **Structure** `80% cash at close, 20% earn-out over 24 months`, **Conditions** `Key-person retention for the founders` → **Submit offer**.
 4. **Atlas Growth Equity (synthetic)**: accept the NDA, then type `Outside our sector focus this year.` as the reason → **Pass on this pact**.
 
 **You should see**, as Northline Strategic (synthetic): your own question and offer only — nothing of Harbor Capital Partners (synthetic)'s question or offer, and no sign that Atlas Growth Equity (synthetic) passed. There are no deal tabs; trying `/deals/<id>/bidders` shows nothing of the seller's side.
@@ -174,12 +199,12 @@ Back as the seller (your normal window), on **Bidders** under **Questions from b
 
 On **Bidders**, **Offers side by side** sets the two offers next to each other — price, structure, conditions, version. Pactlab does not rank them or recommend one.
 
-**You should see:** Harbor Capital Partners (synthetic) at USD 4,400,000 and Northline Strategic (synthetic) at USD 4,100,000; Atlas Growth Equity (synthetic) marked **Passed** with its reason.
+**You should see:** Harbor Capital Partners (synthetic) at USD 4,000,000 and Northline Strategic (synthetic) at USD 3,700,000; Atlas Growth Equity (synthetic) marked **Passed** with its reason.
 
 ## Step B7 — Shortlist, run round 2 and choose
 
 1. Click **Shortlist** on Harbor Capital Partners (synthetic) and on Northline Strategic (synthetic), then **Start round 2 with 2 shortlisted**.
-2. As each bidder, submit a revised offer on **Your bid**: Harbor Capital Partners (synthetic) `4700000`, Northline Strategic (synthetic) `4200000` → **Submit revised offer**. Every version stays listed.
+2. As each bidder, submit a revised offer on **Your bid**: Harbor Capital Partners (synthetic) `4200000`, Northline Strategic (synthetic) `3800000` → **Submit revised offer**. Every version stays listed.
 3. As the seller, click **Award to Harbor Capital Partners (synthetic)**.
 
 **You should see:** "Awarded. Every other bidder has been declined and their access ended." Harbor Capital Partners (synthetic)'s **Your bid** says **Selected by the seller**; Northline Strategic (synthetic) can no longer open the pact. The **Team** tab and the audit log record every step.
@@ -188,11 +213,16 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 
 | File | What it is | Upload it? |
 |---|---|---|
-| `invoice-lines.csv` | 192 revenue lines, one per client retainer per month | **Yes** — billing export step |
-| `timesheets-summary.csv` | Available and billable hours by team (aggregate) (36 rows) | **Yes** — industry data step |
+| `invoice-lines.csv` | 216 revenue lines, one per client fee per month | **Yes** — billing export step |
+| `time-billing.csv` | Time and billing by month, client, engagement and fee-earner (pseudonymous): hours, standard value, fees billed and collected (1242 rows) | **Yes** — industry data step |
+| `timesheets-summary.csv` | Available and billable hours by team (aggregate), January 2021 to September 2026 (207 rows) | **Yes** — industry data step |
 | `headcount-movements.csv` | Starters, leavers and headcount by role family (aggregate) (24 rows) | **Yes** — industry data step |
+| `wip-ar-ageing.csv` | WIP and debtor ageing by band at each year end, FY2023 to FY2025 (30 rows) | **Yes** — industry data step |
+| `pnl.csv` | Profit and loss by fiscal year, FY2021 to FY2025 (8 lines) | **Yes** — P&L step |
 | `documents/01-management-pack-2026-09.pdf` | Management pack with reported utilization | **Yes** — documents step |
 | `documents/02-msa-meridian.pdf` | Master services agreement with the largest client | **Yes** — documents step |
+| `documents/03-information-memorandum.pdf` | Information memorandum with the concentration ceilings | **Yes** — documents step |
+| `documents/04-covenant-register.pdf` | Register of the non-compete and non-solicitation covenants binding partners, by pseudonymous reference | **Yes** — documents step |
 | `documents/99-data-room-extracts.pdf` | Every CSV extract in this folder as one paged PDF, so findings can cite a page | **Yes** — documents step |
 | `bidders.csv` | The three bidding firms for Part B: who to invite, what each asks and offers | **No** — read it while you follow Part B |
 | `documents/*.md` | The text each PDF is built from | **No** — never |
@@ -200,7 +230,9 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 
 ## Notes
 
-- People data is aggregate only — no names, no individual records.
+- People data is aggregate or pseudonymous only — fee-earners are P- and C- references, never names, emails or pay; no person is assessed.
+- `time-billing.csv` and `timesheets-summary.csv` run January 2021 to September 2026, so each of FY2021–FY2025 is a complete year (five years of history, read side by side on **Finances**); the fees tie to the P&L year by year.
+- The P&L (`pnl.csv`) imports through Sources like any extract; the multi-year checks read every year it holds. A single year still imports: the trend then reports that year alone.
 
 ## Intake test — hand over the whole data room
 
@@ -216,8 +248,10 @@ Use it to check that Pactlab sorts files on its own and asks only when unsure.
 
 | File in the data room | Pactlab should file it as | Note |
 |---|---|---|
+| `02 Finance/Covenant register.pdf` | Other |  |
 | `02 Finance/Exports/Sablestone headcount movements export Sep26.csv` | Headcount movements |  |
 | `02 Finance/Exports/Sablestone invoice lines export Sep26.csv` | Invoice lines |  |
+| `02 Finance/Information memorandum.pdf` | Other |  |
 | `02 Finance/Management pack 2026 09.pdf` | Other |  |
 | `02 Finance/Mgmt accounts FY26 - Sablestone.md` | Income statement (P&L) | Revenue matches the invoice lines for Oct 2025 – Sep 2026. |
 | `02 Finance/Sablestone FY26 summary.md` | Pactlab asks: income statement or cash flow statement? | Mixes profit and cash flow lines. |

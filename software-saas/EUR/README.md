@@ -1,7 +1,7 @@
 # Brightwave Software B.V. — Software and SaaS (EUR)
 
 **Fictional target.** Brightwave Software B.V. sells workflow software to mid-sized logistics and services firms on monthly and annual subscriptions.
-Based in Utrecht, the Netherlands; reports in EUR. Data runs October 2024 to September 2026.
+Based in Utrecht, the Netherlands; reports in EUR. Data runs January 2021 to September 2026.
 
 > Synthetic demo data. Every company, person, address, account and figure here is invented.
 
@@ -9,7 +9,7 @@ Based in Utrecht, the Netherlands; reports in EUR. Data runs October 2024 to Sep
 
 - Download this whole folder (on GitHub: **Code → Download ZIP** at the top of the repository, then unzip).
 - Sign in to Pactlab. The steps take about 15 minutes.
-- You upload **1 CSV file** and **3 PDFs**. Nothing else.
+- You upload **1 CSV file** and **4 PDFs**. Nothing else.
 - **Never upload the `.md` files** in `documents/`. They are the text each PDF is built from; Pactlab reads the PDFs.
 - `vdr-index.csv` is for reference only (how a data room would list these files). Do not upload it.
 - Text in **bold** below is a button, tab or option exactly as Pactlab shows it.
@@ -49,7 +49,7 @@ Based in Utrecht, the Netherlands; reports in EUR. Data runs October 2024 to Sep
 1. Open the **Sources** tab → **Upload billing export**.
 2. *1. Where is the export from?* → **Pactlab standard template**.
 3. *2. Choose the file* → `invoice-lines.csv` → **Upload and map columns**.
-4. The columns are matched for you. Click **Check every row**, then **Import 302 lines**.
+4. The columns are matched for you. Click **Check every row**, then **Import 571 lines**.
 
 **You should see:** a green message ending "Finances now include them." The **Finances** tab now shows the revenue ledger.
 
@@ -62,8 +62,9 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 | 1 | `documents/01-board-kpi-pack-2026-09.pdf` | **business information** | Management KPI pack with reported ARR |
 | 2 | `documents/02-master-services-agreement-northgate.pdf` | **business information** | Northgate Logistics contract, with a change-of-control clause |
 | 3 | `documents/03-balance-sheet-2026-09-30.pdf` | **financial information** | Balance sheet with debt and debt-like items |
+| 4 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
 
-**You should see:** all 3 documents listed on the **Documents** tab.
+**You should see:** all 4 documents listed on the **Documents** tab.
 
 ## Step 4 — Connect the code and delivery data (Engineering)
 
@@ -78,19 +79,31 @@ Code and delivery data come through their APIs, never as files. Local and dev Pa
 - **Single-contributor concentration in billing/** — one engineer wrote every billing change.
 - **Commits attributed to unmatched or departed identities** — commits still arrive under an engineer who left in May.
 
-## Step 5 — Run the checks and review the findings
+## Step 5 — Upload the P&L by year
+
+Open the **Sources** tab, scroll to **Industry data** and click **Upload profit and loss (p&l)**.
+
+1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the five years across the columns (FY2021 to FY2025).
+2. Say what each line is: `Subscription revenue` is **Revenue**, `Cost of hosting and infrastructure` is **Cost of revenue**, and the rest are **Operating expenses**.
+3. **Check every row**, then **Import 25 rows**.
+
+**You should see:** the import succeed. **Finances** shows the five years side by side: ARR at each December, net and gross retention and logo churn beside the P&L, and the checks in the next step read every year.
+
+## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run software & saas checks**.
-2. **You should see exactly these 4 findings** (running the checks again adds nothing):
+2. **You should see exactly these 6 findings** (running the checks again adds nothing):
 
    1. **Management ARR exceeds billed ARR** — the KPI pack reports EUR 603,623; `invoice-lines.csv` supports EUR 579,887 at September 2026 — a gap of EUR 23,736. The KPI pack still counts Quarry Lane Studios, whose last invoice was June 2026.
    2. **Revenue concentration** — Harborline Freight (synthetic) is 27.6% of September 2026 billed revenue.
    3. **Customer can terminate on change of control** — `documents/02-master-services-agreement-northgate.pdf` page 2, clause 14 — Northgate Logistics (15.5% of September 2026 billed revenue) may leave if the company is sold.
    4. **Contraction hidden in the logo count** — Amberline Hotels (synthetic) pays 30.0% less from April 2026; the KPI pack reports 14 active customers, billing has 13 in September 2026.
+   5. **Net revenue retention falling every year, FY2022–FY2025** — `invoice-lines.csv` — December's revenue from the customers billed the December before ÷ their revenue then: FY2022 124.0%, FY2023 117.0%, FY2024 110.0%, FY2025 106.8%. The KPI pack's trailing 118% is one year.
+   6. **P&L trend, 2021–2025** — every imported year side by side: revenue, growth, margins and the hosting, R&D and sales and marketing ratios.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
-## Step 6 — Test the price
+## Step 7 — Test the price
 
 1. Open the **Valuation** tab → **New scenario**.
 2. Fill in the valuation method's fields — the hint under each field says where its number comes from (usually the **Finances** tab) — and save.
@@ -191,16 +204,19 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 
 | File | What it is | Upload it? |
 |---|---|---|
-| `invoice-lines.csv` | 302 revenue lines, one per customer subscription per month | **Yes** — billing export step |
+| `invoice-lines.csv` | 571 revenue lines, one per customer subscription per month | **Yes** — billing export step |
+| `pnl.csv` | Profit and loss by fiscal year, FY2021 to FY2025 (5 lines) | **Yes** — P&L step |
 | `documents/01-board-kpi-pack-2026-09.pdf` | Management KPI pack with reported ARR | **Yes** — documents step |
 | `documents/02-master-services-agreement-northgate.pdf` | Northgate Logistics contract, with a change-of-control clause | **Yes** — documents step |
 | `documents/03-balance-sheet-2026-09-30.pdf` | Balance sheet with debt and debt-like items | **Yes** — documents step |
+| `documents/99-data-room-extracts.pdf` | Every CSV extract in this folder as one paged PDF, so findings can cite a page | **Yes** — documents step |
 | `bidders.csv` | The three bidding firms for Part B: who to invite, what each asks and offers | **No** — read it while you follow Part B |
 | `documents/*.md` | The text each PDF is built from | **No** — never |
 | `vdr-index.csv` | Index of every file, as a data room would list it | **No** — reference only |
 
 ## Notes
 
+- `invoice-lines.csv` runs January 2021 to September 2026, so each of FY2021–FY2025 is a complete year (five years of history, read side by side on **Finances**); the P&L's subscription revenue ties to it year by year.
 - Code and delivery data (GitHub, Jira) connect through their APIs, never files. The synthetic Brightwave repository and Jira site in the Engineering step are built into local and dev Pactlab; production connects the real ones.
 
 ## Intake test — hand over the whole data room

@@ -62,7 +62,7 @@ Open the **Sources** tab and scroll to **Industry data**. Upload these files one
 | 1 | **Upload plant register** | `plant-register.csv` | **Upload and map columns** → **Check every row** | **Import 1 rows** |
 | 2 | **Upload interest register** | `interest-register.csv` | **Upload and map columns** → **Check every row** | **Import 20 rows** |
 | 3 | **Upload lease schedule** | `lease-schedule.csv` | **Upload and map columns** → **Check every row** | **Import 26 rows** |
-| 4 | **Upload production history** | `production-history.csv` | **Upload and map columns** → **Check every row** | **Import 1008 rows** |
+| 4 | **Upload production history** | `production-history.csv` | **Upload and map columns** → **Check every row** | **Import 2898 rows** |
 | 5 | **Upload liability schedule** | `liability-schedule.csv` | **Upload and map columns** → **Check every row** | **Import 7 rows** |
 
 **You should see** after each import: "… imported … Industry checks ran on them". Some findings may already appear as drafts; that is expected.
@@ -97,13 +97,14 @@ Open the **Assets** tab (it appears only on an energy generation & rights pact).
 ## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run energy generation & rights checks**.
-2. **You should see exactly these 5 findings** (running the checks again adds nothing):
+2. **You should see exactly these 6 findings** (running the checks again adds nothing):
 
    1. **Unbooked environmental liability: Coal ash (CCR) closure at Cinder Ridge Station (synthetic)** — planted defect (a): `documents/06-ash-pond-closure-plan.pdf` page 2 estimates USD 18,400,000; `liability-schedule.csv` books nothing for the ash pond. A remediation cost.
    2. **ARO shortfall: Cinder Ridge Station (synthetic)** — planted defect (b): the decommissioning study estimates USD 42,000,000; the schedule books USD 25,200,000 (60%), USD 16,800,000 short — underfunded by 40%. An escrow.
    3. **Lease expiry risk: acreage not held by production** — planted defect (c): 25.0% of the net acres (1487 of 5947) are not held by production and expire by 31 March 2028, within 18 months.
    4. **Royalty decimal error: Blackjack 7H (synthetic)** — planted defect (d): the division order for OG-007 pays 0.12500000; the lease chain (0.5 × 3/16) supports 0.09375000 — overpaid by about USD 45,928 a year.
    5. **PPA cliff: Cinder Ridge Station (synthetic)** — the PPA with Valley Electric Cooperative (synthetic) ends on 2028-06-30, inside the 5-year hold: 80% of the plant's revenue turns merchant.
+   6. **Net generation (MWh) falling every year, FY2021–FY2025** — `production-history.csv` — the plant's net generation by calendar year: FY2021 3,236,820 MWh, FY2022 3,118,560 MWh, FY2023 2,930,220 MWh, FY2024 2,755,020 MWh, FY2025 2,592,960 MWh; the trailing twelve months alone show one year.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
@@ -212,7 +213,7 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 | `plant-register.csv` | Plant register: capacity, fuel, age, capacity factor and PPA (1 rows) | **Yes** — industry data step |
 | `interest-register.csv` | Interest register: mineral, royalty and working interests with the division-order decimal (20 rows) | **Yes** — industry data step |
 | `lease-schedule.csv` | Lease schedule: net acres, royalty chain, primary term and whether production holds each lease (26 rows) | **Yes** — industry data step |
-| `production-history.csv` | Production history: plant generation and revenue by contract type, and well volumes and gross revenue (1008 rows) | **Yes** — industry data step |
+| `production-history.csv` | Production history, January 2021 to September 2026: plant generation and revenue by contract type, and well volumes and gross revenue (2898 rows) | **Yes** — industry data step |
 | `liability-schedule.csv` | The seller's liability schedule: environmental and retirement obligations as booked (7 rows) | **Yes** — industry data step |
 | `documents/01-sale-summary.pdf` | The seller's sale summary | **Yes** — documents step |
 | `documents/02-title-opinion.pdf` | Division-order title opinion over the interests | **Yes** — documents step |
@@ -228,6 +229,7 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 
 ## Notes
 
+- `production-history.csv` runs January 2021 to September 2026, so each of FY2021–FY2025 is a complete year (five years of history, read side by side on **Finances**): the plant's generation and the wells' oil and gas by year.
 - Buyer-side pack: you are buying the plant and the interests. Registers, the lease schedule, production and the liability schedule are CSV imports; the reserve report and environmental reports are read on the **Assets** tab, where a person confirms each entry before it counts.
 - For the **Valuation** tab: **Reserve-based DCF** for the interests (the reserve report's categories and values on the **Assets** tab), or **Capacity value ($/kW)** for the plant — enter the net capacity in kW (600000) and a price per kW.
 - Reserves are the third-party engineer's, cited as such; Pactlab never estimates reserves. A missing report is a gap finding.

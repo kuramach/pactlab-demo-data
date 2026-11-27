@@ -200,6 +200,20 @@ G-0015-M | W-0015 | administration | 2019-07-01 |  |  |  | Administration agreem
 royalty-statements.csv — Royalty statement lines by work, period and income source, net to the catalog owner
 
 line_id | period_end | work_id | income_source | payer | amount
+L-W-0001-2021-06-30-pf | 2021-06-30 | W-0001 | performance | Northbeam Rights (synthetic) | 1144.06
+L-W-0001-2021-06-30-mc | 2021-06-30 | W-0001 | mechanical | Keystone Mechanical Agency (synthetic) | 936.05
+L-W-0001-2021-12-31-pf | 2021-12-31 | W-0001 | performance | Northbeam Rights (synthetic) | 1126.90
+L-W-0001-2021-12-31-mc | 2021-12-31 | W-0001 | mechanical | Keystone Mechanical Agency (synthetic) | 922.01
+L-W-0001-2022-06-30-pf | 2022-06-30 | W-0001 | performance | Northbeam Rights (synthetic) | 1109.99
+L-W-0001-2022-06-30-mc | 2022-06-30 | W-0001 | mechanical | Keystone Mechanical Agency (synthetic) | 908.18
+L-W-0001-2022-12-31-pf | 2022-12-31 | W-0001 | performance | Northbeam Rights (synthetic) | 1093.34
+L-W-0001-2022-12-31-mc | 2022-12-31 | W-0001 | mechanical | Keystone Mechanical Agency (synthetic) | 894.55
+L-W-0001-2023-06-30-pf | 2023-06-30 | W-0001 | performance | Northbeam Rights (synthetic) | 1076.94
+L-W-0001-2023-06-30-mc | 2023-06-30 | W-0001 | mechanical | Keystone Mechanical Agency (synthetic) | 881.14
+L-W-0001-2023-12-31-pf | 2023-12-31 | W-0001 | performance | Northbeam Rights (synthetic) | 1060.79
+L-W-0001-2023-12-31-mc | 2023-12-31 | W-0001 | mechanical | Keystone Mechanical Agency (synthetic) | 867.92
+L-W-0001-2024-06-30-pf | 2024-06-30 | W-0001 | performance | Northbeam Rights (synthetic) | 1044.88
+L-W-0001-2024-06-30-mc | 2024-06-30 | W-0001 | mechanical | Keystone Mechanical Agency (synthetic) | 854.90
 L-W-0001-2024-12-31-pf | 2024-12-31 | W-0001 | performance | Northbeam Rights (synthetic) | 1029.20
 L-W-0001-2024-12-31-mc | 2024-12-31 | W-0001 | mechanical | Keystone Mechanical Agency (synthetic) | 842.08
 L-W-0001-2025-06-30-pf | 2025-06-30 | W-0001 | performance | Northbeam Rights (synthetic) | 1013.77
@@ -208,6 +222,20 @@ L-W-0001-2025-12-31-pf | 2025-12-31 | W-0001 | performance | Northbeam Rights (s
 L-W-0001-2025-12-31-mc | 2025-12-31 | W-0001 | mechanical | Keystone Mechanical Agency (synthetic) | 817.00
 L-W-0001-2026-06-30-pf | 2026-06-30 | W-0001 | performance | Northbeam Rights (synthetic) | 983.58
 L-W-0001-2026-06-30-mc | 2026-06-30 | W-0001 | mechanical | Keystone Mechanical Agency (synthetic) | 804.75
+L-W-0002-2021-06-30-pf | 2021-06-30 | W-0002 | performance | Cardinal PRS (synthetic) | 1910.09
+L-W-0002-2021-06-30-mc | 2021-06-30 | W-0002 | mechanical | Keystone Mechanical Agency (synthetic) | 1562.80
+L-W-0002-2021-12-31-pf | 2021-12-31 | W-0002 | performance | Cardinal PRS (synthetic) | 1881.44
+L-W-0002-2021-12-31-mc | 2021-12-31 | W-0002 | mechanical | Keystone Mechanical Agency (synthetic) | 1539.36
+L-W-0002-2022-06-30-pf | 2022-06-30 | W-0002 | performance | Cardinal PRS (synthetic) | 1853.22
+L-W-0002-2022-06-30-mc | 2022-06-30 | W-0002 | mechanical | Keystone Mechanical Agency (synthetic) | 1516.27
+L-W-0002-2022-12-31-pf | 2022-12-31 | W-0002 | performance | Cardinal PRS (synthetic) | 1825.42
+L-W-0002-2022-12-31-mc | 2022-12-31 | W-0002 | mechanical | Keystone Mechanical Agency (synthetic) | 1493.52
+L-W-0002-2023-06-30-pf | 2023-06-30 | W-0002 | performance | Cardinal PRS (synthetic) | 1798.04
+L-W-0002-2023-06-30-mc | 2023-06-30 | W-0002 | mechanical | Keystone Mechanical Agency (synthetic) | 1471.12
+L-W-0002-2023-12-31-pf | 2023-12-31 | W-0002 | performance | Cardinal PRS (synthetic) | 1771.07
+L-W-0002-2023-12-31-mc | 2023-12-31 | W-0002 | mechanical | Keystone Mechanical Agency (synthetic) | 1449.06
+L-W-0002-2024-06-30-pf | 2024-06-30 | W-0002 | performance | Cardinal PRS (synthetic) | 1744.50
+L-W-0002-2024-06-30-mc | 2024-06-30 | W-0002 | mechanical | Keystone Mechanical Agency (synthetic) | 1427.32
 L-W-0002-2024-12-31-pf | 2024-12-31 | W-0002 | performance | Cardinal PRS (synthetic) | 1718.33
 L-W-0002-2024-12-31-mc | 2024-12-31 | W-0002 | mechanical | Keystone Mechanical Agency (synthetic) | 1405.91
 L-W-0002-2025-06-30-pf | 2025-06-30 | W-0002 | performance | Cardinal PRS (synthetic) | 1692.56
@@ -216,48 +244,20 @@ L-W-0002-2025-12-31-pf | 2025-12-31 | W-0002 | performance | Cardinal PRS (synth
 L-W-0002-2025-12-31-mc | 2025-12-31 | W-0002 | mechanical | Keystone Mechanical Agency (synthetic) | 1364.05
 L-W-0002-2026-06-30-pf | 2026-06-30 | W-0002 | performance | Cardinal PRS (synthetic) | 1642.16
 L-W-0002-2026-06-30-mc | 2026-06-30 | W-0002 | mechanical | Keystone Mechanical Agency (synthetic) | 1343.59
+L-W-0003-2021-06-30-pf | 2021-06-30 | W-0003 | performance | Northbeam Rights (synthetic) | 2399.86
+L-W-0003-2021-06-30-mc | 2021-06-30 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1963.52
+L-W-0003-2021-12-31-pf | 2021-12-31 | W-0003 | performance | Northbeam Rights (synthetic) | 2363.86
+L-W-0003-2021-12-31-mc | 2021-12-31 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1934.07
+L-W-0003-2022-06-30-pf | 2022-06-30 | W-0003 | performance | Northbeam Rights (synthetic) | 2328.40
+L-W-0003-2022-06-30-mc | 2022-06-30 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1905.06
+L-W-0003-2022-12-31-pf | 2022-12-31 | W-0003 | performance | Northbeam Rights (synthetic) | 2293.48
+L-W-0003-2022-12-31-mc | 2022-12-31 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1876.48
+L-W-0003-2023-06-30-pf | 2023-06-30 | W-0003 | performance | Northbeam Rights (synthetic) | 2259.07
+L-W-0003-2023-06-30-mc | 2023-06-30 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1848.33
+L-W-0003-2023-12-31-pf | 2023-12-31 | W-0003 | performance | Northbeam Rights (synthetic) | 2225.19
+L-W-0003-2023-12-31-mc | 2023-12-31 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1820.61
+L-W-0003-2024-06-30-pf | 2024-06-30 | W-0003 | performance | Northbeam Rights (synthetic) | 2191.81
+L-W-0003-2024-06-30-mc | 2024-06-30 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1793.30
 L-W-0003-2024-12-31-pf | 2024-12-31 | W-0003 | performance | Northbeam Rights (synthetic) | 2158.93
 L-W-0003-2024-12-31-mc | 2024-12-31 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1766.40
-L-W-0003-2025-06-30-pf | 2025-06-30 | W-0003 | performance | Northbeam Rights (synthetic) | 2126.55
-L-W-0003-2025-06-30-mc | 2025-06-30 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1739.90
-L-W-0003-2025-12-31-pf | 2025-12-31 | W-0003 | performance | Northbeam Rights (synthetic) | 2094.65
-L-W-0003-2025-12-31-mc | 2025-12-31 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1713.80
-L-W-0003-2026-06-30-pf | 2026-06-30 | W-0003 | performance | Northbeam Rights (synthetic) | 2063.23
-L-W-0003-2026-06-30-mc | 2026-06-30 | W-0003 | mechanical | Keystone Mechanical Agency (synthetic) | 1688.10
-L-W-0004-2024-12-31-pf | 2024-12-31 | W-0004 | performance | Cardinal PRS (synthetic) | 1048.43
-L-W-0004-2024-12-31-mc | 2024-12-31 | W-0004 | mechanical | Keystone Mechanical Agency (synthetic) | 857.81
-L-W-0004-2025-06-30-pf | 2025-06-30 | W-0004 | performance | Cardinal PRS (synthetic) | 1032.71
-L-W-0004-2025-06-30-mc | 2025-06-30 | W-0004 | mechanical | Keystone Mechanical Agency (synthetic) | 844.94
-L-W-0004-2025-12-31-pf | 2025-12-31 | W-0004 | performance | Cardinal PRS (synthetic) | 1017.21
-L-W-0004-2025-12-31-mc | 2025-12-31 | W-0004 | mechanical | Keystone Mechanical Agency (synthetic) | 832.27
-L-W-0004-2026-06-30-pf | 2026-06-30 | W-0004 | performance | Cardinal PRS (synthetic) | 1001.96
-L-W-0004-2026-06-30-mc | 2026-06-30 | W-0004 | mechanical | Keystone Mechanical Agency (synthetic) | 819.78
-L-W-0005-2024-12-31-pf | 2024-12-31 | W-0005 | performance | Northbeam Rights (synthetic) | 1107.63
-L-W-0005-2024-12-31-mc | 2024-12-31 | W-0005 | mechanical | Keystone Mechanical Agency (synthetic) | 906.25
-L-W-0005-2025-06-30-pf | 2025-06-30 | W-0005 | performance | Northbeam Rights (synthetic) | 1091.02
-L-W-0005-2025-06-30-mc | 2025-06-30 | W-0005 | mechanical | Keystone Mechanical Agency (synthetic) | 892.65
-L-W-0005-2025-12-31-pf | 2025-12-31 | W-0005 | performance | Northbeam Rights (synthetic) | 1074.65
-L-W-0005-2025-12-31-mc | 2025-12-31 | W-0005 | mechanical | Keystone Mechanical Agency (synthetic) | 879.26
-L-W-0005-2026-06-30-pf | 2026-06-30 | W-0005 | performance | Northbeam Rights (synthetic) | 1058.53
-L-W-0005-2026-06-30-mc | 2026-06-30 | W-0005 | mechanical | Keystone Mechanical Agency (synthetic) | 866.07
-L-W-0006-2024-12-31-pf | 2024-12-31 | W-0006 | performance | Cardinal PRS (synthetic) | 1282.41
-L-W-0006-2024-12-31-mc | 2024-12-31 | W-0006 | mechanical | Keystone Mechanical Agency (synthetic) | 1049.24
-L-W-0006-2025-06-30-pf | 2025-06-30 | W-0006 | performance | Cardinal PRS (synthetic) | 1205.46
-L-W-0006-2025-06-30-mc | 2025-06-30 | W-0006 | mechanical | Keystone Mechanical Agency (synthetic) | 986.29
-L-W-0006-2025-12-31-pf | 2025-12-31 | W-0006 | performance | Cardinal PRS (synthetic) | 1133.13
-L-W-0006-2025-12-31-mc | 2025-12-31 | W-0006 | mechanical | Keystone Mechanical Agency (synthetic) | 927.11
-L-W-0006-2026-06-30-pf | 2026-06-30 | W-0006 | performance | Cardinal PRS (synthetic) | 1065.15
-L-W-0006-2026-06-30-mc | 2026-06-30 | W-0006 | mechanical | Keystone Mechanical Agency (synthetic) | 871.48
-L-W-0007-2024-12-31-pf | 2024-12-31 | W-0007 | performance | Northbeam Rights (synthetic) | 963.42
-L-W-0007-2024-12-31-mc | 2024-12-31 | W-0007 | mechanical | Keystone Mechanical Agency (synthetic) | 788.26
-L-W-0007-2025-06-30-pf | 2025-06-30 | W-0007 | performance | Northbeam Rights (synthetic) | 948.97
-L-W-0007-2025-06-30-mc | 2025-06-30 | W-0007 | mechanical | Keystone Mechanical Agency (synthetic) | 776.43
-L-W-0007-2025-12-31-pf | 2025-12-31 | W-0007 | performance | Northbeam Rights (synthetic) | 934.74
-L-W-0007-2025-12-31-mc | 2025-12-31 | W-0007 | mechanical | Keystone Mechanical Agency (synthetic) | 764.79
-L-W-0007-2026-06-30-pf | 2026-06-30 | W-0007 | performance | Northbeam Rights (synthetic) | 920.72
-L-W-0007-2026-06-30-mc | 2026-06-30 | W-0007 | mechanical | Keystone Mechanical Agency (synthetic) | 753.31
-L-W-0008-2024-12-31-pf | 2024-12-31 | W-0008 | performance | Cardinal PRS (synthetic) | 2593.24
-L-W-0008-2024-12-31-mc | 2024-12-31 | W-0008 | mechanical | Keystone Mechanical Agency (synthetic) | 2121.74
-L-W-0008-2025-06-30-pf | 2025-06-30 | W-0008 | performance | Cardinal PRS (synthetic) | 2554.34
-L-W-0008-2025-06-30-mc | 2025-06-30 | W-0008 | mechanical | Keystone Mechanical Agency (synthetic) | 2089.91
-… 896 more rows in royalty-statements.csv
+… 2501 more rows in royalty-statements.csv

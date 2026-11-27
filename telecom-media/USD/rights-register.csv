@@ -1,0 +1,8 @@
+agreement_id,counterparty,kind,flow,annual_value,starts_on,ends_on,auto_renews
+AF-01,Rivermark Cable (synthetic),affiliate,receivable,801166.68,2022-10-01,2028-09-30,no
+AF-02,Harborview Cable (synthetic),affiliate,receivable,771493.84,2023-01-01,2029-12-31,no
+AF-03,Lakeshore Telecom (synthetic),affiliate,receivable,712148.15,2022-07-01,2027-08-31,yes
+AF-04,Summit Fibre (synthetic),affiliate,receivable,682475.31,2024-04-01,2028-03-31,no
+CA-01,Summit Entertainment Networks (synthetic),carriage,payable,1100000.00,2023-01-01,2028-12-31,no
+SR-01,Northern Lakes Hockey League (synthetic),sports_rights,payable,650000.00,2024-07-01,2029-06-30,no
+CL-01,Lakeview Studios (synthetic),content_licence,payable,180000.00,2025-05-01,2027-04-30,no

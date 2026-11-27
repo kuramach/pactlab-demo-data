@@ -1,11 +1,11 @@
 doc_id,title,file,data_class,as_of
-PB-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
+PB-001,"Invoice lines, Jan 2021 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
 PB-002,"Patent families, products and expiry dates",patent-schedule.csv,Financial,2026-09-30
 PB-003,Development pipeline: each programme's claimed phase and next milestone,pipeline.csv,Financial,2026-09-30
 PB-004,"Trial-registry records for the pipeline programmes, as filed",trial-registry.csv,Financial,2026-09-30
 PB-005,"The seller's model of milestones, royalties and licence fees owed",obligations-model.csv,Financial,2026-09-30
 PB-006,R&D roster by pseudonymous reference: programmes led and patent families as inventor,rd-roster.csv,Financial,2026-09-30
-PB-007,"Profit and loss by fiscal year, FY2023 to FY2025",pnl.csv,Financial,2026-09-30
+PB-007,"Profit and loss by fiscal year, FY2021 to FY2025",pnl.csv,Financial,2026-09-30
 PB-008,Management revenue forecast and its exclusivity assumption,documents/01-revenue-forecast.pdf,Business,2026-09-30
 PB-009,Contract manufacturer inspection summary,documents/02-supplier-inspection-report.pdf,Business,2026-09-30
 PB-010,"Investor presentation: pipeline claims, the accelerated readout, the closing date and the hold",documents/03-investor-presentation.pdf,Business,2026-09-30

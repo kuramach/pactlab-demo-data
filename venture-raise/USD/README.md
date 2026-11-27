@@ -1,7 +1,7 @@
 # Loopwise Inc. — Venture Raise (USD)
 
 **Fictional target.** Loopwise Inc. is a seed-stage SaaS startup: scheduling and invoicing for field-service teams, raising a seed round from angels, an accelerator and venture funds.
-Based in Columbus, Ohio, United States; reports in USD. Data runs October 2024 to September 2026.
+Based in Columbus, Ohio, United States; reports in USD. Data runs January 2024 to September 2026.
 
 > Synthetic demo data. Every company, person, address, account and figure here is invented.
 
@@ -38,7 +38,7 @@ Based in Columbus, Ohio, United States; reports in USD. Data runs October 2024 t
 1. Open the **Sources** tab → **Upload billing export**.
 2. *1. Where is the export from?* → **Pactlab standard template**.
 3. *2. Choose the file* → `invoice-lines.csv` → **Upload and map columns**.
-4. The columns are matched for you. Click **Check every row**, then **Import 336 lines**.
+4. The columns are matched for you. Click **Check every row**, then **Import 390 lines**.
 
 **You should see:** a green message ending "Finances now include them." The **Finances** tab now shows the revenue ledger.
 
@@ -100,7 +100,17 @@ Open the **Raise** tab.
 
 **You should see:** **Offers side by side** showing Harborline's price per share and what the founders own after the round.
 
-## Step 6 — Run the checks and review the findings
+## Step 6 — Upload the P&L by year
+
+Open the **Sources** tab, scroll to **Industry data** and click **Upload profit and loss (p&l)**.
+
+1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the two years across the columns (FY2024 and FY2025).
+2. Say what each line is: `Subscription revenue` is **Revenue**, `Hosting and infrastructure` is **Cost of revenue**, and the rest are **Operating expenses**.
+3. **Check every row**, then **Import 10 rows**.
+
+**You should see:** on **Finances**, the two years side by side and "FY2024–FY2025 (2 of 5 years): ask the seller for FY2021–FY2023 …, or tell us the business started later". Enter **2024** as the year the business started: the years then read "2 of 2 years since the business started" and nothing is asked.
+
+## Step 7 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run venture raise checks**.
 2. **You should see exactly these 6 findings** (running the checks again adds nothing):
@@ -114,7 +124,7 @@ Open the **Raise** tab.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
-## Step 7 — Test the price
+## Step 8 — Test the price
 
 Open the **Raise** tab again. **Offers side by side** now reflects the cap table: SAFE-1 converts on SAFE-3's terms (most-favoured-nation). Under **Ready for diligence?**, see what an investor will still ask for. The investor view shares only what is safe to share.
 
@@ -214,9 +224,10 @@ For each investor, click **Add to round comparison**. Open the **Raise** tab: bo
 
 | File | What it is | Upload it? |
 |---|---|---|
-| `invoice-lines.csv` | 336 revenue lines, one per customer subscription per month | **Yes** — billing export step |
+| `invoice-lines.csv` | 390 revenue lines, one per customer subscription per month | **Yes** — billing export step |
 | `cap-table.csv` | Cap table, one row per security (pseudonymous holders) (9 rows) | **Yes** — industry data step |
 | `monthly-financials.csv` | Cash balance and net burn by month (12 rows) | **Yes** — industry data step |
+| `pnl.csv` | Profit and loss by fiscal year, FY2024 to FY2025 (the business began trading in January 2024) (5 lines) | **Yes** — P&L step |
 | `documents/01-investor-deck.pdf` | Seed round investor deck with headline metrics | **Yes** — documents step |
 | `documents/02-certificate-of-incorporation.pdf` | Certificate of incorporation with issued shares | **Yes** — documents step |
 | `documents/03-contractor-agreement-northbeam.pdf` | Contractor agreement with IP assignment | **Yes** — documents step |
@@ -233,6 +244,7 @@ For each investor, click **Add to round comparison**. Open the **Raise** tab: bo
 
 - Founder-side pack: the founder is the Pactlab user and investors are the counterparty. Drags are what an investor will find; cushions stay confidential until the founder shares them.
 - Holders in the cap table are pseudonymous references (F-1, E-02, I-3); no names.
+- A young business (T-185): Loopwise began trading in January 2024, so its history start is **2024**. `invoice-lines.csv` runs January 2024 to September 2026 and `pnl.csv` holds FY2024 and FY2025, its whole history: with the start set on **Finances**, the years read "FY2024–FY2025 (2 of 2 years since the business started)" and nothing is asked of the seller; without it, Pactlab asks for FY2021–FY2023 "or tell us the business started later".
 
 ## Intake test — hand over the whole data room
 

@@ -132,9 +132,54 @@ AL-00059 | 2026-08-05 | structuring | closed | yes
 AL-00060 | 2026-09-06 | structuring | closed | yes
 … 20 more rows in aml-alerts.csv
 ---page---
-processor-volume.csv — Processor settlement exports by month: volume, transactions, net revenue, chargebacks and fraud losses
+processor-volume.csv — Processor settlement exports by month, January 2021 to September 2026: volume, transactions, net revenue, chargebacks and fraud losses
 
 month | processor | gross_volume | transactions | net_revenue | chargeback_count | chargeback_amount | fraud_losses
+2021-01 | Northpass Processing (synthetic) | 4396997.00 | 72558 | 48235.06 | 363 | 21997.80 | 2638.20
+2021-02 | Northpass Processing (synthetic) | 4471825.00 | 73671 | 49190.08 | 368 | 22337.60 | 2683.10
+2021-03 | Northpass Processing (synthetic) | 4566114.00 | 72135 | 50181.59 | 361 | 22851.30 | 2739.67
+2021-04 | Northpass Processing (synthetic) | 4662276.00 | 75319 | 51285.04 | 377 | 23336.30 | 2797.37
+2021-05 | Northpass Processing (synthetic) | 4647674.00 | 76948 | 51077.94 | 385 | 23254.00 | 2788.60
+2021-06 | Northpass Processing (synthetic) | 4750655.00 | 79046 | 52447.23 | 395 | 23739.50 | 2850.39
+2021-07 | Northpass Processing (synthetic) | 4865434.00 | 80554 | 53714.39 | 403 | 24341.20 | 2919.26
+2021-08 | Northpass Processing (synthetic) | 4967899.00 | 77989 | 54696.57 | 390 | 24843.00 | 2980.74
+2021-09 | Northpass Processing (synthetic) | 4962345.00 | 80427 | 54436.92 | 402 | 24803.40 | 2977.41
+2021-10 | Northpass Processing (synthetic) | 5087485.00 | 81661 | 56013.21 | 408 | 25418.40 | 3052.49
+2021-11 | Northpass Processing (synthetic) | 5163721.00 | 81704 | 56646.02 | 409 | 25848.80 | 3098.23
+2021-12 | Northpass Processing (synthetic) | 5251586.00 | 84025 | 57714.93 | 420 | 26250.00 | 3150.95
+2022-01 | Northpass Processing (synthetic) | 5298300.00 | 85456 | 54148.63 | 461 | 28582.00 | 3390.91
+2022-02 | Northpass Processing (synthetic) | 5426397.00 | 85725 | 55240.72 | 463 | 29307.90 | 3472.89
+2022-03 | Northpass Processing (synthetic) | 5546233.00 | 90183 | 56405.19 | 487 | 29950.50 | 3549.59
+2022-04 | Northpass Processing (synthetic) | 5539938.00 | 91569 | 56341.17 | 494 | 29887.00 | 3545.56
+2022-05 | Northpass Processing (synthetic) | 5696734.00 | 93389 | 58334.56 | 504 | 30744.00 | 3645.91
+2022-06 | Northpass Processing (synthetic) | 5816734.00 | 93068 | 59447.02 | 503 | 31437.50 | 3722.71
+2022-07 | Northpass Processing (synthetic) | 5880487.00 | 94694 | 59863.36 | 511 | 31733.10 | 3763.51
+2022-08 | Northpass Processing (synthetic) | 5950748.00 | 93126 | 60935.66 | 503 | 32141.70 | 3808.48
+2022-09 | Northpass Processing (synthetic) | 6112533.00 | 97179 | 62286.71 | 525 | 33022.50 | 3912.02
+2022-10 | Northpass Processing (synthetic) | 6087356.00 | 99793 | 62151.90 | 539 | 32879.00 | 3895.91
+2022-11 | Northpass Processing (synthetic) | 6303451.00 | 104362 | 64106.10 | 564 | 34065.60 | 4034.21
+2022-12 | Northpass Processing (synthetic) | 6296404.00 | 98690 | 64412.21 | 533 | 34005.40 | 4029.70
+2023-01 | Northpass Processing (synthetic) | 6468083.00 | 102181 | 62158.28 | 501 | 31713.30 | 3816.17
+2023-02 | Northpass Processing (synthetic) | 6525709.00 | 104579 | 62516.29 | 512 | 31948.80 | 3850.17
+2023-03 | Northpass Processing (synthetic) | 6716658.00 | 105608 | 64748.58 | 517 | 32881.20 | 3962.83
+2023-04 | Northpass Processing (synthetic) | 6770018.00 | 111349 | 64856.77 | 546 | 33196.80 | 3994.31
+2023-05 | Northpass Processing (synthetic) | 6926439.00 | 108395 | 66701.61 | 531 | 33930.90 | 4086.60
+2023-06 | Northpass Processing (synthetic) | 7023299.00 | 111128 | 67142.74 | 545 | 34444.00 | 4143.75
+2023-07 | Northpass Processing (synthetic) | 7107299.00 | 117476 | 68443.29 | 576 | 34848.00 | 4193.31
+2023-08 | Northpass Processing (synthetic) | 7249843.00 | 113634 | 69598.49 | 557 | 35536.60 | 4277.41
+2023-09 | Northpass Processing (synthetic) | 7314587.00 | 117977 | 70073.74 | 578 | 35836.00 | 4315.61
+2023-10 | Northpass Processing (synthetic) | 7491133.00 | 118343 | 71615.23 | 580 | 36714.00 | 4419.77
+2023-11 | Northpass Processing (synthetic) | 7527852.00 | 122205 | 72267.38 | 599 | 36898.40 | 4441.43
+2023-12 | Northpass Processing (synthetic) | 7694372.00 | 120225 | 73865.97 | 589 | 37696.00 | 4539.68
+2024-01 | Northpass Processing (synthetic) | 7872095.00 | 130766 | 71557.34 | 602 | 36240.40 | 4880.70
+2024-02 | Northpass Processing (synthetic) | 7934634.00 | 130504 | 72363.86 | 600 | 36480.00 | 4919.47
+2024-03 | Northpass Processing (synthetic) | 8093803.00 | 134003 | 73572.67 | 616 | 37206.40 | 5018.16
+2024-04 | Northpass Processing (synthetic) | 8141480.00 | 127609 | 74331.71 | 587 | 37450.60 | 5047.72
+2024-05 | Northpass Processing (synthetic) | 8321623.00 | 133788 | 76059.63 | 615 | 38253.00 | 5159.41
+2024-06 | Northpass Processing (synthetic) | 8429430.00 | 136399 | 76370.64 | 627 | 38748.60 | 5226.25
+2024-07 | Northpass Processing (synthetic) | 8658697.00 | 138984 | 78967.32 | 639 | 39809.70 | 5368.39
+2024-08 | Northpass Processing (synthetic) | 8797236.00 | 137888 | 80406.74 | 634 | 40449.20 | 5454.29
+2024-09 | Northpass Processing (synthetic) | 8929134.00 | 142638 | 81255.12 | 656 | 41065.60 | 5536.06
 2024-10 | Northpass Processing (synthetic) | 8919000.00 | 145024 | 75543.93 | 609 | 37453.50 | 5529.78
 2024-11 | Northpass Processing (synthetic) | 9161208.00 | 146814 | 78145.10 | 617 | 38500.80 | 5679.95
 2024-12 | Northpass Processing (synthetic) | 9494360.00 | 156157 | 80797.00 | 656 | 39884.80 | 5886.50
@@ -150,39 +195,7 @@ month | processor | gross_volume | transactions | net_revenue | chargeback_count
 2025-10 | Northpass Processing (synthetic) | 11709032.00 | 184685 | 99760.95 | 1071 | 67901.40 | 7727.96
 2025-11 | Northpass Processing (synthetic) | 11942745.00 | 196750 | 101393.91 | 1141 | 69258.70 | 7882.21
 2025-12 | Northpass Processing (synthetic) | 12290924.00 | 196027 | 103981.22 | 1137 | 71289.90 | 8112.01
-2026-01 | Northpass Processing (synthetic) | 12411636.00 | 196698 | 105126.56 | 1298 | 81903.80 | 7571.10
-2026-02 | Northpass Processing (synthetic) | 12722937.00 | 208915 | 108653.88 | 1379 | 83981.10 | 7760.99
-2026-03 | Northpass Processing (synthetic) | 12989813.00 | 205861 | 110023.72 | 1359 | 85752.90 | 7923.79
-2026-04 | Northpass Processing (synthetic) | 13328851.00 | 213603 | 112895.37 | 1666 | 103958.40 | 8930.33
-2026-05 | Northpass Processing (synthetic) | 13690128.00 | 227789 | 116229.19 | 1777 | 106797.70 | 9172.39
-2026-06 | Northpass Processing (synthetic) | 13852232.00 | 230486 | 117189.88 | 1798 | 108059.80 | 9281.00
-2026-07 | Northpass Processing (synthetic) | 14299120.00 | 231004 | 121685.51 | 2171 | 134384.90 | 9008.45
-2026-08 | Northpass Processing (synthetic) | 14439382.00 | 236324 | 122157.17 | 2221 | 135703.10 | 9096.81
-2026-09 | Northpass Processing (synthetic) | 14727356.00 | 235638 | 124887.98 | 2215 | 138437.50 | 9278.23
-2024-10 | Keystone Acquiring (synthetic) | 5005000.00 | 80337 | 42442.40 | 337 | 20995.10 | 3103.10
-2024-11 | Keystone Acquiring (synthetic) | 5130000.00 | 81949 | 43810.20 | 344 | 21534.40 | 3180.60
-2024-12 | Keystone Acquiring (synthetic) | 5231800.00 | 83843 | 44417.98 | 352 | 21964.80 | 3243.72
-2025-01 | Keystone Acquiring (synthetic) | 5357026.00 | 86126 | 45427.58 | 388 | 24133.60 | 3107.08
-2025-02 | Keystone Acquiring (synthetic) | 5512931.00 | 91577 | 46804.78 | 412 | 24802.40 | 3197.50
-2025-03 | Keystone Acquiring (synthetic) | 5707429.00 | 89318 | 48399.00 | 402 | 25687.80 | 3310.31
-2025-04 | Keystone Acquiring (synthetic) | 5780000.00 | 91746 | 49014.40 | 450 | 28350.00 | 3757.00
-2025-05 | Keystone Acquiring (synthetic) | 6008074.00 | 94318 | 50888.39 | 462 | 29429.40 | 3905.25
-2025-06 | Keystone Acquiring (synthetic) | 6145864.00 | 101417 | 52116.93 | 497 | 30118.20 | 3994.81
-2025-07 | Keystone Acquiring (synthetic) | 6318256.00 | 102072 | 53957.91 | 541 | 33487.90 | 3790.95
-2025-08 | Keystone Acquiring (synthetic) | 6398509.00 | 104210 | 54451.31 | 552 | 33892.80 | 3839.11
-2025-09 | Keystone Acquiring (synthetic) | 6651076.00 | 108148 | 56733.68 | 573 | 35239.50 | 3990.65
-2025-10 | Keystone Acquiring (synthetic) | 6817200.00 | 108382 | 58082.54 | 629 | 39564.10 | 4499.35
-2025-11 | Keystone Acquiring (synthetic) | 7008408.00 | 112675 | 59291.13 | 654 | 40678.80 | 4625.55
-2025-12 | Keystone Acquiring (synthetic) | 7226437.00 | 116933 | 61424.71 | 678 | 41900.40 | 4769.45
-2026-01 | Keystone Acquiring (synthetic) | 7326146.00 | 116844 | 62492.03 | 771 | 48341.70 | 4468.95
-2026-02 | Keystone Acquiring (synthetic) | 7509087.00 | 118253 | 63752.15 | 780 | 49530.00 | 4580.54
-2026-03 | Keystone Acquiring (synthetic) | 7758470.00 | 127817 | 66024.58 | 844 | 51230.80 | 4732.67
-2026-04 | Keystone Acquiring (synthetic) | 7880826.00 | 124697 | 66908.21 | 973 | 61493.60 | 5280.15
-2026-05 | Keystone Acquiring (synthetic) | 8085728.00 | 132771 | 68971.26 | 1036 | 63092.40 | 5417.44
-2026-06 | Keystone Acquiring (synthetic) | 8321020.00 | 135743 | 70978.30 | 1059 | 64916.70 | 5575.08
-2026-07 | Keystone Acquiring (synthetic) | 8520223.00 | 133546 | 72592.30 | 1255 | 80069.00 | 5367.74
-2026-08 | Keystone Acquiring (synthetic) | 8785721.00 | 139456 | 74942.20 | 1311 | 82593.00 | 5535.00
-2026-09 | Keystone Acquiring (synthetic) | 9059266.00 | 146353 | 77275.54 | 1376 | 85174.40 | 5707.34
+… 78 more rows in processor-volume.csv
 ---page---
 licence-register.csv — Licence and sponsor-bank register as the company keeps it
 
@@ -195,16 +208,16 @@ CFL-CA-60778 | lending | California | California Department of Financial Protect
 SML-OH-70345 | lending | Ohio | Ohio Division of Financial Institutions | active | 2023-03-01 | 2028-02-28
 SBA-2023-0412 | sponsor_bank | United States | Lakeshore Commercial Bank (synthetic) | active | 2023-04-01 | 2028-03-31
 ---page---
-pnl.csv — Profit and loss by fiscal year, FY2023 to FY2025
+pnl.csv — Profit and loss by fiscal year, FY2021 to FY2025
 
-Line | FY2023 | FY2024 | FY2025
-Payment processing revenue | 791654.01 | 1203314.09 | 1744805.43
-Platform fee revenue | 446028.00 | 582714.00 | 719400.00
-Merchant loan revenue | 696000.00 | 948000.00 | 1200000.00
-Cost of processing (processor platform fees) | 142497.72 | 210579.97 | 317554.59
-Fraud losses | 11602.09 | 27340.28 | 62291.49
-Credit losses on merchant loans | 58010.46 | 76552.79 | 113590.37
-Staff costs | 618778.24 | 820208.43 | 1062619.57
-Technology | 193368.20 | 273402.81 | 329778.49
-Sales and marketing | 232041.84 | 355423.65 | 439704.65
-General and administrative | 135357.74 | 177711.83 | 219852.33
+Line | FY2021 | FY2022 | FY2023 | FY2024 | FY2025
+Payment processing revenue | 963806.05 | 1088478.36 | 1251886.71 | 1425034.75 | 1744805.43
+Platform fee revenue | 273372.00 | 352506.00 | 446028.00 | 582714.00 | 719400.00
+Merchant loan revenue | 360000.00 | 504000.00 | 696000.00 | 948000.00 | 1200000.00
+Cost of processing (processor platform fees) | 171557.48 | 197014.58 | 225339.61 | 249381.08 | 317554.59
+Fraud losses | 6388.71 | 9724.92 | 14363.49 | 29557.49 | 62291.49
+Credit losses on merchant loans | 46318.16 | 60294.52 | 71817.44 | 82760.97 | 113590.37
+Staff costs | 527068.76 | 622395.00 | 766052.71 | 886724.63 | 1062619.57
+Technology | 159717.81 | 194498.44 | 239391.47 | 295574.88 | 329778.49
+Sales and marketing | 191661.37 | 233398.12 | 287269.77 | 384247.34 | 439704.65
+General and administrative | 119788.35 | 136148.91 | 167574.03 | 192123.67 | 219852.33

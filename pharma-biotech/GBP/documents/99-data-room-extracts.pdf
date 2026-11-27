@@ -66,9 +66,9 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 17 0 R >>
 endobj
 17 0 obj
-<< /Length 632 >>
+<< /Length 836 >>
 stream
-BT /F1 11 Tf 72 740 Td 14 TL (pnl.csv  Profit and loss by fiscal year, FY2023 to FY2025) Tj T* () Tj T* (Line | FY2023 | FY2024 | FY2025) Tj T* (Royalty revenue | 4338996.98 | 4692171.16 | 5045345.33) Tj T* (Product supply revenue | 1377152.49 | 1489246.29 | 1601340.10) Tj T* (Licence fee revenue | 346231.83 | 374413.49 | 402595.15) Tj T* (Cost of product supply | 578404.05 | 625483.44 | 656549.44) Tj T* (Research and development | 17380000.00 | 17617000.00 | 17459000.00) Tj T* (Royalties paid to licensors | 127310.01 | 131116.62 | 140985.61) Tj T* (General and administrative | 1151852.45 | 1180049.57 | 1198377.70) Tj T* ET
+BT /F1 11 Tf 72 740 Td 14 TL (pnl.csv  Profit and loss by fiscal year, FY2021 to FY2025) Tj T* () Tj T* (Line | FY2021 | FY2022 | FY2023 | FY2024 | FY2025) Tj T* (Royalty revenue | 4702362.60 | 4785077.49 | 4884737.18 | 4936281.68 | 5045345.33) Tj T* (Product supply revenue | 1249143.39 | 1309861.79 | 1396251.73 | 1493556.85 | 1601340.10) Tj T* (Licence fee revenue | 312246.89 | 329009.71 | 351817.61 | 368942.59 | 402595.15) Tj T* (Cost of product supply | 537131.66 | 563240.57 | 586425.73 | 627293.88 | 656549.44) Tj T* (Research and development | 17538000.00 | 17301000.00 | 17380000.00 | 17617000.00 |) Tj T* (17459000.00) Tj T* (Royalties paid to licensors | 137802.56 | 134902.93 | 139288.94 | 135975.62 | 140985.61) Tj T* (General and administrative | 1315388.10 | 1284789.80 | 1260233.24 | 1223780.60 | 1198377.70) Tj T* ET
 endstream
 endobj
 xref
@@ -94,5 +94,5 @@ xref
 trailer
 << /Size 18 /Root 1 0 R >>
 startxref
-4409
+4613
 %%EOF

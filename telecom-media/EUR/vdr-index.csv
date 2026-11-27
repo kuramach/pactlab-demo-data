@@ -1,6 +1,13 @@
 doc_id,title,file,data_class,as_of
 TM-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
 TM-002,Billed subscribers and ARPU by region and plan,subscribers-by-month.csv,Financial,2026-09-30
-TM-003,Management KPI pack with reported subscribers and churn,documents/01-kpi-pack-2026-09.pdf,Business,2026-09-30
-TM-004,Wholesale network access agreement,documents/02-wholesale-network-agreement.pdf,Business,2026-09-30
-TM-005,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+TM-003,"Subscriber movements by month, region and plan from the billing system: opening, gross additions, disconnects, closing and service revenue",subscriber-movements.csv,Financial,2026-09-30
+TM-004,"Advertising and affiliate revenue by month and counterparty, from the ad-sales and affiliate statements",revenue-by-counterparty.csv,Financial,2026-09-30
+TM-005,"Rights and carriage register: content, affiliate, carriage and sports-rights agreements with their annual value and dates",rights-register.csv,Financial,2026-09-30
+TM-006,"Profit and loss by fiscal year, FY2021 to FY2025",pnl.csv,Financial,2026-09-30
+TM-007,"Capital expenditure by fiscal year and category, FY2021 to FY2025",capex-by-year.csv,Financial,2026-09-30
+TM-008,Management KPI pack with reported subscribers and churn,documents/01-kpi-pack-2026-09.pdf,Business,2026-09-30
+TM-009,Wholesale network access agreement,documents/02-wholesale-network-agreement.pdf,Business,2026-09-30
+TM-010,"Investor presentation with the subscriber, churn and ARPU claims and the expected closing date",documents/03-investor-presentation.pdf,Business,2026-09-30
+TM-011,"Affiliation agreement with Rivermark Cable, the largest distributor of the sports channel",documents/04-affiliation-agreement-rivermark.pdf,Business,2026-09-30
+TM-012,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

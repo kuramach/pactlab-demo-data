@@ -1,7 +1,7 @@
 # Calvera Pharmaceuticals B.V. — Pharma and biotech (EUR)
 
 **Fictional target.** Calvera Pharmaceuticals B.V. is a specialty-pharma company earning royalties and supply revenue on two marketed products, with two development programmes led by PX-410.
-Based in Utrecht, the Netherlands; reports in EUR. Data runs October 2024 to September 2026.
+Based in Utrecht, the Netherlands; reports in EUR. Data runs January 2021 to September 2026.
 
 > Synthetic demo data. Every company, person, address, account and figure here is invented.
 
@@ -49,7 +49,7 @@ Based in Utrecht, the Netherlands; reports in EUR. Data runs October 2024 to Sep
 1. Open the **Sources** tab → **Upload billing export**.
 2. *1. Where is the export from?* → **Pactlab standard template**.
 3. *2. Choose the file* → `invoice-lines.csv` → **Upload and map columns**.
-4. The columns are matched for you. Click **Check every row**, then **Import 96 lines**.
+4. The columns are matched for you. Click **Check every row**, then **Import 276 lines**.
 
 **You should see:** a green message ending "Finances now include them." The **Finances** tab now shows the revenue ledger.
 
@@ -88,16 +88,16 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 
 Open the **Sources** tab, scroll to **Industry data** and click **Upload profit and loss (p&l)**.
 
-1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the three years across the columns (FY2023, FY2024, FY2025).
+1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the five years across the columns (FY2021 to FY2025).
 2. Say what each line is: the three lines ending in *revenue* are **Revenue**, `Cost of product supply` is **Cost of revenue**, and the rest are **Operating expenses**.
-3. **Check every row**, then **Import 21 rows**.
+3. **Check every row**, then **Import 35 rows**.
 
-**You should see:** the import succeed. The **Pipeline** tab shows R&D year by year, and the checks in the next step read every year.
+**You should see:** the import succeed. The **Pipeline** tab shows R&D year by year, **Finances** the five years side by side with revenue by product, and the checks in the next step read every year.
 
 ## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run pharma & biotech checks**.
-2. **You should see exactly these 12 findings** (running the checks again adds nothing):
+2. **You should see exactly these 13 findings** (running the checks again adds nothing):
 
    1. **Key patent expires earlier than the forecast assumes** — the forecast assumes exclusivity through 2031; `patent-schedule.csv` shows the Product A composition-of-matter patents expiring in 2028.
    2. **Open manufacturing observations at the supplier** — `documents/02-supplier-inspection-report.pdf` page 2 — three open observations.
@@ -109,8 +109,9 @@ Open the **Sources** tab, scroll to **Industry data** and click **Upload profit 
    8. **Milestone payment omitted from the seller's model: Brennick Biologics (synthetic)** — clause 7.1 of `documents/06-licence-agreement-brennick.pdf` — EUR 11,040,000 on the first Phase 2 dosing of PX-330, which the pipeline expects in 2027-Q3; `obligations-model.csv` has no such line.
    9. **Single-source manufacturing: Product A** — `documents/07-supply-agreement-halvorsen.pdf` — one manufacturer, no second source qualified.
    10. **Key-scientist concentration: S-01** — `rd-roster.csv` — S-01 leads both programmes and is an inventor on all 3 patent families; no retention agreement is on file.
-   11. **R&D spend flat while the timeline is brought forward, 2023–2025** — `pnl.csv` — R&D of EUR 20,240,000, EUR 20,516,000 and EUR 20,332,000 across FY2023–FY2025, while the investor presentation brings the PX-410 readout forward a year; FY2025 alone shows nothing.
-   12. **P&L trend, 2023–2025** — every imported year side by side: revenue, growth, margins and the R&D, supply and royalties-paid ratios.
+   11. **R&D spend flat while the timeline is brought forward, 2021–2025** — `pnl.csv` — R&D of EUR 20,424,000, EUR 20,148,000, EUR 20,240,000, EUR 20,516,000, EUR 20,332,000 across FY2021–FY2025, while the investor presentation brings the PX-410 readout forward a year; FY2025 alone shows nothing.
+   12. **Product B revenue falling every year, FY2021–FY2025** — `invoice-lines.csv` — the Kingsway Health royalties on Product B by calendar year: FY2021 EUR 1,761,511, FY2022 EUR 1,636,193, FY2023 EUR 1,476,999, FY2024 EUR 1,277,619, FY2025 EUR 1,093,995. The last twelve months alone show it growing.
+   13. **P&L trend, 2021–2025** — every imported year side by side: revenue, growth, margins and the R&D, supply and royalties-paid ratios.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
@@ -215,13 +216,13 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 
 | File | What it is | Upload it? |
 |---|---|---|
-| `invoice-lines.csv` | 96 revenue lines, one per partner royalty and supply payment per month | **Yes** — billing export step |
+| `invoice-lines.csv` | 276 revenue lines, one per partner royalty and supply payment per month | **Yes** — billing export step |
 | `patent-schedule.csv` | Patent families, products and expiry dates (4 rows) | **Yes** — industry data step |
 | `pipeline.csv` | Development pipeline: each programme's claimed phase and next milestone (2 rows) | **Yes** — industry data step |
 | `trial-registry.csv` | Trial-registry records for the pipeline programmes, as filed (2 rows) | **Yes** — industry data step |
 | `obligations-model.csv` | The seller's model of milestones, royalties and licence fees owed (3 rows) | **Yes** — industry data step |
 | `rd-roster.csv` | R&D roster by pseudonymous reference: programmes led and patent families as inventor (4 rows) | **Yes** — industry data step |
-| `pnl.csv` | Profit and loss by fiscal year, FY2023 to FY2025 (7 lines) | **Yes** — P&L step |
+| `pnl.csv` | Profit and loss by fiscal year, FY2021 to FY2025 (7 lines) | **Yes** — P&L step |
 | `documents/01-revenue-forecast.pdf` | Management revenue forecast and its exclusivity assumption | **Yes** — documents step |
 | `documents/02-supplier-inspection-report.pdf` | Contract manufacturer inspection summary | **Yes** — documents step |
 | `documents/03-investor-presentation.pdf` | Investor presentation: pipeline claims, the accelerated readout, the closing date and the hold | **Yes** — documents step |
@@ -236,6 +237,7 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 
 ## Notes
 
+- `invoice-lines.csv` runs January 2021 to September 2026, so each of FY2021–FY2025 is a complete year (five years of history, read side by side on **Finances**); the P&L's revenue lines tie to it year by year.
 - The P&L (`pnl.csv`) imports through Sources like any extract; the multi-year checks read every year it holds. A single year still imports: the trend then reports that year alone.
 - Pactlab checks documents, dates and consistency only: it never opines on efficacy, approvability or trial design.
 

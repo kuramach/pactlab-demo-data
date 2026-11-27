@@ -61,70 +61,70 @@ LS-024 | LR-024 | 217 | 0.1875 |  | 2024-01-01 | 2027-09-30 | no
 LS-025 | LR-025 | 217 | 0.1875 |  | 2023-01-01 | 2027-12-31 | no
 LS-026 | LR-026 | 215 | 0.1875 |  | 2024-01-01 | 2028-03-31 | no
 ---page---
-production-history.csv — Production history: plant generation and revenue by contract type, and well volumes and gross revenue
+production-history.csv — Production history, January 2021 to September 2026: plant generation and revenue by contract type, and well volumes and gross revenue
 
 record_id | asset_id | period_end | product | volume | gross_revenue | sales_type
-PR-PL001-2024-10-C | PL-001 | 2024-10-31 | power | 185712 | 7175911.68 | contracted
-PR-PL001-2024-10-M | PL-001 | 2024-10-31 | power | 46428 | 2349256.80 | merchant
-PR-PL001-2024-11-C | PL-001 | 2024-11-30 | power | 168192 | 6498938.88 | contracted
-PR-PL001-2024-11-M | PL-001 | 2024-11-30 | power | 42048 | 1624734.72 | merchant
-PR-PL001-2024-12-C | PL-001 | 2024-12-31 | power | 175200 | 6769728.00 | contracted
-PR-PL001-2024-12-M | PL-001 | 2024-12-31 | power | 43800 | 1853616.00 | merchant
-PR-PL001-2025-01-C | PL-001 | 2025-01-31 | power | 185712 | 7175911.68 | contracted
-PR-PL001-2025-01-M | PL-001 | 2025-01-31 | power | 46428 | 1665836.64 | merchant
-PR-PL001-2025-02-C | PL-001 | 2025-02-28 | power | 164688 | 6363544.32 | contracted
-PR-PL001-2025-02-M | PL-001 | 2025-02-28 | power | 41172 | 1477251.36 | merchant
-PR-PL001-2025-03-C | PL-001 | 2025-03-31 | power | 168192 | 6498938.88 | contracted
-PR-PL001-2025-03-M | PL-001 | 2025-03-31 | power | 42048 | 2088944.64 | merchant
-PR-PL001-2025-04-C | PL-001 | 2025-04-30 | power | 178704 | 6905122.56 | contracted
-PR-PL001-2025-04-M | PL-001 | 2025-04-30 | power | 44676 | 1438567.20 | merchant
-PR-PL001-2025-05-C | PL-001 | 2025-05-31 | power | 182208 | 7040517.12 | contracted
-PR-PL001-2025-05-M | PL-001 | 2025-05-31 | power | 45552 | 1341050.88 | merchant
-PR-PL001-2025-06-C | PL-001 | 2025-06-30 | power | 175200 | 6769728.00 | contracted
-PR-PL001-2025-06-M | PL-001 | 2025-06-30 | power | 43800 | 1490952.00 | merchant
-PR-PL001-2025-07-C | PL-001 | 2025-07-31 | power | 175200 | 6769728.00 | contracted
-PR-PL001-2025-07-M | PL-001 | 2025-07-31 | power | 43800 | 1692432.00 | merchant
-PR-PL001-2025-08-C | PL-001 | 2025-08-31 | power | 175200 | 6769728.00 | contracted
-PR-PL001-2025-08-M | PL-001 | 2025-08-31 | power | 43800 | 1893912.00 | merchant
-PR-PL001-2025-09-C | PL-001 | 2025-09-30 | power | 175200 | 6769728.00 | contracted
-PR-PL001-2025-09-M | PL-001 | 2025-09-30 | power | 43800 | 1571544.00 | merchant
-PR-PL001-2025-10-C | PL-001 | 2025-10-31 | power | 171696 | 6634333.44 | contracted
-PR-PL001-2025-10-M | PL-001 | 2025-10-31 | power | 42924 | 1579603.20 | merchant
-PR-PL001-2025-11-C | PL-001 | 2025-11-30 | power | 164688 | 6363544.32 | contracted
-PR-PL001-2025-11-M | PL-001 | 2025-11-30 | power | 41172 | 1212103.68 | merchant
-PR-PL001-2025-12-C | PL-001 | 2025-12-31 | power | 182208 | 7040517.12 | contracted
-PR-PL001-2025-12-M | PL-001 | 2025-12-31 | power | 45552 | 1550590.08 | merchant
-PR-PL001-2026-01-C | PL-001 | 2026-01-31 | power | 182208 | 7040517.12 | contracted
-PR-PL001-2026-01-M | PL-001 | 2026-01-31 | power | 45552 | 1718221.44 | merchant
-PR-PL001-2026-02-C | PL-001 | 2026-02-28 | power | 185712 | 7175911.68 | contracted
-PR-PL001-2026-02-M | PL-001 | 2026-02-28 | power | 46428 | 1793977.92 | merchant
-PR-PL001-2026-03-C | PL-001 | 2026-03-31 | power | 168192 | 6498938.88 | contracted
-PR-PL001-2026-03-M | PL-001 | 2026-03-31 | power | 42048 | 1315261.44 | merchant
-PR-PL001-2026-04-C | PL-001 | 2026-04-30 | power | 168192 | 6498938.88 | contracted
-PR-PL001-2026-04-M | PL-001 | 2026-04-30 | power | 42048 | 1276577.28 | merchant
-PR-PL001-2026-05-C | PL-001 | 2026-05-31 | power | 171696 | 6634333.44 | contracted
-PR-PL001-2026-05-M | PL-001 | 2026-05-31 | power | 42924 | 1421642.88 | merchant
-PR-PL001-2026-06-C | PL-001 | 2026-06-30 | power | 178704 | 6905122.56 | contracted
-PR-PL001-2026-06-M | PL-001 | 2026-06-30 | power | 44676 | 2013994.08 | merchant
-PR-PL001-2026-07-C | PL-001 | 2026-07-31 | power | 171696 | 6634333.44 | contracted
-PR-PL001-2026-07-M | PL-001 | 2026-07-31 | power | 42924 | 2132464.32 | merchant
-PR-PL001-2026-08-C | PL-001 | 2026-08-31 | power | 171696 | 6634333.44 | contracted
-PR-PL001-2026-08-M | PL-001 | 2026-08-31 | power | 42924 | 1342662.72 | merchant
-PR-PL001-2026-09-C | PL-001 | 2026-09-30 | power | 178704 | 6905122.56 | contracted
-PR-PL001-2026-09-M | PL-001 | 2026-09-30 | power | 44676 | 1808484.48 | merchant
-PR-OG-001-2024-10-O | OG-001 | 2024-10-31 | oil | 1077 | 69358.80 | 
-PR-OG-001-2024-10-G | OG-001 | 2024-10-31 | gas | 11657 | 30028.43 | 
-PR-OG-001-2024-11-O | OG-001 | 2024-11-30 | oil | 1068 | 68779.20 | 
-PR-OG-001-2024-11-G | OG-001 | 2024-11-30 | gas | 11555 | 29765.68 | 
-PR-OG-001-2024-12-O | OG-001 | 2024-12-31 | oil | 1058 | 68135.20 | 
-PR-OG-001-2024-12-G | OG-001 | 2024-12-31 | gas | 11454 | 29505.50 | 
-PR-OG-001-2025-01-O | OG-001 | 2025-01-31 | oil | 1049 | 67555.60 | 
-PR-OG-001-2025-01-G | OG-001 | 2025-01-31 | gas | 11354 | 29247.90 | 
-PR-OG-001-2025-02-O | OG-001 | 2025-02-28 | oil | 1040 | 66976.00 | 
-PR-OG-001-2025-02-G | OG-001 | 2025-02-28 | gas | 11255 | 28992.88 | 
-PR-OG-001-2025-03-O | OG-001 | 2025-03-31 | oil | 1031 | 66396.40 | 
-PR-OG-001-2025-03-G | OG-001 | 2025-03-31 | gas | 11156 | 28737.86 | 
-… 948 more rows in production-history.csv
+PR-PL001-2021-01-C | PL-001 | 2021-01-31 | power | 224256 | 8665251.84 | contracted
+PR-PL001-2021-01-M | PL-001 | 2021-01-31 | power | 56064 | 2424207.36 | merchant
+PR-PL001-2021-02-C | PL-001 | 2021-02-28 | power | 224256 | 8665251.84 | contracted
+PR-PL001-2021-02-M | PL-001 | 2021-02-28 | power | 56064 | 2836838.40 | merchant
+PR-PL001-2021-03-C | PL-001 | 2021-03-31 | power | 213744 | 8259068.16 | contracted
+PR-PL001-2021-03-M | PL-001 | 2021-03-31 | power | 53436 | 2163089.28 | merchant
+PR-PL001-2021-04-C | PL-001 | 2021-04-30 | power | 213744 | 8259068.16 | contracted
+PR-PL001-2021-04-M | PL-001 | 2021-04-30 | power | 53436 | 2212250.40 | merchant
+PR-PL001-2021-05-C | PL-001 | 2021-05-31 | power | 217248 | 8394462.72 | contracted
+PR-PL001-2021-05-M | PL-001 | 2021-05-31 | power | 54312 | 2498352.00 | merchant
+PR-PL001-2021-06-C | PL-001 | 2021-06-30 | power | 210240 | 8123673.60 | contracted
+PR-PL001-2021-06-M | PL-001 | 2021-06-30 | power | 52560 | 2272694.40 | merchant
+PR-PL001-2021-07-C | PL-001 | 2021-07-31 | power | 224256 | 8665251.84 | contracted
+PR-PL001-2021-07-M | PL-001 | 2021-07-31 | power | 56064 | 1753681.92 | merchant
+PR-PL001-2021-08-C | PL-001 | 2021-08-31 | power | 220752 | 8529857.28 | contracted
+PR-PL001-2021-08-M | PL-001 | 2021-08-31 | power | 55188 | 2437102.08 | merchant
+PR-PL001-2021-09-C | PL-001 | 2021-09-30 | power | 210240 | 8123673.60 | contracted
+PR-PL001-2021-09-M | PL-001 | 2021-09-30 | power | 52560 | 2175984.00 | merchant
+PR-PL001-2021-10-C | PL-001 | 2021-10-31 | power | 217248 | 8394462.72 | contracted
+PR-PL001-2021-10-M | PL-001 | 2021-10-31 | power | 54312 | 1898747.52 | merchant
+PR-PL001-2021-11-C | PL-001 | 2021-11-30 | power | 217248 | 8394462.72 | contracted
+PR-PL001-2021-11-M | PL-001 | 2021-11-30 | power | 54312 | 2398417.92 | merchant
+PR-PL001-2021-12-C | PL-001 | 2021-12-31 | power | 217248 | 8394462.72 | contracted
+PR-PL001-2021-12-M | PL-001 | 2021-12-31 | power | 54312 | 2348450.88 | merchant
+PR-PL001-2022-01-C | PL-001 | 2022-01-31 | power | 206736 | 7988279.04 | contracted
+PR-PL001-2022-01-M | PL-001 | 2022-01-31 | power | 51684 | 1949520.48 | merchant
+PR-PL001-2022-02-C | PL-001 | 2022-02-28 | power | 210240 | 8123673.60 | contracted
+PR-PL001-2022-02-M | PL-001 | 2022-02-28 | power | 52560 | 1692432.00 | merchant
+PR-PL001-2022-03-C | PL-001 | 2022-03-31 | power | 213744 | 8259068.16 | contracted
+PR-PL001-2022-03-M | PL-001 | 2022-03-31 | power | 53436 | 1622316.96 | merchant
+PR-PL001-2022-04-C | PL-001 | 2022-04-30 | power | 206736 | 7988279.04 | contracted
+PR-PL001-2022-04-M | PL-001 | 2022-04-30 | power | 51684 | 2567661.12 | merchant
+PR-PL001-2022-05-C | PL-001 | 2022-05-31 | power | 206736 | 7988279.04 | contracted
+PR-PL001-2022-05-M | PL-001 | 2022-05-31 | power | 51684 | 2472562.56 | merchant
+PR-PL001-2022-06-C | PL-001 | 2022-06-30 | power | 206736 | 7988279.04 | contracted
+PR-PL001-2022-06-M | PL-001 | 2022-06-30 | power | 51684 | 2615210.40 | merchant
+PR-PL001-2022-07-C | PL-001 | 2022-07-31 | power | 210240 | 8123673.60 | contracted
+PR-PL001-2022-07-M | PL-001 | 2022-07-31 | power | 52560 | 2321049.60 | merchant
+PR-PL001-2022-08-C | PL-001 | 2022-08-31 | power | 203232 | 7852884.48 | contracted
+PR-PL001-2022-08-M | PL-001 | 2022-08-31 | power | 50808 | 1402300.80 | merchant
+PR-PL001-2022-09-C | PL-001 | 2022-09-30 | power | 210240 | 8123673.60 | contracted
+PR-PL001-2022-09-M | PL-001 | 2022-09-30 | power | 52560 | 2611180.80 | merchant
+PR-PL001-2022-10-C | PL-001 | 2022-10-31 | power | 206736 | 7988279.04 | contracted
+PR-PL001-2022-10-M | PL-001 | 2022-10-31 | power | 51684 | 2425013.28 | merchant
+PR-PL001-2022-11-C | PL-001 | 2022-11-30 | power | 206736 | 7988279.04 | contracted
+PR-PL001-2022-11-M | PL-001 | 2022-11-30 | power | 51684 | 2377464.00 | merchant
+PR-PL001-2022-12-C | PL-001 | 2022-12-31 | power | 210240 | 8123673.60 | contracted
+PR-PL001-2022-12-M | PL-001 | 2022-12-31 | power | 52560 | 2321049.60 | merchant
+PR-PL001-2023-01-C | PL-001 | 2023-01-31 | power | 189216 | 7311306.24 | contracted
+PR-PL001-2023-01-M | PL-001 | 2023-01-31 | power | 47304 | 1958385.60 | merchant
+PR-PL001-2023-02-C | PL-001 | 2023-02-28 | power | 203232 | 7852884.48 | contracted
+PR-PL001-2023-02-M | PL-001 | 2023-02-28 | power | 50808 | 2570884.80 | merchant
+PR-PL001-2023-03-C | PL-001 | 2023-03-31 | power | 189216 | 7311306.24 | contracted
+PR-PL001-2023-03-M | PL-001 | 2023-03-31 | power | 47304 | 2393582.40 | merchant
+PR-PL001-2023-04-C | PL-001 | 2023-04-30 | power | 189216 | 7311306.24 | contracted
+PR-PL001-2023-04-M | PL-001 | 2023-04-30 | power | 47304 | 1871346.24 | merchant
+PR-PL001-2023-05-C | PL-001 | 2023-05-31 | power | 196224 | 7582095.36 | contracted
+PR-PL001-2023-05-M | PL-001 | 2023-05-31 | power | 49056 | 1579603.20 | merchant
+PR-PL001-2023-06-C | PL-001 | 2023-06-30 | power | 203232 | 7852884.48 | contracted
+PR-PL001-2023-06-M | PL-001 | 2023-06-30 | power | 50808 | 2243681.28 | merchant
+… 2838 more rows in production-history.csv
 ---page---
 liability-schedule.csv — The seller's liability schedule: environmental and retirement obligations as booked
 

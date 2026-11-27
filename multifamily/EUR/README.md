@@ -63,7 +63,7 @@ Open the **Sources** tab and scroll to **Industry data**. Upload these files one
 | 2 | **Upload t-12 operating statement** | `t12.csv` | **Upload and map columns** → **Check every row** | **Import 12 rows** |
 | 3 | **Upload delinquency report** | `delinquency.csv` | **Upload and map columns** → **Check every row** | **Import 9 rows** |
 | 4 | **Upload unit inspections** | `unit-inspections.csv` | **Upload and map columns** → **Check every row** | **Import 96 rows** |
-| 5 | **Upload occupancy and rent history** | `occupancy-history.csv` | **Upload and map columns** → **Check every row** | **Import 60 rows** |
+| 5 | **Upload occupancy and rent history** | `occupancy-history.csv` | **Upload and map columns** → **Check every row** | **Import 240 rows** |
 | 6 | **Upload rent roll snapshots** | `rent-roll-history.csv` | **Upload and map columns** → **Check every row** | **Import 768 rows** |
 
 **You should see** after each import: "… imported … Industry checks ran on them". Some findings may already appear as drafts; that is expected.
@@ -83,16 +83,16 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 
 Open the **Sources** tab, scroll to **Industry data** and click **Upload profit and loss (p&l)**.
 
-1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the five years across the columns (FY2022 to FY2026).
+1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the twenty years across the columns (FY2007 to FY2026).
 2. Under **What each line is**, keep the two revenue lines as **Revenue** and every other line as **Operating expense** (the insurance refund is a credit, entered negative).
-3. **Check every row**, then **Import 50 rows**.
+3. **Check every row**, then **Import 200 rows**.
 
-**You should see:** on **Home → Property metrics**, a **History** strip under net operating income, occupancy and average rent, each with five points and "FY2022–FY2026 (5 of 5 years)"; on **Finances**, the five years side by side.
+**You should see:** on **Home → Property metrics**, a **History** strip under net operating income, occupancy and average rent, each with the last ten years and "FY2007–FY2026 (20 years)"; on **Finances**, every year side by side (the table scrolls), with the long-run figures beside the five-year ones.
 
 ## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run multifamily checks**.
-2. **You should see exactly these 9 findings** (running the checks again adds nothing):
+2. **You should see exactly these 10 findings** (running the checks again adds nothing):
 
    1. **Offering memorandum NOI above the T-12** — the memorandum states EUR 980,726; `t12.csv` sums to EUR 883,537 — the memorandum uses pro-forma rents.
    2. **Deferred maintenance above the capital plan** — `unit-inspections.csv` estimates EUR 230,000 of repairs against a EUR 132,480 capital plan — EUR 2,396 per door. Price as remediation.
@@ -103,6 +103,7 @@ Open the **Sources** tab, scroll to **Industry data** and click **Upload profit 
    7. **NOI jump in FY2026 above the history's trend** — planted: `pnl.csv` — NOI up 4.9% in FY2026 against an average of -1.7% a year before it, from deferred repairs and a one-off insurance refund of EUR 19,404; concessions rose too. The "dressed for sale" pattern.
    8. **P&L trend, 2022–2026** — `pnl.csv` — the five years side by side, a record for review.
    9. **Operating margin down across 2022–2026** — `pnl.csv` — NOI margin 58.0% in FY2022 to 54.6% in FY2026.
+   10. **The recent run is better than the long run: NOI margin, FY2022–FY2026 against FY2007–FY2026** — planted (T-185): `pnl.csv` — the NOI margin averaged 55.3% across FY2022–FY2026, against 46.4% across the twenty years. Ask whether the price assumes the recent run will last.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
@@ -211,9 +212,9 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 | `rent-roll.csv` | Rent roll at 30 September 2026 (96 rows) | **Yes** — industry data step |
 | `delinquency.csv` | Delinquent balances at 30 September 2026 (9 rows) | **Yes** — industry data step |
 | `unit-inspections.csv` | Unit-condition inspections with repair estimates (96 rows) | **Yes** — industry data step |
-| `operating-statements-monthly.csv` | Operating statements by month, October 2021 to September 2026 (one row per line per month) (600 rows) | **No** — it is already inside `documents/99-data-room-extracts.pdf`, which you upload |
-| `pnl.csv` | Operating statement by fiscal year (October to September), FY2022 to FY2026 (10 lines) | **Yes** — P&L step |
-| `occupancy-history.csv` | Occupancy and average in-place rent by month, October 2021 to September 2026 (60 rows) | **Yes** — industry data step |
+| `operating-statements-monthly.csv` | Operating statements by month, October 2006 to September 2026 (one row per line per month) (2400 rows) | **No** — it is already inside `documents/99-data-room-extracts.pdf`, which you upload |
+| `pnl.csv` | Operating statement by fiscal year (October to September), FY2007 to FY2026 (10 lines) | **Yes** — P&L step |
+| `occupancy-history.csv` | Occupancy and average in-place rent by month, October 2006 to September 2026 (240 rows) | **Yes** — industry data step |
 | `rent-roll-history.csv` | Rent-roll snapshots at each quarter end, December 2024 to September 2026 (768 rows) | **Yes** — industry data step |
 | `t12.csv` | Trailing-twelve-month operating statement (T-12) (12 rows) | **Yes** — industry data step |
 | `documents/01-offering-memorandum.pdf` | Offering memorandum with stated NOI and capital plan | **Yes** — documents step |
@@ -229,6 +230,8 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 - History (T-183): five fiscal years, October to September, FY2022 to FY2026; FY2026 is the T-12, so `t12.csv` equals the last twelve months of `operating-statements-monthly.csv` and of `pnl.csv`'s FY2026 column, and the September 2026 month of `occupancy-history.csv` matches `rent-roll.csv`.
 - Figures the history checks reproduce: NOI growth -0.1% a year and revenue growth 1.4% a year (FY2022–FY2026); average in-place rent FY2022 EUR 1,357.56, FY2023 EUR 1,401.00, FY2024 EUR 1,445.84, FY2025 EUR 1,492.10, FY2026 EUR 1,539.85 (3.2% a year); occupancy FY2022 95.3%, FY2023 95.1%, FY2024 93.1%, FY2025 91.2%, FY2026 88.5%; expense ratio 45.4% in FY2026; trailing three-year vacancy 9.1%.
 - `operating-statements-monthly.csv` is the same statement as a long file (one row per line per month); it imports through the same P&L import. `rent-roll-history.csv` holds quarterly rent-roll snapshots for the last two years.
+- Twenty years (T-185): `pnl.csv`, `operating-statements-monthly.csv` and `occupancy-history.csv` run back to FY2007 (October 2006). Planted: a 2009 downturn (occupancy and rents fall, the margin compresses) with a multi-year recovery, and a recent run above the long-run average. The five-year figures above are unchanged: the trend checks read the latest five years.
+- Long-run figures the history checks reproduce: revenue growth 2.2% a year over ten years (FY2017–FY2026) and 1.8% over the full history; NOI growth 4.2% and 3.0%; revenue's worst year FY2009, down 12.6%, recovered to the FY2008 peak in FY2014 (5 years); NOI's worst year FY2009, down 30.1%, recovered to the FY2008 peak in FY2014 (5 years); occupancy's worst year FY2009, down 6.8 points, recovered to the FY2007 peak in FY2018 (9 years); NOI margin through the cycle 46.4% (last five years 55.3%); occupancy through the cycle 91.1% (last five years 92.6%).
 
 ## Intake test — hand over the whole data room
 
