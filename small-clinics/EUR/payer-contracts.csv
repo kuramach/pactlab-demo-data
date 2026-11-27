@@ -1,0 +1,4 @@
+contract_id,payer,payer_class,effective_on,expires_on,auto_renews
+BP-2023,Insurer Bluepoint (synthetic),commercial,2023-01-01,2028-12-31,yes
+HG-2024,Insurer Harrowgate (synthetic),commercial,2024-07-01,2029-06-30,no
+GS-ENR-118,Government scheme (synthetic),medicaid,2019-04-01,,no
