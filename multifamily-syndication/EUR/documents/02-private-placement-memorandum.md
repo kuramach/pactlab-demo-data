@@ -5,9 +5,9 @@ Sponsor and manager: Ashgrove Residential B.V.. Property: Briarwood Commons, 204
 ---page---
 The offering
 
-Purchase price: EUR 34,400,000. Senior loan: EUR 22,400,000, interest-only at 5% a year.
-Equity raised from investors: EUR 13,200,000. Planned hold: 5 years.
-Occupancy at acquisition: 94.6%.
+Purchase price: EUR 30,600,000. Senior loan: EUR 19,900,000, interest-only at 5% a year.
+Equity raised from investors: EUR 11,800,000. Planned hold: 5 years.
+Occupancy at acquisition: 88.7%.
 NOI growth assumption: 3% per year. Exit cap rate assumption: 6%.
 ---page---
 Summary of fees paid to the Manager
@@ -25,6 +25,6 @@ Thereafter, 60% to the investors and 40% to the Manager.
 ---page---
 Projected returns (not a guarantee)
 
-Projected investor IRR: 14.4%.
+Projected investor IRR: 14.3%.
 Projected equity multiple: 1.53x.
-Projected average cash-on-cash return: 6.13%.
+Projected average cash-on-cash return: 6.08%.
