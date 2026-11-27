@@ -1,0 +1,181 @@
+month,payer,payer_class,claims,denied_claims,billed,collected,ar_balance
+2023-01,Insurer Bluepoint (synthetic),commercial,746,36,114817.35,87646.83,135424.04
+2023-01,Insurer Harrowgate (synthetic),commercial,426,20,65349.23,49884.91,77000.31
+2023-01,Government scheme (synthetic),medicaid,502,24,48180.44,36778.96,57569.29
+2023-01,Patients — self-pay (synthetic),self_pay,360,17,44897.13,34272.62,53167.65
+2023-02,Insurer Bluepoint (synthetic),commercial,749,36,115391.44,88085.07,135964.52
+2023-02,Insurer Harrowgate (synthetic),commercial,424,20,65675.97,50134.33,76918.66
+2023-02,Government scheme (synthetic),medicaid,502,24,48421.35,36962.86,57169.05
+2023-02,Patients — self-pay (synthetic),self_pay,361,17,45121.61,34443.98,53647.22
+2023-03,Insurer Bluepoint (synthetic),commercial,744,35,115968.39,88525.49,136644.33
+2023-03,Insurer Harrowgate (synthetic),commercial,429,20,66004.35,50385.00,79257.33
+2023-03,Government scheme (synthetic),medicaid,500,24,48663.45,37147.67,56820.98
+2023-03,Patients — self-pay (synthetic),self_pay,357,17,45347.22,34616.20,53700.66
+2023-04,Insurer Bluepoint (synthetic),commercial,747,36,116548.24,88968.12,136775.49
+2023-04,Insurer Harrowgate (synthetic),commercial,425,20,66334.38,50636.93,79182.30
+2023-04,Government scheme (synthetic),medicaid,505,25,48906.77,37333.41,58263.41
+2023-04,Patients — self-pay (synthetic),self_pay,359,17,45573.96,34789.28,54346.95
+2023-05,Insurer Bluepoint (synthetic),commercial,763,38,117130.98,89412.96,137875.49
+2023-05,Insurer Harrowgate (synthetic),commercial,430,21,66666.04,50890.11,80130.83
+2023-05,Government scheme (synthetic),medicaid,511,24,49151.30,37520.08,58554.72
+2023-05,Patients — self-pay (synthetic),self_pay,361,18,45801.83,34963.23,54076.29
+2023-06,Insurer Bluepoint (synthetic),commercial,766,38,117716.63,89860.02,139261.87
+2023-06,Insurer Harrowgate (synthetic),commercial,430,21,66999.37,51144.56,78944.65
+2023-06,Government scheme (synthetic),medicaid,511,25,49397.06,37707.68,58145.54
+2023-06,Patients — self-pay (synthetic),self_pay,363,17,46030.83,35138.04,54891.76
+2023-07,Insurer Bluepoint (synthetic),commercial,762,37,118305.21,90309.32,140658.67
+2023-07,Insurer Harrowgate (synthetic),commercial,438,21,67334.38,51400.29,80455.72
+2023-07,Government scheme (synthetic),medicaid,512,24,49644.05,37896.22,59670.84
+2023-07,Patients — self-pay (synthetic),self_pay,370,18,46260.99,35313.73,55111.45
+2023-08,Insurer Bluepoint (synthetic),commercial,766,36,118896.74,90760.87,141643.56
+2023-08,Insurer Harrowgate (synthetic),commercial,440,22,67671.05,51657.29,80216.91
+2023-08,Government scheme (synthetic),medicaid,511,24,49892.27,38085.70,59437.45
+2023-08,Patients — self-pay (synthetic),self_pay,368,18,46492.29,35490.30,54340.92
+2023-09,Insurer Bluepoint (synthetic),commercial,768,37,119491.23,91214.68,141361.27
+2023-09,Insurer Harrowgate (synthetic),commercial,442,22,68009.40,51915.57,80698.52
+2023-09,Government scheme (synthetic),medicaid,522,25,50141.73,38276.13,58784.58
+2023-09,Patients — self-pay (synthetic),self_pay,370,18,46724.75,35667.75,54612.63
+2023-10,Insurer Bluepoint (synthetic),commercial,772,37,120088.68,91670.75,140788.18
+2023-10,Insurer Harrowgate (synthetic),commercial,445,22,68349.45,52175.15,80130.74
+2023-10,Government scheme (synthetic),medicaid,525,26,50392.44,38467.51,58780.13
+2023-10,Patients — self-pay (synthetic),self_pay,376,18,46958.38,35846.09,55274.96
+2023-11,Insurer Bluepoint (synthetic),commercial,780,37,120689.12,92129.10,143778.85
+2023-11,Insurer Harrowgate (synthetic),commercial,449,22,68691.20,52436.03,80938.12
+2023-11,Government scheme (synthetic),medicaid,524,25,50644.40,38659.85,59373.90
+2023-11,Patients — self-pay (synthetic),self_pay,375,18,47193.17,36025.32,55271.90
+2023-12,Insurer Bluepoint (synthetic),commercial,787,39,121292.57,92589.75,144785.03
+2023-12,Insurer Harrowgate (synthetic),commercial,442,21,69034.66,52698.21,80852.30
+2023-12,Government scheme (synthetic),medicaid,525,25,50897.63,38853.15,60695.42
+2023-12,Patients — self-pay (synthetic),self_pay,379,18,47429.14,36205.45,56390.75
+2024-01,Insurer Bluepoint (synthetic),commercial,787,37,121899.04,93052.70,146375.08
+2024-01,Insurer Harrowgate (synthetic),commercial,445,21,69379.83,52961.70,81338.72
+2024-01,Government scheme (synthetic),medicaid,522,26,51152.11,39047.41,60998.89
+2024-01,Patients — self-pay (synthetic),self_pay,379,19,47666.29,36386.48,57124.29
+2024-02,Insurer Bluepoint (synthetic),commercial,794,39,122508.53,93517.96,144640.66
+2024-02,Insurer Harrowgate (synthetic),commercial,451,21,69726.73,53226.51,82240.84
+2024-02,Government scheme (synthetic),medicaid,532,26,51407.87,39242.65,61669.15
+2024-02,Patients — self-pay (synthetic),self_pay,379,19,47904.62,36568.41,56161.86
+2024-03,Insurer Bluepoint (synthetic),commercial,789,38,123121.07,93985.55,147988.29
+2024-03,Insurer Harrowgate (synthetic),commercial,452,22,70075.36,53492.64,84228.74
+2024-03,Government scheme (synthetic),medicaid,533,26,51664.91,39438.86,61304.49
+2024-03,Patients — self-pay (synthetic),self_pay,379,19,48144.14,36751.25,57411.89
+2024-04,Insurer Bluepoint (synthetic),commercial,796,38,123736.68,94455.48,147116.40
+2024-04,Insurer Harrowgate (synthetic),commercial,459,22,70425.73,53760.10,82147.91
+2024-04,Government scheme (synthetic),medicaid,537,26,51923.24,39636.06,62041.44
+2024-04,Patients — self-pay (synthetic),self_pay,382,19,48384.86,36935.01,56667.58
+2024-05,Insurer Bluepoint (synthetic),commercial,806,38,124355.37,94927.76,148146.52
+2024-05,Insurer Harrowgate (synthetic),commercial,453,22,70777.86,54028.90,84570.23
+2024-05,Government scheme (synthetic),medicaid,543,27,52182.85,39834.24,61239.32
+2024-05,Patients — self-pay (synthetic),self_pay,383,19,48626.78,37119.68,58448.11
+2024-06,Insurer Bluepoint (synthetic),commercial,817,39,124977.13,95402.39,148591.23
+2024-06,Insurer Harrowgate (synthetic),commercial,461,22,71131.76,54299.05,84656.15
+2024-06,Government scheme (synthetic),medicaid,540,27,52443.77,40033.41,61856.05
+2024-06,Patients — self-pay (synthetic),self_pay,389,19,48869.92,37305.28,58045.89
+2024-07,Insurer Bluepoint (synthetic),commercial,813,38,125602.03,95879.41,147251.85
+2024-07,Insurer Harrowgate (synthetic),commercial,467,22,71487.41,54570.54,85672.02
+2024-07,Government scheme (synthetic),medicaid,540,26,52705.98,40233.57,61915.66
+2024-07,Patients — self-pay (synthetic),self_pay,389,18,49114.27,37491.81,57347.37
+2024-08,Insurer Bluepoint (synthetic),commercial,809,39,126230.03,96358.80,149632.41
+2024-08,Insurer Harrowgate (synthetic),commercial,467,22,71844.84,54843.39,84824.18
+2024-08,Government scheme (synthetic),medicaid,549,27,52969.51,40434.74,62225.23
+2024-08,Patients — self-pay (synthetic),self_pay,396,19,49359.84,37679.27,58686.25
+2024-09,Insurer Bluepoint (synthetic),commercial,824,39,126861.19,96840.60,150230.36
+2024-09,Insurer Harrowgate (synthetic),commercial,463,23,72204.07,55117.61,85761.33
+2024-09,Government scheme (synthetic),medicaid,545,26,53234.37,40636.92,63797.19
+2024-09,Patients — self-pay (synthetic),self_pay,393,19,49606.63,37867.66,58568.46
+2024-10,Insurer Bluepoint (synthetic),commercial,827,39,127495.49,97324.80,151434.45
+2024-10,Insurer Harrowgate (synthetic),commercial,467,22,72565.09,55393.20,86877.60
+2024-10,Government scheme (synthetic),medicaid,547,26,53500.53,40840.10,63229.18
+2024-10,Patients — self-pay (synthetic),self_pay,400,19,49854.67,38057.00,59392.66
+2024-11,Insurer Bluepoint (synthetic),commercial,799,37,123962.13,94627.58,146210.07
+2024-11,Insurer Harrowgate (synthetic),commercial,461,22,71285.65,54416.53,83741.88
+2024-11,Government scheme (synthetic),medicaid,547,26,52974.55,40438.59,63360.35
+2024-11,Patients — self-pay (synthetic),self_pay,390,19,49038.33,37433.84,57200.63
+2024-12,Insurer Bluepoint (synthetic),commercial,846,40,129840.61,99114.97,152528.55
+2024-12,Insurer Harrowgate (synthetic),commercial,450,22,69712.96,53216.00,81646.72
+2024-12,Government scheme (synthetic),medicaid,545,26,53109.22,40541.39,63144.07
+2024-12,Patients — self-pay (synthetic),self_pay,393,19,49343.85,37667.06,59017.84
+2025-01,Insurer Bluepoint (synthetic),commercial,842,41,129953.65,99201.26,155431.41
+2025-01,Insurer Harrowgate (synthetic),commercial,475,23,73939.06,56442.03,86946.50
+2025-01,Government scheme (synthetic),medicaid,567,27,54830.44,41855.30,65839.82
+2025-01,Patients — self-pay (synthetic),self_pay,411,20,51894.76,39614.32,62376.14
+2025-02,Insurer Bluepoint (synthetic),commercial,855,42,131565.63,100431.78,156580.41
+2025-02,Insurer Harrowgate (synthetic),commercial,457,22,71061.32,54245.28,83562.50
+2025-02,Government scheme (synthetic),medicaid,582,28,56238.80,42930.38,66531.98
+2025-02,Patients — self-pay (synthetic),self_pay,404,20,51148.73,39044.83,61055.43
+2025-03,Insurer Bluepoint (synthetic),commercial,850,40,131333.80,100254.81,155215.81
+2025-03,Insurer Harrowgate (synthetic),commercial,479,23,74506.24,56874.99,88936.92
+2025-03,Government scheme (synthetic),medicaid,576,28,56140.04,42854.99,66415.14
+2025-03,Patients — self-pay (synthetic),self_pay,416,20,52384.38,39988.08,61910.07
+2025-04,Insurer Bluepoint (synthetic),commercial,811,39,126586.98,96631.28,148706.39
+2025-04,Insurer Harrowgate (synthetic),commercial,481,23,74507.04,56875.60,87173.24
+2025-04,Government scheme (synthetic),medicaid,559,26,54727.28,41776.55,63966.11
+2025-04,Patients — self-pay (synthetic),self_pay,399,19,50353.54,38437.82,58734.75
+2025-05,Insurer Bluepoint (synthetic),commercial,849,42,130618.86,99709.05,155298.95
+2025-05,Insurer Harrowgate (synthetic),commercial,477,24,73604.97,56187.00,86989.45
+2025-05,Government scheme (synthetic),medicaid,567,28,54917.49,41921.75,65619.17
+2025-05,Patients — self-pay (synthetic),self_pay,406,19,50729.03,38724.45,59473.11
+2025-06,Insurer Bluepoint (synthetic),commercial,825,39,127345.57,97210.36,151859.59
+2025-06,Insurer Harrowgate (synthetic),commercial,463,23,71543.54,54613.39,83621.22
+2025-06,Government scheme (synthetic),medicaid,566,27,55343.01,42246.57,66520.84
+2025-06,Patients — self-pay (synthetic),self_pay,406,20,50765.09,38751.98,59575.50
+2025-07,Insurer Bluepoint (synthetic),commercial,864,41,133191.04,101672.55,158199.41
+2025-07,Insurer Harrowgate (synthetic),commercial,478,22,74609.22,56953.60,89589.97
+2025-07,Government scheme (synthetic),medicaid,558,26,54625.40,41698.78,64882.04
+2025-07,Patients — self-pay (synthetic),self_pay,421,21,52596.50,40150.00,61787.05
+2025-08,Insurer Bluepoint (synthetic),commercial,862,40,131913.78,100697.54,156369.90
+2025-08,Insurer Harrowgate (synthetic),commercial,474,23,72662.29,55467.40,85273.02
+2025-08,Government scheme (synthetic),medicaid,574,28,55542.14,42398.58,65378.95
+2025-08,Patients — self-pay (synthetic),self_pay,413,20,52294.36,39919.36,61432.11
+2025-09,Insurer Bluepoint (synthetic),commercial,844,40,130062.45,99284.31,154637.41
+2025-09,Insurer Harrowgate (synthetic),commercial,487,24,74572.51,56925.58,87956.31
+2025-09,Government scheme (synthetic),medicaid,588,28,57062.43,43559.11,68182.10
+2025-09,Patients — self-pay (synthetic),self_pay,419,21,52587.38,40143.04,62025.43
+2025-10,Insurer Bluepoint (synthetic),commercial,851,41,130792.86,99841.88,155041.17
+2025-10,Insurer Harrowgate (synthetic),commercial,489,24,75981.79,58001.37,89348.59
+2025-10,Government scheme (synthetic),medicaid,578,28,55431.79,42314.34,66627.55
+2025-10,Patients — self-pay (synthetic),self_pay,425,21,53056.44,40501.10,63018.48
+2025-11,Insurer Bluepoint (synthetic),commercial,877,43,135230.82,103229.63,160622.19
+2025-11,Insurer Harrowgate (synthetic),commercial,497,24,77448.60,59121.07,90523.15
+2025-11,Government scheme (synthetic),medicaid,574,27,55588.59,42434.04,65696.94
+2025-11,Patients — self-pay (synthetic),self_pay,413,19,52158.51,39815.66,62260.79
+2025-12,Insurer Bluepoint (synthetic),commercial,884,42,135421.50,103375.19,160527.93
+2025-12,Insurer Harrowgate (synthetic),commercial,478,24,74217.51,56654.59,87625.49
+2025-12,Government scheme (synthetic),medicaid,603,30,58320.06,44519.13,68994.17
+2025-12,Patients — self-pay (synthetic),self_pay,435,20,54821.40,41848.40,64205.96
+2026-01,Insurer Bluepoint (synthetic),commercial,875,43,134350.27,102557.46,157508.01
+2026-01,Insurer Harrowgate (synthetic),commercial,478,23,74451.37,56833.11,88518.76
+2026-01,Government scheme (synthetic),medicaid,596,29,57361.40,43787.33,68607.25
+2026-01,Patients — self-pay (synthetic),self_pay,422,21,53630.95,40939.66,64272.46
+2026-02,Insurer Bluepoint (synthetic),commercial,913,44,140170.66,107000.50,167983.47
+2026-02,Insurer Harrowgate (synthetic),commercial,494,24,76961.23,58749.03,92231.96
+2026-02,Government scheme (synthetic),medicaid,592,29,57718.01,44059.55,69170.48
+2026-02,Patients — self-pay (synthetic),self_pay,439,21,55484.21,42354.36,65179.35
+2026-03,Insurer Bluepoint (synthetic),commercial,869,42,134670.48,102801.89,157564.46
+2026-03,Insurer Harrowgate (synthetic),commercial,478,23,74689.55,57014.92,88625.05
+2026-03,Government scheme (synthetic),medicaid,620,29,59848.18,45685.63,70164.12
+2026-03,Patients — self-pay (synthetic),self_pay,430,20,54444.95,41561.03,64925.60
+2026-04,Insurer Bluepoint (synthetic),commercial,875,42,135674.00,103567.94,161469.91
+2026-04,Insurer Harrowgate (synthetic),commercial,506,25,78266.72,59745.59,93240.38
+2026-04,Government scheme (synthetic),medicaid,596,29,58032.24,44299.42,68035.17
+2026-04,Patients — self-pay (synthetic),self_pay,436,21,54553.80,41644.12,64926.20
+2026-05,Insurer Bluepoint (synthetic),commercial,899,43,139504.70,106492.14,166854.96
+2026-05,Insurer Harrowgate (synthetic),commercial,520,25,79707.96,60845.77,94202.22
+2026-05,Government scheme (synthetic),medicaid,620,29,60589.87,46251.81,72755.68
+2026-05,Patients — self-pay (synthetic),self_pay,422,20,53480.27,40824.63,62761.91
+2026-06,Insurer Bluepoint (synthetic),commercial,903,44,140869.20,107533.74,165150.60
+2026-06,Insurer Harrowgate (synthetic),commercial,504,24,77832.04,59413.77,92446.03
+2026-06,Government scheme (synthetic),medicaid,607,30,59112.51,45124.05,70421.67
+2026-06,Patients — self-pay (synthetic),self_pay,440,21,55727.73,42540.25,65333.43
+2026-07,Insurer Bluepoint (synthetic),commercial,935,44,143374.98,109446.55,167918.51
+2026-07,Insurer Harrowgate (synthetic),commercial,512,25,79140.24,60412.40,94281.02
+2026-07,Government scheme (synthetic),medicaid,624,30,60624.73,46278.42,71720.65
+2026-07,Patients — self-pay (synthetic),self_pay,433,21,54397.82,41525.05,63452.19
+2026-08,Insurer Bluepoint (synthetic),commercial,921,45,143123.49,109254.57,171352.72
+2026-08,Insurer Harrowgate (synthetic),commercial,517,24,79891.20,60985.65,93756.53
+2026-08,Government scheme (synthetic),medicaid,626,29,60586.20,46249.01,72679.52
+2026-08,Patients — self-pay (synthetic),self_pay,449,22,56036.40,42775.88,66093.46
+2026-09,Insurer Bluepoint (synthetic),commercial,892,44,138930.69,106053.96,166168.42
+2026-09,Insurer Harrowgate (synthetic),commercial,532,26,81694.94,62362.55,97904.94
+2026-09,Government scheme (synthetic),medicaid,616,30,59696.41,45569.78,69703.41
+2026-09,Patients — self-pay (synthetic),self_pay,442,21,55680.12,42503.91,65475.43

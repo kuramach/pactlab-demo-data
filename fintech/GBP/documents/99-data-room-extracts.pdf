@@ -3,7 +3,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R] /Count 6 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -35,20 +35,53 @@ stream
 BT /F1 11 Tf 72 740 Td 14 TL (aml-alerts.csv  Transaction-monitoring alerts and whether review evidence exists) Tj T* () Tj T* (alert_id | raised | rule | status | review_evidence) Tj T* (AL-00001 | 2025-10-01 | velocity | closed | yes) Tj T* (AL-00002 | 2025-11-02 | high_risk_geo | closed | no) Tj T* (AL-00003 | 2025-12-03 | high_risk_geo | closed | yes) Tj T* (AL-00004 | 2026-01-04 | structuring | closed | yes) Tj T* (AL-00005 | 2026-02-05 | name_match | closed | no) Tj T* (AL-00006 | 2026-03-06 | high_risk_geo | closed | yes) Tj T* (AL-00007 | 2026-04-07 | structuring | closed | yes) Tj T* (AL-00008 | 2026-05-08 | structuring | closed | no) Tj T* (AL-00009 | 2026-06-09 | high_risk_geo | closed | yes) Tj T* (AL-00010 | 2026-07-10 | name_match | closed | yes) Tj T* (AL-00011 | 2026-08-11 | velocity | closed | yes) Tj T* (AL-00012 | 2026-09-12 | name_match | closed | no) Tj T* (AL-00013 | 2025-10-13 | velocity | closed | yes) Tj T* (AL-00014 | 2025-11-14 | velocity | closed | yes) Tj T* (AL-00015 | 2025-12-15 | structuring | closed | no) Tj T* (AL-00016 | 2026-01-16 | high_risk_geo | closed | yes) Tj T* (AL-00017 | 2026-02-17 | high_risk_geo | closed | yes) Tj T* (AL-00018 | 2026-03-18 | structuring | closed | no) Tj T* (AL-00019 | 2026-04-19 | velocity | closed | yes) Tj T* (AL-00020 | 2026-05-20 | name_match | closed | yes) Tj T* (AL-00021 | 2026-06-21 | velocity | closed | yes) Tj T* (AL-00022 | 2026-07-22 | name_match | closed | no) Tj T* (AL-00023 | 2026-08-23 | structuring | closed | yes) Tj T* (AL-00024 | 2026-09-24 | name_match | closed | yes) Tj T* (AL-00025 | 2025-10-25 | velocity | closed | no) Tj T* (AL-00026 | 2025-11-26 | name_match | closed | yes) Tj T* (AL-00027 | 2025-12-27 | name_match | closed | yes) Tj T* (AL-00028 | 2026-01-01 | name_match | closed | no) Tj T* (AL-00029 | 2026-02-02 | velocity | closed | yes) Tj T* (AL-00030 | 2026-03-03 | structuring | closed | yes) Tj T* (AL-00031 | 2026-04-04 | name_match | closed | yes) Tj T* (AL-00032 | 2026-05-05 | high_risk_geo | closed | no) Tj T* (AL-00033 | 2026-06-06 | high_risk_geo | closed | yes) Tj T* (AL-00034 | 2026-07-07 | velocity | closed | yes) Tj T* (AL-00035 | 2026-08-08 | structuring | closed | no) Tj T* (AL-00036 | 2026-09-09 | structuring | closed | yes) Tj T* (AL-00037 | 2025-10-10 | velocity | closed | yes) Tj T* (AL-00038 | 2025-11-11 | name_match | closed | no) Tj T* (AL-00039 | 2025-12-12 | name_match | closed | yes) Tj T* (AL-00040 | 2026-01-13 | high_risk_geo | closed | yes) Tj T* (AL-00041 | 2026-02-14 | name_match | closed | yes) Tj T* (AL-00042 | 2026-03-15 | name_match | closed | no) Tj T* (AL-00043 | 2026-04-16 | velocity | closed | yes) Tj T* (AL-00044 | 2026-05-17 | high_risk_geo | closed | yes) Tj T* (AL-00045 | 2026-06-18 | high_risk_geo | closed | no) Tj T* (AL-00046 | 2026-07-19 | name_match | closed | yes) Tj T* (AL-00047 | 2026-08-20 | name_match | closed | yes) Tj T* (AL-00048 | 2026-09-21 | velocity | closed | no) Tj T* (AL-00049 | 2025-10-22 | name_match | closed | yes) Tj T* (AL-00050 | 2025-11-23 | high_risk_geo | closed | yes) Tj T* (AL-00051 | 2025-12-24 | high_risk_geo | closed | yes) Tj T* (AL-00052 | 2026-01-25 | velocity | closed | no) Tj T* (AL-00053 | 2026-02-26 | structuring | closed | yes) Tj T* (AL-00054 | 2026-03-27 | high_risk_geo | closed | yes) Tj T* (AL-00055 | 2026-04-01 | velocity | closed | no) Tj T* (AL-00056 | 2026-05-02 | name_match | closed | yes) Tj T* (AL-00057 | 2026-06-03 | name_match | closed | yes) Tj T* (AL-00058 | 2026-07-04 | structuring | closed | no) Tj T* (AL-00059 | 2026-08-05 | name_match | closed | yes) Tj T* (AL-00060 | 2026-09-06 | velocity | closed | yes) Tj T* (& 20 more rows in aml-alerts.csv) Tj T* ET
 endstream
 endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 6093 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (processor-volume.csv  Processor settlement exports by month: volume, transactions, net) Tj T* (revenue, chargebacks and fraud losses) Tj T* () Tj T* (month | processor | gross_volume | transactions | net_revenue | chargeback_count |) Tj T* (chargeback_amount | fraud_losses) Tj T* (2024-10 | Northpass Processing \(synthetic\) | 7138440.00 | 144357 | 60391.20 | 606 | 29966.70) Tj T* (| 4425.83) Tj T* (2024-11 | Northpass Processing \(synthetic\) | 7280953.00 | 152321 | 61742.48 | 640 | 30592.00) Tj T* (| 4514.19) Tj T* (2024-12 | Northpass Processing \(synthetic\) | 7381724.00 | 154948 | 62966.11 | 651 | 31013.64) Tj T* (| 4576.67) Tj T* (2025-01 | Northpass Processing \(synthetic\) | 7559301.00 | 153333 | 64480.84 | 690 | 34017.00) Tj T* (| 4384.39) Tj T* (2025-02 | Northpass Processing \(synthetic\) | 7818685.00 | 162788 | 66302.45 | 733 | 35205.99) Tj T* (| 4534.84) Tj T* (2025-03 | Northpass Processing \(synthetic\) | 7990696.00 | 159782 | 67681.20 | 719 | 35957.19) Tj T* (| 4634.60) Tj T* (2025-04 | Northpass Processing \(synthetic\) | 8020661.00 | 160896 | 67935.00 | 788 | 39281.80) Tj T* (| 5213.43) Tj T* (2025-05 | Northpass Processing \(synthetic\) | 8255075.00 | 169092 | 70250.69 | 829 | 40471.78) Tj T* (| 5365.80) Tj T* (2025-06 | Northpass Processing \(synthetic\) | 8470535.00 | 167534 | 71914.84 | 821 | 41509.76) Tj T* (| 5505.85) Tj T* (2025-07 | Northpass Processing \(synthetic\) | 8708776.00 | 174420 | 73676.24 | 924 | 46135.32) Tj T* (| 5225.27) Tj T* (2025-08 | Northpass Processing \(synthetic\) | 8926885.00 | 179652 | 75878.52 | 952 | 47304.88) Tj T* (| 5356.13) Tj T* (2025-09 | Northpass Processing \(synthetic\) | 9114243.00 | 184015 | 77197.64 | 975 | 48291.75) Tj T* (| 5468.55) Tj T* (2025-10 | Northpass Processing \(synthetic\) | 9185513.00 | 183968 | 78168.72 | 1067 |) Tj T* (53275.31 | 6062.44) Tj T* (2025-11 | Northpass Processing \(synthetic\) | 9340421.00 | 195121 | 79019.96 | 1132 |) Tj T* (54188.84 | 6164.68) Tj T* (2025-12 | Northpass Processing \(synthetic\) | 9574837.00 | 193314 | 81098.87 | 1121 |) Tj T* (55523.13 | 6319.39) Tj T* (2026-01 | Northpass Processing \(synthetic\) | 9805192.00 | 197965 | 82951.92 | 1307 |) Tj T* (64735.71 | 5981.17) Tj T* (2026-02 | Northpass Processing \(synthetic\) | 10081334.00 | 207478 | 86094.59 | 1369 |) Tj T* (66519.71 | 6149.61) Tj T* (2026-03 | Northpass Processing \(synthetic\) | 10251659.00 | 211680 | 87139.10 | 1397 |) Tj T* (67656.71 | 6253.51) Tj T* (2026-04 | Northpass Processing \(synthetic\) | 10519273.00 | 211698 | 89098.24 | 1651 |) Tj T* (82038.19 | 7047.91) Tj T* (2026-05 | Northpass Processing \(synthetic\) | 10847453.00 | 226602 | 91877.93 | 1767 |) Tj T* (84586.29 | 7267.79) Tj T* (2026-06 | Northpass Processing \(synthetic\) | 11086097.00 | 227828 | 94010.10 | 1777 |) Tj T* (86468.82 | 7427.68) Tj T* (2026-07 | Northpass Processing \(synthetic\) | 11206473.00 | 231014 | 95479.15 | 2172 |) Tj T* (105363.72 | 7060.08) Tj T* (2026-08 | Northpass Processing \(synthetic\) | 11510395.00 | 230531 | 98183.67 | 2167 |) Tj T* (108198.31 | 7251.55) Tj T* (2026-09 | Northpass Processing \(synthetic\) | 11740167.00 | 236268 | 100143.62 | 2221 |) Tj T* (110361.49 | 7396.31) Tj T* (2024-10 | Keystone Acquiring \(synthetic\) | 3910500.00 | 81148 | 33278.36 | 341 | 16432.79 |) Tj T* (2424.51) Tj T* (2024-11 | Keystone Acquiring \(synthetic\) | 4072964.00 | 81443 | 34620.19 | 342 | 17103.42 |) Tj T* (2525.24) Tj T* (2024-12 | Keystone Acquiring \(synthetic\) | 4178861.00 | 88013 | 35394.95 | 370 | 17567.60 |) Tj T* (2590.89) Tj T* (2025-01 | Keystone Acquiring \(synthetic\) | 4236317.00 | 88496 | 35881.60 | 398 | 19052.26 |) Tj T* (2457.06) Tj T* (2025-02 | Keystone Acquiring \(synthetic\) | 4403363.00 | 88760 | 37472.62 | 399 | 19794.39 |) Tj T* (2553.95) Tj T* (2025-03 | Keystone Acquiring \(synthetic\) | 4526833.00 | 92422 | 38387.54 | 416 | 20375.68 |) Tj T* (2625.56) Tj T* (2025-04 | Keystone Acquiring \(synthetic\) | 4626100.00 | 92080 | 39229.33 | 451 | 22658.24 |) Tj T* (3006.97) Tj T* (2025-05 | Keystone Acquiring \(synthetic\) | 4680194.00 | 98076 | 39968.86 | 481 | 22953.32 |) Tj T* (3042.13) Tj T* (2025-06 | Keystone Acquiring \(synthetic\) | 4826131.00 | 96349 | 41215.16 | 472 | 23642.48 |) Tj T* (3136.99) Tj T* (2025-07 | Keystone Acquiring \(synthetic\) | 4936680.00 | 98262 | 42159.25 | 521 | 26175.04 |) Tj T* (2962.01) Tj T* (2025-08 | Keystone Acquiring \(synthetic\) | 5059928.00 | 104652 | 43009.39 | 555 | 26834.25 |) Tj T* (3035.96) Tj T* (2025-09 | Keystone Acquiring \(synthetic\) | 5270066.00 | 104234 | 44637.46 | 552 | 27909.12 |) Tj T* (3162.04) Tj T* (2025-10 | Keystone Acquiring \(synthetic\) | 5380213.00 | 113315 | 45785.61 | 657 | 31194.36 |) Tj T* (3550.94) Tj T* (2025-11 | Keystone Acquiring \(synthetic\) | 5569730.00 | 114627 | 47175.61 | 665 | 32312.35 |) Tj T* (3676.02) Tj T* (2025-12 | Keystone Acquiring \(synthetic\) | 5612700.00 | 113848 | 47932.46 | 660 | 32538.00 |) Tj T* (3704.38) Tj T* (2026-01 | Keystone Acquiring \(synthetic\) | 5851511.00 | 120824 | 49562.30 | 797 | 38598.71 |) Tj T* (3569.42) Tj T* (2026-02 | Keystone Acquiring \(synthetic\) | 5932178.00 | 122896 | 50660.80 | 811 | 39146.97 |) Tj T* (3618.63) Tj T* (2026-03 | Keystone Acquiring \(synthetic\) | 6110859.00 | 127842 | 51881.19 | 844 | 40343.20 |) Tj T* (3727.62) Tj T* (2026-04 | Keystone Acquiring \(synthetic\) | 6301090.00 | 125022 | 53307.22 | 975 | 49140.00 |) Tj T* (4221.73) Tj T* (2026-05 | Keystone Acquiring \(synthetic\) | 6484216.00 | 130915 | 54921.31 | 1021 | 50570.13) Tj T* (| 4344.42) Tj T* (2026-06 | Keystone Acquiring \(synthetic\) | 6633006.00 | 132211 | 56513.21 | 1031 | 51725.27) Tj T* (| 4444.11) Tj T* (2026-07 | Keystone Acquiring \(synthetic\) | 6710661.00 | 133572 | 56973.51 | 1256 | 63101.44) Tj T* (| 4227.72) Tj T* (2026-08 | Keystone Acquiring \(synthetic\) | 6926825.00 | 139177 | 58808.74 | 1308 | 65099.16) Tj T* (| 4363.90) Tj T* (2026-09 | Keystone Acquiring \(synthetic\) | 7114050.00 | 140928 | 60256.00 | 1325 | 66886.00) Tj T* (| 4481.85) Tj T* ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 1109 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (licence-register.csv  Licence and sponsor-bank register as the company keeps it) Tj T* () Tj T* (licence_id | kind | jurisdiction | authority | status | issued_on | expires_on) Tj T* (PI-UK-20431 | payment_institution | United Kingdom | Financial Conduct Authority | active |) Tj T* (2021-07-01 | 2027-06-30) Tj T* (PI-IE-30981 | payment_institution | Ireland | Central Bank of Ireland | active | 2021-06-01) Tj T* (| 2026-05-31) Tj T* (EM-GI-11872 | e_money | Gibraltar | Gibraltar Financial Services Commission | active |) Tj T* (2022-01-15 | 2027-12-31) Tj T* (PI-JE-50214 | payment_institution | Jersey | Jersey Financial Services Commission | active |) Tj T* (2022-04-30 | 2028-04-30) Tj T* (CC-UK-60778 | lending | United Kingdom | Financial Conduct Authority | active | 2023-02-01 |) Tj T* (2027-12-31) Tj T* (CC-NI-70345 | lending | Northern Ireland | Financial Conduct Authority | active | 2023-03-01) Tj T* (| 2028-02-28) Tj T* (SBA-2023-0412 | sponsor_bank | the United Kingdom | Aire Valley Bank plc \(synthetic\) |) Tj T* (active | 2023-04-01 | 2028-03-31) Tj T* ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 15 0 R >>
+endobj
+15 0 obj
+<< /Length 812 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (pnl.csv  Profit and loss by fiscal year, FY2023 to FY2025) Tj T* () Tj T* (Line | FY2023 | FY2024 | FY2025) Tj T* (Payment processing revenue | 624528.07 | 949282.66 | 1376459.86) Tj T* (Platform fee revenue | 201699.64 | 263510.82 | 325322.00) Tj T* (Merchant loan revenue | 549840.00 | 748920.00 | 948000.00) Tj T* (Cost of processing \(processor platform fees\) | 112415.05 | 166124.47 | 250515.69) Tj T* (Fraud losses | 8256.41 | 19617.13 | 45046.29) Tj T* (Credit losses on merchant loans | 41282.03 | 54927.98 | 82143.24) Tj T* (Staff costs | 440341.67 | 588514.04 | 768436.74) Tj T* (Technology | 137606.77 | 196171.35 | 238480.37) Tj T* (Sales and marketing | 165128.13 | 255022.75 | 317973.82) Tj T* (General and administrative | 96324.74 | 127511.38 | 158986.91) Tj T* ET
+endstream
+endobj
 xref
-0 10
+0 16
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000127 00000 n 
-0000000197 00000 n 
-0000000323 00000 n 
-0000000605 00000 n 
-0000000731 00000 n 
-0000005359 00000 n 
-0000005485 00000 n 
+0000000148 00000 n 
+0000000218 00000 n 
+0000000344 00000 n 
+0000000626 00000 n 
+0000000752 00000 n 
+0000005380 00000 n 
+0000005506 00000 n 
+0000009274 00000 n 
+0000009402 00000 n 
+0000015548 00000 n 
+0000015676 00000 n 
+0000016838 00000 n 
+0000016966 00000 n 
 trailer
-<< /Size 10 /Root 1 0 R >>
+<< /Size 16 /Root 1 0 R >>
 startxref
-9253
+17830
 %%EOF

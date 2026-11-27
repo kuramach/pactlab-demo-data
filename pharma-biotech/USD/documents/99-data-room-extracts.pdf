@@ -3,7 +3,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 7 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -23,32 +23,76 @@ endobj
 7 0 obj
 << /Length 423 >>
 stream
-BT /F1 11 Tf 72 740 Td 14 TL (patent-schedule.csv  Patent families, products and expiry dates) Tj T* () Tj T* (family | product | jurisdiction | type | expiry) Tj T* (PF-01 | Product A | US | composition of matter | 2028-03-31) Tj T* (PF-01 | Product A | EP | composition of matter | 2028-06-30) Tj T* (PF-02 | Product A | US | formulation | 2033-11-30) Tj T* (PF-03 | Product B | US | method of use | 2031-08-31) Tj T* ET
+BT /F1 11 Tf 72 740 Td 14 TL (patent-schedule.csv  Patent families, products and expiry dates) Tj T* () Tj T* (family | product | jurisdiction | type | expiry) Tj T* (PF-01 | Product A | US | composition of matter | 2028-03-31) Tj T* (PF-01 | Product A | EP | composition of matter | 2028-06-30) Tj T* (PF-02 | Product A | US | formulation | 2033-11-30) Tj T* (PF-03 | Product B | US | method of use | 2033-08-31) Tj T* ET
 endstream
 endobj
 8 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
 endobj
 9 0 obj
-<< /Length 305 >>
+<< /Length 353 >>
 stream
-BT /F1 11 Tf 72 740 Td 14 TL (pipeline.csv  Development pipeline and next milestones) Tj T* () Tj T* (programme | indication | phase | next_milestone | expected) Tj T* (PX-210 | Chronic cough | Phase 3 | Top-line data | 2027-Q2) Tj T* (PX-330 | Dry eye | Phase 1 | First patient dosed | 2026-Q4) Tj T* ET
+BT /F1 11 Tf 72 740 Td 14 TL (pipeline.csv  Development pipeline: each programme's claimed phase and next milestone) Tj T* () Tj T* (programme | indication | phase | next_milestone | expected) Tj T* (PX-410 | Idiopathic pulmonary fibrosis | Phase 2 | Phase 2 interim data | 2027-Q4) Tj T* (PX-330 | Dry eye | Phase 1 | Phase 2 start | 2027-Q3) Tj T* ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 374 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (trial-registry.csv  Trial-registry records for the pipeline programmes, as filed) Tj T* () Tj T* (registry_id | programme | phase | status | start_date | primary_completion) Tj T* (CTR-2025-04101 | PX-410 | Phase 1 | recruiting | 2025-03-10 | 2027-02-28) Tj T* (CTR-2024-03301 | PX-330 | Phase 1 | completed | 2024-02-01 | 2026-06-30) Tj T* ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 523 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (obligations-model.csv  The seller's model of milestones, royalties and licence fees owed) Tj T* () Tj T* (obligation_id | counterparty | kind | trigger | amount | rate | expected) Tj T* (OB-01 | Brennick Biologics \(synthetic\) | milestone | Phase 3 start \(PX-330\) | 25000000.00 |) Tj T* (| 2029-Q1) Tj T* (OB-02 | Brennick Biologics \(synthetic\) | royalty | Net sales of PX-330 | | 0.06 |) Tj T* (OB-03 | Brennick Biologics \(synthetic\) | licence_fee | | 250000.00 | | Annually) Tj T* ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 15 0 R >>
+endobj
+15 0 obj
+<< /Length 392 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (rd-roster.csv  R&D roster by pseudonymous reference: programmes led and patent families as) Tj T* (inventor) Tj T* () Tj T* (scientist_ref | function | programmes_led | patent_families) Tj T* (S-01 | Discovery chemistry | 2 | 3) Tj T* (S-02 | Clinical development | 0 | 0) Tj T* (S-03 | Formulation | 0 | 1) Tj T* (S-04 | Translational biology | 0 | 0) Tj T* ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 17 0 R >>
+endobj
+17 0 obj
+<< /Length 632 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (pnl.csv  Profit and loss by fiscal year, FY2023 to FY2025) Tj T* () Tj T* (Line | FY2023 | FY2024 | FY2025) Tj T* (Royalty revenue | 5475115.64 | 5920764.58 | 6366413.53) Tj T* (Product supply revenue | 1724715.50 | 1865099.32 | 2005483.14) Tj T* (Licence fee revenue | 433266.78 | 468532.68 | 503798.58) Tj T* (Cost of product supply | 724380.51 | 783341.71 | 822248.09) Tj T* (Research and development | 22000000.00 | 22300000.00 | 22100000.00) Tj T* (Royalties paid to licensors | 160295.06 | 165087.93 | 177513.91) Tj T* (General and administrative | 1450288.60 | 1485791.38 | 1508868.19) Tj T* ET
 endstream
 endobj
 xref
-0 10
+0 18
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000127 00000 n 
-0000000197 00000 n 
-0000000323 00000 n 
-0000000611 00000 n 
-0000000737 00000 n 
-0000001211 00000 n 
-0000001337 00000 n 
+0000000155 00000 n 
+0000000225 00000 n 
+0000000351 00000 n 
+0000000639 00000 n 
+0000000765 00000 n 
+0000001239 00000 n 
+0000001365 00000 n 
+0000001769 00000 n 
+0000001897 00000 n 
+0000002323 00000 n 
+0000002451 00000 n 
+0000003026 00000 n 
+0000003154 00000 n 
+0000003598 00000 n 
+0000003726 00000 n 
 trailer
-<< /Size 10 /Root 1 0 R >>
+<< /Size 18 /Root 1 0 R >>
 startxref
-1693
+4410
 %%EOF

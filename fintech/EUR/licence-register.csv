@@ -1,0 +1,8 @@
+licence_id,kind,jurisdiction,authority,status,issued_on,expires_on
+PI-NL-20431,payment_institution,Netherlands,De Nederlandsche Bank,active,2021-07-01,2027-06-30
+PI-BE-30981,payment_institution,Belgium,National Bank of Belgium,active,2021-06-01,2026-05-31
+PI-FR-11872,payment_institution,France,ACPR,active,2022-01-15,2027-12-31
+EM-IE-50214,e_money,Ireland,Central Bank of Ireland,active,2022-04-30,2028-04-30
+CR-DE-60778,lending,Germany,BaFin,active,2023-02-01,2027-12-31
+CR-NL-70345,lending,Netherlands,Netherlands Authority for the Financial Markets,active,2023-03-01,2028-02-28
+SBA-2023-0412,sponsor_bank,the Netherlands,Grachtenbank N.V. (synthetic),active,2023-04-01,2028-03-31

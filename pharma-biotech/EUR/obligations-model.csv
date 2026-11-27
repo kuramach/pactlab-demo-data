@@ -1,0 +1,4 @@
+obligation_id,counterparty,kind,trigger,amount,rate,expected
+OB-01,Brennick Biologics (synthetic),milestone,Phase 3 start (PX-330),23000000.00,,2029-Q1
+OB-02,Brennick Biologics (synthetic),royalty,Net sales of PX-330,,0.06,
+OB-03,Brennick Biologics (synthetic),licence_fee,,230000.00,,Annually

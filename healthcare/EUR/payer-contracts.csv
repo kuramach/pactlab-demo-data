@@ -1,0 +1,6 @@
+contract_id,payer,payer_class,effective_on,expires_on,auto_renews
+MCR-ENR-4410,Government programme A (synthetic),medicare,2016-01-01,,no
+MCD-ENR-2207,Government programme B (synthetic),medicaid,2018-07-01,2029-06-30,no
+PA-NORTH-2024,Commercial plan North (synthetic),commercial,2024-04-01,2027-03-31,no
+PA-CENTRAL-2022,Commercial plan Central (synthetic),commercial,2022-01-01,2026-12-31,yes
+PA-COAST-2023,Commercial plan Coast (synthetic),commercial,2023-01-01,2027-12-31,no

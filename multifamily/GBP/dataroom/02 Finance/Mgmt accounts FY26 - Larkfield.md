@@ -1,6 +1,6 @@
 Larkfield Residential Ltd — management accounts, year to 30 September 2026 (synthetic demo data)
 
 Profit and loss (GBP)
-Revenue: 1,427,413
-Operating costs: 1,170,479
-Operating profit: 256,934
+Revenue: 1,353,235
+Operating costs: 1,109,653
+Operating profit: 243,582

@@ -1,0 +1,8 @@
+licence_id,kind,jurisdiction,authority,status,issued_on,expires_on
+PI-UK-20431,payment_institution,United Kingdom,Financial Conduct Authority,active,2021-07-01,2027-06-30
+PI-IE-30981,payment_institution,Ireland,Central Bank of Ireland,active,2021-06-01,2026-05-31
+EM-GI-11872,e_money,Gibraltar,Gibraltar Financial Services Commission,active,2022-01-15,2027-12-31
+PI-JE-50214,payment_institution,Jersey,Jersey Financial Services Commission,active,2022-04-30,2028-04-30
+CC-UK-60778,lending,United Kingdom,Financial Conduct Authority,active,2023-02-01,2027-12-31
+CC-NI-70345,lending,Northern Ireland,Financial Conduct Authority,active,2023-03-01,2028-02-28
+SBA-2023-0412,sponsor_bank,the United Kingdom,Aire Valley Bank plc (synthetic),active,2023-04-01,2028-03-31

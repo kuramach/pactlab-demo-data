@@ -1,0 +1,8 @@
+liability_id,asset_id,kind,description,booked_amount
+LB-001,PL-001,aro,Plant retirement obligation,19908000.00
+LB-002,PL-001,remediation,Coal yard runoff remediation,869000.00
+LB-103,OG-003,aro,Well plugging and abandonment,67150.00
+LB-107,OG-007,aro,Well plugging and abandonment,67150.00
+LB-111,OG-011,aro,Well plugging and abandonment,67150.00
+LB-115,OG-015,aro,Well plugging and abandonment,67150.00
+LB-119,OG-019,aro,Well plugging and abandonment,67150.00
