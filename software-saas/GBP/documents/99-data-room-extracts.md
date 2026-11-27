@@ -1,0 +1,12 @@
+Brightwave Software Ltd — data-room extracts (synthetic demo data)
+
+Each page reproduces one structured extract from this folder. All names and figures are fictional.
+---page---
+pnl.csv — Profit and loss by fiscal year, FY2021 to FY2025
+
+Line | FY2021 | FY2022 | FY2023 | FY2024 | FY2025
+Subscription revenue | 124160.16 | 155170.52 | 184465.00 | 231043.40 | 476512.20
+Cost of hosting and infrastructure | 17382.42 | 20948.02 | 23980.45 | 28880.43 | 57181.46
+Research and development | 42214.45 | 51206.27 | 59028.80 | 71623.45 | 142953.66
+Sales and marketing | 37248.05 | 44999.45 | 53494.85 | 64692.15 | 133423.42
+General and administrative | 21107.23 | 24827.28 | 29514.40 | 34656.51 | 71476.83

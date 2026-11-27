@@ -1,193 +1,217 @@
 line_id,invoice_id,customer_id,customer_name,subscription_id,price_id,currency,amount,interval,interval_count,period_start,period_end,invoice_status,created
-il_ps_00001,in_ps_202410_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,89491.20,month,1,2024-10-01,2024-11-01,paid,2024-10-01
-il_ps_00002,in_ps_202410_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,39979.06,month,1,2024-10-01,2024-11-01,paid,2024-10-01
-il_ps_00003,in_ps_202410_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,30428.27,month,1,2024-10-01,2024-11-01,paid,2024-10-01
-il_ps_00004,in_ps_202410_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,24950.41,month,1,2024-10-01,2024-11-01,paid,2024-10-01
-il_ps_00005,in_ps_202410_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,20819.34,month,1,2024-10-01,2024-11-01,paid,2024-10-01
-il_ps_00006,in_ps_202410_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,14248.44,month,1,2024-10-01,2024-11-01,paid,2024-10-01
-il_ps_00007,in_ps_202410_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,10688.38,month,1,2024-10-01,2024-11-01,paid,2024-10-01
-il_ps_00008,in_ps_202410_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,8401.49,month,1,2024-10-01,2024-11-01,paid,2024-10-01
-il_ps_00009,in_ps_202411_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,92731.83,month,1,2024-11-01,2024-12-01,paid,2024-11-01
-il_ps_00010,in_ps_202411_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,41161.83,month,1,2024-11-01,2024-12-01,paid,2024-11-01
-il_ps_00011,in_ps_202411_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,30851.39,month,1,2024-11-01,2024-12-01,paid,2024-11-01
-il_ps_00012,in_ps_202411_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,24627.30,month,1,2024-11-01,2024-12-01,paid,2024-11-01
-il_ps_00013,in_ps_202411_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,21356.31,month,1,2024-11-01,2024-12-01,paid,2024-11-01
-il_ps_00014,in_ps_202411_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,14322.57,month,1,2024-11-01,2024-12-01,paid,2024-11-01
-il_ps_00015,in_ps_202411_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,10904.36,month,1,2024-11-01,2024-12-01,paid,2024-11-01
-il_ps_00016,in_ps_202411_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,8714.29,month,1,2024-11-01,2024-12-01,paid,2024-11-01
-il_ps_00017,in_ps_202412_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,93816.90,month,1,2024-12-01,2025-01-01,paid,2024-12-01
-il_ps_00018,in_ps_202412_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,39935.13,month,1,2024-12-01,2025-01-01,paid,2024-12-01
-il_ps_00019,in_ps_202412_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,29231.78,month,1,2024-12-01,2025-01-01,paid,2024-12-01
-il_ps_00020,in_ps_202412_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,24548.07,month,1,2024-12-01,2025-01-01,paid,2024-12-01
-il_ps_00021,in_ps_202412_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,20721.21,month,1,2024-12-01,2025-01-01,paid,2024-12-01
-il_ps_00022,in_ps_202412_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,14030.11,month,1,2024-12-01,2025-01-01,paid,2024-12-01
-il_ps_00023,in_ps_202412_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11367.17,month,1,2024-12-01,2025-01-01,paid,2024-12-01
-il_ps_00024,in_ps_202412_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,8528.40,month,1,2024-12-01,2025-01-01,paid,2024-12-01
-il_ps_00025,in_ps_202501_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,94078.96,month,1,2025-01-01,2025-02-01,paid,2025-01-01
-il_ps_00026,in_ps_202501_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,42156.98,month,1,2025-01-01,2025-02-01,paid,2025-01-01
-il_ps_00027,in_ps_202501_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,30843.48,month,1,2025-01-01,2025-02-01,paid,2025-01-01
-il_ps_00028,in_ps_202501_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,25429.47,month,1,2025-01-01,2025-02-01,paid,2025-01-01
-il_ps_00029,in_ps_202501_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,21169.96,month,1,2025-01-01,2025-02-01,paid,2025-01-01
-il_ps_00030,in_ps_202501_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,14086.23,month,1,2025-01-01,2025-02-01,paid,2025-01-01
-il_ps_00031,in_ps_202501_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11520.09,month,1,2025-01-01,2025-02-01,paid,2025-01-01
-il_ps_00032,in_ps_202501_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,8485.12,month,1,2025-01-01,2025-02-01,paid,2025-01-01
-il_ps_00033,in_ps_202502_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,94947.82,month,1,2025-02-01,2025-03-01,paid,2025-02-01
-il_ps_00034,in_ps_202502_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,41307.13,month,1,2025-02-01,2025-03-01,paid,2025-02-01
-il_ps_00035,in_ps_202502_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,29551.51,month,1,2025-02-01,2025-03-01,paid,2025-02-01
-il_ps_00036,in_ps_202502_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,25192.76,month,1,2025-02-01,2025-03-01,paid,2025-02-01
-il_ps_00037,in_ps_202502_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,20553.38,month,1,2025-02-01,2025-03-01,paid,2025-02-01
-il_ps_00038,in_ps_202502_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,14223.49,month,1,2025-02-01,2025-03-01,paid,2025-02-01
-il_ps_00039,in_ps_202502_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11287.47,month,1,2025-02-01,2025-03-01,paid,2025-02-01
-il_ps_00040,in_ps_202502_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,8935.83,month,1,2025-02-01,2025-03-01,paid,2025-02-01
-il_ps_00041,in_ps_202503_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,96430.77,month,1,2025-03-01,2025-04-01,paid,2025-03-01
-il_ps_00042,in_ps_202503_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,42209.94,month,1,2025-03-01,2025-04-01,paid,2025-03-01
-il_ps_00043,in_ps_202503_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,29963.72,month,1,2025-03-01,2025-04-01,paid,2025-03-01
-il_ps_00044,in_ps_202503_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,24983.73,month,1,2025-03-01,2025-04-01,paid,2025-03-01
-il_ps_00045,in_ps_202503_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,21331.27,month,1,2025-03-01,2025-04-01,paid,2025-03-01
-il_ps_00046,in_ps_202503_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,14663.36,month,1,2025-03-01,2025-04-01,paid,2025-03-01
-il_ps_00047,in_ps_202503_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11183.69,month,1,2025-03-01,2025-04-01,paid,2025-03-01
-il_ps_00048,in_ps_202503_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,8957.39,month,1,2025-03-01,2025-04-01,paid,2025-03-01
-il_ps_00049,in_ps_202504_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,95747.12,month,1,2025-04-01,2025-05-01,paid,2025-04-01
-il_ps_00050,in_ps_202504_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,43758.87,month,1,2025-04-01,2025-05-01,paid,2025-04-01
-il_ps_00051,in_ps_202504_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,31141.29,month,1,2025-04-01,2025-05-01,paid,2025-04-01
-il_ps_00052,in_ps_202504_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,24170.62,month,1,2025-04-01,2025-05-01,paid,2025-04-01
-il_ps_00053,in_ps_202504_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,21753.21,month,1,2025-04-01,2025-05-01,paid,2025-04-01
-il_ps_00054,in_ps_202504_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,14378.28,month,1,2025-04-01,2025-05-01,paid,2025-04-01
-il_ps_00055,in_ps_202504_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11554.67,month,1,2025-04-01,2025-05-01,paid,2025-04-01
-il_ps_00056,in_ps_202504_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,9043.07,month,1,2025-04-01,2025-05-01,paid,2025-04-01
-il_ps_00057,in_ps_202505_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,94366.25,month,1,2025-05-01,2025-06-01,paid,2025-05-01
-il_ps_00058,in_ps_202505_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,43748.03,month,1,2025-05-01,2025-06-01,paid,2025-05-01
-il_ps_00059,in_ps_202505_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,31043.59,month,1,2025-05-01,2025-06-01,paid,2025-05-01
-il_ps_00060,in_ps_202505_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,24791.13,month,1,2025-05-01,2025-06-01,paid,2025-05-01
-il_ps_00061,in_ps_202505_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,20479.96,month,1,2025-05-01,2025-06-01,paid,2025-05-01
-il_ps_00062,in_ps_202505_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,15149.40,month,1,2025-05-01,2025-06-01,paid,2025-05-01
-il_ps_00063,in_ps_202505_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11036.77,month,1,2025-05-01,2025-06-01,paid,2025-05-01
-il_ps_00064,in_ps_202505_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,8857.62,month,1,2025-05-01,2025-06-01,paid,2025-05-01
-il_ps_00065,in_ps_202506_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,97977.55,month,1,2025-06-01,2025-07-01,paid,2025-06-01
-il_ps_00066,in_ps_202506_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,41700.57,month,1,2025-06-01,2025-07-01,paid,2025-06-01
-il_ps_00067,in_ps_202506_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,31018.99,month,1,2025-06-01,2025-07-01,paid,2025-06-01
-il_ps_00068,in_ps_202506_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,25304.97,month,1,2025-06-01,2025-07-01,paid,2025-06-01
-il_ps_00069,in_ps_202506_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,22037.85,month,1,2025-06-01,2025-07-01,paid,2025-06-01
-il_ps_00070,in_ps_202506_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,14117.69,month,1,2025-06-01,2025-07-01,paid,2025-06-01
-il_ps_00071,in_ps_202506_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11441.75,month,1,2025-06-01,2025-07-01,paid,2025-06-01
-il_ps_00072,in_ps_202506_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,9043.78,month,1,2025-06-01,2025-07-01,paid,2025-06-01
-il_ps_00073,in_ps_202507_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,96552.81,month,1,2025-07-01,2025-08-01,paid,2025-07-01
-il_ps_00074,in_ps_202507_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,43247.06,month,1,2025-07-01,2025-08-01,paid,2025-07-01
-il_ps_00075,in_ps_202507_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,31553.83,month,1,2025-07-01,2025-08-01,paid,2025-07-01
-il_ps_00076,in_ps_202507_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,24390.75,month,1,2025-07-01,2025-08-01,paid,2025-07-01
-il_ps_00077,in_ps_202507_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,20967.75,month,1,2025-07-01,2025-08-01,paid,2025-07-01
-il_ps_00078,in_ps_202507_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,15017.30,month,1,2025-07-01,2025-08-01,paid,2025-07-01
-il_ps_00079,in_ps_202507_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11918.59,month,1,2025-07-01,2025-08-01,paid,2025-07-01
-il_ps_00080,in_ps_202507_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,9317.76,month,1,2025-07-01,2025-08-01,paid,2025-07-01
-il_ps_00081,in_ps_202508_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,100509.24,month,1,2025-08-01,2025-09-01,paid,2025-08-01
-il_ps_00082,in_ps_202508_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,42274.26,month,1,2025-08-01,2025-09-01,paid,2025-08-01
-il_ps_00083,in_ps_202508_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,30480.33,month,1,2025-08-01,2025-09-01,paid,2025-08-01
-il_ps_00084,in_ps_202508_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,26007.37,month,1,2025-08-01,2025-09-01,paid,2025-08-01
-il_ps_00085,in_ps_202508_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,21615.96,month,1,2025-08-01,2025-09-01,paid,2025-08-01
-il_ps_00086,in_ps_202508_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,14728.11,month,1,2025-08-01,2025-09-01,paid,2025-08-01
-il_ps_00087,in_ps_202508_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11266.43,month,1,2025-08-01,2025-09-01,paid,2025-08-01
-il_ps_00088,in_ps_202508_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,9170.54,month,1,2025-08-01,2025-09-01,paid,2025-08-01
-il_ps_00089,in_ps_202509_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,99352.80,month,1,2025-09-01,2025-10-01,paid,2025-09-01
-il_ps_00090,in_ps_202509_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,42168.64,month,1,2025-09-01,2025-10-01,paid,2025-09-01
-il_ps_00091,in_ps_202509_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,31656.20,month,1,2025-09-01,2025-10-01,paid,2025-09-01
-il_ps_00092,in_ps_202509_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,25548.43,month,1,2025-09-01,2025-10-01,paid,2025-09-01
-il_ps_00093,in_ps_202509_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,22243.27,month,1,2025-09-01,2025-10-01,paid,2025-09-01
-il_ps_00094,in_ps_202509_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,15197.12,month,1,2025-09-01,2025-10-01,paid,2025-09-01
-il_ps_00095,in_ps_202509_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11676.68,month,1,2025-09-01,2025-10-01,paid,2025-09-01
-il_ps_00096,in_ps_202509_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,9388.82,month,1,2025-09-01,2025-10-01,paid,2025-09-01
-il_ps_00097,in_ps_202510_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,97989.91,month,1,2025-10-01,2025-11-01,paid,2025-10-01
-il_ps_00098,in_ps_202510_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,41871.88,month,1,2025-10-01,2025-11-01,paid,2025-10-01
-il_ps_00099,in_ps_202510_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,32072.56,month,1,2025-10-01,2025-11-01,paid,2025-10-01
-il_ps_00100,in_ps_202510_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,25917.82,month,1,2025-10-01,2025-11-01,paid,2025-10-01
-il_ps_00101,in_ps_202510_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,20823.89,month,1,2025-10-01,2025-11-01,paid,2025-10-01
-il_ps_00102,in_ps_202510_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,14559.75,month,1,2025-10-01,2025-11-01,paid,2025-10-01
-il_ps_00103,in_ps_202510_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11398.51,month,1,2025-10-01,2025-11-01,paid,2025-10-01
-il_ps_00104,in_ps_202510_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,8759.06,month,1,2025-10-01,2025-11-01,paid,2025-10-01
-il_ps_00105,in_ps_202511_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,100502.68,month,1,2025-11-01,2025-12-01,paid,2025-11-01
-il_ps_00106,in_ps_202511_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,41554.77,month,1,2025-11-01,2025-12-01,paid,2025-11-01
-il_ps_00107,in_ps_202511_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,30948.74,month,1,2025-11-01,2025-12-01,paid,2025-11-01
-il_ps_00108,in_ps_202511_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,25185.75,month,1,2025-11-01,2025-12-01,paid,2025-11-01
-il_ps_00109,in_ps_202511_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,21807.17,month,1,2025-11-01,2025-12-01,paid,2025-11-01
-il_ps_00110,in_ps_202511_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,14480.20,month,1,2025-11-01,2025-12-01,paid,2025-11-01
-il_ps_00111,in_ps_202511_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11900.75,month,1,2025-11-01,2025-12-01,paid,2025-11-01
-il_ps_00112,in_ps_202511_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,8859.99,month,1,2025-11-01,2025-12-01,paid,2025-11-01
-il_ps_00113,in_ps_202512_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,96212.37,month,1,2025-12-01,2026-01-01,paid,2025-12-01
-il_ps_00114,in_ps_202512_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,42277.03,month,1,2025-12-01,2026-01-01,paid,2025-12-01
-il_ps_00115,in_ps_202512_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,31885.22,month,1,2025-12-01,2026-01-01,paid,2025-12-01
-il_ps_00116,in_ps_202512_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,26633.17,month,1,2025-12-01,2026-01-01,paid,2025-12-01
-il_ps_00117,in_ps_202512_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,22076.85,month,1,2025-12-01,2026-01-01,paid,2025-12-01
-il_ps_00118,in_ps_202512_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,15103.52,month,1,2025-12-01,2026-01-01,paid,2025-12-01
-il_ps_00119,in_ps_202512_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,12004.49,month,1,2025-12-01,2026-01-01,paid,2025-12-01
-il_ps_00120,in_ps_202512_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,9042.47,month,1,2025-12-01,2026-01-01,paid,2025-12-01
-il_ps_00121,in_ps_202601_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,99803.93,month,1,2026-01-01,2026-02-01,paid,2026-01-01
-il_ps_00122,in_ps_202601_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,45342.18,month,1,2026-01-01,2026-02-01,paid,2026-01-01
-il_ps_00123,in_ps_202601_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,32777.70,month,1,2026-01-01,2026-02-01,paid,2026-01-01
-il_ps_00124,in_ps_202601_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,26396.48,month,1,2026-01-01,2026-02-01,paid,2026-01-01
-il_ps_00125,in_ps_202601_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,21310.30,month,1,2026-01-01,2026-02-01,paid,2026-01-01
-il_ps_00126,in_ps_202601_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,14747.25,month,1,2026-01-01,2026-02-01,paid,2026-01-01
-il_ps_00127,in_ps_202601_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11789.48,month,1,2026-01-01,2026-02-01,paid,2026-01-01
-il_ps_00128,in_ps_202601_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,8916.25,month,1,2026-01-01,2026-02-01,paid,2026-01-01
-il_ps_00129,in_ps_202602_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,96983.60,month,1,2026-02-01,2026-03-01,paid,2026-02-01
-il_ps_00130,in_ps_202602_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,43088.85,month,1,2026-02-01,2026-03-01,paid,2026-02-01
-il_ps_00131,in_ps_202602_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,31104.01,month,1,2026-02-01,2026-03-01,paid,2026-02-01
-il_ps_00132,in_ps_202602_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,25447.42,month,1,2026-02-01,2026-03-01,paid,2026-02-01
-il_ps_00133,in_ps_202602_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,21850.95,month,1,2026-02-01,2026-03-01,paid,2026-02-01
-il_ps_00134,in_ps_202602_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,15752.09,month,1,2026-02-01,2026-03-01,paid,2026-02-01
-il_ps_00135,in_ps_202602_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,12034.70,month,1,2026-02-01,2026-03-01,paid,2026-02-01
-il_ps_00136,in_ps_202602_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,8988.97,month,1,2026-02-01,2026-03-01,paid,2026-02-01
-il_ps_00137,in_ps_202603_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,97571.07,month,1,2026-03-01,2026-04-01,paid,2026-03-01
-il_ps_00138,in_ps_202603_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,43384.31,month,1,2026-03-01,2026-04-01,paid,2026-03-01
-il_ps_00139,in_ps_202603_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,33336.02,month,1,2026-03-01,2026-04-01,paid,2026-03-01
-il_ps_00140,in_ps_202603_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,27184.69,month,1,2026-03-01,2026-04-01,paid,2026-03-01
-il_ps_00141,in_ps_202603_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,22580.24,month,1,2026-03-01,2026-04-01,paid,2026-03-01
-il_ps_00142,in_ps_202603_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,15644.65,month,1,2026-03-01,2026-04-01,paid,2026-03-01
-il_ps_00143,in_ps_202603_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11836.63,month,1,2026-03-01,2026-04-01,paid,2026-03-01
-il_ps_00144,in_ps_202603_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,9199.77,month,1,2026-03-01,2026-04-01,paid,2026-03-01
-il_ps_00145,in_ps_202604_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,97400.43,month,1,2026-04-01,2026-05-01,paid,2026-04-01
-il_ps_00146,in_ps_202604_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,43875.66,month,1,2026-04-01,2026-05-01,paid,2026-04-01
-il_ps_00147,in_ps_202604_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,31572.68,month,1,2026-04-01,2026-05-01,paid,2026-04-01
-il_ps_00148,in_ps_202604_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,26609.25,month,1,2026-04-01,2026-05-01,paid,2026-04-01
-il_ps_00149,in_ps_202604_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,21302.21,month,1,2026-04-01,2026-05-01,paid,2026-04-01
-il_ps_00150,in_ps_202604_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,15468.87,month,1,2026-04-01,2026-05-01,paid,2026-04-01
-il_ps_00151,in_ps_202604_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,12088.39,month,1,2026-04-01,2026-05-01,paid,2026-04-01
-il_ps_00152,in_ps_202604_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,9199.22,month,1,2026-04-01,2026-05-01,paid,2026-04-01
-il_ps_00153,in_ps_202605_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,98152.07,month,1,2026-05-01,2026-06-01,paid,2026-05-01
-il_ps_00154,in_ps_202605_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,45097.04,month,1,2026-05-01,2026-06-01,paid,2026-05-01
-il_ps_00155,in_ps_202605_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,32994.39,month,1,2026-05-01,2026-06-01,paid,2026-05-01
-il_ps_00156,in_ps_202605_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,25394.70,month,1,2026-05-01,2026-06-01,paid,2026-05-01
-il_ps_00157,in_ps_202605_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,22761.24,month,1,2026-05-01,2026-06-01,paid,2026-05-01
-il_ps_00158,in_ps_202605_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,15813.01,month,1,2026-05-01,2026-06-01,paid,2026-05-01
-il_ps_00159,in_ps_202605_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,12203.56,month,1,2026-05-01,2026-06-01,paid,2026-05-01
-il_ps_00160,in_ps_202605_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,9236.02,month,1,2026-05-01,2026-06-01,paid,2026-05-01
-il_ps_00161,in_ps_202606_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,102664.17,month,1,2026-06-01,2026-07-01,paid,2026-06-01
-il_ps_00162,in_ps_202606_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,43586.65,month,1,2026-06-01,2026-07-01,paid,2026-06-01
-il_ps_00163,in_ps_202606_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,32359.02,month,1,2026-06-01,2026-07-01,paid,2026-06-01
-il_ps_00164,in_ps_202606_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,25867.64,month,1,2026-06-01,2026-07-01,paid,2026-06-01
-il_ps_00165,in_ps_202606_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,22264.96,month,1,2026-06-01,2026-07-01,paid,2026-06-01
-il_ps_00166,in_ps_202606_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,15321.79,month,1,2026-06-01,2026-07-01,paid,2026-06-01
-il_ps_00167,in_ps_202606_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11648.62,month,1,2026-06-01,2026-07-01,paid,2026-06-01
-il_ps_00168,in_ps_202606_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,9257.90,month,1,2026-06-01,2026-07-01,paid,2026-06-01
-il_ps_00169,in_ps_202607_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,99668.73,month,1,2026-07-01,2026-08-01,paid,2026-07-01
-il_ps_00170,in_ps_202607_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,43064.11,month,1,2026-07-01,2026-08-01,paid,2026-07-01
-il_ps_00171,in_ps_202607_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,32005.30,month,1,2026-07-01,2026-08-01,paid,2026-07-01
-il_ps_00172,in_ps_202607_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,26439.82,month,1,2026-07-01,2026-08-01,paid,2026-07-01
-il_ps_00173,in_ps_202607_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,22246.81,month,1,2026-07-01,2026-08-01,paid,2026-07-01
-il_ps_00174,in_ps_202607_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,15822.24,month,1,2026-07-01,2026-08-01,paid,2026-07-01
-il_ps_00175,in_ps_202607_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,12306.19,month,1,2026-07-01,2026-08-01,paid,2026-07-01
-il_ps_00176,in_ps_202607_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,9158.85,month,1,2026-07-01,2026-08-01,paid,2026-07-01
-il_ps_00177,in_ps_202608_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,99782.43,month,1,2026-08-01,2026-09-01,paid,2026-08-01
-il_ps_00178,in_ps_202608_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,44563.95,month,1,2026-08-01,2026-09-01,paid,2026-08-01
-il_ps_00179,in_ps_202608_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,32880.61,month,1,2026-08-01,2026-09-01,paid,2026-08-01
-il_ps_00180,in_ps_202608_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,25807.61,month,1,2026-08-01,2026-09-01,paid,2026-08-01
-il_ps_00181,in_ps_202608_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,22228.15,month,1,2026-08-01,2026-09-01,paid,2026-08-01
-il_ps_00182,in_ps_202608_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,15345.25,month,1,2026-08-01,2026-09-01,paid,2026-08-01
-il_ps_00183,in_ps_202608_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,11838.59,month,1,2026-08-01,2026-09-01,paid,2026-08-01
-il_ps_00184,in_ps_202608_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,9575.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
-il_ps_00185,in_ps_202609_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,100181.56,month,1,2026-09-01,2026-10-01,paid,2026-09-01
-il_ps_00186,in_ps_202609_-002,ps-cli-002,Halcyon Mutual (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,44562.09,month,1,2026-09-01,2026-10-01,paid,2026-09-01
-il_ps_00187,in_ps_202609_-003,ps-cli-003,Brookfield Transit (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,33643.95,month,1,2026-09-01,2026-10-01,paid,2026-09-01
-il_ps_00188,in_ps_202609_-004,ps-cli-004,Kestrel Pharma Services (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,25921.58,month,1,2026-09-01,2026-10-01,paid,2026-09-01
-il_ps_00189,in_ps_202609_-005,ps-cli-005,Oakmont Utilities (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,23289.72,month,1,2026-09-01,2026-10-01,paid,2026-09-01
-il_ps_00190,in_ps_202609_-006,ps-cli-006,Lumen Education Trust (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,15687.21,month,1,2026-09-01,2026-10-01,paid,2026-09-01
-il_ps_00191,in_ps_202609_-007,ps-cli-007,Seabright Leisure (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,12555.17,month,1,2026-09-01,2026-10-01,paid,2026-09-01
-il_ps_00192,in_ps_202609_-008,ps-cli-008,Carraway Foods (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,9445.65,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00001,in_ps_202410_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,52848.37,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00002,in_ps_202410_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,14032.91,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00003,in_ps_202410_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,27099.00,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00004,in_ps_202410_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,15706.12,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00005,in_ps_202410_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,9954.45,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00006,in_ps_202410_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,23938.03,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00007,in_ps_202410_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,15595.63,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00008,in_ps_202410_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,23535.52,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00009,in_ps_202410_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,13908.60,month,1,2024-10-01,2024-11-01,paid,2024-10-01
+il_ps_00010,in_ps_202411_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,53271.15,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00011,in_ps_202411_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,14005.95,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00012,in_ps_202411_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,28290.35,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00013,in_ps_202411_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,15656.76,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00014,in_ps_202411_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,10053.97,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00015,in_ps_202411_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,23461.26,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00016,in_ps_202411_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,15911.34,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00017,in_ps_202411_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,23914.73,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00018,in_ps_202411_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,14159.10,month,1,2024-11-01,2024-12-01,paid,2024-11-01
+il_ps_00019,in_ps_202412_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,53480.80,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00020,in_ps_202412_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,14047.83,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00021,in_ps_202412_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,28123.73,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00022,in_ps_202412_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,15814.09,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00023,in_ps_202412_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,9964.00,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00024,in_ps_202412_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,23576.78,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00025,in_ps_202412_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,15830.13,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00026,in_ps_202412_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,23576.78,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00027,in_ps_202412_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,14188.17,month,1,2024-12-01,2025-01-01,paid,2024-12-01
+il_ps_00028,in_ps_202501_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,54727.10,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00029,in_ps_202501_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,14315.82,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00030,in_ps_202501_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,28829.69,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00031,in_ps_202501_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,16134.60,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00032,in_ps_202501_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,9942.66,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00033,in_ps_202501_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,24250.40,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00034,in_ps_202501_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,15924.43,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00035,in_ps_202501_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,24541.40,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00036,in_ps_202501_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,13863.15,month,1,2025-01-01,2025-02-01,paid,2025-01-01
+il_ps_00037,in_ps_202502_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,54009.91,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00038,in_ps_202502_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,14330.53,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00039,in_ps_202502_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,28233.28,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00040,in_ps_202502_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,16214.79,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00041,in_ps_202502_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,10246.28,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00042,in_ps_202502_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,24933.30,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00043,in_ps_202502_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,16475.53,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00044,in_ps_202502_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,24713.30,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00045,in_ps_202502_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,14444.61,month,1,2025-02-01,2025-03-01,paid,2025-02-01
+il_ps_00046,in_ps_202503_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,56160.63,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00047,in_ps_202503_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,14114.59,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00048,in_ps_202503_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,28286.67,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00049,in_ps_202503_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,16344.50,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00050,in_ps_202503_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,10451.45,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00051,in_ps_202503_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,24566.04,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00052,in_ps_202503_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,16607.33,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00053,in_ps_202503_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,24516.76,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00054,in_ps_202503_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,14646.40,month,1,2025-03-01,2025-04-01,paid,2025-03-01
+il_ps_00055,in_ps_202504_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,55771.67,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00056,in_ps_202504_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,14415.86,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00057,in_ps_202504_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,29179.43,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00058,in_ps_202504_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,16458.70,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00059,in_ps_202504_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,10141.80,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00060,in_ps_202504_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,24886.75,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00061,in_ps_202504_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,16657.40,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00062,in_ps_202504_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,24414.85,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00063,in_ps_202504_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,14242.00,month,1,2025-04-01,2025-05-01,paid,2025-04-01
+il_ps_00064,in_ps_202505_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,56837.47,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00065,in_ps_202505_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,14677.22,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00066,in_ps_202505_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,28916.33,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00067,in_ps_202505_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,16440.16,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00068,in_ps_202505_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,10295.96,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00069,in_ps_202505_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,24610.17,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00070,in_ps_202505_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,16690.52,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00071,in_ps_202505_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,24810.45,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00072,in_ps_202505_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,14808.66,month,1,2025-05-01,2025-06-01,paid,2025-05-01
+il_ps_00073,in_ps_202506_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,56440.45,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00074,in_ps_202506_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,14426.62,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00075,in_ps_202506_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,29795.37,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00076,in_ps_202506_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,16992.28,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00077,in_ps_202506_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,10525.55,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00078,in_ps_202506_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,24933.23,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00079,in_ps_202506_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,17009.10,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00080,in_ps_202506_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,25614.60,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00081,in_ps_202506_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,14544.39,month,1,2025-06-01,2025-07-01,paid,2025-06-01
+il_ps_00082,in_ps_202507_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,58036.68,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00083,in_ps_202507_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,15091.07,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00084,in_ps_202507_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,29707.29,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00085,in_ps_202507_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,16941.67,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00086,in_ps_202507_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,10747.54,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00087,in_ps_202507_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,25616.02,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00088,in_ps_202507_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,16924.72,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00089,in_ps_202507_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,25921.27,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00090,in_ps_202507_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,14942.68,month,1,2025-07-01,2025-08-01,paid,2025-07-01
+il_ps_00091,in_ps_202508_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,57577.90,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00092,in_ps_202508_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,15017.35,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00093,in_ps_202508_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,30483.42,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00094,in_ps_202508_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,16786.60,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00095,in_ps_202508_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,10822.83,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00096,in_ps_202508_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,25718.38,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00097,in_ps_202508_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,16906.27,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00098,in_ps_202508_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,25769.67,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00099,in_ps_202508_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,15107.10,month,1,2025-08-01,2025-09-01,paid,2025-08-01
+il_ps_00100,in_ps_202509_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,57805.89,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00101,in_ps_202509_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,15227.95,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00102,in_ps_202509_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,30063.88,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00103,in_ps_202509_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,17162.13,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00104,in_ps_202509_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,10694.02,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00105,in_ps_202509_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,26260.13,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00106,in_ps_202509_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,16955.37,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00107,in_ps_202509_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,25381.35,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00108,in_ps_202509_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,15092.25,month,1,2025-09-01,2025-10-01,paid,2025-09-01
+il_ps_00109,in_ps_202510_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,57858.00,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00110,in_ps_202510_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,15045.81,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00111,in_ps_202510_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,30669.15,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00112,in_ps_202510_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,17195.22,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00113,in_ps_202510_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,10801.30,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00114,in_ps_202510_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,26105.47,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00115,in_ps_202510_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,17195.22,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00116,in_ps_202510_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,26209.68,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00117,in_ps_202510_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,15258.58,month,1,2025-10-01,2025-11-01,paid,2025-10-01
+il_ps_00118,in_ps_202511_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,57907.24,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00119,in_ps_202511_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,15533.85,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00120,in_ps_202511_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,30148.53,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00121,in_ps_202511_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,17262.75,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00122,in_ps_202511_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,10800.16,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00123,in_ps_202511_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,26787.03,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00124,in_ps_202511_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,17612.90,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00125,in_ps_202511_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,25999.17,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00126,in_ps_202511_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,15120.23,month,1,2025-11-01,2025-12-01,paid,2025-11-01
+il_ps_00127,in_ps_202512_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,58846.99,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00128,in_ps_202512_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,15272.07,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00129,in_ps_202512_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,30667.67,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00130,in_ps_202512_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,17436.15,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00131,in_ps_202512_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,11107.16,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00132,in_ps_202512_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,26895.43,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00133,in_ps_202512_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,17489.09,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00134,in_ps_202512_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,26736.60,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00135,in_ps_202512_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,15163.98,month,1,2025-12-01,2026-01-01,paid,2025-12-01
+il_ps_00136,in_ps_202601_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,59738.04,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00137,in_ps_202601_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,15752.25,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00138,in_ps_202601_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,31660.15,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00139,in_ps_202601_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,17789.10,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00140,in_ps_202601_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,10918.07,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00141,in_ps_202601_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,26950.50,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00142,in_ps_202601_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,17895.83,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00143,in_ps_202601_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,26256.72,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00144,in_ps_202601_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,15347.55,month,1,2026-01-01,2026-02-01,paid,2026-01-01
+il_ps_00145,in_ps_202602_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,60276.45,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00146,in_ps_202602_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,15376.19,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00147,in_ps_202602_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,31599.64,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00148,in_ps_202602_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,17626.58,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00149,in_ps_202602_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,11128.69,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00150,in_ps_202602_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,27112.30,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00151,in_ps_202602_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,17572.79,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00152,in_ps_202602_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,26950.92,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00153,in_ps_202602_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,15972.41,month,1,2026-02-01,2026-03-01,paid,2026-02-01
+il_ps_00154,in_ps_202603_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,61063.68,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00155,in_ps_202603_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,15641.54,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00156,in_ps_202603_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,31599.39,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00157,in_ps_202603_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,18291.77,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00158,in_ps_202603_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,11296.79,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00159,in_ps_202603_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,27220.75,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00160,in_ps_202603_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,18255.62,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00161,in_ps_202603_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,26814.07,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00162,in_ps_202603_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,15688.98,month,1,2026-03-01,2026-04-01,paid,2026-03-01
+il_ps_00163,in_ps_202604_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,62474.55,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00164,in_ps_202604_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,15942.03,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00165,in_ps_202604_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,32426.10,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00166,in_ps_202604_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,17891.52,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00167,in_ps_202604_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,11204.98,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00168,in_ps_202604_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,26837.27,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00169,in_ps_202604_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,18274.13,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00170,in_ps_202604_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,27821.13,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00171,in_ps_202604_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,15686.95,month,1,2026-04-01,2026-05-01,paid,2026-04-01
+il_ps_00172,in_ps_202605_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,61486.77,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00173,in_ps_202605_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,15796.38,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00174,in_ps_202605_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,31689.20,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00175,in_ps_202605_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,18438.68,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00176,in_ps_202605_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,11696.35,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00177,in_ps_202605_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,27740.67,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00178,in_ps_202605_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,18199.93,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00179,in_ps_202605_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,27602.93,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00180,in_ps_202605_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,16390.96,month,1,2026-05-01,2026-06-01,paid,2026-05-01
+il_ps_00181,in_ps_202606_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,61353.88,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00182,in_ps_202606_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,15922.76,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00183,in_ps_202606_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,32590.63,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00184,in_ps_202606_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,18493.63,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00185,in_ps_202606_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,11732.07,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00186,in_ps_202606_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,28129.20,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00187,in_ps_202606_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,18290.00,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00188,in_ps_202606_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,27546.07,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00189,in_ps_202606_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,16295.32,month,1,2026-06-01,2026-07-01,paid,2026-06-01
+il_ps_00190,in_ps_202607_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,63041.30,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00191,in_ps_202607_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,16539.97,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00192,in_ps_202607_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,32361.52,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00193,in_ps_202607_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,18287.03,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00194,in_ps_202607_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,11884.24,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00195,in_ps_202607_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,27486.53,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00196,in_ps_202607_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,18790.86,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00197,in_ps_202607_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,27570.50,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00198,in_ps_202607_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,16180.76,month,1,2026-07-01,2026-08-01,paid,2026-07-01
+il_ps_00199,in_ps_202608_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,63355.18,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00200,in_ps_202608_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,16540.62,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00201,in_ps_202608_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,33278.75,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00202,in_ps_202608_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,18753.09,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00203,in_ps_202608_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,11638.39,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00204,in_ps_202608_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,27762.86,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00205,in_ps_202608_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,18960.00,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00206,in_ps_202608_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,28327.15,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00207,in_ps_202608_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,16277.29,month,1,2026-08-01,2026-09-01,paid,2026-08-01
+il_ps_00208,in_ps_202609_-001,ps-cli-001,Meridian Retail Group (synthetic),sub_ps-cli-001,price_ps_retainer_m,GBP,64821.87,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00209,in_ps_202609_-002,ps-cli-002,Seabright Leisure (synthetic),sub_ps-cli-002,price_ps_retainer_m,GBP,16855.44,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00210,in_ps_202609_-003,ps-cli-003,Halcyon Mutual (synthetic),sub_ps-cli-003,price_ps_retainer_m,GBP,32980.92,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00211,in_ps_202609_-004,ps-cli-004,Lumen Education Trust (synthetic),sub_ps-cli-004,price_ps_retainer_m,GBP,18751.44,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00212,in_ps_202609_-005,ps-cli-005,Carraway Foods (synthetic),sub_ps-cli-005,price_ps_retainer_m,GBP,11850.00,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00213,in_ps_202609_-006,ps-cli-006,Brookfield Transit (synthetic),sub_ps-cli-006,price_ps_retainer_m,GBP,28468.44,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00214,in_ps_202609_-007,ps-cli-007,Kestrel Pharma Services (synthetic),sub_ps-cli-007,price_ps_retainer_m,GBP,18732.48,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00215,in_ps_202609_-008,ps-cli-008,Oakmont Utilities (synthetic),sub_ps-cli-008,price_ps_retainer_m,GBP,29008.80,month,1,2026-09-01,2026-10-01,paid,2026-09-01
+il_ps_00216,in_ps_202609_-009,ps-cli-009,Northwind Councils (synthetic),sub_ps-cli-009,price_ps_retainer_m,GBP,16722.72,month,1,2026-09-01,2026-10-01,paid,2026-09-01

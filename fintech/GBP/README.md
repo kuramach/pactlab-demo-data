@@ -61,7 +61,7 @@ Open the **Sources** tab and scroll to **Industry data**. Upload these files one
 |---|---|---|---|---|
 | 1 | **Upload loan tape** | `loan-tape.csv` | **Upload and map columns** → **Check every row** | **Import 120 rows** |
 | 2 | **Upload aml alerts** | `aml-alerts.csv` | **Upload and map columns** → **Check every row** | **Import 80 rows** |
-| 3 | **Upload processor volume** | `processor-volume.csv` | **Upload and map columns** → **Check every row** | **Import 48 rows** |
+| 3 | **Upload processor volume** | `processor-volume.csv` | **Upload and map columns** → **Check every row** | **Import 138 rows** |
 | 4 | **Upload licence and sponsor register** | `licence-register.csv` | **Upload and map columns** → **Check every row** | **Import 7 rows** |
 
 **You should see** after each import: "… imported … Industry checks ran on them". Some findings may already appear as drafts; that is expected.
@@ -87,16 +87,16 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 
 Open the **Sources** tab, scroll to **Industry data** and click **Upload profit and loss (p&l)**.
 
-1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the three years across the columns (FY2023, FY2024, FY2025).
+1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the five years across the columns (FY2021 to FY2025).
 2. Say what each line is: the three lines ending in *revenue* are **Revenue**, `Cost of processing (processor platform fees)` is **Cost of revenue**, and the rest are **Operating expenses**.
-3. **Check every row**, then **Import 30 rows**.
+3. **Check every row**, then **Import 50 rows**.
 
-**You should see:** the import succeed. The **Payments** tab now shows the P&L year by year, and the checks in the next step read every year.
+**You should see:** the import succeed. The **Payments** tab now shows the P&L year by year, **Finances** shows the five years side by side, and the checks in the next step read every year.
 
 ## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run fintech checks**.
-2. **You should see exactly these 11 findings** (running the checks again adds nothing):
+2. **You should see exactly these 12 findings** (running the checks again adds nothing):
 
    1. **Allowance below observed loss experience** — the balance sheet carries a 2.0% allowance (GBP 13,488); `loan-tape.csv` shows charge-offs of 11.0% of originated principal.
    2. **Alerts closed without review evidence** — 24 of 80 closed alerts in `aml-alerts.csv` have `review_evidence = no`, against the procedure in `documents/02-aml-procedure.pdf`.
@@ -107,8 +107,9 @@ Open the **Sources** tab, scroll to **Industry data** and click **Upload profit 
    7. **Claim not verified: Retention** — net revenue retention of 116%: the processor exports carry no merchant identities to recompute it from.
    8. **Lapsed: Ireland payment-institution licence (PI-IE-30981)** — `documents/05-licence-ireland.pdf` — it expired on 31 May 2026, four months before the latest processor month; `licence-register.csv` still records it as active.
    9. **Chargeback rate breaches the stated threshold, 2026-Q3** — 0.94% of settled transactions in July–September 2026, against the 0.90% in clause 8.2 of `documents/03-partner-bank-agreement.pdf` (page 3).
-   10. **P&L trend, 2023–2025** — every imported year side by side: revenue, growth, margins and the fraud, credit-loss and processing ratios.
-   11. **Fraud losses growing faster than revenue, 2023–2025** — `pnl.csv` — fraud losses rise from 0.6% of revenue in FY2023 to 1.7% in FY2025 (GBP 8,256 to GBP 45,046); FY2025 alone looks small.
+   10. **P&L trend, 2021–2025** — every imported year side by side: revenue, growth, margins and the fraud, credit-loss and processing ratios.
+   11. **Fraud losses growing faster than revenue, 2021–2025** — `pnl.csv` — fraud losses rise from 0.4% of revenue in FY2021 to 1.7% in FY2025 (GBP 4,673 to GBP 45,046); FY2025 alone looks small.
+   12. **Effective take rate falling every year, FY2021–FY2025** — `processor-volume.csv` — net revenue ÷ volume by calendar year: FY2021 1.10%, FY2022 1.02%, FY2023 0.96%, FY2024 0.89%, FY2025 0.85%. Volume grows; each dollar of it earns less (five-year history, T-184).
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
@@ -216,9 +217,9 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 | `invoice-lines.csv` | 328 revenue lines, one per merchant platform fee per month | **Yes** — billing export step |
 | `loan-tape.csv` | Loan-level tape for merchant working-capital loans (120 rows) | **Yes** — industry data step |
 | `aml-alerts.csv` | Transaction-monitoring alerts and whether review evidence exists (80 rows) | **Yes** — industry data step |
-| `processor-volume.csv` | Processor settlement exports by month: volume, transactions, net revenue, chargebacks and fraud losses (48 rows) | **Yes** — industry data step |
+| `processor-volume.csv` | Processor settlement exports by month, January 2021 to September 2026: volume, transactions, net revenue, chargebacks and fraud losses (138 rows) | **Yes** — industry data step |
 | `licence-register.csv` | Licence and sponsor-bank register as the company keeps it (7 rows) | **Yes** — industry data step |
-| `pnl.csv` | Profit and loss by fiscal year, FY2023 to FY2025 (10 lines) | **Yes** — P&L step |
+| `pnl.csv` | Profit and loss by fiscal year, FY2021 to FY2025 (10 lines) | **Yes** — P&L step |
 | `documents/01-balance-sheet-2026-09-30.pdf` | Balance sheet extract with the credit-loss allowance | **Yes** — documents step |
 | `documents/02-aml-procedure.pdf` | Written AML alert-handling procedure | **Yes** — documents step |
 | `documents/03-partner-bank-agreement.pdf` | Partner-bank program agreement, with its monitoring thresholds and term | **Yes** — documents step |

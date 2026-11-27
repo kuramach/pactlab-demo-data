@@ -3,10 +3,10 @@ H-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09
 H-002,"Remittances by month and payer: claims, denials, charges billed, cash collected and receivables at month end",remittances.csv,Financial,2026-09-30
 H-003,"Monthly claims billed, paid and denial rate by payer",claims-summary.csv,Financial,2026-09-30
 H-004,"Provider roster, pseudonymous, with credential expiry dates",provider-roster.csv,Financial,2026-09-30
-H-005,"Collections by clinician and month, pseudonymous, from the practice-management system",clinician-collections.csv,Financial,2026-09-30
+H-005,"Collections by clinician and month, pseudonymous, from the practice-management system, January 2021 to September 2026",clinician-collections.csv,Financial,2026-09-30
 H-006,Credentialing register as the practice keeps it: licences and registrations by pseudonymous clinician,credentialing-register.csv,Financial,2026-09-30
 H-007,Payer contract and enrolment register,payer-contracts.csv,Financial,2026-09-30
-H-008,"Profit and loss by fiscal year, FY2023 to FY2025",pnl.csv,Financial,2026-09-30
+H-008,"Profit and loss by fiscal year, FY2021 to FY2025",pnl.csv,Financial,2026-09-30
 H-009,Medical-director agreement and time records,documents/01-medical-director-agreement.pdf,Business,2026-09-30
 H-010,Most recent privacy and security risk assessment,documents/02-privacy-risk-assessment.pdf,Business,2026-09-30
 H-011,"Management presentation with denial-rate, payer-mix and days-in-AR claims",documents/03-management-presentation.pdf,Business,2026-09-30

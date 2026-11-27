@@ -1,0 +1,265 @@
+month,stream,counterparty,amount
+2024-10,advertising,Brightline Motors (synthetic),36600.37
+2024-10,advertising,Harbour Home Furnishings (synthetic),16147.22
+2024-10,advertising,Quarry Lane Insurance (synthetic),13994.26
+2024-10,advertising,Tallgrass Grocers (synthetic),11841.30
+2024-10,advertising,Northbank Credit Union (synthetic),10764.82
+2024-10,advertising,Cedar Point Auto Group (synthetic),9688.33
+2024-10,advertising,Lakeshore Health (synthetic),8611.85
+2024-10,affiliate,Rivermark Cable (synthetic),64468.29
+2024-10,affiliate,Harborview Cable (synthetic),62080.58
+2024-10,affiliate,Lakeshore Telecom (synthetic),57305.15
+2024-10,affiliate,Summit Fibre (synthetic),54917.44
+2024-11,advertising,Brightline Motors (synthetic),36746.78
+2024-11,advertising,Harbour Home Furnishings (synthetic),16211.81
+2024-11,advertising,Quarry Lane Insurance (synthetic),14050.24
+2024-11,advertising,Tallgrass Grocers (synthetic),11888.66
+2024-11,advertising,Northbank Credit Union (synthetic),10807.88
+2024-11,advertising,Cedar Point Auto Group (synthetic),9727.09
+2024-11,advertising,Lakeshore Health (synthetic),8646.30
+2024-11,affiliate,Rivermark Cable (synthetic),64597.23
+2024-11,affiliate,Harborview Cable (synthetic),62204.74
+2024-11,affiliate,Lakeshore Telecom (synthetic),57419.76
+2024-11,affiliate,Summit Fibre (synthetic),55027.27
+2024-12,advertising,Brightline Motors (synthetic),36893.76
+2024-12,advertising,Harbour Home Furnishings (synthetic),16276.66
+2024-12,advertising,Quarry Lane Insurance (synthetic),14106.44
+2024-12,advertising,Tallgrass Grocers (synthetic),11936.22
+2024-12,advertising,Northbank Credit Union (synthetic),10851.11
+2024-12,advertising,Cedar Point Auto Group (synthetic),9766.00
+2024-12,advertising,Lakeshore Health (synthetic),8680.89
+2024-12,affiliate,Rivermark Cable (synthetic),64726.43
+2024-12,affiliate,Harborview Cable (synthetic),62329.15
+2024-12,affiliate,Lakeshore Telecom (synthetic),57534.60
+2024-12,affiliate,Summit Fibre (synthetic),55137.33
+2025-01,advertising,Brightline Motors (synthetic),37041.34
+2025-01,advertising,Harbour Home Furnishings (synthetic),16341.77
+2025-01,advertising,Quarry Lane Insurance (synthetic),14162.86
+2025-01,advertising,Tallgrass Grocers (synthetic),11983.96
+2025-01,advertising,Northbank Credit Union (synthetic),10894.51
+2025-01,advertising,Cedar Point Auto Group (synthetic),9805.06
+2025-01,advertising,Lakeshore Health (synthetic),8715.61
+2025-01,affiliate,Rivermark Cable (synthetic),64855.88
+2025-01,affiliate,Harborview Cable (synthetic),62453.81
+2025-01,affiliate,Lakeshore Telecom (synthetic),57649.67
+2025-01,affiliate,Summit Fibre (synthetic),55247.60
+2025-02,advertising,Brightline Motors (synthetic),37189.50
+2025-02,advertising,Harbour Home Furnishings (synthetic),16407.13
+2025-02,advertising,Quarry Lane Insurance (synthetic),14219.52
+2025-02,advertising,Tallgrass Grocers (synthetic),12031.90
+2025-02,advertising,Northbank Credit Union (synthetic),10938.09
+2025-02,advertising,Cedar Point Auto Group (synthetic),9844.28
+2025-02,advertising,Lakeshore Health (synthetic),8750.47
+2025-02,affiliate,Rivermark Cable (synthetic),64985.59
+2025-02,affiliate,Harborview Cable (synthetic),62578.72
+2025-02,affiliate,Lakeshore Telecom (synthetic),57764.97
+2025-02,affiliate,Summit Fibre (synthetic),55358.10
+2025-03,advertising,Brightline Motors (synthetic),37338.26
+2025-03,advertising,Harbour Home Furnishings (synthetic),16472.76
+2025-03,advertising,Quarry Lane Insurance (synthetic),14276.39
+2025-03,advertising,Tallgrass Grocers (synthetic),12080.03
+2025-03,advertising,Northbank Credit Union (synthetic),10981.84
+2025-03,advertising,Cedar Point Auto Group (synthetic),9883.66
+2025-03,advertising,Lakeshore Health (synthetic),8785.47
+2025-03,affiliate,Rivermark Cable (synthetic),65115.56
+2025-03,affiliate,Harborview Cable (synthetic),62703.87
+2025-03,affiliate,Lakeshore Telecom (synthetic),57880.50
+2025-03,affiliate,Summit Fibre (synthetic),55468.81
+2025-04,advertising,Brightline Motors (synthetic),37487.61
+2025-04,advertising,Harbour Home Furnishings (synthetic),16538.65
+2025-04,advertising,Quarry Lane Insurance (synthetic),14333.50
+2025-04,advertising,Tallgrass Grocers (synthetic),12128.35
+2025-04,advertising,Northbank Credit Union (synthetic),11025.77
+2025-04,advertising,Cedar Point Auto Group (synthetic),9923.19
+2025-04,advertising,Lakeshore Health (synthetic),8820.62
+2025-04,affiliate,Rivermark Cable (synthetic),65245.79
+2025-04,affiliate,Harborview Cable (synthetic),62829.28
+2025-04,affiliate,Lakeshore Telecom (synthetic),57996.26
+2025-04,affiliate,Summit Fibre (synthetic),55579.75
+2025-05,advertising,Brightline Motors (synthetic),37637.56
+2025-05,advertising,Harbour Home Furnishings (synthetic),16604.81
+2025-05,advertising,Quarry Lane Insurance (synthetic),14390.83
+2025-05,advertising,Tallgrass Grocers (synthetic),12176.86
+2025-05,advertising,Northbank Credit Union (synthetic),11069.87
+2025-05,advertising,Cedar Point Auto Group (synthetic),9962.88
+2025-05,advertising,Lakeshore Health (synthetic),8855.90
+2025-05,affiliate,Rivermark Cable (synthetic),65376.28
+2025-05,affiliate,Harborview Cable (synthetic),62954.94
+2025-05,affiliate,Lakeshore Telecom (synthetic),58112.25
+2025-05,affiliate,Summit Fibre (synthetic),55690.91
+2025-06,advertising,Brightline Motors (synthetic),37788.12
+2025-06,advertising,Harbour Home Furnishings (synthetic),16671.23
+2025-06,advertising,Quarry Lane Insurance (synthetic),14448.40
+2025-06,advertising,Tallgrass Grocers (synthetic),12225.57
+2025-06,advertising,Northbank Credit Union (synthetic),11114.15
+2025-06,advertising,Cedar Point Auto Group (synthetic),10002.74
+2025-06,advertising,Lakeshore Health (synthetic),8891.32
+2025-06,affiliate,Rivermark Cable (synthetic),65507.04
+2025-06,affiliate,Harborview Cable (synthetic),63080.85
+2025-06,affiliate,Lakeshore Telecom (synthetic),58228.48
+2025-06,affiliate,Summit Fibre (synthetic),55802.29
+2025-07,advertising,Brightline Motors (synthetic),37939.27
+2025-07,advertising,Harbour Home Furnishings (synthetic),16737.91
+2025-07,advertising,Quarry Lane Insurance (synthetic),14506.19
+2025-07,advertising,Tallgrass Grocers (synthetic),12274.47
+2025-07,advertising,Northbank Credit Union (synthetic),11158.61
+2025-07,advertising,Cedar Point Auto Group (synthetic),10042.75
+2025-07,advertising,Lakeshore Health (synthetic),8926.89
+2025-07,affiliate,Rivermark Cable (synthetic),65638.05
+2025-07,affiliate,Harborview Cable (synthetic),63207.01
+2025-07,affiliate,Lakeshore Telecom (synthetic),58344.93
+2025-07,affiliate,Summit Fibre (synthetic),55913.89
+2025-08,advertising,Brightline Motors (synthetic),38091.03
+2025-08,advertising,Harbour Home Furnishings (synthetic),16804.86
+2025-08,advertising,Quarry Lane Insurance (synthetic),14564.22
+2025-08,advertising,Tallgrass Grocers (synthetic),12323.57
+2025-08,advertising,Northbank Credit Union (synthetic),11203.24
+2025-08,advertising,Cedar Point Auto Group (synthetic),10082.92
+2025-08,advertising,Lakeshore Health (synthetic),8962.59
+2025-08,affiliate,Rivermark Cable (synthetic),65769.33
+2025-08,affiliate,Harborview Cable (synthetic),63333.43
+2025-08,affiliate,Lakeshore Telecom (synthetic),58461.62
+2025-08,affiliate,Summit Fibre (synthetic),56025.72
+2025-09,advertising,Brightline Motors (synthetic),38243.39
+2025-09,advertising,Harbour Home Furnishings (synthetic),16872.08
+2025-09,advertising,Quarry Lane Insurance (synthetic),14622.47
+2025-09,advertising,Tallgrass Grocers (synthetic),12372.86
+2025-09,advertising,Northbank Credit Union (synthetic),11248.06
+2025-09,advertising,Cedar Point Auto Group (synthetic),10123.25
+2025-09,advertising,Lakeshore Health (synthetic),8998.44
+2025-09,affiliate,Rivermark Cable (synthetic),65900.87
+2025-09,affiliate,Harborview Cable (synthetic),63460.09
+2025-09,affiliate,Lakeshore Telecom (synthetic),58578.55
+2025-09,affiliate,Summit Fibre (synthetic),56137.77
+2025-10,advertising,Brightline Motors (synthetic),38396.36
+2025-10,advertising,Harbour Home Furnishings (synthetic),16939.57
+2025-10,advertising,Quarry Lane Insurance (synthetic),14680.96
+2025-10,advertising,Tallgrass Grocers (synthetic),12422.35
+2025-10,advertising,Northbank Credit Union (synthetic),11293.05
+2025-10,advertising,Cedar Point Auto Group (synthetic),10163.74
+2025-10,advertising,Lakeshore Health (synthetic),9034.44
+2025-10,affiliate,Rivermark Cable (synthetic),66032.67
+2025-10,affiliate,Harborview Cable (synthetic),63587.01
+2025-10,affiliate,Lakeshore Telecom (synthetic),58695.70
+2025-10,affiliate,Summit Fibre (synthetic),56250.05
+2025-11,advertising,Brightline Motors (synthetic),38549.95
+2025-11,advertising,Harbour Home Furnishings (synthetic),17007.33
+2025-11,advertising,Quarry Lane Insurance (synthetic),14739.69
+2025-11,advertising,Tallgrass Grocers (synthetic),12472.04
+2025-11,advertising,Northbank Credit Union (synthetic),11338.22
+2025-11,advertising,Cedar Point Auto Group (synthetic),10204.40
+2025-11,advertising,Lakeshore Health (synthetic),9070.58
+2025-11,affiliate,Rivermark Cable (synthetic),66164.73
+2025-11,affiliate,Harborview Cable (synthetic),63714.19
+2025-11,affiliate,Lakeshore Telecom (synthetic),58813.09
+2025-11,affiliate,Summit Fibre (synthetic),56362.55
+2025-12,advertising,Brightline Motors (synthetic),38704.15
+2025-12,advertising,Harbour Home Furnishings (synthetic),17075.36
+2025-12,advertising,Quarry Lane Insurance (synthetic),14798.64
+2025-12,advertising,Tallgrass Grocers (synthetic),12521.93
+2025-12,advertising,Northbank Credit Union (synthetic),11383.57
+2025-12,advertising,Cedar Point Auto Group (synthetic),10245.22
+2025-12,advertising,Lakeshore Health (synthetic),9106.86
+2025-12,affiliate,Rivermark Cable (synthetic),66297.06
+2025-12,affiliate,Harborview Cable (synthetic),63841.61
+2025-12,affiliate,Lakeshore Telecom (synthetic),58930.72
+2025-12,affiliate,Summit Fibre (synthetic),56475.27
+2026-01,advertising,Brightline Motors (synthetic),38858.96
+2026-01,advertising,Harbour Home Furnishings (synthetic),17143.66
+2026-01,advertising,Quarry Lane Insurance (synthetic),14857.84
+2026-01,advertising,Tallgrass Grocers (synthetic),12572.02
+2026-01,advertising,Northbank Credit Union (synthetic),11429.11
+2026-01,advertising,Cedar Point Auto Group (synthetic),10286.20
+2026-01,advertising,Lakeshore Health (synthetic),9143.29
+2026-01,affiliate,Rivermark Cable (synthetic),66429.66
+2026-01,affiliate,Harborview Cable (synthetic),63969.30
+2026-01,affiliate,Lakeshore Telecom (synthetic),59048.58
+2026-01,affiliate,Summit Fibre (synthetic),56588.22
+2026-02,advertising,Brightline Motors (synthetic),39014.40
+2026-02,advertising,Harbour Home Furnishings (synthetic),17212.24
+2026-02,advertising,Quarry Lane Insurance (synthetic),14917.27
+2026-02,advertising,Tallgrass Grocers (synthetic),12622.31
+2026-02,advertising,Northbank Credit Union (synthetic),11474.82
+2026-02,advertising,Cedar Point Auto Group (synthetic),10327.34
+2026-02,advertising,Lakeshore Health (synthetic),9179.86
+2026-02,affiliate,Rivermark Cable (synthetic),66562.51
+2026-02,affiliate,Harborview Cable (synthetic),64097.24
+2026-02,affiliate,Lakeshore Telecom (synthetic),59166.68
+2026-02,affiliate,Summit Fibre (synthetic),56701.40
+2026-03,advertising,Brightline Motors (synthetic),39170.46
+2026-03,advertising,Harbour Home Furnishings (synthetic),17281.08
+2026-03,advertising,Quarry Lane Insurance (synthetic),14976.94
+2026-03,advertising,Tallgrass Grocers (synthetic),12672.80
+2026-03,advertising,Northbank Credit Union (synthetic),11520.72
+2026-03,advertising,Cedar Point Auto Group (synthetic),10368.65
+2026-03,advertising,Lakeshore Health (synthetic),9216.58
+2026-03,affiliate,Rivermark Cable (synthetic),66695.64
+2026-03,affiliate,Harborview Cable (synthetic),64225.43
+2026-03,affiliate,Lakeshore Telecom (synthetic),59285.01
+2026-03,affiliate,Summit Fibre (synthetic),56814.80
+2026-04,advertising,Brightline Motors (synthetic),39327.14
+2026-04,advertising,Harbour Home Furnishings (synthetic),17350.21
+2026-04,advertising,Quarry Lane Insurance (synthetic),15036.85
+2026-04,advertising,Tallgrass Grocers (synthetic),12723.49
+2026-04,advertising,Northbank Credit Union (synthetic),11566.81
+2026-04,advertising,Cedar Point Auto Group (synthetic),10410.13
+2026-04,advertising,Lakeshore Health (synthetic),9253.44
+2026-04,affiliate,Rivermark Cable (synthetic),66829.03
+2026-04,affiliate,Harborview Cable (synthetic),64353.88
+2026-04,affiliate,Lakeshore Telecom (synthetic),59403.58
+2026-04,affiliate,Summit Fibre (synthetic),56928.43
+2026-05,advertising,Brightline Motors (synthetic),39484.45
+2026-05,advertising,Harbour Home Furnishings (synthetic),17419.61
+2026-05,advertising,Quarry Lane Insurance (synthetic),15096.99
+2026-05,advertising,Tallgrass Grocers (synthetic),12774.38
+2026-05,advertising,Northbank Credit Union (synthetic),11613.07
+2026-05,advertising,Cedar Point Auto Group (synthetic),10451.77
+2026-05,advertising,Lakeshore Health (synthetic),9290.46
+2026-05,affiliate,Rivermark Cable (synthetic),66962.69
+2026-05,affiliate,Harborview Cable (synthetic),64482.59
+2026-05,affiliate,Lakeshore Telecom (synthetic),59522.39
+2026-05,affiliate,Summit Fibre (synthetic),57042.29
+2026-06,advertising,Brightline Motors (synthetic),39642.39
+2026-06,advertising,Harbour Home Furnishings (synthetic),17489.29
+2026-06,advertising,Quarry Lane Insurance (synthetic),15157.38
+2026-06,advertising,Tallgrass Grocers (synthetic),12825.48
+2026-06,advertising,Northbank Credit Union (synthetic),11659.53
+2026-06,advertising,Cedar Point Auto Group (synthetic),10493.57
+2026-06,advertising,Lakeshore Health (synthetic),9327.62
+2026-06,affiliate,Rivermark Cable (synthetic),67096.61
+2026-06,affiliate,Harborview Cable (synthetic),64611.55
+2026-06,affiliate,Lakeshore Telecom (synthetic),59641.44
+2026-06,affiliate,Summit Fibre (synthetic),57156.38
+2026-07,advertising,Brightline Motors (synthetic),39800.95
+2026-07,advertising,Harbour Home Furnishings (synthetic),17559.24
+2026-07,advertising,Quarry Lane Insurance (synthetic),15218.01
+2026-07,advertising,Tallgrass Grocers (synthetic),12876.78
+2026-07,advertising,Northbank Credit Union (synthetic),11706.16
+2026-07,advertising,Cedar Point Auto Group (synthetic),10535.55
+2026-07,advertising,Lakeshore Health (synthetic),9364.93
+2026-07,affiliate,Rivermark Cable (synthetic),67230.81
+2026-07,affiliate,Harborview Cable (synthetic),64740.78
+2026-07,affiliate,Lakeshore Telecom (synthetic),59760.72
+2026-07,affiliate,Summit Fibre (synthetic),57270.69
+2026-08,advertising,Brightline Motors (synthetic),39960.16
+2026-08,advertising,Harbour Home Furnishings (synthetic),17629.48
+2026-08,advertising,Quarry Lane Insurance (synthetic),15278.88
+2026-08,advertising,Tallgrass Grocers (synthetic),12928.29
+2026-08,advertising,Northbank Credit Union (synthetic),11752.99
+2026-08,advertising,Cedar Point Auto Group (synthetic),10577.69
+2026-08,advertising,Lakeshore Health (synthetic),9402.39
+2026-08,affiliate,Rivermark Cable (synthetic),67365.27
+2026-08,affiliate,Harborview Cable (synthetic),64870.26
+2026-08,affiliate,Lakeshore Telecom (synthetic),59880.24
+2026-08,affiliate,Summit Fibre (synthetic),57385.23
+2026-09,advertising,Brightline Motors (synthetic),40120.00
+2026-09,advertising,Harbour Home Furnishings (synthetic),17700.00
+2026-09,advertising,Quarry Lane Insurance (synthetic),15340.00
+2026-09,advertising,Tallgrass Grocers (synthetic),12980.00
+2026-09,advertising,Northbank Credit Union (synthetic),11800.00
+2026-09,advertising,Cedar Point Auto Group (synthetic),10620.00
+2026-09,advertising,Lakeshore Health (synthetic),9440.00
+2026-09,affiliate,Rivermark Cable (synthetic),67500.00
+2026-09,affiliate,Harborview Cable (synthetic),65000.00
+2026-09,affiliate,Lakeshore Telecom (synthetic),60000.00
+2026-09,affiliate,Summit Fibre (synthetic),57500.00

@@ -5,11 +5,11 @@ SC-003,Equipment with acquisition dates and useful lives,equipment-schedule.csv,
 SC-004,Share of visits billed at the highest complexity code,coding-summary.csv,Financial,2026-09-30
 SC-005,"Remittances by month and payer: claims, denials, charges billed, cash collected and receivables at month end",remittances.csv,Financial,2026-09-30
 SC-006,"Collections and direct costs by month, service line and pseudonymous provider, from the schedule and billing exports",service-lines.csv,Financial,2026-09-30
-SC-007,"Collections by clinician and month, pseudonymous, from the practice-management system",clinician-collections.csv,Financial,2026-09-30
+SC-007,"Collections by clinician and month, pseudonymous, from the practice-management system, January 2021 to September 2026",clinician-collections.csv,Financial,2026-09-30
 SC-008,"Visits by referral source and month, from the schedule export",referrals.csv,Financial,2026-09-30
 SC-009,Credentialing register: a licence per pseudonymous provider,credentialing-register.csv,Financial,2026-09-30
 SC-010,Payer contract and enrolment register,payer-contracts.csv,Financial,2026-09-30
-SC-011,"Profit and loss by fiscal year, FY2023 to FY2025",pnl.csv,Financial,2026-09-30
+SC-011,"Profit and loss by fiscal year, FY2021 to FY2025",pnl.csv,Financial,2026-09-30
 SC-012,Coding and billing policy,documents/01-coding-policy.pdf,Business,2026-09-30
 SC-013,"Confidential information memorandum, with the owner, the closing date and a days-in-AR claim",documents/02-confidential-information-memorandum.pdf,Business,2026-09-30
 SC-014,Lease of the flagship clinic at 12 Harbour Street,documents/03-lease-harbour-street.pdf,Business,2026-09-30

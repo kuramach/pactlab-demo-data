@@ -5,67 +5,67 @@ Each page reproduces one structured extract from this folder. All names and figu
 remittances.csv — Remittances by month and payer: claims, denials, charges billed, cash collected and receivables at month end
 
 month | payer | payer_class | claims | denied_claims | billed | collected | ar_balance
-2023-01 | Government programme A (synthetic) | medicare | 453 | 28 | 55819.77 | 40449.11 | 73777.58
-2023-01 | Government programme B (synthetic) | medicaid | 146 | 11 | 11417.68 | 8273.68 | 15291.05
-2023-01 | Commercial plan North (synthetic) | commercial | 137 | 8 | 24738.31 | 17926.31 | 32696.88
-2023-01 | Commercial plan Central (synthetic) | commercial | 97 | 5 | 17760.83 | 12870.17 | 24384.92
-2023-01 | Commercial plan Coast (synthetic) | commercial | 67 | 4 | 12052.00 | 8733.33 | 16514.41
-2023-01 | Self-pay and other (synthetic) | self_pay | 48 | 2 | 5074.52 | 3677.19 | 6932.90
-2023-02 | Government programme A (synthetic) | medicare | 457 | 28 | 56196.29 | 40721.95 | 76852.12
-2023-02 | Government programme B (synthetic) | medicaid | 158 | 12 | 12034.91 | 8720.95 | 16344.91
-2023-02 | Commercial plan North (synthetic) | commercial | 139 | 8 | 24637.61 | 17853.34 | 32597.02
-2023-02 | Commercial plan Central (synthetic) | commercial | 98 | 5 | 17655.43 | 12793.79 | 23525.86
-2023-02 | Commercial plan Coast (synthetic) | commercial | 67 | 4 | 11975.05 | 8677.57 | 16166.71
-2023-02 | Self-pay and other (synthetic) | self_pay | 48 | 2 | 5125.00 | 3713.77 | 6815.24
-2023-03 | Government programme A (synthetic) | medicare | 466 | 29 | 56575.34 | 40996.62 | 77752.01
-2023-03 | Government programme B (synthetic) | medicaid | 161 | 12 | 12659.14 | 9173.29 | 16834.16
-2023-03 | Commercial plan North (synthetic) | commercial | 135 | 8 | 24534.81 | 17778.85 | 33122.80
-2023-03 | Commercial plan Central (synthetic) | commercial | 98 | 5 | 17548.11 | 12716.02 | 23524.86
-2023-03 | Commercial plan Coast (synthetic) | commercial | 66 | 4 | 11896.75 | 8620.83 | 15740.10
-2023-03 | Self-pay and other (synthetic) | self_pay | 49 | 2 | 5175.91 | 3750.66 | 6994.63
-2023-04 | Government programme A (synthetic) | medicare | 461 | 29 | 56956.89 | 41273.11 | 75510.97
-2023-04 | Government programme B (synthetic) | medicaid | 171 | 13 | 13290.42 | 9630.74 | 17566.09
-2023-04 | Commercial plan North (synthetic) | commercial | 134 | 7 | 24429.89 | 17702.82 | 33310.64
-2023-04 | Commercial plan Central (synthetic) | commercial | 97 | 5 | 17438.87 | 12636.86 | 23613.61
-2023-04 | Commercial plan Coast (synthetic) | commercial | 65 | 4 | 11817.08 | 8563.10 | 15634.70
-2023-04 | Self-pay and other (synthetic) | self_pay | 49 | 2 | 5227.25 | 3787.86 | 7120.41
-2023-05 | Government programme A (synthetic) | medicare | 478 | 30 | 57340.99 | 41551.44 | 78417.58
-2023-05 | Government programme B (synthetic) | medicaid | 180 | 14 | 13928.82 | 10093.35 | 19123.72
-2023-05 | Commercial plan North (synthetic) | commercial | 136 | 8 | 24322.83 | 17625.24 | 33459.89
-2023-05 | Commercial plan Central (synthetic) | commercial | 96 | 5 | 17327.68 | 12556.29 | 22902.18
-2023-05 | Commercial plan Coast (synthetic) | commercial | 65 | 4 | 11736.02 | 8504.36 | 15543.28
-2023-05 | Self-pay and other (synthetic) | self_pay | 50 | 2 | 5279.01 | 3825.37 | 7020.04
-2023-06 | Government programme A (synthetic) | medicare | 471 | 29 | 57727.65 | 41831.63 | 77856.37
-2023-06 | Government programme B (synthetic) | medicaid | 189 | 15 | 14574.41 | 10561.17 | 19558.00
-2023-06 | Commercial plan North (synthetic) | commercial | 136 | 8 | 24213.60 | 17546.09 | 32558.53
-2023-06 | Commercial plan Central (synthetic) | commercial | 94 | 5 | 17214.53 | 12474.30 | 22775.84
-2023-06 | Commercial plan Coast (synthetic) | commercial | 65 | 4 | 11653.56 | 8444.61 | 15842.71
-2023-06 | Self-pay and other (synthetic) | self_pay | 50 | 2 | 5331.20 | 3863.19 | 7276.39
-2023-07 | Government programme A (synthetic) | medicare | 478 | 30 | 58116.88 | 42113.68 | 79400.28
-2023-07 | Government programme B (synthetic) | medicaid | 195 | 15 | 15227.24 | 11034.23 | 20208.15
-2023-07 | Commercial plan North (synthetic) | commercial | 135 | 8 | 24102.18 | 17465.35 | 33026.33
-2023-07 | Commercial plan Central (synthetic) | commercial | 94 | 5 | 17099.41 | 12390.88 | 23292.32
-2023-07 | Commercial plan Coast (synthetic) | commercial | 65 | 4 | 11569.69 | 8383.83 | 15791.10
-2023-07 | Self-pay and other (synthetic) | self_pay | 51 | 2 | 5383.84 | 3901.33 | 7370.02
-2023-08 | Government programme A (synthetic) | medicare | 486 | 30 | 58508.70 | 42397.61 | 78357.39
-2023-08 | Government programme B (synthetic) | medicaid | 208 | 16 | 15887.39 | 11512.60 | 21427.07
-2023-08 | Commercial plan North (synthetic) | commercial | 135 | 8 | 23988.57 | 17383.02 | 31997.12
-2023-08 | Commercial plan Central (synthetic) | commercial | 93 | 5 | 16982.28 | 12306.00 | 23155.67
-2023-08 | Commercial plan Coast (synthetic) | commercial | 64 | 4 | 11484.39 | 8322.02 | 15783.10
-2023-08 | Self-pay and other (synthetic) | self_pay | 51 | 2 | 5436.91 | 3939.79 | 7332.67
-2023-09 | Government programme A (synthetic) | medicare | 480 | 30 | 58903.15 | 42683.44 | 80474.49
-2023-09 | Government programme B (synthetic) | medicaid | 212 | 16 | 16554.89 | 11996.30 | 22260.34
-2023-09 | Commercial plan North (synthetic) | commercial | 134 | 7 | 23872.72 | 17299.07 | 32293.35
-2023-09 | Commercial plan Central (synthetic) | commercial | 95 | 5 | 16863.14 | 12219.67 | 22788.54
-2023-09 | Commercial plan Coast (synthetic) | commercial | 63 | 4 | 11397.65 | 8259.17 | 15325.72
-2023-09 | Self-pay and other (synthetic) | self_pay | 51 | 2 | 5490.43 | 3978.57 | 7501.12
-2023-10 | Government programme A (synthetic) | medicare | 481 | 30 | 59300.20 | 42971.16 | 81416.83
-2023-10 | Government programme B (synthetic) | medicaid | 223 | 17 | 17229.85 | 12485.40 | 22935.54
-2023-10 | Commercial plan North (synthetic) | commercial | 134 | 7 | 23754.60 | 17213.48 | 31396.70
-2023-10 | Commercial plan Central (synthetic) | commercial | 94 | 5 | 16741.95 | 12131.85 | 22534.44
-2023-10 | Commercial plan Coast (synthetic) | commercial | 62 | 3 | 11309.47 | 8195.27 | 15344.42
-2023-10 | Self-pay and other (synthetic) | self_pay | 52 | 2 | 5544.38 | 4017.67 | 7537.44
-… 210 more rows in remittances.csv
+2021-01 | Government programme A (synthetic) | medicare | 386 | 15 | 47255.49 | 34243.11 | 62458.08
+2021-01 | Government programme B (synthetic) | medicaid | 86 | 4 | 6593.79 | 4778.11 | 9026.33
+2021-01 | Commercial plan North (synthetic) | commercial | 130 | 5 | 23078.26 | 16723.38 | 30876.28
+2021-01 | Commercial plan Central (synthetic) | commercial | 91 | 3 | 16484.47 | 11945.27 | 22610.29
+2021-01 | Commercial plan Coast (synthetic) | commercial | 63 | 2 | 11539.13 | 8361.69 | 15547.08
+2021-01 | Self-pay and other (synthetic) | self_pay | 46 | 1 | 4945.34 | 3583.58 | 6709.72
+2021-02 | Government programme A (synthetic) | medicare | 386 | 15 | 47585.09 | 34481.95 | 64690.68
+2021-02 | Government programme B (synthetic) | medicaid | 87 | 4 | 6771.55 | 4906.92 | 9068.75
+2021-02 | Commercial plan North (synthetic) | commercial | 128 | 5 | 23147.64 | 16773.65 | 30688.14
+2021-02 | Commercial plan Central (synthetic) | commercial | 91 | 3 | 16537.31 | 11983.56 | 22526.64
+2021-02 | Commercial plan Coast (synthetic) | commercial | 65 | 2 | 11562.30 | 8378.48 | 15313.20
+2021-02 | Self-pay and other (synthetic) | self_pay | 47 | 1 | 4951.98 | 3588.39 | 6671.98
+2021-03 | Government programme A (synthetic) | medicare | 398 | 16 | 47916.94 | 34722.42 | 63396.95
+2021-03 | Government programme B (synthetic) | medicaid | 91 | 5 | 6951.20 | 5037.10 | 9356.22
+2021-03 | Commercial plan North (synthetic) | commercial | 129 | 5 | 23217.01 | 16823.92 | 31719.48
+2021-03 | Commercial plan Central (synthetic) | commercial | 92 | 3 | 16590.19 | 12021.88 | 22531.55
+2021-03 | Commercial plan Coast (synthetic) | commercial | 65 | 2 | 11585.33 | 8395.17 | 15453.08
+2021-03 | Self-pay and other (synthetic) | self_pay | 46 | 1 | 4958.52 | 3593.13 | 6593.85
+2021-04 | Government programme A (synthetic) | medicare | 390 | 16 | 48251.07 | 34964.54 | 64685.00
+2021-04 | Government programme B (synthetic) | medicaid | 91 | 5 | 7132.76 | 5168.67 | 9648.70
+2021-04 | Commercial plan North (synthetic) | commercial | 130 | 5 | 23286.38 | 16874.19 | 31908.47
+2021-04 | Commercial plan Central (synthetic) | commercial | 94 | 3 | 16643.12 | 12060.23 | 22491.21
+2021-04 | Commercial plan Coast (synthetic) | commercial | 65 | 2 | 11608.23 | 8411.76 | 15483.62
+2021-04 | Self-pay and other (synthetic) | self_pay | 46 | 1 | 4964.96 | 3597.80 | 6562.24
+2021-05 | Government programme A (synthetic) | medicare | 398 | 16 | 48587.47 | 35208.31 | 65791.27
+2021-05 | Government programme B (synthetic) | medicaid | 95 | 5 | 7316.26 | 5301.64 | 9985.73
+2021-05 | Commercial plan North (synthetic) | commercial | 129 | 5 | 23355.75 | 16924.46 | 31720.03
+2021-05 | Commercial plan Central (synthetic) | commercial | 93 | 3 | 16696.08 | 12098.61 | 22855.51
+2021-05 | Commercial plan Coast (synthetic) | commercial | 64 | 2 | 11630.97 | 8428.24 | 15717.88
+2021-05 | Self-pay and other (synthetic) | self_pay | 47 | 1 | 4971.30 | 3602.39 | 6684.60
+2021-06 | Government programme A (synthetic) | medicare | 395 | 16 | 48926.18 | 35453.75 | 66843.78
+2021-06 | Government programme B (synthetic) | medicaid | 96 | 5 | 7501.69 | 5436.01 | 9975.77
+2021-06 | Commercial plan North (synthetic) | commercial | 129 | 5 | 23425.11 | 16974.72 | 31087.59
+2021-06 | Commercial plan Central (synthetic) | commercial | 94 | 3 | 16749.07 | 12137.01 | 22995.81
+2021-06 | Commercial plan Coast (synthetic) | commercial | 64 | 2 | 11653.59 | 8444.63 | 15858.47
+2021-06 | Self-pay and other (synthetic) | self_pay | 46 | 1 | 4977.54 | 3606.91 | 6800.40
+2021-07 | Government programme A (synthetic) | medicare | 402 | 16 | 49267.20 | 35700.87 | 66911.02
+2021-07 | Government programme B (synthetic) | medicaid | 101 | 5 | 7689.10 | 5571.81 | 10214.62
+2021-07 | Commercial plan North (synthetic) | commercial | 129 | 5 | 23494.47 | 17024.98 | 31718.31
+2021-07 | Commercial plan Central (synthetic) | commercial | 94 | 3 | 16802.11 | 12175.44 | 23023.31
+2021-07 | Commercial plan Coast (synthetic) | commercial | 66 | 2 | 11676.04 | 8460.90 | 15652.81
+2021-07 | Self-pay and other (synthetic) | self_pay | 47 | 1 | 4983.68 | 3611.36 | 6654.20
+2021-08 | Government programme A (synthetic) | medicare | 412 | 16 | 49610.54 | 35949.67 | 67711.86
+2021-08 | Government programme B (synthetic) | medicaid | 102 | 5 | 7878.48 | 5709.04 | 10657.46
+2021-08 | Commercial plan North (synthetic) | commercial | 130 | 5 | 23563.82 | 17075.23 | 31589.47
+2021-08 | Commercial plan Central (synthetic) | commercial | 92 | 3 | 16855.17 | 12213.89 | 23027.82
+2021-08 | Commercial plan Coast (synthetic) | commercial | 64 | 2 | 11698.34 | 8477.06 | 15509.15
+2021-08 | Self-pay and other (synthetic) | self_pay | 47 | 1 | 4989.71 | 3615.73 | 6608.41
+2021-09 | Government programme A (synthetic) | medicare | 412 | 16 | 49956.25 | 36200.18 | 67846.83
+2021-09 | Government programme B (synthetic) | medicaid | 104 | 5 | 8069.85 | 5847.72 | 10818.38
+2021-09 | Commercial plan North (synthetic) | commercial | 133 | 5 | 23633.15 | 17125.47 | 31331.80
+2021-09 | Commercial plan Central (synthetic) | commercial | 93 | 3 | 16908.27 | 12252.37 | 22849.52
+2021-09 | Commercial plan Coast (synthetic) | commercial | 65 | 2 | 11720.51 | 8493.12 | 16091.80
+2021-09 | Self-pay and other (synthetic) | self_pay | 47 | 1 | 4995.63 | 3620.02 | 6852.07
+2021-10 | Government programme A (synthetic) | medicare | 417 | 17 | 50304.31 | 36452.40 | 68523.07
+2021-10 | Government programme B (synthetic) | medicaid | 107 | 5 | 8263.25 | 5987.86 | 11033.07
+2021-10 | Commercial plan North (synthetic) | commercial | 132 | 5 | 23702.47 | 17175.70 | 32574.52
+2021-10 | Commercial plan Central (synthetic) | commercial | 93 | 3 | 16961.40 | 12290.87 | 23241.58
+2021-10 | Commercial plan Coast (synthetic) | commercial | 65 | 2 | 11742.50 | 8509.06 | 15916.11
+2021-10 | Self-pay and other (synthetic) | self_pay | 47 | 1 | 5001.44 | 3624.23 | 6873.53
+… 354 more rows in remittances.csv
 ---page---
 claims-summary.csv — Monthly claims billed, paid and denial rate by payer
 
@@ -154,70 +154,70 @@ PR-16 | Physical therapy | 1.0 | 2027-04-01
 PR-17 | Primary care | 0.6 | 2027-05-01
 PR-18 | Occupational therapy | 1.0 | 2027-06-01
 ---page---
-clinician-collections.csv — Collections by clinician and month, pseudonymous, from the practice-management system
+clinician-collections.csv — Collections by clinician and month, pseudonymous, from the practice-management system, January 2021 to September 2026
 
 month | provider_ref | site | visits | collected
-2025-10 | PR-01 | Northgate practice (synthetic) | 33 | 3241.63
-2025-10 | PR-02 | Riverside practice (synthetic) | 57 | 5664.98
-2025-10 | PR-03 | Eastfield practice (synthetic) | 357 | 35485.79
-2025-10 | PR-04 | Millbrook practice (synthetic) | 48 | 4720.82
-2025-10 | PR-05 | Westcourt practice (synthetic) | 29 | 2832.49
-2025-10 | PR-06 | Harbour Road practice (synthetic) | 55 | 5455.16
-2025-10 | PR-07 | Elmstead practice (synthetic) | 57 | 5664.98
-2025-10 | PR-08 | Fairview practice (synthetic) | 53 | 5297.80
-2025-10 | PR-09 | Southpark practice (synthetic) | 34 | 3367.52
-2025-10 | PR-10 | Northgate practice (synthetic) | 56 | 5612.53
-2025-10 | PR-11 | Riverside practice (synthetic) | 49 | 4878.18
-2025-10 | PR-12 | Eastfield practice (synthetic) | 49 | 4825.72
-2025-10 | PR-13 | Millbrook practice (synthetic) | 32 | 3178.68
-2025-10 | PR-14 | Westcourt practice (synthetic) | 55 | 5455.16
-2025-10 | PR-15 | Harbour Road practice (synthetic) | 52 | 5192.90
-2025-10 | PR-16 | Elmstead practice (synthetic) | 55 | 5507.62
-2025-10 | PR-17 | Fairview practice (synthetic) | 29 | 2895.43
-2025-10 | PR-18 | Southpark practice (synthetic) | 52 | 5192.89
-2025-11 | PR-01 | Northgate practice (synthetic) | 32 | 3197.18
-2025-11 | PR-02 | Riverside practice (synthetic) | 56 | 5587.30
-2025-11 | PR-03 | Eastfield practice (synthetic) | 352 | 34999.20
-2025-11 | PR-04 | Millbrook practice (synthetic) | 47 | 4656.08
-2025-11 | PR-05 | Westcourt practice (synthetic) | 28 | 2793.65
-2025-11 | PR-06 | Harbour Road practice (synthetic) | 54 | 5380.36
-2025-11 | PR-07 | Elmstead practice (synthetic) | 56 | 5587.30
-2025-11 | PR-08 | Fairview practice (synthetic) | 53 | 5225.16
-2025-11 | PR-09 | Southpark practice (synthetic) | 33 | 3321.34
-2025-11 | PR-10 | Northgate practice (synthetic) | 56 | 5535.56
-2025-11 | PR-11 | Riverside practice (synthetic) | 48 | 4811.29
-2025-11 | PR-12 | Eastfield practice (synthetic) | 48 | 4759.55
-2025-11 | PR-13 | Millbrook practice (synthetic) | 32 | 3135.10
-2025-11 | PR-14 | Westcourt practice (synthetic) | 54 | 5380.36
-2025-11 | PR-15 | Harbour Road practice (synthetic) | 52 | 5121.69
-2025-11 | PR-16 | Elmstead practice (synthetic) | 55 | 5432.10
-2025-11 | PR-17 | Fairview practice (synthetic) | 29 | 2855.73
-2025-11 | PR-18 | Southpark practice (synthetic) | 52 | 5121.68
-2025-12 | PR-01 | Northgate practice (synthetic) | 33 | 3289.92
-2025-12 | PR-02 | Riverside practice (synthetic) | 58 | 5749.38
-2025-12 | PR-03 | Eastfield practice (synthetic) | 362 | 36014.49
-2025-12 | PR-04 | Millbrook practice (synthetic) | 48 | 4791.15
-2025-12 | PR-05 | Westcourt practice (synthetic) | 29 | 2874.69
-2025-12 | PR-06 | Harbour Road practice (synthetic) | 56 | 5536.44
-2025-12 | PR-07 | Elmstead practice (synthetic) | 58 | 5749.38
-2025-12 | PR-08 | Fairview practice (synthetic) | 54 | 5376.74
-2025-12 | PR-09 | Southpark practice (synthetic) | 34 | 3417.69
-2025-12 | PR-10 | Northgate practice (synthetic) | 57 | 5696.15
-2025-12 | PR-11 | Riverside practice (synthetic) | 50 | 4950.86
-2025-12 | PR-12 | Eastfield practice (synthetic) | 49 | 4897.62
-2025-12 | PR-13 | Millbrook practice (synthetic) | 32 | 3226.04
-2025-12 | PR-14 | Westcourt practice (synthetic) | 56 | 5536.44
-2025-12 | PR-15 | Harbour Road practice (synthetic) | 53 | 5270.27
-2025-12 | PR-16 | Elmstead practice (synthetic) | 56 | 5589.68
-2025-12 | PR-17 | Fairview practice (synthetic) | 30 | 2938.57
-2025-12 | PR-18 | Southpark practice (synthetic) | 53 | 5270.27
-2026-01 | PR-01 | Northgate practice (synthetic) | 33 | 3264.32
-2026-01 | PR-02 | Riverside practice (synthetic) | 57 | 5704.63
-2026-01 | PR-03 | Eastfield practice (synthetic) | 360 | 35734.16
-2026-01 | PR-04 | Millbrook practice (synthetic) | 48 | 4753.86
-2026-01 | PR-05 | Westcourt practice (synthetic) | 29 | 2852.31
-2026-01 | PR-06 | Harbour Road practice (synthetic) | 55 | 5493.35
-… 156 more rows in clinician-collections.csv
+2021-01 | PR-01 | Northgate practice (synthetic) | 35 | 2255.15
+2021-01 | PR-02 | Riverside practice (synthetic) | 61 | 3941.04
+2021-01 | PR-03 | Eastfield practice (synthetic) | 383 | 24686.89
+2021-01 | PR-04 | Millbrook practice (synthetic) | 51 | 3284.20
+2021-01 | PR-05 | Westcourt practice (synthetic) | 31 | 1970.52
+2021-01 | PR-06 | Harbour Road practice (synthetic) | 59 | 3795.07
+2021-01 | PR-07 | Elmstead practice (synthetic) | 61 | 3941.04
+2021-01 | PR-08 | Fairview practice (synthetic) | 57 | 3685.60
+2021-01 | PR-09 | Southpark practice (synthetic) | 36 | 2342.73
+2021-01 | PR-10 | Northgate practice (synthetic) | 61 | 3904.54
+2021-01 | PR-11 | Riverside practice (synthetic) | 53 | 3393.67
+2021-01 | PR-12 | Eastfield practice (synthetic) | 52 | 3357.18
+2021-01 | PR-13 | Millbrook practice (synthetic) | 34 | 2211.36
+2021-01 | PR-14 | Westcourt practice (synthetic) | 59 | 3795.07
+2021-01 | PR-15 | Harbour Road practice (synthetic) | 56 | 3612.62
+2021-01 | PR-16 | Elmstead practice (synthetic) | 59 | 3831.56
+2021-01 | PR-17 | Fairview practice (synthetic) | 31 | 2014.31
+2021-01 | PR-18 | Southpark practice (synthetic) | 56 | 3612.59
+2021-02 | PR-01 | Northgate practice (synthetic) | 35 | 2268.68
+2021-02 | PR-02 | Riverside practice (synthetic) | 62 | 3964.68
+2021-02 | PR-03 | Eastfield practice (synthetic) | 386 | 24835.01
+2021-02 | PR-04 | Millbrook practice (synthetic) | 51 | 3303.90
+2021-02 | PR-05 | Westcourt practice (synthetic) | 31 | 1982.34
+2021-02 | PR-06 | Harbour Road practice (synthetic) | 59 | 3817.84
+2021-02 | PR-07 | Elmstead practice (synthetic) | 62 | 3964.68
+2021-02 | PR-08 | Fairview practice (synthetic) | 58 | 3707.71
+2021-02 | PR-09 | Southpark practice (synthetic) | 37 | 2356.78
+2021-02 | PR-10 | Northgate practice (synthetic) | 61 | 3927.97
+2021-02 | PR-11 | Riverside practice (synthetic) | 53 | 3414.03
+2021-02 | PR-12 | Eastfield practice (synthetic) | 52 | 3377.32
+2021-02 | PR-13 | Millbrook practice (synthetic) | 35 | 2224.63
+2021-02 | PR-14 | Westcourt practice (synthetic) | 59 | 3817.84
+2021-02 | PR-15 | Harbour Road practice (synthetic) | 56 | 3634.29
+2021-02 | PR-16 | Elmstead practice (synthetic) | 60 | 3854.55
+2021-02 | PR-17 | Fairview practice (synthetic) | 31 | 2026.39
+2021-02 | PR-18 | Southpark practice (synthetic) | 56 | 3634.31
+2021-03 | PR-01 | Northgate practice (synthetic) | 35 | 2282.29
+2021-03 | PR-02 | Riverside practice (synthetic) | 62 | 3988.47
+2021-03 | PR-03 | Eastfield practice (synthetic) | 388 | 24984.02
+2021-03 | PR-04 | Millbrook practice (synthetic) | 52 | 3323.72
+2021-03 | PR-05 | Westcourt practice (synthetic) | 31 | 1994.23
+2021-03 | PR-06 | Harbour Road practice (synthetic) | 60 | 3840.75
+2021-03 | PR-07 | Elmstead practice (synthetic) | 62 | 3988.47
+2021-03 | PR-08 | Fairview practice (synthetic) | 58 | 3729.96
+2021-03 | PR-09 | Southpark practice (synthetic) | 37 | 2370.92
+2021-03 | PR-10 | Northgate practice (synthetic) | 61 | 3951.54
+2021-03 | PR-11 | Riverside practice (synthetic) | 53 | 3434.52
+2021-03 | PR-12 | Eastfield practice (synthetic) | 53 | 3397.58
+2021-03 | PR-13 | Millbrook practice (synthetic) | 35 | 2237.97
+2021-03 | PR-14 | Westcourt practice (synthetic) | 60 | 3840.75
+2021-03 | PR-15 | Harbour Road practice (synthetic) | 57 | 3656.10
+2021-03 | PR-16 | Elmstead practice (synthetic) | 60 | 3877.68
+2021-03 | PR-17 | Fairview practice (synthetic) | 32 | 2038.55
+2021-03 | PR-18 | Southpark practice (synthetic) | 57 | 3656.10
+2021-04 | PR-01 | Northgate practice (synthetic) | 36 | 2295.98
+2021-04 | PR-02 | Riverside practice (synthetic) | 62 | 4012.40
+2021-04 | PR-03 | Eastfield practice (synthetic) | 390 | 25133.93
+2021-04 | PR-04 | Millbrook practice (synthetic) | 52 | 3343.67
+2021-04 | PR-05 | Westcourt practice (synthetic) | 31 | 2006.20
+2021-04 | PR-06 | Harbour Road practice (synthetic) | 60 | 3863.79
+… 1182 more rows in clinician-collections.csv
 ---page---
 credentialing-register.csv — Credentialing register as the practice keeps it: licences and registrations by pseudonymous clinician
 
@@ -256,14 +256,14 @@ PA-NORTH-2024 | Commercial plan North (synthetic) | commercial | 2024-04-01 | 20
 PA-CENTRAL-2022 | Commercial plan Central (synthetic) | commercial | 2022-01-01 | 2026-12-31 | yes
 PA-COAST-2023 | Commercial plan Coast (synthetic) | commercial | 2023-01-01 | 2027-12-31 | no
 ---page---
-pnl.csv — Profit and loss by fiscal year, FY2023 to FY2025
+pnl.csv — Profit and loss by fiscal year, FY2021 to FY2025
 
-Line | FY2023 | FY2024 | FY2025
-Net patient service revenue | 1140299.77 | 1226046.35 | 1334674.02
-Other operating revenue | 16560.00 | 17222.40 | 17884.80
-Cost of care: clinical staff | 601567.08 | 640283.41 | 689805.00
-Cost of care: medical supplies | 69411.59 | 74596.13 | 79800.97
-Denial write-offs and bad debt | 20823.48 | 32324.99 | 52749.79
-Billing and collection costs | 46274.39 | 50974.02 | 54102.35
-Rent and occupancy | 98333.08 | 101948.04 | 108204.71
-General and administrative | 104117.38 | 104434.58 | 102794.47
+Line | FY2021 | FY2022 | FY2023 | FY2024 | FY2025
+Net patient service revenue | 987796.52 | 1061312.48 | 1140299.77 | 1226046.35 | 1334674.02
+Other operating revenue | 15235.20 | 15897.60 | 16560.00 | 17222.40 | 17884.80
+Cost of care: clinical staff | 531606.81 | 565535.29 | 601567.08 | 640283.41 | 689805.00
+Cost of care: medical supplies | 60181.90 | 64632.60 | 69411.59 | 74596.13 | 79800.97
+Denial write-offs and bad debt | 10030.32 | 14003.73 | 20823.48 | 32324.99 | 52749.79
+Billing and collection costs | 40121.27 | 43088.40 | 46274.39 | 50974.02 | 54102.35
+Rent and occupancy | 90272.85 | 94794.49 | 98333.08 | 101948.04 | 108204.71
+General and administrative | 98297.11 | 101257.75 | 104117.38 | 104434.58 | 102794.47

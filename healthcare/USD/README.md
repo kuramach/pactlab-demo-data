@@ -61,8 +61,8 @@ Open the **Sources** tab and scroll to **Industry data**. Upload these files one
 |---|---|---|---|---|
 | 1 | **Upload claims summary** | `claims-summary.csv` | **Upload and map columns** → **Check every row** | **Import 72 rows** |
 | 2 | **Upload provider roster** | `provider-roster.csv` | **Upload and map columns** → **Check every row** | **Import 18 rows** |
-| 3 | **Upload remittances by payer** | `remittances.csv` | **Upload and map columns** → **Check every row** | **Import 270 rows** |
-| 4 | **Upload collections by clinician** | `clinician-collections.csv` | **Upload and map columns** → **Check every row** | **Import 216 rows** |
+| 3 | **Upload remittances by payer** | `remittances.csv` | **Upload and map columns** → **Check every row** | **Import 414 rows** |
+| 4 | **Upload collections by clinician** | `clinician-collections.csv` | **Upload and map columns** → **Check every row** | **Import 1242 rows** |
 | 5 | **Upload credentialing register** | `credentialing-register.csv` | **Upload and map columns** → **Check every row** | **Import 24 rows** |
 | 6 | **Upload payer contract register** | `payer-contracts.csv` | **Upload and map columns** → **Check every row** | **Import 5 rows** |
 
@@ -89,32 +89,33 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 
 Open the **Sources** tab, scroll to **Industry data** and click **Upload profit and loss (p&l)**.
 
-1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the three years across the columns (FY2023, FY2024, FY2025).
+1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the five years across the columns (FY2021 to FY2025).
 2. Say what each line is: the two lines ending in *revenue* are **Revenue**, the two `Cost of care` lines are **Cost of revenue**, and the rest are **Operating expenses**.
-3. **Check every row**, then **Import 24 rows**.
+3. **Check every row**, then **Import 40 rows**.
 
-**You should see:** the import succeed. The **Practice** tab now shows the P&L year by year next to collections, and the checks in the next step read every year.
+**You should see:** the import succeed. The **Practice** tab now shows the P&L year by year next to collections; **Finances** shows the five years side by side with visits, the commercial share and the denial rate, and the checks in the next step read every year.
 
 ## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run healthcare & health tech checks**.
-2. **You should see exactly these 15 findings** (running the checks again adds nothing):
+2. **You should see exactly these 16 findings** (running the checks again adds nothing):
 
    1. **Revenue concentrated in government programmes** — government programmes A and B are 63.6% of September 2026 revenue in `invoice-lines.csv`.
    2. **Medical-director fee above documented duties** — `documents/01-medical-director-agreement.pdf` — a fixed fee for four hours a month, against 1.5 documented hours (page 2).
    3. **Privacy risk assessment out of date** — `documents/02-privacy-risk-assessment.pdf` — last assessed March 2023, review overdue since March 2024.
    4. **Provider credentials expiring** — two providers in `provider-roster.csv` have credentials expiring before the end of 2026.
    5. **Claim contradicted: Denial rate** — the management presentation says the denial rate fell from 8.4% to 6.1%; `remittances.csv` shows it rose: 6.2% in 2023, 8.1% in 2024, 9.9% in 2025.
-   6. **Denial rate rising, 2023–2025** — denied ÷ adjudicated claims in `remittances.csv`, up every year from 6.2% to 9.9%; one year alone looks like one figure.
+   6. **Denial rate rising, 2021–2025** — denied ÷ adjudicated claims in `remittances.csv`, up every year from 3.8% to 9.9%; one year alone looks like one figure.
    7. **Claim contradicted: Commercial payer share** — the presentation says 41% of FY2025 collections came from commercial payers; `remittances.csv` gives 32.2%.
-   8. **Payer mix shifted toward Medicaid, the lowest-paying payer class, 2023–2025** — Government programme B (Medicaid) went from 19.1% of claims in 2023 to 29.1% in 2025, and pays least per claim.
+   8. **Payer mix shifted toward Medicaid, the lowest-paying payer class, 2021–2025** — Government programme B (Medicaid) went from 11.8% of claims in 2021 to 29.1% in 2025, and pays least per claim.
    9. **Claim verified: Days in accounts receivable** — 42 days at 31 December 2025, recomputed from the receivables and charges in `remittances.csv` (41.8).
    10. **Practising on an expired licence: PR-07** — `documents/04-licence-verification.pdf` (page 2) — the licence expired on 30 April 2026; the register still says active to April 2027, and `clinician-collections.csv` records USD 27,762 collected on PR-07's claims since.
    11. **Practising on an expired licence: PR-15** — the licence expired on 30 June 2026; USD 19,450 collected since.
    12. **31.0% of collections from one clinician, no non-compete on file: PR-03** — PR-03 collected USD 474,507 of USD 1,530,668 in the twelve months to September 2026; `documents/05-restrictive-covenants-schedule.pdf` does not list PR-03.
    13. **Payer contract ends within a year: Commercial plan North (synthetic)** — `payer-contracts.csv` — PA-NORTH-2024 ends on 31 March 2027 with no automatic renewal; the payer is 14.9% of trailing collections.
-   14. **P&L trend, 2023–2025** — every imported year side by side: revenue, growth, margins and the denial write-off, clinical staff, supplies and billing ratios.
-   15. **Denial write-offs and bad debt growing faster than revenue, 2023–2025** — `pnl.csv` — from 1.8% of revenue in FY2023 to 3.9% in FY2025 (USD 22,721 to USD 57,229); FY2025 alone looks small.
+   14. **Visits falling every year, FY2021–FY2025** — `clinician-collections.csv` — visits by calendar year: FY2021 15,398, FY2022 14,661, FY2023 14,137, FY2024 13,672, FY2025 13,401, while collections grew; the growth is collected per visit, not patients.
+   15. **P&L trend, 2021–2025** — every imported year side by side: revenue, growth, margins and the denial write-off, clinical staff, supplies and billing ratios.
+   16. **Denial write-offs and bad debt growing faster than revenue, 2021–2025** — `pnl.csv` — from 1.0% of revenue in FY2021 to 3.9% in FY2025 (USD 10,944 to USD 57,229); FY2025 alone looks small.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
@@ -220,13 +221,13 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 | File | What it is | Upload it? |
 |---|---|---|
 | `invoice-lines.csv` | 144 revenue lines, one per payer remittance per month | **Yes** — billing export step |
-| `remittances.csv` | Remittances by month and payer: claims, denials, charges billed, cash collected and receivables at month end (270 rows) | **Yes** — industry data step |
+| `remittances.csv` | Remittances by month and payer: claims, denials, charges billed, cash collected and receivables at month end (414 rows) | **Yes** — industry data step |
 | `claims-summary.csv` | Monthly claims billed, paid and denial rate by payer (72 rows) | **Yes** — industry data step |
 | `provider-roster.csv` | Provider roster, pseudonymous, with credential expiry dates (18 rows) | **Yes** — industry data step |
-| `clinician-collections.csv` | Collections by clinician and month, pseudonymous, from the practice-management system (216 rows) | **Yes** — industry data step |
+| `clinician-collections.csv` | Collections by clinician and month, pseudonymous, from the practice-management system, January 2021 to September 2026 (1242 rows) | **Yes** — industry data step |
 | `credentialing-register.csv` | Credentialing register as the practice keeps it: licences and registrations by pseudonymous clinician (24 rows) | **Yes** — industry data step |
 | `payer-contracts.csv` | Payer contract and enrolment register (5 rows) | **Yes** — industry data step |
-| `pnl.csv` | Profit and loss by fiscal year, FY2023 to FY2025 (8 lines) | **Yes** — P&L step |
+| `pnl.csv` | Profit and loss by fiscal year, FY2021 to FY2025 (8 lines) | **Yes** — P&L step |
 | `documents/01-medical-director-agreement.pdf` | Medical-director agreement and time records | **Yes** — documents step |
 | `documents/02-privacy-risk-assessment.pdf` | Most recent privacy and security risk assessment | **Yes** — documents step |
 | `documents/03-management-presentation.pdf` | Management presentation with denial-rate, payer-mix and days-in-AR claims | **Yes** — documents step |
@@ -242,6 +243,7 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 ## Notes
 
 - Provider data is pseudonymous and aggregate by design; Pactlab never sends people data to a model.
+- `remittances.csv` and `clinician-collections.csv` run January 2021 to September 2026, so each of FY2021–FY2025 is a complete year (five years of history, read side by side on **Finances**).
 - The P&L (`pnl.csv`) imports through Sources like any extract; the multi-year checks read every year it holds. A single year still imports: the trend then reports that year alone.
 - Diligence support only: the pack checks documents, dates and arithmetic. It does not assess the quality of care or whether billing, referrals or the expired licences are lawful.
 

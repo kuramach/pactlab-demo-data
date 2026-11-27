@@ -30,3 +30,12 @@ month | cash_balance | net_burn
 2026-07 | 1380130.00 | 94010.00
 2026-08 | 1283750.00 | 96380.00
 2026-09 | 1185000.00 | 98750.00
+---page---
+pnl.csv — Profit and loss by fiscal year, FY2024 to FY2025 (the business began trading in January 2024)
+
+Line | FY2024 | FY2025
+Subscription revenue | 645975.50 | 1049609.76
+Hosting and infrastructure | 77517.06 | 125953.17
+Research and development | 549079.18 | 892168.30
+Sales and marketing | 290688.98 | 472324.39
+General and administrative | 193792.65 | 314882.93

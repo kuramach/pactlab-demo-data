@@ -1,6 +1,11 @@
 doc_id,title,file,data_class,as_of
 ED-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
-ED-002,Repeat purchase by first-purchase cohort,orders-by-cohort.csv,Financial,2026-09-30
-ED-003,Advertising spend and new customers by channel,ad-spend.csv,Financial,2026-09-30
-ED-004,Marketplace seller terms,documents/01-marketplace-seller-terms.pdf,Business,2026-09-30
-ED-005,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+ED-002,"Storefront and marketplace orders by month, channel and platform account, January 2021 to September 2026: sales, returns, costs and new customers",channel-orders.csv,Financial,2026-09-30
+ED-003,Repeat purchase by first-purchase cohort,orders-by-cohort.csv,Financial,2026-09-30
+ED-004,Advertising spend and new customers by channel,ad-spend.csv,Financial,2026-09-30
+ED-005,"Stock report at 30 September 2026: units, landed cost and date received by SKU and location",inventory.csv,Financial,2026-09-30
+ED-006,"Profit and loss by fiscal year, FY2021 to FY2025",pnl.csv,Financial,2026-09-30
+ED-007,Marketplace seller terms,documents/01-marketplace-seller-terms.pdf,Business,2026-09-30
+ED-008,"Schedule of storefront, marketplace and ad accounts and who each is registered to",documents/02-platform-accounts.pdf,Business,2026-09-30
+ED-009,Investor presentation with lifetime-value and acquisition-cost claims,documents/03-investor-presentation.pdf,Business,2026-09-30
+ED-010,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

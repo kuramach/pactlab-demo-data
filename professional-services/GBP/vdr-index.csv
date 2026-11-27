@@ -1,7 +1,12 @@
 doc_id,title,file,data_class,as_of
 PS-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
-PS-002,Available and billable hours by team (aggregate),timesheets-summary.csv,Financial,2026-09-30
-PS-003,"Starters, leavers and headcount by role family (aggregate)",headcount-movements.csv,Financial,2026-09-30
-PS-004,Management pack with reported utilization,documents/01-management-pack-2026-09.pdf,Business,2026-09-30
-PS-005,Master services agreement with the largest client,documents/02-msa-meridian.pdf,Business,2026-09-30
-PS-006,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+PS-002,"Time and billing by month, client, engagement and fee-earner (pseudonymous): hours, standard value, fees billed and collected",time-billing.csv,Financial,2026-09-30
+PS-003,"Available and billable hours by team (aggregate), January 2021 to September 2026",timesheets-summary.csv,Financial,2026-09-30
+PS-004,"Starters, leavers and headcount by role family (aggregate)",headcount-movements.csv,Financial,2026-09-30
+PS-005,"WIP and debtor ageing by band at each year end, FY2023 to FY2025",wip-ar-ageing.csv,Financial,2026-09-30
+PS-006,"Profit and loss by fiscal year, FY2021 to FY2025",pnl.csv,Financial,2026-09-30
+PS-007,Management pack with reported utilization,documents/01-management-pack-2026-09.pdf,Business,2026-09-30
+PS-008,Master services agreement with the largest client,documents/02-msa-meridian.pdf,Business,2026-09-30
+PS-009,Information memorandum with the concentration ceilings,documents/03-information-memorandum.pdf,Business,2026-09-30
+PS-010,"Register of the non-compete and non-solicitation covenants binding partners, by pseudonymous reference",documents/04-covenant-register.pdf,Business,2026-09-30
+PS-011,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30

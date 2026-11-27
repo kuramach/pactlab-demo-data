@@ -3,7 +3,7 @@ EG-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-0
 EG-002,"Plant register: capacity, fuel, age, capacity factor and PPA",plant-register.csv,Financial,2026-09-30
 EG-003,"Interest register: mineral, royalty and working interests with the division-order decimal",interest-register.csv,Financial,2026-09-30
 EG-004,"Lease schedule: net acres, royalty chain, primary term and whether production holds each lease",lease-schedule.csv,Financial,2026-09-30
-EG-005,"Production history: plant generation and revenue by contract type, and well volumes and gross revenue",production-history.csv,Financial,2026-09-30
+EG-005,"Production history, January 2021 to September 2026: plant generation and revenue by contract type, and well volumes and gross revenue",production-history.csv,Financial,2026-09-30
 EG-006,The seller's liability schedule: environmental and retirement obligations as booked,liability-schedule.csv,Financial,2026-09-30
 EG-007,The seller's sale summary,documents/01-sale-summary.pdf,Business,2026-09-30
 EG-008,Division-order title opinion over the interests,documents/02-title-opinion.pdf,Business,2026-09-30

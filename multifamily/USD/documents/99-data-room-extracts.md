@@ -141,148 +141,149 @@ B27 | B | poor | 9500.00
 B28 | B | poor | 9500.00
 … 36 more rows in unit-inspections.csv
 ---page---
-operating-statements-monthly.csv — Operating statements by month, October 2021 to September 2026 (one row per line per month)
+operating-statements-monthly.csv — Operating statements by month, October 2006 to September 2026 (one row per line per month)
 
 account | month | amount
-Rental revenue | 2021-10 | 138979.68
-Other property revenue (fees and parking) | 2021-10 | 3731.65
-Payroll and on-site staff | 2021-10 | 14517.54
-Repairs and maintenance | 2021-10 | 7502.26
-Utilities | 2021-10 | 7126.79
-Insurance | 2021-10 | 6598.88
-Insurance premium refund (one-off) | 2021-10 | 0.00
-Property taxes | 2021-10 | 13455.91
-Management fee | 2021-10 | 4994.90
-Administrative and marketing | 2021-10 | 3363.98
-Rental revenue | 2021-11 | 138979.68
-Other property revenue (fees and parking) | 2021-11 | 3731.65
-Payroll and on-site staff | 2021-11 | 14517.54
-Repairs and maintenance | 2021-11 | 7502.26
-Utilities | 2021-11 | 8710.53
-Insurance | 2021-11 | 6598.88
-Insurance premium refund (one-off) | 2021-11 | 0.00
-Property taxes | 2021-11 | 13455.91
-Management fee | 2021-11 | 4994.90
-Administrative and marketing | 2021-11 | 3363.98
-Rental revenue | 2021-12 | 138979.68
-Other property revenue (fees and parking) | 2021-12 | 3731.65
-Payroll and on-site staff | 2021-12 | 14517.54
-Repairs and maintenance | 2021-12 | 6564.47
-Utilities | 2021-12 | 10294.26
-Insurance | 2021-12 | 6598.88
-Insurance premium refund (one-off) | 2021-12 | 0.00
-Property taxes | 2021-12 | 13455.91
-Management fee | 2021-12 | 4994.90
-Administrative and marketing | 2021-12 | 3363.98
-Rental revenue | 2022-01 | 138979.68
-Other property revenue (fees and parking) | 2022-01 | 3731.65
-Payroll and on-site staff | 2022-01 | 14517.54
-Repairs and maintenance | 2022-01 | 6564.47
-Utilities | 2022-01 | 11086.12
-Insurance | 2022-01 | 6598.88
-Insurance premium refund (one-off) | 2022-01 | 0.00
-Property taxes | 2022-01 | 13455.91
-Management fee | 2022-01 | 4994.90
-Administrative and marketing | 2022-01 | 3363.98
-Rental revenue | 2022-02 | 138979.68
-Other property revenue (fees and parking) | 2022-02 | 3731.65
-Payroll and on-site staff | 2022-02 | 14517.54
-Repairs and maintenance | 2022-02 | 7502.26
-Utilities | 2022-02 | 10294.26
-Insurance | 2022-02 | 6598.88
-Insurance premium refund (one-off) | 2022-02 | 0.00
-Property taxes | 2022-02 | 13455.91
-Management fee | 2022-02 | 4994.90
-Administrative and marketing | 2022-02 | 3363.98
-Rental revenue | 2022-03 | 138979.68
-Other property revenue (fees and parking) | 2022-03 | 3731.65
-Payroll and on-site staff | 2022-03 | 14517.54
-Repairs and maintenance | 2022-03 | 8440.04
-Utilities | 2022-03 | 8710.53
-Insurance | 2022-03 | 6598.88
-Insurance premium refund (one-off) | 2022-03 | 0.00
-Property taxes | 2022-03 | 13455.91
-Management fee | 2022-03 | 4994.90
-Administrative and marketing | 2022-03 | 3363.98
-… 540 more rows in operating-statements-monthly.csv
+Rental revenue | 2006-10 | 104649.45
+Other property revenue (fees and parking) | 2006-10 | 2395.20
+Payroll and on-site staff | 2006-10 | 14894.43
+Repairs and maintenance | 2006-10 | 7697.02
+Utilities | 2006-10 | 7311.81
+Insurance | 2006-10 | 6770.20
+Insurance premium refund (one-off) | 2006-10 | 0.00
+Property taxes | 2006-10 | 13805.24
+Management fee | 2006-10 | 3746.56
+Administrative and marketing | 2006-10 | 3451.31
+Rental revenue | 2006-11 | 104649.45
+Other property revenue (fees and parking) | 2006-11 | 2395.20
+Payroll and on-site staff | 2006-11 | 14894.43
+Repairs and maintenance | 2006-11 | 7697.02
+Utilities | 2006-11 | 8936.66
+Insurance | 2006-11 | 6770.20
+Insurance premium refund (one-off) | 2006-11 | 0.00
+Property taxes | 2006-11 | 13805.24
+Management fee | 2006-11 | 3746.56
+Administrative and marketing | 2006-11 | 3451.31
+Rental revenue | 2006-12 | 104649.45
+Other property revenue (fees and parking) | 2006-12 | 2395.20
+Payroll and on-site staff | 2006-12 | 14894.43
+Repairs and maintenance | 2006-12 | 6734.89
+Utilities | 2006-12 | 10561.51
+Insurance | 2006-12 | 6770.20
+Insurance premium refund (one-off) | 2006-12 | 0.00
+Property taxes | 2006-12 | 13805.24
+Management fee | 2006-12 | 3746.56
+Administrative and marketing | 2006-12 | 3451.31
+Rental revenue | 2007-01 | 104649.45
+Other property revenue (fees and parking) | 2007-01 | 2395.20
+Payroll and on-site staff | 2007-01 | 14894.43
+Repairs and maintenance | 2007-01 | 6734.89
+Utilities | 2007-01 | 11373.93
+Insurance | 2007-01 | 6770.20
+Insurance premium refund (one-off) | 2007-01 | 0.00
+Property taxes | 2007-01 | 13805.24
+Management fee | 2007-01 | 3746.56
+Administrative and marketing | 2007-01 | 3451.31
+Rental revenue | 2007-02 | 104649.45
+Other property revenue (fees and parking) | 2007-02 | 2395.20
+Payroll and on-site staff | 2007-02 | 14894.43
+Repairs and maintenance | 2007-02 | 7697.02
+Utilities | 2007-02 | 10561.51
+Insurance | 2007-02 | 6770.20
+Insurance premium refund (one-off) | 2007-02 | 0.00
+Property taxes | 2007-02 | 13805.24
+Management fee | 2007-02 | 3746.56
+Administrative and marketing | 2007-02 | 3451.31
+Rental revenue | 2007-03 | 105838.65
+Other property revenue (fees and parking) | 2007-03 | 2395.20
+Payroll and on-site staff | 2007-03 | 14894.43
+Repairs and maintenance | 2007-03 | 8659.15
+Utilities | 2007-03 | 8936.66
+Insurance | 2007-03 | 6770.20
+Insurance premium refund (one-off) | 2007-03 | 0.00
+Property taxes | 2007-03 | 13805.24
+Management fee | 2007-03 | 3788.18
+Administrative and marketing | 2007-03 | 3451.31
+… 2340 more rows in operating-statements-monthly.csv
 ---page---
-pnl.csv — Operating statement by fiscal year (October to September), FY2022 to FY2026
+pnl.csv — Operating statement by fiscal year (October to September), FY2007 to FY2026
 
-Line | FY2022 | FY2023 | FY2024 | FY2025 | FY2026
-Rental revenue | 1676919.66 | 1725852.72 | 1745295.76 | 1762537.26 | 1766968.80
-Other property revenue (fees and parking) | 44779.80 | 46123.08 | 47506.80 | 48932.04 | 50400.00
-Payroll and on-site staff | 174210.51 | 180307.88 | 186618.65 | 193150.31 | 199910.57
-Repairs and maintenance | 112533.83 | 135040.60 | 162048.72 | 194458.46 | 155566.77
-Utilities | 95023.91 | 98349.75 | 101791.99 | 105354.71 | 109042.13
-Insurance | 79186.60 | 81958.13 | 84826.66 | 87795.59 | 90868.44
-Insurance premium refund (one-off) | 0.00 | 0.00 | 0.00 | 0.00 | -21808.43
-Property taxes | 161470.86 | 166314.99 | 171304.44 | 176443.57 | 181736.88
-Management fee | 60259.50 | 62019.17 | 62748.13 | 63401.46 | 63607.92
-Administrative and marketing | 40367.72 | 41578.75 | 42826.11 | 44110.89 | 45434.22
+Line | FY2007 | FY2008 | FY2009 | FY2010 | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2016 | FY2017 | FY2018 | FY2019 | FY2020 | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026
+Rental revenue | 1266496.20 | 1289792.57 | 1122597.28 | 1112557.22 | 1160128.64 | 1215085.10 | 1264903.58 | 1314114.54 | 1357405.22 | 1410077.22 | 1452379.50 | 1500176.75 | 1556789.03 | 1523418.90 | 1593844.41 | 1676919.66 | 1725852.72 | 1745295.76 | 1762537.26 | 1766968.80
+Other property revenue (fees and parking) | 28742.40 | 29604.72 | 30492.84 | 31407.60 | 32349.84 | 33320.40 | 34320.00 | 35349.60 | 36410.04 | 37502.40 | 38627.40 | 39786.24 | 40979.88 | 42209.28 | 43475.52 | 44779.80 | 46123.08 | 47506.80 | 48932.04 | 50400.00
+Payroll and on-site staff | 178733.21 | 178598.98 | 183364.30 | 178906.37 | 177090.46 | 178833.29 | 182698.02 | 186215.91 | 188672.50 | 195950.27 | 197909.75 | 204407.97 | 207881.25 | 216044.92 | 213027.12 | 174210.51 | 180307.88 | 186618.65 | 193150.31 | 199910.57
+Repairs and maintenance | 115455.34 | 115368.63 | 118446.85 | 115567.19 | 114394.18 | 115519.98 | 118016.46 | 120288.90 | 121875.76 | 126576.95 | 127842.70 | 132040.32 | 134283.94 | 139557.38 | 137607.99 | 112533.83 | 135040.60 | 162048.72 | 194458.46 | 155566.77
+Utilities | 97490.84 | 97417.62 | 100016.88 | 97585.29 | 96594.79 | 97545.43 | 99653.46 | 101572.31 | 102912.27 | 106881.96 | 107950.77 | 111495.25 | 113389.77 | 117842.68 | 116196.60 | 95023.91 | 98349.75 | 101791.99 | 105354.71 | 109042.13
+Insurance | 81242.37 | 81181.36 | 83347.41 | 81321.08 | 80495.67 | 81287.86 | 83044.56 | 84643.60 | 85760.23 | 89068.31 | 89958.98 | 92912.72 | 94491.48 | 98202.24 | 96830.51 | 79186.60 | 81958.13 | 84826.66 | 87795.59 | 90868.44
+Insurance premium refund (one-off) | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | -21808.43
+Property taxes | 165662.83 | 165538.41 | 169955.25 | 165823.32 | 164140.21 | 165755.59 | 169337.69 | 172598.33 | 174875.27 | 181620.84 | 183437.02 | 189460.05 | 192679.33 | 200246.01 | 197448.89 | 161470.86 | 166314.99 | 171304.44 | 176443.57 | 181736.88
+Management fee | 45333.32 | 46178.91 | 40358.17 | 40038.74 | 41736.72 | 43694.14 | 45472.82 | 47231.28 | 48783.53 | 50665.26 | 52185.24 | 53898.68 | 55921.90 | 54797.04 | 57306.22 | 60259.50 | 62019.17 | 62748.13 | 63401.46 | 63607.92
+Administrative and marketing | 41415.71 | 41384.61 | 42488.82 | 41455.84 | 41035.06 | 41438.90 | 42334.43 | 43149.59 | 43718.82 | 45405.21 | 45859.26 | 47365.02 | 48169.84 | 50061.51 | 49362.23 | 40367.72 | 41578.75 | 42826.11 | 44110.89 | 45434.22
 ---page---
-occupancy-history.csv — Occupancy and average in-place rent by month, October 2021 to September 2026
+occupancy-history.csv — Occupancy and average in-place rent by month, October 2006 to September 2026
 
 period | unit_type | units | occupied_units | average_rent | concessions
-2021-10 | All | 96 | 91 | 1527.25 | 546.00
-2021-11 | All | 96 | 91 | 1527.25 | 546.00
-2021-12 | All | 96 | 91 | 1527.25 | 546.00
-2022-01 | All | 96 | 91 | 1527.25 | 546.00
-2022-02 | All | 96 | 91 | 1527.25 | 546.00
-2022-03 | All | 96 | 91 | 1527.25 | 546.00
-2022-04 | All | 96 | 92 | 1527.25 | 552.00
-2022-05 | All | 96 | 92 | 1527.25 | 552.00
-2022-06 | All | 96 | 92 | 1527.25 | 552.00
-2022-07 | All | 96 | 92 | 1527.25 | 552.00
-2022-08 | All | 96 | 92 | 1527.25 | 552.00
-2022-09 | All | 96 | 92 | 1527.25 | 552.00
-2022-10 | All | 96 | 91 | 1576.12 | 546.00
-2022-11 | All | 96 | 91 | 1576.12 | 546.00
-2022-12 | All | 96 | 90 | 1576.12 | 540.00
-2023-01 | All | 96 | 90 | 1576.12 | 540.00
-2023-02 | All | 96 | 91 | 1576.12 | 546.00
-2023-03 | All | 96 | 91 | 1576.12 | 546.00
-2023-04 | All | 96 | 91 | 1576.12 | 546.00
-2023-05 | All | 96 | 92 | 1576.12 | 552.00
-2023-06 | All | 96 | 92 | 1576.12 | 552.00
-2023-07 | All | 96 | 92 | 1576.12 | 552.00
-2023-08 | All | 96 | 92 | 1576.12 | 552.00
-2023-09 | All | 96 | 92 | 1576.12 | 552.00
-2023-10 | All | 96 | 89 | 1626.56 | 534.00
-2023-11 | All | 96 | 89 | 1626.56 | 534.00
-2023-12 | All | 96 | 89 | 1626.56 | 534.00
-2024-01 | All | 96 | 89 | 1626.56 | 534.00
-2024-02 | All | 96 | 89 | 1626.56 | 534.00
-2024-03 | All | 96 | 89 | 1626.56 | 534.00
-2024-04 | All | 96 | 89 | 1626.56 | 534.00
-2024-05 | All | 96 | 90 | 1626.56 | 540.00
-2024-06 | All | 96 | 90 | 1626.56 | 540.00
-2024-07 | All | 96 | 90 | 1626.56 | 540.00
-2024-08 | All | 96 | 90 | 1626.56 | 540.00
-2024-09 | All | 96 | 90 | 1626.56 | 540.00
-2024-10 | All | 96 | 87 | 1678.61 | 522.00
-2024-11 | All | 96 | 87 | 1678.61 | 522.00
-2024-12 | All | 96 | 87 | 1678.61 | 522.00
-2025-01 | All | 96 | 87 | 1678.61 | 522.00
-2025-02 | All | 96 | 87 | 1678.61 | 522.00
-2025-03 | All | 96 | 87 | 1678.61 | 522.00
-2025-04 | All | 96 | 88 | 1678.61 | 528.00
-2025-05 | All | 96 | 88 | 1678.61 | 528.00
-2025-06 | All | 96 | 88 | 1678.61 | 528.00
-2025-07 | All | 96 | 88 | 1678.61 | 528.00
-2025-08 | All | 96 | 88 | 1678.61 | 528.00
-2025-09 | All | 96 | 88 | 1678.61 | 528.00
-2025-10 | All | 96 | 85 | 1732.32 | 1190.00
-2025-11 | All | 96 | 85 | 1732.32 | 1190.00
-2025-12 | All | 96 | 85 | 1732.32 | 1190.00
-2026-01 | All | 96 | 85 | 1732.32 | 1190.00
-2026-02 | All | 96 | 85 | 1732.32 | 1190.00
-2026-03 | All | 96 | 85 | 1732.32 | 1190.00
-2026-04 | All | 96 | 85 | 1732.32 | 1190.00
-2026-05 | All | 96 | 85 | 1732.32 | 1190.00
-2026-06 | All | 96 | 85 | 1732.32 | 1190.00
-2026-07 | All | 96 | 85 | 1732.32 | 1190.00
-2026-08 | All | 96 | 85 | 1732.32 | 1190.00
-2026-09 | All | 96 | 85 | 1732.32 | 1190.00
+2006-10 | All | 96 | 88 | 1189.20 | 528.00
+2006-11 | All | 96 | 88 | 1189.20 | 528.00
+2006-12 | All | 96 | 88 | 1189.20 | 528.00
+2007-01 | All | 96 | 88 | 1189.20 | 528.00
+2007-02 | All | 96 | 88 | 1189.20 | 528.00
+2007-03 | All | 96 | 89 | 1189.20 | 534.00
+2007-04 | All | 96 | 89 | 1189.20 | 534.00
+2007-05 | All | 96 | 89 | 1189.20 | 534.00
+2007-06 | All | 96 | 90 | 1189.20 | 540.00
+2007-07 | All | 96 | 90 | 1189.20 | 540.00
+2007-08 | All | 96 | 89 | 1189.20 | 534.00
+2007-09 | All | 96 | 89 | 1189.20 | 534.00
+2007-10 | All | 96 | 87 | 1224.87 | 522.00
+2007-11 | All | 96 | 87 | 1224.87 | 522.00
+2007-12 | All | 96 | 87 | 1224.87 | 522.00
+2008-01 | All | 96 | 87 | 1224.87 | 522.00
+2008-02 | All | 96 | 87 | 1224.87 | 522.00
+2008-03 | All | 96 | 88 | 1224.87 | 528.00
+2008-04 | All | 96 | 88 | 1224.87 | 528.00
+2008-05 | All | 96 | 88 | 1224.87 | 528.00
+2008-06 | All | 96 | 89 | 1224.87 | 534.00
+2008-07 | All | 96 | 89 | 1224.87 | 534.00
+2008-08 | All | 96 | 88 | 1224.87 | 528.00
+2008-09 | All | 96 | 88 | 1224.87 | 528.00
+2008-10 | All | 96 | 81 | 1151.38 | 1458.00
+2008-11 | All | 96 | 81 | 1151.38 | 1458.00
+2008-12 | All | 96 | 80 | 1151.38 | 1440.00
+2009-01 | All | 96 | 80 | 1151.38 | 1440.00
+2009-02 | All | 96 | 81 | 1151.38 | 1458.00
+2009-03 | All | 96 | 81 | 1151.38 | 1458.00
+2009-04 | All | 96 | 81 | 1151.38 | 1458.00
+2009-05 | All | 96 | 82 | 1151.38 | 1476.00
+2009-06 | All | 96 | 82 | 1151.38 | 1476.00
+2009-07 | All | 96 | 82 | 1151.38 | 1476.00
+2009-08 | All | 96 | 82 | 1151.38 | 1476.00
+2009-09 | All | 96 | 82 | 1151.38 | 1476.00
+2009-10 | All | 96 | 82 | 1128.35 | 1476.00
+2009-11 | All | 96 | 82 | 1128.35 | 1476.00
+2009-12 | All | 96 | 81 | 1128.35 | 1458.00
+2010-01 | All | 96 | 81 | 1128.35 | 1458.00
+2010-02 | All | 96 | 82 | 1128.35 | 1476.00
+2010-03 | All | 96 | 82 | 1128.35 | 1476.00
+2010-04 | All | 96 | 82 | 1128.35 | 1476.00
+2010-05 | All | 96 | 83 | 1128.35 | 1494.00
+2010-06 | All | 96 | 83 | 1128.35 | 1494.00
+2010-07 | All | 96 | 83 | 1128.35 | 1494.00
+2010-08 | All | 96 | 83 | 1128.35 | 1494.00
+2010-09 | All | 96 | 82 | 1128.35 | 1476.00
+2010-10 | All | 96 | 84 | 1150.92 | 504.00
+2010-11 | All | 96 | 83 | 1150.92 | 498.00
+2010-12 | All | 96 | 83 | 1150.92 | 498.00
+2011-01 | All | 96 | 83 | 1150.92 | 498.00
+2011-02 | All | 96 | 83 | 1150.92 | 498.00
+2011-03 | All | 96 | 84 | 1150.92 | 504.00
+2011-04 | All | 96 | 84 | 1150.92 | 504.00
+2011-05 | All | 96 | 85 | 1150.92 | 510.00
+2011-06 | All | 96 | 85 | 1150.92 | 510.00
+2011-07 | All | 96 | 85 | 1150.92 | 510.00
+2011-08 | All | 96 | 85 | 1150.92 | 510.00
+2011-09 | All | 96 | 84 | 1150.92 | 504.00
+… 180 more rows in occupancy-history.csv
 ---page---
 rent-roll-history.csv — Rent-roll snapshots at each quarter end, December 2024 to September 2026
 

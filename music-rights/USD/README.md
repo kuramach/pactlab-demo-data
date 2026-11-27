@@ -62,7 +62,7 @@ Open the **Sources** tab and scroll to **Industry data**. Upload these files one
 | 1 | **Upload works register** | `works-register.csv` | **Upload and map columns** → **Check every row** | **Import 120 rows** |
 | 2 | **Upload writer splits** | `writer-splits.csv` | **Upload and map columns** → **Check every row** | **Import 219 rows** |
 | 3 | **Upload chain of title** | `chain-of-title.csv` | **Upload and map columns** → **Check every row** | **Import 458 rows** |
-| 4 | **Upload royalty statements** | `royalty-statements.csv` | **Upload and map columns** → **Check every row** | **Import 956 rows** |
+| 4 | **Upload royalty statements** | `royalty-statements.csv` | **Upload and map columns** → **Check every row** | **Import 2561 rows** |
 
 **You should see** after each import: "… imported … Industry checks ran on them". Some findings may already appear as drafts; that is expected.
 
@@ -94,7 +94,7 @@ Open the **Catalog** tab (it appears only on a music rights pact).
 ## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run music rights checks**.
-2. **You should see exactly these 7 findings** (running the checks again adds nothing):
+2. **You should see exactly these 8 findings** (running the checks again adds nothing):
 
    1. **Chain-of-title gap: Harbour Lights** — planted defect (a): W-0042 earned USD 123,554 in the year to June 2026 (18.9% of trailing income), but `chain-of-title.csv` holds a registration and no assignment for it.
    2. **Termination exposure inside the hold period** — planted defect (b): grants behind 30.0% of trailing income (29 works, USD 195,773 a year) become terminable under §203 before a 10-year hold ends.
@@ -103,6 +103,7 @@ Open the **Catalog** tab (it appears only on a music rights pact).
    5. **Income concentration: Harbour Lights** — W-0042 is 18.9% of trailing income — above the 15% the pack flags.
    6. **Royalty leakage: registered works with no performance income** — W-0018 and W-0063 earn mechanicals but no performance income while works of the same age do.
    7. **Undisclosed encumbrance: Northgate Credit Partners (synthetic)** — `documents/05-lien-search.pdf` page 2: a UCC-1 filing securing USD 1,500,000; the catalog summary says the catalog is free of liens. An indemnity.
+   8. **Royalty income falling every year, FY2021–FY2025** — `royalty-statements.csv` — net statement income by calendar year: FY2021 USD 752,415, FY2022 USD 734,014, FY2023 USD 719,150, FY2024 USD 703,297, FY2025 USD 668,814; the catalog decays every year.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
@@ -211,7 +212,7 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 | `works-register.csv` | Works and rights register: one row per composition or master (120 rows) | **Yes** — industry data step |
 | `writer-splits.csv` | Writer splits from the split sheets, and as statements pay them (pseudonymous writer references) (219 rows) | **Yes** — industry data step |
 | `chain-of-title.csv` | Chain of title: registrations, assignments, administration and work-for-hire agreements (458 rows) | **Yes** — industry data step |
-| `royalty-statements.csv` | Royalty statement lines by work, period and income source, net to the catalog owner (956 rows) | **Yes** — industry data step |
+| `royalty-statements.csv` | Royalty statement lines by work, period and income source, net to the catalog owner (2561 rows) | **Yes** — industry data step |
 | `documents/01-catalog-summary.pdf` | The seller's catalog sale summary | **Yes** — documents step |
 | `documents/02-split-sheet-w0077.pdf` | Split sheet for one composition, as signed | **Yes** — documents step |
 | `documents/03-administration-agreement.pdf` | Administration agreement, with the advance and recoupment terms | **Yes** — documents step |

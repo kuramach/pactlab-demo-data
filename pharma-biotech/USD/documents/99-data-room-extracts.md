@@ -37,13 +37,13 @@ S-02 | Clinical development | 0 | 0
 S-03 | Formulation | 0 | 1
 S-04 | Translational biology | 0 | 0
 ---page---
-pnl.csv — Profit and loss by fiscal year, FY2023 to FY2025
+pnl.csv — Profit and loss by fiscal year, FY2021 to FY2025
 
-Line | FY2023 | FY2024 | FY2025
-Royalty revenue | 5475115.64 | 5920764.58 | 6366413.53
-Product supply revenue | 1724715.50 | 1865099.32 | 2005483.14
-Licence fee revenue | 433266.78 | 468532.68 | 503798.58
-Cost of product supply | 724380.51 | 783341.71 | 822248.09
-Research and development | 22000000.00 | 22300000.00 | 22100000.00
-Royalties paid to licensors | 160295.06 | 165087.93 | 177513.91
-General and administrative | 1450288.60 | 1485791.38 | 1508868.19
+Line | FY2021 | FY2022 | FY2023 | FY2024 | FY2025
+Royalty revenue | 5943024.97 | 6060015.83 | 6139138.95 | 6249344.62 | 6366413.53
+Product supply revenue | 1584692.44 | 1674126.79 | 1770465.05 | 1885216.58 | 2005483.14
+Licence fee revenue | 398267.52 | 418288.27 | 443068.39 | 471080.60 | 503798.58
+Cost of product supply | 681417.75 | 719874.52 | 743595.32 | 791790.96 | 822248.09
+Research and development | 22200000.00 | 21900000.00 | 22000000.00 | 22300000.00 | 22100000.00
+Royalties paid to licensors | 174371.67 | 171201.05 | 175406.12 | 172112.84 | 177513.91
+General and administrative | 1664456.84 | 1630486.18 | 1587007.75 | 1549015.52 | 1508868.19
