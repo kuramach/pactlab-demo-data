@@ -3,7 +3,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R] /Count 5 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -23,32 +23,54 @@ endobj
 7 0 obj
 << /Length 1454 >>
 stream
-BT /F1 11 Tf 72 740 Td 14 TL (rent-roll.csv  Commercial rent roll with expiries and market rents) Tj T* () Tj T* (tenant | suite | sqft | lease_start | lease_end | monthly_base_rent | monthly_market_rent) Tj T* (Corvane Logistics \(synthetic\) | Unit 1 | 165000 | 2021-07-01 | 2027-06-30 | 80000.00 |) Tj T* (85106.38) Tj T* (Pellham Engineering \(synthetic\) | Unit 2 | 41000 | 2021-07-01 | 2031-03-31 | 22000.00 |) Tj T* (21568.63) Tj T* (Brightwater Analytics \(synthetic\) | Unit 3 | 29000 | 2021-07-01 | 2029-12-31 | 16000.00 |) Tj T* (16000.00) Tj T* (Ashgrove Print \(synthetic\) | Unit 4 | 18000 | 2021-07-01 | 2026-12-31 | 9000.00 | 8333.33) Tj T* (Moorland Medical Supplies \(synthetic\) | Unit 5 | 24000 | 2021-07-01 | 2030-09-30 | 14000.00) Tj T* (| 14432.99) Tj T* (Teal Harbor Software \(synthetic\) | Unit 6 | 16000 | 2021-07-01 | 2028-05-31 | 11000.00 |) Tj T* (11000.00) Tj T* (Northlight Studios \(synthetic\) | Unit 7 | 12000 | 2021-07-01 | 2027-01-31 | 7000.00 |) Tj T* (6666.67) Tj T* (Fernbank Foods \(synthetic\) | Unit 8 | 21000 | 2021-07-01 | 2032-06-30 | 12500.00 | 12626.26) Tj T* (Cinder Path Fitness \(synthetic\) | Unit 9 | 9000 | 2021-07-01 | 2026-11-30 | 6000.00 |) Tj T* (6000.00) Tj T* (Haldon Insurance Brokers \(synthetic\) | Unit 10 | 11000 | 2021-07-01 | 2029-02-28 | 8000.00 |) Tj T* (8000.00) Tj T* (Gullwing Robotics \(synthetic\) | Unit 11 | 15000 | 2021-07-01 | 2033-10-31 | 9500.00 |) Tj T* (9500.00) Tj T* ET
+BT /F1 11 Tf 72 740 Td 14 TL (rent-roll.csv  Commercial rent roll with expiries and market rents) Tj T* () Tj T* (tenant | suite | sqft | lease_start | lease_end | monthly_base_rent | monthly_market_rent) Tj T* (Corvane Logistics \(synthetic\) | Unit 1 | 165000 | 2021-07-01 | 2027-06-30 | 80511.60 |) Tj T* (85650.64) Tj T* (Pellham Engineering \(synthetic\) | Unit 2 | 41000 | 2021-07-01 | 2031-03-31 | 23185.49 |) Tj T* (22730.87) Tj T* (Brightwater Analytics \(synthetic\) | Unit 3 | 29000 | 2021-07-01 | 2029-12-31 | 16500.00 |) Tj T* (16500.00) Tj T* (Ashgrove Print \(synthetic\) | Unit 4 | 18000 | 2021-07-01 | 2026-12-31 | 9042.34 | 8372.54) Tj T* (Moorland Medical Supplies \(synthetic\) | Unit 5 | 24000 | 2021-07-01 | 2030-09-30 | 13911.28) Tj T* (| 14341.53) Tj T* (Teal Harbor Software \(synthetic\) | Unit 6 | 16000 | 2021-07-01 | 2028-05-31 | 11013.11 |) Tj T* (11013.11) Tj T* (Northlight Studios \(synthetic\) | Unit 7 | 12000 | 2021-07-01 | 2027-01-31 | 6955.64 |) Tj T* (6624.42) Tj T* (Fernbank Foods \(synthetic\) | Unit 8 | 21000 | 2021-07-01 | 2032-06-30 | 12520.15 | 12646.62) Tj T* (Cinder Path Fitness \(synthetic\) | Unit 9 | 9000 | 2021-07-01 | 2026-11-30 | 6028.23 |) Tj T* (6028.23) Tj T* (Haldon Insurance Brokers \(synthetic\) | Unit 10 | 11000 | 2021-07-01 | 2029-02-28 | 7998.99 |) Tj T* (7998.99) Tj T* (Gullwing Robotics \(synthetic\) | Unit 11 | 15000 | 2023-11-01 | 2033-10-31 | 8699.38 |) Tj T* (8699.38) Tj T* ET
 endstream
 endobj
 8 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
 endobj
 9 0 obj
-<< /Length 336 >>
+<< /Length 844 >>
 stream
-BT /F1 11 Tf 72 740 Td 14 TL (cam-reconciliation.csv  Common-area-maintenance expenses against tenant recoveries) Tj T* () Tj T* (year | category | expenses | recoveries) Tj T* (2025 | Repairs and maintenance | 212000.00 | 171000.00) Tj T* (2025 | Insurance | 88000.00 | 88000.00) Tj T* (2025 | Security | 64000.00 | 41000.00) Tj T* ET
+BT /F1 11 Tf 72 740 Td 14 TL (cam-reconciliation.csv  Recoverable expenses against tenant recoveries billed, by year and) Tj T* (category) Tj T* () Tj T* (year | category | expenses | recoveries) Tj T* (2023 | Repairs and maintenance | 150000.00 | 128000.00) Tj T* (2023 | Insurance | 79000.00 | 79000.00) Tj T* (2023 | Security | 58000.00 | 44000.00) Tj T* (2023 | Real estate taxes | 240000.00 | 240000.00) Tj T* (2024 | Repairs and maintenance | 182000.00 | 151000.00) Tj T* (2024 | Insurance | 83000.00 | 83000.00) Tj T* (2024 | Security | 61000.00 | 42000.00) Tj T* (2024 | Real estate taxes | 250000.00 | 250000.00) Tj T* (2025 | Repairs and maintenance | 212000.00 | 171000.00) Tj T* (2025 | Insurance | 88000.00 | 88000.00) Tj T* (2025 | Security | 64000.00 | 41000.00) Tj T* (2025 | Real estate taxes | 260000.00 | 260000.00) Tj T* ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 451 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (capex-schedule.csv  The sellers capital expenditure schedule: item, element, amount and) Tj T* (status) Tj T* () Tj T* (year | item | category | amount | status) Tj T* (2026 | Rooftop HVAC unit replacement, Buildings A and B | hvac | 420000.00 | committed) Tj T* (2026 | LED lighting retrofit, common areas | electrical | 90000.00 | committed) Tj T* (2027 | Car park resurfacing | paving | 260000.00 | planned) Tj T* ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 647 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (pnl.csv  Profit and loss by fiscal year, FY2023 to FY2025) Tj T* () Tj T* (Line | FY2023 | FY2024 | FY2025) Tj T* (Base rent revenue | 2045068.34 | 2180547.96 | 2238042.48) Tj T* (Expense recovery revenue | 491000.00 | 526000.00 | 560000.00) Tj T* (Repairs and maintenance | 150000.00 | 182000.00 | 212000.00) Tj T* (Insurance | 79000.00 | 83000.00 | 88000.00) Tj T* (Security | 58000.00 | 61000.00 | 64000.00) Tj T* (Real estate taxes | 240000.00 | 250000.00 | 260000.00) Tj T* (Property management fees | 61352.05 | 65416.44 | 67141.27) Tj T* (General and administrative | 95000.00 | 98000.00 | 101000.00) Tj T* ET
 endstream
 endobj
 xref
-0 10
+0 14
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000127 00000 n 
-0000000197 00000 n 
-0000000323 00000 n 
-0000000604 00000 n 
-0000000730 00000 n 
-0000002236 00000 n 
-0000002362 00000 n 
+0000000141 00000 n 
+0000000211 00000 n 
+0000000337 00000 n 
+0000000618 00000 n 
+0000000744 00000 n 
+0000002250 00000 n 
+0000002376 00000 n 
+0000003271 00000 n 
+0000003399 00000 n 
+0000003902 00000 n 
+0000004030 00000 n 
 trailer
-<< /Size 10 /Root 1 0 R >>
+<< /Size 14 /Root 1 0 R >>
 startxref
-2749
+4729
 %%EOF

@@ -1,7 +1,22 @@
 doc_id,title,file,data_class,as_of
 CP-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
 CP-002,Commercial rent roll with expiries and market rents,rent-roll.csv,Financial,2026-09-30
-CP-003,Common-area-maintenance expenses against tenant recoveries,cam-reconciliation.csv,Financial,2026-09-30
-CP-004,Phase I environmental site assessment,documents/01-phase-i-environmental-site-assessment.pdf,Business,2026-09-30
-CP-005,Lease abstract for the anchor tenant,documents/02-lease-abstract-corvane.pdf,Business,2026-09-30
-CP-006,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
+CP-003,"Recoverable expenses against tenant recoveries billed, by year and category",cam-reconciliation.csv,Financial,2026-09-30
+CP-004,"The seller’s capital expenditure schedule: item, element, amount and status",capex-schedule.csv,Financial,2026-09-30
+CP-005,"Profit and loss by fiscal year, FY2023 to FY2025",pnl.csv,Financial,2026-09-30
+CP-006,"Lease for Unit 1: term, rent, escalation and recoveries",documents/03-lease-unit-01.pdf,Business,2026-09-30
+CP-007,"Lease for Unit 2: term, rent, escalation and recoveries",documents/03-lease-unit-02.pdf,Business,2026-09-30
+CP-008,"Lease for Unit 3: term, rent, escalation and recoveries",documents/03-lease-unit-03.pdf,Business,2026-09-30
+CP-009,"Lease for Unit 4: term, rent, escalation and recoveries",documents/03-lease-unit-04.pdf,Business,2026-09-30
+CP-010,"Lease for Unit 5: term, rent, escalation and recoveries",documents/03-lease-unit-05.pdf,Business,2026-09-30
+CP-011,"Lease for Unit 6: term, rent, escalation and recoveries",documents/03-lease-unit-06.pdf,Business,2026-09-30
+CP-012,"Lease for Unit 7: term, rent, escalation and recoveries",documents/03-lease-unit-07.pdf,Business,2026-09-30
+CP-013,"Lease for Unit 8: term, rent, escalation and recoveries",documents/03-lease-unit-08.pdf,Business,2026-09-30
+CP-014,"Lease for Unit 9: term, rent, escalation and recoveries",documents/03-lease-unit-09.pdf,Business,2026-09-30
+CP-015,"Lease for Unit 10: term, rent, escalation and recoveries",documents/03-lease-unit-10.pdf,Business,2026-09-30
+CP-016,"Lease for Unit 11: term, rent, escalation and recoveries",documents/03-lease-unit-11.pdf,Business,2026-09-30
+CP-017,Phase I environmental site assessment,documents/01-phase-i-environmental-site-assessment.pdf,Business,2026-09-30
+CP-018,Lease abstract for the anchor tenant,documents/02-lease-abstract-corvane.pdf,Business,2026-09-30
+CP-019,Engineer’s property condition assessment: flagged items and estimated costs,documents/04-property-condition-assessment.pdf,Business,2026-09-30
+CP-020,"Offering memorandum: occupancy, the closing date and the hold",documents/05-offering-memorandum.pdf,Business,2026-09-30
+CP-021,"Every CSV extract in this folder as one paged PDF, so findings can cite a page",documents/99-data-room-extracts.pdf,Financial,2026-09-30
