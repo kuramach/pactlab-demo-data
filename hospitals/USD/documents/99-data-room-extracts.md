@@ -117,3 +117,107 @@ month | payer | gross_charges | net_revenue
 2026-09 | Government programme B (synthetic) | 1310615.97 | 451936.54
 2026-09 | Commercial plan Riverbend (synthetic) | 862783.03 | 297511.39
 2026-09 | Self-pay and other (synthetic) | 368794.83 | 127170.63
+---page---
+pnl.csv — Profit and loss by fiscal year, FY2021 to FY2025
+
+Line | FY2021 | FY2022 | FY2023 | FY2024 | FY2025
+Net patient service revenue | 34000000.00 | 35400000.00 | 36800000.00 | 38300000.00 | 39800000.00
+Other operating revenue | 1100000.00 | 1150000.00 | 1200000.00 | 1250000.00 | 1300000.00
+Cost of care: salaries and benefits | 16848854.02 | 17544889.29 | 18240924.57 | 18984962.29 | 19729000.00
+Medical supplies and drugs | 5873912.41 | 6116566.91 | 6359221.41 | 6618610.71 | 6878000.00
+Purchased services | 2936956.20 | 3058283.45 | 3179610.71 | 3309305.35 | 3439000.00
+Repairs and maintenance | 927459.85 | 965773.72 | 1004087.59 | 1045043.80 | 1086000.00
+Depreciation and amortization | 1545766.42 | 1609622.87 | 1673479.32 | 1741739.66 | 1810000.00
+General and administrative | 2782379.57 | 2897321.18 | 3012262.77 | 3135131.38 | 3258000.00
+---page---
+cost-reports.csv — Filed cost reports: beds, bed days, patient days by programme, total costs and net patient revenue by fiscal year
+
+fiscal_year | period_end | beds | bed_days_available | patient_days | medicare_days | medicaid_days | total_costs | net_patient_revenue
+2021 | 2021-12-31 | 220 | 80300 | 54420 | 22312 | 9251 | 30915328.47 | 34000000.00
+2022 | 2022-12-31 | 220 | 80300 | 54420 | 22312 | 9251 | 32192457.42 | 35400000.00
+2023 | 2023-12-31 | 220 | 80300 | 54420 | 22312 | 9251 | 33469586.37 | 36800000.00
+2024 | 2024-12-31 | 220 | 80300 | 54420 | 22312 | 9251 | 34834793.19 | 38300000.00
+2025 | 2025-12-31 | 220 | 80300 | 54420 | 22312 | 9251 | 36200000.00 | 39800000.00
+---page---
+hospital-capex.csv — Capital expenditure by fiscal year and category, from the fixed-asset register
+
+fiscal_year | category | amount
+2021 | buildings | 1263600.00
+2021 | medical_equipment | 884520.00
+2021 | it | 379080.00
+2022 | buildings | 1114775.00
+2022 | medical_equipment | 780342.50
+2022 | it | 334432.50
+2023 | buildings | 950000.00
+2023 | medical_equipment | 665000.00
+2023 | it | 285000.00
+2024 | buildings | 771225.00
+2024 | medical_equipment | 539857.50
+2024 | it | 231367.50
+2025 | buildings | 575400.00
+2025 | medical_equipment | 402780.00
+2025 | it | 172620.00
+---page---
+payer-contracts.csv — Payer contract register: term, renewal and rate basis
+
+contract_id | payer | payer_class | effective_on | expires_on | auto_renews | rate_basis
+GPA-2021 | Government programme A (synthetic) | medicare | 2021-08-01 | 2027-07-31 | no | DRG case rates
+KEY-2022 | Commercial plan Keystone (synthetic) | commercial | 2022-01-01 | 2029-12-31 | no | percent of charges
+GPB-2020 | Government programme B (synthetic) | medicaid | 2020-07-01 | 2028-06-30 | yes | per diem
+RIV-2023 | Commercial plan Riverbend (synthetic) | commercial | 2023-04-01 | 2028-03-31 | no | per diem
+---page---
+provider-roster.csv — Medical staff roster: sixteen physicians by pseudonymous reference and department
+
+provider_ref | specialty | fte | credential_expiry
+PH-01 | Cardiology | 1.0 | 2027-01-28
+PH-02 | Cardiology | 1.0 | 2028-02-28
+PH-03 | Cardiology | 1.0 | 2027-03-28
+PH-04 | Cardiology | 1.0 | 2028-04-28
+PH-05 | Orthopaedics | 1.0 | 2027-05-28
+PH-06 | Orthopaedics | 1.0 | 2028-06-28
+PH-07 | Orthopaedics | 1.0 | 2027-07-28
+PH-08 | Orthopaedics | 1.0 | 2028-08-28
+PH-09 | Maternity | 1.0 | 2027-09-28
+PH-10 | Maternity | 1.0 | 2028-10-28
+PH-11 | Maternity | 1.0 | 2027-11-28
+PH-12 | Maternity | 1.0 | 2028-12-28
+PH-13 | General medicine | 1.0 | 2027-01-28
+PH-14 | General medicine | 1.0 | 2028-02-28
+PH-15 | General medicine | 1.0 | 2027-03-28
+PH-16 | General medicine | 1.0 | 2028-04-28
+---page---
+credentialing-register.csv — Medical-staff register: each physician’s licence and clinical privileges, with department and renewal date
+
+credential_ref | provider_ref | kind | jurisdiction | issuer | status | expires_on | department
+CR-0101 | PH-01 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2027-01-28 | 
+CR-0102 | PH-01 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2027-01-15 | Cardiology
+CR-0201 | PH-02 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2028-02-28 | 
+CR-0202 | PH-02 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2027-02-15 | Cardiology
+CR-0301 | PH-03 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2027-03-28 | 
+CR-0302 | PH-03 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2027-03-15 | Cardiology
+CR-0401 | PH-04 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2028-04-28 | 
+CR-0402 | PH-04 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2027-04-15 | Cardiology
+CR-0501 | PH-05 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2027-05-28 | 
+CR-0502 | PH-05 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2026-06-30 | Orthopaedics
+CR-0601 | PH-06 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2028-06-28 | 
+CR-0602 | PH-06 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2026-06-30 | Orthopaedics
+CR-0701 | PH-07 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2027-07-28 | 
+CR-0702 | PH-07 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2026-06-30 | Orthopaedics
+CR-0801 | PH-08 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2028-08-28 | 
+CR-0802 | PH-08 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2026-06-30 | Orthopaedics
+CR-0901 | PH-09 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2027-09-28 | 
+CR-0902 | PH-09 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2027-09-15 | Maternity
+CR-1001 | PH-10 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2028-10-28 | 
+CR-1002 | PH-10 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2027-10-15 | Maternity
+CR-1101 | PH-11 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2027-11-28 | 
+CR-1102 | PH-11 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2027-11-15 | Maternity
+CR-1201 | PH-12 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2028-12-28 | 
+CR-1202 | PH-12 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2027-12-15 | Maternity
+CR-1301 | PH-13 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2027-01-28 | 
+CR-1302 | PH-13 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2027-01-15 | General medicine
+CR-1401 | PH-14 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2028-02-28 | 
+CR-1402 | PH-14 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2027-02-15 | General medicine
+CR-1501 | PH-15 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2027-03-28 | 
+CR-1502 | PH-15 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2027-03-15 | General medicine
+CR-1601 | PH-16 | state_licence | Ohio | Ohio medical board (synthetic) | active | 2028-04-28 | 
+CR-1602 | PH-16 | hospital_privileges | St. Brennan Regional Medical Center | Medical staff office (synthetic) | active | 2027-04-15 | General medicine

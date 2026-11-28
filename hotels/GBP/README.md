@@ -9,7 +9,7 @@ Based in Leeds, the United Kingdom; reports in GBP. Data runs October 2024 to Se
 
 - Download this whole folder (on GitHub: **Code → Download ZIP** at the top of the repository, then unzip).
 - Sign in to Pactlab. The steps take about 15 minutes.
-- You upload **3 CSV files** and **3 PDFs**. Nothing else.
+- You upload **6 CSV files** and **4 PDFs**. Nothing else.
 - **Never upload the `.md` files** in `documents/`. They are the text each PDF is built from; Pactlab reads the PDFs.
 - `vdr-index.csv` is for reference only (how a data room would list these files). Do not upload it.
 - Text in **bold** below is a button, tab or option exactly as Pactlab shows it.
@@ -61,6 +61,9 @@ Open the **Sources** tab and scroll to **Industry data**. Upload these files one
 |---|---|---|---|---|
 | 1 | **Upload operating history** | `operating-history.csv` | **Upload and map columns** → **Check every row** | **Import 24 rows** |
 | 2 | **Upload str benchmark** | `str-benchmark.csv` | **Upload and map columns** → **Check every row** | **Import 12 rows** |
+| 3 | **Upload franchise and management agreements** | `agreements-register.csv` | **Upload and map columns** → **Check every row** | **Import 2 rows** |
+| 4 | **Upload property improvement plan (pip) items** | `pip-schedule.csv` | **Upload and map columns** → **Check every row** | **Import 4 rows** |
+| 5 | **Upload capital expenditure budget** | `capex-budget.csv` | **Upload and map columns** → **Check every row** | **Import 5 rows** |
 
 **You should see** after each import: "… imported … Industry checks ran on them". Some findings may already appear as drafts; that is expected.
 
@@ -70,26 +73,44 @@ Open the **Documents** tab. Under **Upload a document**, upload each PDF from th
 
 | # | File | Data class | What it is |
 |---|---|---|---|
-| 1 | `documents/01-franchise-agreement.pdf` | **business information** | Franchise agreement with transfer and PIP clauses |
+| 1 | `documents/01-franchise-agreement.pdf` | **business information** | Franchise agreement with term, transfer, PIP and termination clauses |
 | 2 | `documents/02-management-contract.pdf` | **business information** | Third-party management contract |
-| 3 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
+| 3 | `documents/03-management-presentation.pdf` | **business information** | Management presentation: the RevPAR index, occupancy and the closing date |
+| 4 | `documents/99-data-room-extracts.pdf` | **financial information** | Every CSV extract in this folder as one paged PDF, so findings can cite a page |
 
-**You should see:** all 3 documents listed on the **Documents** tab.
+**You should see:** all 4 documents listed on the **Documents** tab.
 
-## Step 5 — Run the checks and review the findings
+## Step 5 — Upload the P&L by year
+
+Open the **Sources** tab, scroll to **Industry data** and click **Upload profit and loss (p&l)**.
+
+1. Choose `pnl.csv` → **Upload and map columns**. Pactlab reads the five years across the columns (FY2021 to FY2025).
+2. Say what each line is: the three lines ending in *revenue* are **Revenue**, the two lines starting *Cost of* are **Cost of revenue**, and the rest are **Operating expenses**.
+3. **Check every row**, then **Import 50 rows**.
+
+**You should see:** the import succeed. **Finances** shows the five years side by side, with occupancy, ADR and RevPAR for the years the operating history covers, and the checks in the next step read every year.
+
+## Step 6 — Run the checks and review the findings
 
 1. Open the **Findings** tab → **Run hotels & hospitality checks**.
-2. **You should see exactly these 5 findings** (running the checks again adds nothing):
+2. **You should see exactly these 12 findings** (running the checks again adds nothing):
 
    1. **Brand PIP required on change of ownership** — `documents/01-franchise-agreement.pdf` page 2, clause 16.4 — PIP estimated at GBP 2,844,000. Price as remediation or escrow.
-   2. **RevPAR trailing the competitive set** — in `str-benchmark.csv` the hotel's RevPAR trails the competitive set by about 7% in October 2025, widening to about 12% by September 2026.
+   2. **RevPAR trailing the competitive set** — in `str-benchmark.csv` the hotel's RevPAR trails the competitive set by about 1% in October 2025, widening to about 5% by September 2026.
    3. **Channel concentration** — BookNest online travel agency (synthetic) is 41.0% of revenue — commission cost and ranking risk.
    4. **Seasonal demand** — July and August room revenue is about twice January's in `operating-history.csv`.
    5. **Management contract termination fee** — `documents/02-management-contract.pdf` page 2, clause 12.2 — three times the prior year's base fee on sale.
+   6. **STR report contradicts the deck: RevPAR index** — the deck claims a RevPAR index of 112; `str-benchmark.csv` gives 96.6 for October 2025 to September 2026 (the hotel’s RevPAR ÷ the competitive set’s).
+   7. **Claim verified: Occupancy** — 65.9% over the twelve months, as `operating-history.csv` shows.
+   8. **The franchise ends 3 years after closing: Meridale Hotels (synthetic)** — `documents/01-franchise-agreement.pdf` and `agreements-register.csv` — MER-2009 ends on 31 December 2029, three years after the 31 December 2026 closing, with liquidated damages of GBP 2,133,000 for leaving early.
+   9. **PIP due within 12 months of closing and unbudgeted: PIP-01** — `pip-schedule.csv` against `capex-budget.csv` — PIP-01 (GBP 1,185,000) is due on 30 June 2027 and no budget line funds it. Hold it back in escrow.
+   10. **Management agreement terms survive a sale: Coastline Hospitality Management (synthetic)** — `documents/02-management-contract.pdf` clause 14.1 — the operator's right of first offer binds any purchaser.
+   11. **Brand fees growing faster than rooms revenue, 2021–2025** — `pnl.csv` — franchise and brand fees rise from 7.5% to 9.9% of rooms revenue. FY2025 alone looks ordinary.
+   12. **P&L trend, 2021–2025** — every imported year side by side: revenue, growth, margins and the rooms, food and beverage, utilities and repairs ratios.
 
 3. Open each finding, read the quoted evidence, then click **Accept**, **Reject** or **Ask for support**. A person decides; Pactlab only drafts.
 
-## Step 6 — Test the price
+## Step 7 — Test the price
 
 1. Open the **Valuation** tab → **New scenario**.
 2. Fill in the valuation method's fields — the hint under each field says where its number comes from (usually the **Finances** tab) — and save.
@@ -192,13 +213,24 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 |---|---|---|
 | `invoice-lines.csv` | 120 revenue lines, one per revenue-channel settlement per month | **Yes** — billing export step |
 | `operating-history.csv` | Monthly operating history from the property-management system (24 rows) | **Yes** — industry data step |
-| `str-benchmark.csv` | STR-style benchmark against the competitive set (12 rows) | **Yes** — industry data step |
-| `documents/01-franchise-agreement.pdf` | Franchise agreement with transfer and PIP clauses | **Yes** — documents step |
+| `str-benchmark.csv` | STR benchmark report against the competitive set, by month (12 rows) | **Yes** — industry data step |
+| `agreements-register.csv` | Agreements register: the franchise and management agreements’ term, fees and early-termination penalty (2 rows) | **Yes** — industry data step |
+| `pip-schedule.csv` | The brand’s property improvement plan: items, estimated cost and due dates (4 rows) | **Yes** — industry data step |
+| `capex-budget.csv` | The owner’s capital expenditure budget, FY2027 and FY2028, each line naming the PIP item it funds (5 rows) | **Yes** — industry data step |
+| `pnl.csv` | Profit and loss by calendar year, FY2021 to FY2025 (10 lines) | **Yes** — P&L step |
+| `documents/01-franchise-agreement.pdf` | Franchise agreement with term, transfer, PIP and termination clauses | **Yes** — documents step |
 | `documents/02-management-contract.pdf` | Third-party management contract | **Yes** — documents step |
+| `documents/03-management-presentation.pdf` | Management presentation: the RevPAR index, occupancy and the closing date | **Yes** — documents step |
 | `documents/99-data-room-extracts.pdf` | Every CSV extract in this folder as one paged PDF, so findings can cite a page | **Yes** — documents step |
 | `bidders.csv` | The three bidding firms for Part B: who to invite, what each asks and offers | **No** — read it while you follow Part B |
 | `documents/*.md` | The text each PDF is built from | **No** — never |
 | `vdr-index.csv` | Index of every file, as a data room would list it | **No** — reference only |
+
+## Notes
+
+- No guest data: every figure is a property aggregate by month.
+- `pnl.csv` holds FY2021–FY2025, read side by side on **Finances**; the operating history holds the last 24 months, so occupancy, ADR and RevPAR history asks the seller for earlier years.
+- Diligence support only: the pack reconciles documents, dates and arithmetic. It never opines on the flag’s worth or the market.
 
 ## Intake test — hand over the whole data room
 
@@ -217,6 +249,7 @@ Use it to check that Pactlab sorts files on its own and asks only when unsure.
 | `02 Finance/Exports/Harbourview invoice lines export Sep26.csv` | Invoice lines |  |
 | `02 Finance/Exports/Harbourview operating history export Sep26.csv` | Operating history |  |
 | `02 Finance/Harbourview FY26 summary.md` | Pactlab asks: income statement or cash flow statement? | Mixes profit and cash flow lines. |
+| `02 Finance/Management presentation.pdf` | Other |  |
 | `02 Finance/Mgmt accounts FY26 - Harbourview.md` | Income statement (P&L) | Revenue matches the invoice lines for Oct 2025 – Sep 2026. |
 | `03 Commercial/Customers/Franchise agreement (signed copy).pdf` | Duplicate — shown once | Same bytes as the agreement above. |
 | `03 Commercial/Customers/Franchise agreement.pdf` | Customer contract |  |
