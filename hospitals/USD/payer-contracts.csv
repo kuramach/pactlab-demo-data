@@ -1,0 +1,5 @@
+contract_id,payer,payer_class,effective_on,expires_on,auto_renews,rate_basis
+GPA-2021,Government programme A (synthetic),medicare,2021-08-01,2027-07-31,no,DRG case rates
+KEY-2022,Commercial plan Keystone (synthetic),commercial,2022-01-01,2029-12-31,no,percent of charges
+GPB-2020,Government programme B (synthetic),medicaid,2020-07-01,2028-06-30,yes,per diem
+RIV-2023,Commercial plan Riverbend (synthetic),commercial,2023-04-01,2028-03-31,no,per diem
