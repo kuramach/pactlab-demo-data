@@ -21,9 +21,9 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
 endobj
 7 0 obj
-<< /Length 3264 >>
+<< /Length 2591 >>
 stream
-BT /F1 11 Tf 72 740 Td 14 TL (census.csv  Admissions and census by service line, January 2021 to September 2026) Tj T* () Tj T* (month | service_line | admissions | patient_days | average_daily_census) Tj T* (2021-01 | Cardiology | 310 | 1271 | 42.4) Tj T* (2021-01 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2021-01 | Maternity | 190 | 456 | 15.2) Tj T* (2021-01 | General medicine | 520 | 1976 | 65.9) Tj T* (2021-02 | Cardiology | 310 | 1271 | 42.4) Tj T* (2021-02 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2021-02 | Maternity | 190 | 456 | 15.2) Tj T* (2021-02 | General medicine | 520 | 1976 | 65.9) Tj T* (2021-03 | Cardiology | 310 | 1271 | 42.4) Tj T* (2021-03 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2021-03 | Maternity | 190 | 456 | 15.2) Tj T* (2021-03 | General medicine | 520 | 1976 | 65.9) Tj T* (2021-04 | Cardiology | 310 | 1271 | 42.4) Tj T* (2021-04 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2021-04 | Maternity | 190 | 456 | 15.2) Tj T* (2021-04 | General medicine | 520 | 1976 | 65.9) Tj T* (2021-05 | Cardiology | 310 | 1271 | 42.4) Tj T* (2021-05 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2021-05 | Maternity | 190 | 456 | 15.2) Tj T* (2021-05 | General medicine | 520 | 1976 | 65.9) Tj T* (2021-06 | Cardiology | 310 | 1271 | 42.4) Tj T* (2021-06 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2021-06 | Maternity | 190 | 456 | 15.2) Tj T* (2021-06 | General medicine | 520 | 1976 | 65.9) Tj T* (2021-07 | Cardiology | 310 | 1271 | 42.4) Tj T* (2021-07 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2021-07 | Maternity | 190 | 456 | 15.2) Tj T* (2021-07 | General medicine | 520 | 1976 | 65.9) Tj T* (2021-08 | Cardiology | 310 | 1271 | 42.4) Tj T* (2021-08 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2021-08 | Maternity | 190 | 456 | 15.2) Tj T* (2021-08 | General medicine | 520 | 1976 | 65.9) Tj T* (2021-09 | Cardiology | 310 | 1271 | 42.4) Tj T* (2021-09 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2021-09 | Maternity | 190 | 456 | 15.2) Tj T* (2021-09 | General medicine | 520 | 1976 | 65.9) Tj T* (2021-10 | Cardiology | 310 | 1271 | 42.4) Tj T* (2021-10 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2021-10 | Maternity | 190 | 456 | 15.2) Tj T* (2021-10 | General medicine | 520 | 1976 | 65.9) Tj T* (2021-11 | Cardiology | 310 | 1271 | 42.4) Tj T* (2021-11 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2021-11 | Maternity | 190 | 456 | 15.2) Tj T* (2021-11 | General medicine | 520 | 1976 | 65.9) Tj T* (2021-12 | Cardiology | 310 | 1271 | 42.4) Tj T* (2021-12 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2021-12 | Maternity | 190 | 456 | 15.2) Tj T* (2021-12 | General medicine | 520 | 1976 | 65.9) Tj T* (2022-01 | Cardiology | 310 | 1271 | 42.4) Tj T* (2022-01 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2022-01 | Maternity | 190 | 456 | 15.2) Tj T* (2022-01 | General medicine | 520 | 1976 | 65.9) Tj T* (2022-02 | Cardiology | 310 | 1271 | 42.4) Tj T* (2022-02 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2022-02 | Maternity | 190 | 456 | 15.2) Tj T* (2022-02 | General medicine | 520 | 1976 | 65.9) Tj T* (2022-03 | Cardiology | 310 | 1271 | 42.4) Tj T* (2022-03 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2022-03 | Maternity | 190 | 456 | 15.2) Tj T* (2022-03 | General medicine | 520 | 1976 | 65.9) Tj T* (& 216 more rows in census.csv) Tj T* ET
+BT /F1 11 Tf 72 740 Td 14 TL (census.csv  Admissions and census by service line) Tj T* () Tj T* (month | service_line | admissions | patient_days | average_daily_census) Tj T* (2025-10 | Cardiology | 310 | 1271 | 42.4) Tj T* (2025-10 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2025-10 | Maternity | 190 | 456 | 15.2) Tj T* (2025-10 | General medicine | 520 | 1976 | 65.9) Tj T* (2025-11 | Cardiology | 310 | 1271 | 42.4) Tj T* (2025-11 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2025-11 | Maternity | 190 | 456 | 15.2) Tj T* (2025-11 | General medicine | 520 | 1976 | 65.9) Tj T* (2025-12 | Cardiology | 310 | 1271 | 42.4) Tj T* (2025-12 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2025-12 | Maternity | 190 | 456 | 15.2) Tj T* (2025-12 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-01 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-01 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-01 | Maternity | 190 | 456 | 15.2) Tj T* (2026-01 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-02 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-02 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-02 | Maternity | 190 | 456 | 15.2) Tj T* (2026-02 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-03 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-03 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-03 | Maternity | 190 | 456 | 15.2) Tj T* (2026-03 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-04 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-04 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-04 | Maternity | 190 | 456 | 15.2) Tj T* (2026-04 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-05 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-05 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-05 | Maternity | 190 | 456 | 15.2) Tj T* (2026-05 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-06 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-06 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-06 | Maternity | 190 | 456 | 15.2) Tj T* (2026-06 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-07 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-07 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-07 | Maternity | 190 | 456 | 15.2) Tj T* (2026-07 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-08 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-08 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-08 | Maternity | 190 | 456 | 15.2) Tj T* (2026-08 | General medicine | 520 | 1976 | 65.9) Tj T* (2026-09 | Cardiology | 310 | 1271 | 42.4) Tj T* (2026-09 | Orthopaedics | 260 | 832 | 27.7) Tj T* (2026-09 | Maternity | 190 | 456 | 15.2) Tj T* (2026-09 | General medicine | 520 | 1976 | 65.9) Tj T* ET
 endstream
 endobj
 8 0 obj
@@ -99,22 +99,22 @@ xref
 0000000365 00000 n 
 0000000648 00000 n 
 0000000774 00000 n 
-0000004090 00000 n 
-0000004216 00000 n 
-0000009223 00000 n 
-0000009351 00000 n 
-0000010396 00000 n 
-0000010524 00000 n 
-0000011372 00000 n 
-0000011500 00000 n 
-0000012310 00000 n 
-0000012438 00000 n 
-0000013205 00000 n 
-0000013333 00000 n 
-0000014368 00000 n 
-0000014496 00000 n 
+0000003417 00000 n 
+0000003543 00000 n 
+0000008550 00000 n 
+0000008678 00000 n 
+0000009723 00000 n 
+0000009851 00000 n 
+0000010699 00000 n 
+0000010827 00000 n 
+0000011637 00000 n 
+0000011765 00000 n 
+0000012532 00000 n 
+0000012660 00000 n 
+0000013695 00000 n 
+0000013823 00000 n 
 trailer
 << /Size 22 /Root 1 0 R >>
 startxref
-19553
+18880
 %%EOF

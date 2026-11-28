@@ -2,70 +2,57 @@ St. Brennan Health Ltd — data-room extracts (synthetic demo data)
 
 Each page reproduces one structured extract from this folder. All names and figures are fictional.
 ---page---
-census.csv — Admissions and census by service line, January 2021 to September 2026
+census.csv — Admissions and census by service line
 
 month | service_line | admissions | patient_days | average_daily_census
-2021-01 | Cardiology | 310 | 1271 | 42.4
-2021-01 | Orthopaedics | 260 | 832 | 27.7
-2021-01 | Maternity | 190 | 456 | 15.2
-2021-01 | General medicine | 520 | 1976 | 65.9
-2021-02 | Cardiology | 310 | 1271 | 42.4
-2021-02 | Orthopaedics | 260 | 832 | 27.7
-2021-02 | Maternity | 190 | 456 | 15.2
-2021-02 | General medicine | 520 | 1976 | 65.9
-2021-03 | Cardiology | 310 | 1271 | 42.4
-2021-03 | Orthopaedics | 260 | 832 | 27.7
-2021-03 | Maternity | 190 | 456 | 15.2
-2021-03 | General medicine | 520 | 1976 | 65.9
-2021-04 | Cardiology | 310 | 1271 | 42.4
-2021-04 | Orthopaedics | 260 | 832 | 27.7
-2021-04 | Maternity | 190 | 456 | 15.2
-2021-04 | General medicine | 520 | 1976 | 65.9
-2021-05 | Cardiology | 310 | 1271 | 42.4
-2021-05 | Orthopaedics | 260 | 832 | 27.7
-2021-05 | Maternity | 190 | 456 | 15.2
-2021-05 | General medicine | 520 | 1976 | 65.9
-2021-06 | Cardiology | 310 | 1271 | 42.4
-2021-06 | Orthopaedics | 260 | 832 | 27.7
-2021-06 | Maternity | 190 | 456 | 15.2
-2021-06 | General medicine | 520 | 1976 | 65.9
-2021-07 | Cardiology | 310 | 1271 | 42.4
-2021-07 | Orthopaedics | 260 | 832 | 27.7
-2021-07 | Maternity | 190 | 456 | 15.2
-2021-07 | General medicine | 520 | 1976 | 65.9
-2021-08 | Cardiology | 310 | 1271 | 42.4
-2021-08 | Orthopaedics | 260 | 832 | 27.7
-2021-08 | Maternity | 190 | 456 | 15.2
-2021-08 | General medicine | 520 | 1976 | 65.9
-2021-09 | Cardiology | 310 | 1271 | 42.4
-2021-09 | Orthopaedics | 260 | 832 | 27.7
-2021-09 | Maternity | 190 | 456 | 15.2
-2021-09 | General medicine | 520 | 1976 | 65.9
-2021-10 | Cardiology | 310 | 1271 | 42.4
-2021-10 | Orthopaedics | 260 | 832 | 27.7
-2021-10 | Maternity | 190 | 456 | 15.2
-2021-10 | General medicine | 520 | 1976 | 65.9
-2021-11 | Cardiology | 310 | 1271 | 42.4
-2021-11 | Orthopaedics | 260 | 832 | 27.7
-2021-11 | Maternity | 190 | 456 | 15.2
-2021-11 | General medicine | 520 | 1976 | 65.9
-2021-12 | Cardiology | 310 | 1271 | 42.4
-2021-12 | Orthopaedics | 260 | 832 | 27.7
-2021-12 | Maternity | 190 | 456 | 15.2
-2021-12 | General medicine | 520 | 1976 | 65.9
-2022-01 | Cardiology | 310 | 1271 | 42.4
-2022-01 | Orthopaedics | 260 | 832 | 27.7
-2022-01 | Maternity | 190 | 456 | 15.2
-2022-01 | General medicine | 520 | 1976 | 65.9
-2022-02 | Cardiology | 310 | 1271 | 42.4
-2022-02 | Orthopaedics | 260 | 832 | 27.7
-2022-02 | Maternity | 190 | 456 | 15.2
-2022-02 | General medicine | 520 | 1976 | 65.9
-2022-03 | Cardiology | 310 | 1271 | 42.4
-2022-03 | Orthopaedics | 260 | 832 | 27.7
-2022-03 | Maternity | 190 | 456 | 15.2
-2022-03 | General medicine | 520 | 1976 | 65.9
-… 216 more rows in census.csv
+2025-10 | Cardiology | 310 | 1271 | 42.4
+2025-10 | Orthopaedics | 260 | 832 | 27.7
+2025-10 | Maternity | 190 | 456 | 15.2
+2025-10 | General medicine | 520 | 1976 | 65.9
+2025-11 | Cardiology | 310 | 1271 | 42.4
+2025-11 | Orthopaedics | 260 | 832 | 27.7
+2025-11 | Maternity | 190 | 456 | 15.2
+2025-11 | General medicine | 520 | 1976 | 65.9
+2025-12 | Cardiology | 310 | 1271 | 42.4
+2025-12 | Orthopaedics | 260 | 832 | 27.7
+2025-12 | Maternity | 190 | 456 | 15.2
+2025-12 | General medicine | 520 | 1976 | 65.9
+2026-01 | Cardiology | 310 | 1271 | 42.4
+2026-01 | Orthopaedics | 260 | 832 | 27.7
+2026-01 | Maternity | 190 | 456 | 15.2
+2026-01 | General medicine | 520 | 1976 | 65.9
+2026-02 | Cardiology | 310 | 1271 | 42.4
+2026-02 | Orthopaedics | 260 | 832 | 27.7
+2026-02 | Maternity | 190 | 456 | 15.2
+2026-02 | General medicine | 520 | 1976 | 65.9
+2026-03 | Cardiology | 310 | 1271 | 42.4
+2026-03 | Orthopaedics | 260 | 832 | 27.7
+2026-03 | Maternity | 190 | 456 | 15.2
+2026-03 | General medicine | 520 | 1976 | 65.9
+2026-04 | Cardiology | 310 | 1271 | 42.4
+2026-04 | Orthopaedics | 260 | 832 | 27.7
+2026-04 | Maternity | 190 | 456 | 15.2
+2026-04 | General medicine | 520 | 1976 | 65.9
+2026-05 | Cardiology | 310 | 1271 | 42.4
+2026-05 | Orthopaedics | 260 | 832 | 27.7
+2026-05 | Maternity | 190 | 456 | 15.2
+2026-05 | General medicine | 520 | 1976 | 65.9
+2026-06 | Cardiology | 310 | 1271 | 42.4
+2026-06 | Orthopaedics | 260 | 832 | 27.7
+2026-06 | Maternity | 190 | 456 | 15.2
+2026-06 | General medicine | 520 | 1976 | 65.9
+2026-07 | Cardiology | 310 | 1271 | 42.4
+2026-07 | Orthopaedics | 260 | 832 | 27.7
+2026-07 | Maternity | 190 | 456 | 15.2
+2026-07 | General medicine | 520 | 1976 | 65.9
+2026-08 | Cardiology | 310 | 1271 | 42.4
+2026-08 | Orthopaedics | 260 | 832 | 27.7
+2026-08 | Maternity | 190 | 456 | 15.2
+2026-08 | General medicine | 520 | 1976 | 65.9
+2026-09 | Cardiology | 310 | 1271 | 42.4
+2026-09 | Orthopaedics | 260 | 832 | 27.7
+2026-09 | Maternity | 190 | 456 | 15.2
+2026-09 | General medicine | 520 | 1976 | 65.9
 ---page---
 payer-mix.csv — Gross charges and net revenue by payer
 

@@ -59,7 +59,7 @@ Open the **Sources** tab and scroll to **Industry data**. Upload these files one
 
 | # | Click | Choose the file | Then | Button should read |
 |---|---|---|---|---|
-| 1 | **Upload census** | `census.csv` | **Upload and map columns** → **Check every row** | **Import 276 rows** |
+| 1 | **Upload census** | `census.csv` | **Upload and map columns** → **Check every row** | **Import 48 rows** |
 | 2 | **Upload payer mix** | `payer-mix.csv` | **Upload and map columns** → **Check every row** | **Import 60 rows** |
 | 3 | **Upload filed cost reports** | `cost-reports.csv` | **Upload and map columns** → **Check every row** | **Import 5 rows** |
 | 4 | **Upload capital expenditure by year** | `hospital-capex.csv` | **Upload and map columns** → **Check every row** | **Import 15 rows** |
@@ -219,7 +219,7 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 | File | What it is | Upload it? |
 |---|---|---|
 | `invoice-lines.csv` | 120 revenue lines, one per payer net-revenue settlement per month | **Yes** — billing export step |
-| `census.csv` | Admissions and census by service line, January 2021 to September 2026 (276 rows) | **Yes** — industry data step |
+| `census.csv` | Admissions and census by service line (48 rows) | **Yes** — industry data step |
 | `payer-mix.csv` | Gross charges and net revenue by payer (60 rows) | **Yes** — industry data step |
 | `pnl.csv` | Profit and loss by fiscal year, FY2021 to FY2025 (8 lines) | **Yes** — P&L step |
 | `cost-reports.csv` | Filed cost reports: beds, bed days, patient days by programme, total costs and net patient revenue by fiscal year (5 rows) | **Yes** — industry data step |
@@ -244,7 +244,7 @@ On **Bidders**, **Offers side by side** sets the two offers next to each other �
 
 - Physician data is aggregate or pseudonymous (PH-01 … PH-16); Pactlab never sends people data to a model.
 - The medical-staff register, roster and payer contract register are the healthcare pack’s own imports, reused as they are; the hospital adds the department of each privilege and each contract’s rate basis.
-- `census.csv` runs January 2021 to September 2026, so each of 2021–2025 is a complete year (five years of history on **Finances**).
+- `pnl.csv`, `cost-reports.csv` and `hospital-capex.csv` hold FY2021–FY2025, read side by side on **Finances**; the census holds the last twelve months, so admissions history asks the seller for earlier years.
 - Diligence support only: the pack reconciles documents, dates and arithmetic. It never predicts a survey outcome or assesses the quality of care.
 
 ## Intake test — hand over the whole data room

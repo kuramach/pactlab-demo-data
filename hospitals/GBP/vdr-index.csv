@@ -1,6 +1,6 @@
 doc_id,title,file,data_class,as_of
 H-001,"Invoice lines, Oct 2024 – Sep 2026",invoice-lines.csv,Financial,2026-09-30
-H-002,"Admissions and census by service line, January 2021 to September 2026",census.csv,Financial,2026-09-30
+H-002,Admissions and census by service line,census.csv,Financial,2026-09-30
 H-003,Gross charges and net revenue by payer,payer-mix.csv,Financial,2026-09-30
 H-004,"Profit and loss by fiscal year, FY2021 to FY2025",pnl.csv,Financial,2026-09-30
 H-005,"Filed cost reports: beds, bed days, patient days by programme, total costs and net patient revenue by fiscal year",cost-reports.csv,Financial,2026-09-30
