@@ -3,7 +3,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R] /Count 3 >>
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 7 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -30,25 +30,69 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
 endobj
 9 0 obj
-<< /Length 778 >>
+<< /Length 789 >>
 stream
-BT /F1 11 Tf 72 740 Td 14 TL (str-benchmark.csv  STR-style benchmark against the competitive set) Tj T* () Tj T* (month | occupancy | adr | revpar | comp_set_revpar) Tj T* (2025-10 | 0.646 | 173.08 | 111.80 | 119.62) Tj T* (2025-11 | 0.544 | 170.52 | 92.74 | 99.83) Tj T* (2025-12 | 0.530 | 170.18 | 90.26 | 97.74) Tj T* (2026-01 | 0.490 | 169.16 | 82.79 | 90.19) Tj T* (2026-02 | 0.517 | 169.84 | 87.75 | 96.17) Tj T* (2026-03 | 0.571 | 171.20 | 97.78 | 107.80) Tj T* (2026-04 | 0.612 | 172.23 | 105.38 | 116.87) Tj T* (2026-05 | 0.680 | 173.93 | 118.27 | 131.96) Tj T* (2026-06 | 0.802 | 177.00 | 141.99 | 159.38) Tj T* (2026-07 | 0.898 | 179.39 | 161.02 | 181.82) Tj T* (2026-08 | 0.884 | 179.05 | 158.26 | 179.77) Tj T* (2026-09 | 0.734 | 175.29 | 128.71 | 147.09) Tj T* ET
+BT /F1 11 Tf 72 740 Td 14 TL (str-benchmark.csv  STR benchmark report against the competitive set, by month) Tj T* () Tj T* (month | occupancy | adr | revpar | comp_set_revpar) Tj T* (2025-10 | 0.646 | 173.08 | 111.80 | 112.92) Tj T* (2025-11 | 0.544 | 170.52 | 92.74 | 94.04) Tj T* (2025-12 | 0.530 | 170.18 | 90.26 | 91.89) Tj T* (2026-01 | 0.490 | 169.16 | 82.79 | 84.63) Tj T* (2026-02 | 0.517 | 169.84 | 87.75 | 90.05) Tj T* (2026-03 | 0.571 | 171.20 | 97.78 | 100.75) Tj T* (2026-04 | 0.612 | 172.23 | 105.38 | 109.01) Tj T* (2026-05 | 0.680 | 173.93 | 118.27 | 122.84) Tj T* (2026-06 | 0.802 | 177.00 | 141.99 | 148.06) Tj T* (2026-07 | 0.898 | 179.39 | 161.02 | 168.58) Tj T* (2026-08 | 0.884 | 179.05 | 158.26 | 166.35) Tj T* (2026-09 | 0.734 | 175.29 | 128.71 | 135.83) Tj T* ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 563 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (agreements-register.csv  Agreements register: the franchise and management agreements) Tj T* (term, fees and early-termination penalty) Tj T* () Tj T* (agreement_id | kind | counterparty | effective_on | expires_on | fee_rate | other_fee_rate |) Tj T* (termination_fee) Tj T* (MER-2009 | franchise | Meridale Hotels \(synthetic\) | 2009-12-01 | 2029-12-31 | 0.055 | 0.044) Tj T* (| 2700000.00) Tj T* (CHM-2019 | management | Coastline Hospitality Management \(synthetic\) | 2019-01-01 |) Tj T* (2034-12-31 | 0.03 | 0.10 |) Tj T* ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 662 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (pip-schedule.csv  The brands property improvement plan: items, estimated cost and due) Tj T* (dates) Tj T* () Tj T* (item_id | area | description | estimated_cost | due_on) Tj T* (PIP-01 | Guestrooms | Replace guestroom soft goods and casegoods to the current brand) Tj T* (standard | 1500000.00 | 2027-06-30) Tj T* (PIP-02 | Public areas | Renovate the lobby, bar and meeting rooms | 900000.00 | 2027-09-30) Tj T* (PIP-03 | Exterior | Replace exterior signage and the porte-cochère canopy | 400000.00 |) Tj T* (2028-06-30) Tj T* (PIP-04 | Guestrooms | Refit guest bathrooms with walk-in showers | 800000.00 | 2028-12-31) Tj T* ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 15 0 R >>
+endobj
+15 0 obj
+<< /Length 508 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (capex-budget.csv  The owners capital expenditure budget, FY2027 and FY2028, each line) Tj T* (naming the PIP item it funds) Tj T* () Tj T* (fiscal_year | line | pip_ref | amount) Tj T* (2027 | Lobby, bar and meeting room renovation | PIP-02 | 900000.00) Tj T* (2027 | Roof membrane replacement | | 350000.00) Tj T* (2027 | Kitchen equipment | | 180000.00) Tj T* (2028 | Exterior signage and canopy | PIP-03 | 400000.00) Tj T* (2028 | Lift modernisation | | 260000.00) Tj T* ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 17 0 R >>
+endobj
+17 0 obj
+<< /Length 1090 >>
+stream
+BT /F1 11 Tf 72 740 Td 14 TL (pnl.csv  Profit and loss by calendar year, FY2021 to FY2025) Tj T* () Tj T* (Line | FY2021 | FY2022 | FY2023 | FY2024 | FY2025) Tj T* (Rooms revenue | 6923228.73 | 7027077.15 | 7132483.32 | 7239470.56 | 7348062.61) Tj T* (Food and beverage revenue | 1315413.45 | 1335144.66 | 1355171.85 | 1375499.40 | 1396131.89) Tj T* (Other operating revenue | 346161.44 | 351353.86 | 356624.17 | 361973.53 | 367403.13) Tj T* (Cost of rooms department | 1661574.90 | 1686498.52 | 1711796.00 | 1737472.93 | 1763535.03) Tj T* (Cost of food and beverage | 920789.42 | 934601.26 | 948620.30 | 962849.58 | 977292.32) Tj T* (Franchise and brand fees | 519242.15 | 562166.17 | 613393.57 | 666031.29 | 727458.20) Tj T* (Management fees | 257544.11 | 261407.27 | 265328.38 | 269308.30 | 273347.93) Tj T* (Utilities and energy | 386316.16 | 392110.91 | 397992.57 | 403962.46 | 410021.89) Tj T* (Repairs and maintenance | 343392.14 | 348543.03 | 353771.17 | 359077.74 | 364463.91) Tj T* (General and administrative | 772632.33 | 784221.81 | 795985.14 | 807924.91 | 820043.79) Tj T* ET
 endstream
 endobj
 xref
-0 10
+0 18
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000127 00000 n 
-0000000197 00000 n 
-0000000323 00000 n 
-0000000614 00000 n 
-0000000740 00000 n 
-0000003044 00000 n 
-0000003170 00000 n 
+0000000155 00000 n 
+0000000225 00000 n 
+0000000351 00000 n 
+0000000642 00000 n 
+0000000768 00000 n 
+0000003072 00000 n 
+0000003198 00000 n 
+0000004038 00000 n 
+0000004166 00000 n 
+0000004781 00000 n 
+0000004909 00000 n 
+0000005623 00000 n 
+0000005751 00000 n 
+0000006311 00000 n 
+0000006439 00000 n 
 trailer
-<< /Size 10 /Root 1 0 R >>
+<< /Size 18 /Root 1 0 R >>
 startxref
-3999
+7582
 %%EOF

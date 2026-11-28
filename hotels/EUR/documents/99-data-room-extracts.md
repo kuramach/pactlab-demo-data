@@ -30,18 +30,55 @@ month | rooms_available | rooms_sold | adr | revpar | room_revenue | fb_revenue 
 2026-08 | 5400 | 4773 | 164.72 | 145.60 | 786219.63 | 149381.73 | 267314.67
 2026-09 | 5400 | 3965 | 161.27 | 118.41 | 639439.50 | 121493.51 | 217409.43
 ---page---
-str-benchmark.csv — STR-style benchmark against the competitive set
+str-benchmark.csv — STR benchmark report against the competitive set, by month
 
 month | occupancy | adr | revpar | comp_set_revpar
-2025-10 | 0.646 | 159.23 | 102.85 | 110.05
-2025-11 | 0.544 | 156.88 | 85.32 | 91.84
-2025-12 | 0.530 | 156.56 | 83.04 | 89.92
-2026-01 | 0.490 | 155.62 | 76.17 | 82.98
-2026-02 | 0.517 | 156.25 | 80.73 | 88.47
-2026-03 | 0.571 | 157.51 | 89.95 | 99.17
-2026-04 | 0.612 | 158.45 | 96.95 | 107.52
-2026-05 | 0.680 | 160.02 | 108.81 | 121.41
-2026-06 | 0.802 | 162.84 | 130.63 | 146.63
-2026-07 | 0.898 | 165.04 | 148.14 | 167.27
-2026-08 | 0.884 | 164.72 | 145.60 | 165.39
-2026-09 | 0.734 | 161.27 | 118.41 | 135.32
+2025-10 | 0.646 | 159.23 | 102.85 | 103.88
+2025-11 | 0.544 | 156.88 | 85.32 | 86.52
+2025-12 | 0.530 | 156.56 | 83.04 | 84.54
+2026-01 | 0.490 | 155.62 | 76.17 | 77.86
+2026-02 | 0.517 | 156.25 | 80.73 | 82.85
+2026-03 | 0.571 | 157.51 | 89.95 | 92.68
+2026-04 | 0.612 | 158.45 | 96.95 | 100.29
+2026-05 | 0.680 | 160.02 | 108.81 | 113.01
+2026-06 | 0.802 | 162.84 | 130.63 | 136.22
+2026-07 | 0.898 | 165.04 | 148.14 | 155.09
+2026-08 | 0.884 | 164.72 | 145.60 | 153.05
+2026-09 | 0.734 | 161.27 | 118.41 | 124.96
+---page---
+agreements-register.csv — Agreements register: the franchise and management agreements’ term, fees and early-termination penalty
+
+agreement_id | kind | counterparty | effective_on | expires_on | fee_rate | other_fee_rate | termination_fee
+MER-2009 | franchise | Meridale Hotels (synthetic) | 2009-12-01 | 2029-12-31 | 0.055 | 0.044 | 2484000.00
+CHM-2019 | management | Coastline Hospitality Management (synthetic) | 2019-01-01 | 2034-12-31 | 0.03 | 0.10 | 
+---page---
+pip-schedule.csv — The brand’s property improvement plan: items, estimated cost and due dates
+
+item_id | area | description | estimated_cost | due_on
+PIP-01 | Guestrooms | Replace guestroom soft goods and casegoods to the current brand standard | 1380000.00 | 2027-06-30
+PIP-02 | Public areas | Renovate the lobby, bar and meeting rooms | 828000.00 | 2027-09-30
+PIP-03 | Exterior | Replace exterior signage and the porte-cochère canopy | 368000.00 | 2028-06-30
+PIP-04 | Guestrooms | Refit guest bathrooms with walk-in showers | 736000.00 | 2028-12-31
+---page---
+capex-budget.csv — The owner’s capital expenditure budget, FY2027 and FY2028, each line naming the PIP item it funds
+
+fiscal_year | line | pip_ref | amount
+2027 | Lobby, bar and meeting room renovation | PIP-02 | 828000.00
+2027 | Roof membrane replacement |  | 322000.00
+2027 | Kitchen equipment |  | 165600.00
+2028 | Exterior signage and canopy | PIP-03 | 368000.00
+2028 | Lift modernisation |  | 239200.00
+---page---
+pnl.csv — Profit and loss by calendar year, FY2021 to FY2025
+
+Line | FY2021 | FY2022 | FY2023 | FY2024 | FY2025
+Rooms revenue | 6369370.40 | 6464910.96 | 6561884.62 | 6660312.89 | 6760217.59
+Food and beverage revenue | 1210180.39 | 1228333.08 | 1246758.08 | 1265459.45 | 1284441.34
+Other operating revenue | 318468.52 | 323245.55 | 328094.23 | 333015.64 | 338010.88
+Cost of rooms department | 1528648.90 | 1551578.63 | 1574852.31 | 1598475.09 | 1622452.22
+Cost of food and beverage | 847126.27 | 859833.16 | 872730.66 | 885821.62 | 899108.94
+Franchise and brand fees | 477702.78 | 517192.88 | 564322.08 | 612748.79 | 669261.54
+Management fees | 236940.58 | 240494.69 | 244102.11 | 247763.64 | 251480.09
+Utilities and energy | 355410.87 | 360742.03 | 366153.16 | 371645.46 | 377220.14
+Repairs and maintenance | 315920.77 | 320659.58 | 325469.48 | 330351.52 | 335306.79
+General and administrative | 710821.74 | 721484.06 | 732306.32 | 743290.92 | 754440.28
